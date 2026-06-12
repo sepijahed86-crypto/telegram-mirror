@@ -1524,6 +1524,21 @@
     ],
     "MediaMardom": [
       {
+        "id": 8454,
+        "text": "تمرین لیسا برای اجرای امشب افتتاحیه\n❤️\n🔥\n@TrollSporte | Alvin",
+        "date": "2026-06-12T20:13:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_8454_0_6b6dcf48.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/8454"
+      },
+      {
         "id": 8453,
         "text": "🔴\nعراقچی: شورای عالی امنیت ملی اشراف کامل بر مذاکرات دارد، بارها موضوع در جلسات مورد بررسی قرار گرفته است\n🔴\nکمیته‌ای شامل تعدادی از اعضای شورای عالی امنیت ملی بر مذاکرات نظارت می‌کنند و هر جا لازم باشد به شورای عالی امنیت ملی گزارش می‌دهند\n🔴\nموافقین و مخالفینی در میان اعضای شورای عالی امنیت ملی نسبت به متن هست اما نهایتاً به صورت جمعی تصمیم‌گیری خواهد شد و پس از تصمیم‌گیری ابلاغ می‌شود\n❤️\n•\n@MediaMardom",
         "date": "2026-06-12T19:50:42+00:00",
@@ -3129,21 +3144,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/MediaMardom/8353"
-      },
-      {
-        "id": 8351,
-        "text": "🔴\nدر حالیکه وسط جنگیم و هر لحظه ممکنه درگیری ها شدت پیدا کنه؛ یه کلیپ از افتتاحیه‌ یه کافه تازه تاسیس شده خبر اول کشور.\nو روزنامه همشهری خواستار برخورد قضایی شده\n❤️\n•\n@MediaMardom",
-        "date": "2026-06-11T10:04:46+00:00",
-        "media": [
-          {
-            "type": "video",
-            "file": "MediaMardom_8351_2_d4ee1033.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/8351"
       }
     ],
     "whitedns": [
@@ -10583,6 +10583,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 48066,
+        "text": "Server:\nUnknown\nPort:\n8\n8\nSecret:\nee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d\n@ProxyMTProto",
+        "date": "2026-06-12T20:13:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_48066_0_a60b6ae5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/48066"
+      },
+      {
         "id": 48065,
         "text": "Server:\ndesk.proxytg.live\nPort:\n443\nSecret:\nee7930091e4348bb260a09c61562aa661a6465736b2e70726f787974672e6c697665\n@ProxyMTProto",
         "date": "2026-06-12T19:30:00+00:00",
@@ -11881,16 +11896,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/47967"
-      },
-      {
-        "id": 47966,
-        "text": "Server:\ns01.neo-trading.org\nPort:\n443\nSecret:\nee7391242569590e01416101927d38b565646e732d73686f702e7275\n@ProxyMTProto",
-        "date": "2026-06-09T08:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/47966"
       }
     ],
     "XpnTeam": [
@@ -23968,22 +23973,22 @@
       }
     ]
   },
-  "last_update": "2026-06-12T20:08:19.936035+00:00",
+  "last_update": "2026-06-12T20:15:43.042448+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1511,
-    "total_media": 1555,
-    "total_files": 1555,
+    "total_media": 1556,
+    "total_files": 1556,
     "total_links": 280,
     "files_by_type": {
-      "image": 1401,
-      "video": 130,
+      "image": 1403,
+      "video": 129,
       "document": 12,
       "audio": 12
     },
-    "referenced_files": 1555,
-    "existing_media_files": 1555,
-    "total_size_mb": 499.45,
-    "last_calculation": "2026-06-12T20:08:19.955330+00:00"
+    "referenced_files": 1556,
+    "existing_media_files": 1556,
+    "total_size_mb": 487.53,
+    "last_calculation": "2026-06-12T20:15:43.057387+00:00"
   }
 }
