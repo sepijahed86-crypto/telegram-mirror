@@ -5120,6 +5120,36 @@
     ],
     "withyashar": [
       {
+        "id": 15080,
+        "text": "یاشار اخبار خیلی دارن میگن که شکاف به شدت زیاد شده بین بی بی و ترامپ\nبه نظرت زرگریه یا واقعا ترامپ پشت اسرائیل رو خالی کرده ؟",
+        "date": "2026-06-16T16:59:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_15080_0_1a87dc8f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/15080"
+      },
+      {
+        "id": 15079,
+        "text": "شبکه ۱۲ اسرائیلی به نقل از یک منبع امنیتی:\nکاهش محسوس در عملیات‌های ارتش اسرائیل در لبنان\n@withyashar",
+        "date": "2026-06-16T16:48:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_15079_0_1a87dc8f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/15079"
+      },
+      {
         "id": 15078,
         "text": "دلار ۱۵۲،۹۰۰\n@withyashar",
         "date": "2026-06-16T16:46:02+00:00",
@@ -6792,36 +6822,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/14961"
-      },
-      {
-        "id": 14960,
-        "text": "مقام ارشد کاخ سفید به آکسیوس:\nهیچ دارایی مسدود شده ایران پس از امضای یادداشت تفاهم نامه در روز جمعه میان ایران و آمریکا آزاد نخواهد شد، همچنین هیچ کاهش تحریمی نیز برای ایران اعمال نخواهد شد.\n@withyashar",
-        "date": "2026-06-15T12:38:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_14960_0_7df1f823.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/14960"
-      },
-      {
-        "id": 14959,
-        "text": "ونس درباره توافق: جزئیات زیادی هنوز برای حل شدن باقی مانده است!\nانتظار می‌رود طیف کاملی از نمایندگان ایران در مراسم امضای روز جمعه حضور داشته باشند\n@withyashar",
-        "date": "2026-06-15T12:36:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_14959_0_7df1f823.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/14959"
       }
     ],
     "vahidonline": [
@@ -8904,6 +8904,50 @@
     ],
     "IranintlTV": [
       {
+        "id": 342735,
+        "text": "نفتالی بنت، نامزد جانشینی بنیامین نتانیاهو، در گفت‌وگو با ایران‌اینترنشنال گفت: به ملت شریف ایران می‌گویم که امیدتان را از دست ندهید، جمهوری اسلامی رژیم فاسدی است که سقوط خواهد کرد. نوبت بعد که مردم ایران قیام کنند ما ابزارهای لازم را در اختیارشان قرار می‌دهیم.\n@iranintltv",
+        "date": "2026-06-16T16:54:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_342735_0_69dcdea5.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_342735_1_81c90c4c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/342735"
+      },
+      {
+        "id": 342734,
+        "text": "مایک هاکبی، سفیر آمریکا در اسرائیل، در شبکه ایکس نوشت حزب‌الله بخشی از توافق میان آمریکا و جمهوری اسلامی نیست.\nهاکبی افزود وزیر خارجه آمریکا «به‌روشنی» اعلام کرده است که این دو موضوع به یکدیگر ارتباطی ندارند و اسرائیل برای دفاع از خود به اجازه ایران نیاز ندارد. زنجیره تروریسم باید پایان یابد.\nhttps://iranintl.com/202606162123",
+        "date": "2026-06-16T16:48:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_342734_0_69dcdea5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_342734_1_491f58a8.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202606162123",
+            "type": "external",
+            "display_text": "https://iranintl.com/202606162123"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/342734"
+      },
+      {
         "id": 342733,
         "text": "تیتراول با نیوشا صارمی، سه‌شنبه ۲۶ خرداد\n@iranintltv",
         "date": "2026-06-16T16:37:27+00:00",
@@ -10244,32 +10288,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/342585"
-      },
-      {
-        "id": 342584,
-        "text": "ویدیوهای منتشرشده در حساب کاربری «وحید آنلاین»، آتش‌سوزی در شهرک امید تهران را در شامگاه دوشنبه ۲۵ خرداد نشان می‌دهد.\nتا زمان انتشار این ویدیوها، جزییاتی درباره علت این آتش‌سوزی و خسارت‌های احتمالی آن منتشر نشده است.",
-        "date": "2026-06-15T20:52:36+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/342584"
-      },
-      {
-        "id": 342583,
-        "text": "اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، با تاکید بر اینکه «حماس به‌زودی بازسازی می‌شود»، گفت: «اجزای جبهه مقاومت در جنگ پیش‌قدم مبارزه بودند و در سخت‌ترین شرایط مقابل دشمن آمریکایی - اسرائیلی ایستادگی می‌کنند.»\nاو افزود: کسی نمی‌تواند مقابل حزب‌الله لبنان ایستادگی کند و هر آنچه از حزب‌الله لبنان دیده‌اید، تنها نوک کوه یخ است.\nقاآنی اضافه کرد باب‌المندب یکی از برگ‌های برنده «جبهه مقاومت» است و اگر لازم باشد برگ‌های دیگری هم رو می‌شود.\nhttps://iranintl.com/202606156609",
-        "date": "2026-06-15T20:22:12+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202606156609",
-            "type": "external",
-            "display_text": "https://iranintl.com/202606156609"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/342583"
       }
     ],
     "ProxyMTProto": [
@@ -19318,6 +19336,21 @@
     ],
     "crgaming7": [
       {
+        "id": 5507,
+        "text": "خـــبـــــر خـــــــوب\n😍\n3 تا DNS جدید برای پابجی و کالاف\n😇\n❤\nحل مشکل ورود به پابجی\n😇\n🥰\nویدیو در حال آپلوده.......\nکاملا جدید....\n✅\nتهرانی ها:\n😎\nترک ها:\n♥\nکورد ها:\n🤩\nلر ها:\n🥰\nبلوچ ها:\n🔥\nشیرازی ها :\n🏆\nبندری ها :\n😇\nمشهدی ها :\n💋\nشمالی ها :\n😍\nقزوینی ها :\n👍\nجنوبی ها :\n💯\nاصفهانی ها :\n😘\nکرجی ها :\n⚡\nسی آر فن ها:\n🙏\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨",
+        "date": "2026-06-16T16:55:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "crgaming7_5507_0_a608b871.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/crgaming7/5507"
+      },
+      {
         "id": 5506,
         "text": "وایرگاد برای پابجی و کالاف موجود شد\n✅\n🔥\nبرای خرید به ادمین پیام بدید.\n👇\n👇\n@crgaming5",
         "date": "2026-06-15T12:41:14+00:00",
@@ -20786,22 +20819,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/crgaming7/5391"
-      },
-      {
-        "id": 5390,
-        "text": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%91%88%20crgaming7%40\nکانفیگ ویتوری 6\n✅\nخوب بود ری اکشن بزنید\n❤\n😊\nhttps://t.me/crgaming7\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨",
-        "date": "2026-05-29T08:19:41+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://t.me/crgaming7",
-            "type": "telegram",
-            "display_text": "https://t.me/crgaming7"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/crgaming7/5390"
       }
     ],
     "iranstop": [
@@ -23959,22 +23976,22 @@
       }
     ]
   },
-  "last_update": "2026-06-16T16:47:49.761615+00:00",
+  "last_update": "2026-06-16T17:00:00.125191+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1519,
-    "total_media": 1559,
-    "total_files": 1559,
-    "total_links": 264,
+    "total_media": 1564,
+    "total_files": 1564,
+    "total_links": 263,
     "files_by_type": {
-      "image": 1393,
-      "video": 133,
+      "image": 1397,
+      "video": 134,
       "document": 12,
       "audio": 21
     },
-    "referenced_files": 1559,
-    "existing_media_files": 1559,
-    "total_size_mb": 497.15,
-    "last_calculation": "2026-06-16T16:47:49.780667+00:00"
+    "referenced_files": 1564,
+    "existing_media_files": 1564,
+    "total_size_mb": 499.3,
+    "last_calculation": "2026-06-16T17:00:00.144689+00:00"
   }
 }
