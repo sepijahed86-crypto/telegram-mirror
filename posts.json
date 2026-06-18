@@ -4880,6 +4880,21 @@
     ],
     "withyashar": [
       {
+        "id": 15215,
+        "text": "آکسیوس: رسانه‌های نزدیک به نتانیاهو به دلیل توافق با ایران، حمله به دولت ترامپ را آغاز کردند\nمجری شبکه ۱۴ اسرائیل: ویتکاف و کوشنر یهودستیز هستند و اسرائیل را فروخته‌اند\n@withyashar",
+        "date": "2026-06-18T07:01:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_15215_0_a7143399.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/15215"
+      },
+      {
         "id": 15214,
         "text": "امضای مضحک پزشکیان که مانند یک شکلک کارتونی با دماغ بزرگ و دست دراز شده برای گدایی است.\n@withyashar",
         "date": "2026-06-18T06:48:12+00:00",
@@ -6499,25 +6514,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/15114"
-      },
-      {
-        "id": 15113,
-        "text": "ونس : اگه دونالد ترامپ حتی به عنوان رهبر معظم انقلاب در ایران هم انتخاب می‌شد، دموکرات‌ها باز هم می‌گفتن آمریکا شکست خورده\n@withyashar",
-        "date": "2026-06-16T21:27:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_15113_0_1a87dc8f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "withyashar_15113_1_aaa7799d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/15113"
       }
     ],
     "vahidonline": [
@@ -10169,6 +10165,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 48227,
+        "text": "Server:\nUnknown\nPort:\n25565\nSecret:\nee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
+        "date": "2026-06-18T07:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_48227_0_8253c714.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/48227"
+      },
+      {
         "id": 48226,
         "text": "Server:\nfeed.proxyvpn.ink\nPort:\n443\nSecret:\nddf9cbb3978cf95814666a7760fec37f90\n@ProxyMTProto",
         "date": "2026-06-18T06:30:00+00:00",
@@ -11382,16 +11393,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/48128"
-      },
-      {
-        "id": 48127,
-        "text": "Server:\nEhsgh.kon.khoshgele.ir.biobarmesh.info.\nPort:\n88\nSecret:\nee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d\n@ProxyMTProto",
-        "date": "2026-06-15T05:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/48127"
       }
     ],
     "XpnTeam": [
@@ -23328,7 +23329,7 @@
       }
     ]
   },
-  "last_update": "2026-06-18T06:59:43.873355+00:00",
+  "last_update": "2026-06-18T07:03:53.545984+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1520,
@@ -23336,14 +23337,14 @@
     "total_files": 1406,
     "total_links": 279,
     "files_by_type": {
-      "image": 1236,
-      "video": 149,
+      "image": 1237,
+      "video": 148,
       "document": 12,
       "audio": 9
     },
     "referenced_files": 1406,
     "existing_media_files": 1406,
-    "total_size_mb": 492.86,
-    "last_calculation": "2026-06-18T06:59:43.891221+00:00"
+    "total_size_mb": 488.53,
+    "last_calculation": "2026-06-18T07:03:53.583679+00:00"
   }
 }
