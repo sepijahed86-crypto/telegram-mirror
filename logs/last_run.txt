@@ -1,7 +1,7 @@
-Last run: 2026-06-17 23:03:20 UTC
-Workflow: 27725190776
+Last run: 2026-06-18 02:03:37 UTC
+Workflow: 27731778578
 Repository: sepijahed86-crypto/telegram-mirror
 Validation: success
 Mirror success: true
-Media files: 1416
-Media size: 502M
+Media files: 1381
+Media size: 501M
