@@ -4611,6 +4611,21 @@
     ],
     "withyashar": [
       {
+        "id": 15708,
+        "text": "وقوع تیراندازی درپایتخت ترکیه،آنکارا\nرسانه‌ها از وقوع حادثه تیراندازی در آنکارا خبر می‌دهند.\n@withyashar",
+        "date": "2026-06-24T09:25:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_15708_0_b47b3a35.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/15708"
+      },
+      {
         "id": 15707,
         "text": "اختلال بانک‌های کشور برطرف شد\nبا اعلام شرکت خدمات انفورماتیک، اختلال خدمات کارت محور بانک‌های کشور برطرف شد.\n@withyashar",
         "date": "2026-06-24T09:21:17+00:00",
@@ -6236,21 +6251,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/15607"
-      },
-      {
-        "id": 15606,
-        "text": "جی دی ونس: معامله نهایی، خانه است. ما فونداسیون را بنا نهادیم. ما خانه را نساخته‌ایم، اما فونداسیون موفقی بنا نهادیم. @withyashar",
-        "date": "2026-06-22T11:47:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_15606_0_517168f2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/15606"
       }
     ],
     "vahidonline": [
@@ -9803,6 +9803,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 344102,
+        "text": "با وجود اعلام شرکت خدمات انفورماتیک مبنی بر بازگشت خدمات بانکی به حالت عادی، گزارش‌های میدانی و پیام‌های ارسالی به ایران‌اینترنشنال از ادامه اختلال در بخشی از خدمات غیرحضوری بانک‌ها حکایت دارد. کاربران از مشکلاتی در خرید اینترنتی، کارت‌به‌کارت و دسترسی به برخی خدمات بانکی خبر می‌دهند.\nجزییات بیشتر در گفت‌وگو با لیلا سعادتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-06-24T09:33:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_344102_0_88a462d2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_344102_1_3e106988.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/344102"
+      },
+      {
         "id": 344101,
         "text": "عبدالحسین روح‌الامینی، نماینده تهران در مجلس، به باشگاه خبرنگاران جوان گفت: «متن تفاهم‌نامه میان جمهوری اسلامی و آمریکا، ۲۵ بار بین مجتبی خامنه‌ای و تیم مذاکره‌کننده رفت‌و‌برگشت داشته است.»\nاو افزود به دلیل محرمانگی در بخشی از متن تفاهم‌نامه، هر فرد بخشی از این اطلاعات را در اختیار داشته و متن در هر بار رفت‌و‌برگشت میان تیم مذاکره‌کننده که به موضوعات اشراف داشته‌اند، در حال تحول بوده است.\niranintl.com/202606243368",
         "date": "2026-06-24T09:07:23+00:00",
@@ -10663,16 +10682,7 @@
         "id": 344040,
         "text": "افشین از شیراز: ترامپ اولویت اولش مردم خودش است؛ اما ما عادت نداریم به این چیزها\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/yJDjsGLsQZ4\n@iranintltv",
         "date": "2026-06-23T22:36:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_344040_0_2d34de11.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_344040_1_d80fb200.mp4"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://youtu.be/yJDjsGLsQZ4",
@@ -10680,7 +10690,7 @@
             "display_text": "https://youtu.be/yJDjsGLsQZ4"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/344040"
       },
@@ -11413,19 +11423,24 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/343941"
-      },
-      {
-        "id": 343940,
-        "text": "ساعاتی پس از افشای توافق تهران و واشینگتن بر سر معامله گندم و ذرت در ازای پول‌های بلوکه‌شده، دونالد ترامپ، رییس‌جمهوری آمریکا، گفت جمهوری اسلامی با بازرسی هسته‌ای نامحدود موافقت کرده است. این دو تحول، همراه با عقب‌نشینی از دریافت عوارض در تنگه هرمز، عبور از خواسته‌های دو خامنه‌ای است.\nگزارشی از مجتبا پورمحسن\n@iranintltv",
-        "date": "2026-06-23T15:23:38+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/343940"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 48429,
+        "text": "Server:\nad1.arixo.shop\nPort:\n443\nSecret:\neee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70\n@ProxyMTProto",
+        "date": "2026-06-24T09:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_48429_0_1327eb03.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/48429"
+      },
       {
         "id": 48428,
         "text": "Server:\nUnknown\nPort:\n443\nSecret:\neef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
@@ -12760,19 +12775,39 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/48330"
-      },
-      {
-        "id": 48329,
-        "text": "Server:\npersian.gulf.ir.olsjddhf.info.\nPort:\n88\nSecret:\nee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
-        "date": "2026-06-21T09:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/48329"
       }
     ],
     "XpnTeam": [
+      {
+        "id": 7821,
+        "text": "@XpnTeam-23.npvt",
+        "date": "2026-06-24T09:28:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "XpnTeam_7821_0_ecf78990.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/XpnTeam/7821"
+      },
+      {
+        "id": 7820,
+        "text": "🔐\nTraffic\n: UN/\nLimited\n♾\nTime : nA\n⏰\n⚠️\nLocation :\n🌐\nApp\n⬇️\n:\nNapesterNet\n❓\n|- آموزش :\nفایل رو دانلود کنید و روش ضربه بزنید ، برنامه نپستر رو انتخاب و سپس وارد اپلیکیشن شید انتخاب کنید سرورو،بعدشم‌روشن‌کنید..\n🤩\n›\n@XpnTeam",
+        "date": "2026-06-24T09:28:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "XpnTeam_7820_0_ecf78990.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/XpnTeam/7820"
+      },
       {
         "id": 7819,
         "text": "چهل روز گذشت، چهل روزِ سنگین، چهل روزی که شهر هر صبح با نفس حبس‌شده بیدار شد؛ چهل روز از وقتی که خیابان‌ها صدا کم آوردند، از وقتی که فریادها ناتمام ماند و سکوت، مثل غبار، روی همه‌چیز نشست! بعضی اسم‌ها دیگر اسم نیستند، زخم‌اند؛ یادند؛ بغض‌هایی که شب‌ها بی‌اجازه…",
@@ -13882,26 +13917,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/XpnTeam/7702"
-      },
-      {
-        "id": 7701,
-        "text": "vless://93f6c3ed-623f-4d8a-9ade-3f8fa55ce8e4@136.244.95.161:13918?encryption=none&fp=chrome&pbk=_fko8uAjj5dF4AZ1vcGIjCa-90CDrBHhjMNGLjpH6Ts&security=reality&sid=b956b96d72&sni=refersion.com&spx=%2FNQAlFqm7Gf3lzr2&type=tcp#XpnTeam",
-        "date": "2026-05-27T18:17:23+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/XpnTeam/7701"
-      },
-      {
-        "id": 7700,
-        "text": "vless://93f6c3ed-623f-4d8a-9ade-3f8fa55ce8e4@136.244.95.161:13918?encryption=none&fp=chrome&pbk=_fko8uAjj5dF4AZ1vcGIjCa-90CDrBHhjMNGLjpH6Ts&security=reality&sid=b956b96d72&sni=refersion.com&spx=%2FNQAlFqm7Gf3lzr2&type=tcp#XpnTeam",
-        "date": "2026-05-27T18:12:14+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/XpnTeam/7700"
       }
     ],
     "putakk": [
@@ -24458,22 +24473,22 @@
       }
     ]
   },
-  "last_update": "2026-06-24T09:26:13.658936+00:00",
+  "last_update": "2026-06-24T09:37:00.867139+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1619,
-    "total_media": 1499,
-    "total_files": 1499,
+    "total_media": 1502,
+    "total_files": 1502,
     "total_links": 227,
     "files_by_type": {
-      "image": 1352,
+      "image": 1355,
       "video": 127,
       "document": 13,
       "audio": 7
     },
-    "referenced_files": 1499,
-    "existing_media_files": 1499,
-    "total_size_mb": 498.84,
-    "last_calculation": "2026-06-24T09:26:13.700992+00:00"
+    "referenced_files": 1502,
+    "existing_media_files": 1502,
+    "total_size_mb": 495.99,
+    "last_calculation": "2026-06-24T09:37:00.911767+00:00"
   }
 }
