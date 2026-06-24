@@ -2622,6 +2622,40 @@
     ],
     "whitedns": [
       {
+        "id": 1034,
+        "text": "",
+        "date": "2026-06-24T05:13:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1034_0_caa177a0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1034"
+      },
+      {
+        "id": 1033,
+        "text": "⭐️\nنسخه جدید WhiteDNS VPN 0.0.5 منتشر شد\nتوی این نسخه چند تغییر مهم داشتیم تا اتصال راحت‌تر، سریع‌تر و قابل‌کنترل‌تر بشه:\n• موتور اصلی اپ از XRay به Mihomo تغییر کرده\n• تم دارک به اپ اضافه شده\n• امکان اضافه کردن تا۵ آی‌پی تمی در بخش IP Fronting\n• رفع مشکل «کانکت میشه ولی چیزی لود نمیکنه»\n• اتصال سریع‌تر بعد از قطع شدن، با استفاده از کش\n• اضافه شدن دکمه Refresh برای گرفتن کانکشن جدید و شاید بهتر\n• نمایش سرعت دانلود و آپلود\n• نمایش آی‌پی‌ای که در حال حاضر به آن متصل هستید\nاگر برای اتصال مشکل دارید، احتمالاً باید برای خودتون آی‌پی تمیز اسکن کنید و داخل بخش IP Fronting قرار بدید.\nتیم ما همچنان در حال تست و بهتر کردن اپه تا اتصال پایدارتر و ساده‌تری داشته باشید.\nممنون که همراه WhiteDNS هستید\n❤️\n@WhiteDNS",
+        "date": "2026-06-24T05:12:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1033_0_caa177a0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1033_1_de20f30f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1033"
+      },
+      {
         "id": 1032,
         "text": "دوستان\n👋\nبچه‌های تیم به صورت مداوم در حال اسکن و بررسی IPها هستن تا همیشه بهترین و تمیزترین IPها داخل اپ در دسترس باشه و شما کمتر درگیر اسکن کردن و پیدا کردن کانفیگ مناسب بشید.\nهدف ما اینه که تا جای ممکن فقط اپ رو باز کنید، یک دکمه بزنید و متصل بشید.\nاگر فکر می‌کنید قابلیت یا امکانی هست که می‌تونه تجربه استفاده از اپ رو بهتر کنه، حتماً زیر همین پست برامون بنویسید. اگر با مسیر و هدف کلی اپ هم‌خوانی داشته باشه، با کمال میل بررسی و به لیست توسعه اضافه می‌کنیم.\nممنون از همراهی همیشگی شما\n❤️\n@WhiteDNS",
         "date": "2026-06-22T09:57:50+00:00",
@@ -4565,50 +4599,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/880"
-      },
-      {
-        "id": 879,
-        "text": "در شرایط سخت و روزهای «خاموشی دیجیتال»، تلاش کردیم با ساخت ابزارهای مختلف، آموزش‌های کاربردی و راهکارهای ساده‌، کنار مردم باشیم و کمک کنیم تا حداقل دسترسی آزاد به اینترنت حفظ شود.\nاگر در تمام این مسیر فقط توانسته باشیم یک نفر را دوباره به اینترنت آزاد جهانی وصل کنیم، برای ما ارزشمند و افتخارآمیز است.\nاولویت و هدف تیم WhiteDNS همیشه ساده‌تر کردن ابزارهای پیچیده و تسهیل در دسترسی به آموزش بوده تا به هموطنانمان کمک کند وابستگی به بازار سیاه، واسطه‌ها و مافیای VPN کمتر شود؛ با این نگاه که هر شخص قادر باشد ابزارها و اتصال‌های امن خود را بهتر شناخته، بسازد و مدیریت کند.\nامیدواریم هرچه زودتر شرایط بهتر شود و حق اولیه و ساده‌ی دسترسی آزاد به اینترنت دوباره به همه‌ی مردم برگردد.\nاز تمام اعضای تیم WhiteDNS و تمام وطن‌دوستانی که در این روزهای سخت کنار مردمشان ایستادند، صمیمانه تشکر می‌کنیم.\nدم همه‌تون گرم\n❤️\n@WhiteDNS",
-        "date": "2026-05-30T11:52:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_879_0_1d566937.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_879_1_349b8547.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/whitedns/879"
-      },
-      {
-        "id": 878,
-        "text": "😊\nآموزش V2Ray از صفر تا صد | نصب پنل، ساخت Inbound و Cloudflare Clean IP روی سرور شخصی\nدر این ویدیو نحوه نصب و راه‌اندازی پنل V2Ray روی سرور را به صورت کامل آموزش می‌دهیم. همچنین با نحوه ایجاد Inbound، مدیریت کاربران، استفاده از IPهای تمیز Cloudflare و اتصال کانفیگ‌ها از طریق اپلیکیشن WhiteDNS آشنا خواهید شد.\nسرفصل‌های آموزش:\n✅\nنصب و راه‌اندازی پنل V2Ray\n✅\nایجاد و مدیریت Inboundها\n✅\nساخت و مدیریت کاربران\n✅\nآشنایی با تنظیمات مهم پنل\n✅\nاستفاده از IPهای تمیز Cloudflare\n✅\nآموزش پیدا کردن و تست Cloudflare Clean IP\n✅\nآموزش استفاده از اپلیکیشن WhiteDNS برای قرار دادن کانفیگ‌های V2Ray پشت IPهای Cloudflare\n✅\nافزایش پایداری و کیفیت اتصال با WhiteDNS\n✅\nتست و بررسی عملکرد کانکشن‌ها\n✅\nنکات امنیتی و بهینه‌سازی تنظیمات\n😊\nلینک تماشا در یوتیوب\nhttps://www.youtube.com/watch?v=vVjqNQBUGIc&feature=youtu.be\n🎞\n🎞\n🎞\n🎞\n🎞\n🎞\n🎞\n🎞\n🎞\n🎞\n🎞\n🎞\n🎞\n🎞\n🎞\n🎞\n👥\nلینک گروه اصلی\n👾\nدانلود آخرین نسخه اندروید\n💻\nدانلود آخرین نسخه برای مک‌ و ویندوز\n📱\nتست فلایت آخرین نسخه آیفون\n📱\nآموزش استفاده از نسخه موبایل\n🌐\nآموزش راه اندازی سرور شخصی\n🔥\nآموزش مفاهیم و اولین شروع استفاده از WhiteDNS\n🖥\nآموزش استفاده از نسخه ویندوز\n🔑\nلیست سرور های رایگان برای V2Ray و MasterDNS\n🤖\nربات ساخت سرور و مدیریت MasterDNS\n🤖\nربات دریافت رایگان کانفیگ V2Ray\n🤖\nربات دریافت ریزالور\n🎬\nکانال یوتیوب WhiteDNS",
-        "date": "2026-05-30T07:57:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_878_0_1d566937.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_878_1_a87af5b3.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.youtube.com/watch?v=vVjqNQBUGIc&feature=youtu.be",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=vVjqNQBUGIc&feature=youtu.be"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/878"
       }
     ],
     "withyashar": [
@@ -9789,6 +9779,88 @@
     ],
     "IranintlTV": [
       {
+        "id": 344062,
+        "text": "۱۶۰۰ کارگر گروه ماشین‌سازی تبریز در اعتراض به پرداخت نشدن دو ماه دستمزد خود، روز سه‌شنبه دست به اعتصاب زدند.\nروزبه بوالهری، خبرنگار ایران‌اینترنشنال گفت در دو دهه گذشته کارگران در ایران با این مشکل مواجه هستند\n@iranintltv",
+        "date": "2026-06-24T05:27:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_344062_0_88a462d2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_344062_1_c6f56708.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/344062"
+      },
+      {
+        "id": 344061,
+        "text": "گزارش‌های رسیده حاکی از مرگ تقی سلیمی، شهروند ۵۷ ساله اهل آمل و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، در زندان آمل است. به گفته منابع نزدیک به خانواده او، سلیمی هنگام انتقال از زندان آمل به بیمارستان امام علی این شهر فاقد علائم حیاتی بوده است.\n@iranintltv",
+        "date": "2026-06-24T05:17:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_344061_0_88a462d2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_344061_1_ab6a486e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/344061"
+      },
+      {
+        "id": 344060,
+        "text": "محمد بن عبدالرحمن آل ثانی، نخست‌وزیر قطر، به فایننشال‌تایمز گفت ایجاد خط تماس مستقیم میان آمریکا و جمهوری اسلامی برای جلوگیری از اخلال بازیگران خارج از کنترل در روند بازگشایی تنگه هرمز ضروری است.\nاو گفت این خط تماس مستقیم که در مذاکرات سوئیس بر سر آن توافق شد، برای مقابله با اطلاعات نادرست و هماهنگی در روند پاکسازی مین‌ها از تنگه هرمز ایجاد شده است.\nhttps://iranintl.com/202606241673",
+        "date": "2026-06-24T04:56:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_344060_0_88a462d2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344060_1_4b9aaedd.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202606241673",
+            "type": "external",
+            "display_text": "https://iranintl.com/202606241673"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/344060"
+      },
+      {
+        "id": 344059,
+        "text": "سرخط خبرهای چهارشنبه ۳ تیر\n@iranintltv",
+        "date": "2026-06-24T04:14:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_344059_0_88a462d2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_344059_1_b5af4a6d.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/344059"
+      },
+      {
         "id": 344058,
         "text": "وال استریت ژورنال: در حالی که گفت‌وگوهای آمریکا و حکومت ایران وارد مرحله جدیدی شده است، رسانه‌های آمریکایی می‌گویند مهم‌ترین پرسش برای میلیون‌ها شهروند آمریکا تاثیر هرگونه توافق با تهران بر قیمت بنزین و هزینه‌های انرژی خواهد بود\nhttps://iranintl.com/202606247495",
         "date": "2026-06-24T03:38:06+00:00",
@@ -11226,55 +11298,54 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/343919"
-      },
-      {
-        "id": 343918,
-        "text": "آزادسازی بخشی از دارایی‌های مسدودشده ایران و شرط خرید انحصاری مواد غذایی از آمریکا، واکنش‌های گسترده‌ای در شبکه‌های اجتماعی برانگیخته است. بسیاری از کاربران این روند را با سازوکار «نفت در برابر غذا» مقایسه کرده و درباره پیامدهای آن بحث کرده‌اند\n@iranintltv",
-        "date": "2026-06-23T13:07:32+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/343918"
-      },
-      {
-        "id": 343917,
-        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در تروت سوشال اعلام کرد منابع مالی و معافیت‌های تحریمی مرتبط با جمهوری اسلامی که از سوی وزارت خزانه‌داری آمریکا آزاد می‌شود، در حسابی تحت کنترل واشینگتن نگهداری خواهد شد.\nجزییات بیشتر با مریم رحمتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-06-23T13:02:50+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/343917"
-      },
-      {
-        "id": 343912,
-        "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، با تاکید بر ضرورت کاهش وابستگی نظامی به آمریکا، خواستار تقویت صنعت تسلیحاتی مستقل در این کشور شد.\nجزییات بیشتر در گفت‌وگو با بابک اسحاقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-06-23T12:26:19+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/343912"
-      },
-      {
-        "id": 343911,
-        "text": "حزب‌الله لبنان سه‌شنبه دوم تیر در بیانیه‌ای اعلام کرد اسرائیل با حمله به سوی «گروهی از غیرنظامیان» در نزدیکی نبطیه در جنوب لبنان، آتش‌بس را نقض کرده است.\nدر مقابل، ارتش اسرائیل اعلام کرد نیروهایش گروهی از نیروهای حزب‌الله را که در منطقه تپه علی طاهر تهدیدی برای نیروهای اسرائیلی محسوب می‌شدند، هدف قرار داده‌اند. ارتش اسرائیل همچنین تصویری را منتشر کرد که به گفته این نهاد، یکی از افراد هدف قرارگرفته را نشان می‌دهد.\nحزب‌الله گفت ارتش اسرائیل به سوی «گروهی از غیرنظامیان که در حال بازگشایی جاده‌ها و بیرون آوردن پیکر کشته‌شدگان از زیر آوار بودند» آتش گشوده است.\nرسانه‌های لبنانی گزارش دادند در این حادثه دو نفر بر اثر تیراندازی اسرائیل کشته و چند نفر دیگر زخمی شده‌اند.\nحزب‌الله در بیانیه‌ای اعلام کرد: «آنچه دشمن انجام داده، نقض آشکار آتش‌بس است؛ آتش‌بسی که حزب‌الله تا این لحظه به آن پایبند بوده است.»\nhttps://iranintl.com/202606237699",
-        "date": "2026-06-23T12:21:27+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202606237699",
-            "type": "external",
-            "display_text": "https://iranintl.com/202606237699"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/343911"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 48421,
+        "text": "Server:\nproxy65.arixo.shop\nPort:\n443\nSecret:\nee3ceb82a3b4254e6e6ae1971021f3c209617669746f2e7275\n@ProxyMTProto",
+        "date": "2026-06-24T05:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_48421_0_1327eb03.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/48421"
+      },
+      {
+        "id": 48420,
+        "text": "Server:\nUnknown\nPort:\n443\nSecret:\nddf0eeb0bd9adc4fd4a93994ee3b2a216b\n@ProxyMTProto",
+        "date": "2026-06-24T05:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_48420_0_1327eb03.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/48420"
+      },
+      {
+        "id": 48419,
+        "text": "Server:\nget.utkanos.life\nPort:\n443\nSecret:\needf6c9e1e71c5194e005a32de1256977f6765742e75746b616e6f732e6c696665\n@ProxyMTProto",
+        "date": "2026-06-24T04:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_48419_0_1327eb03.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/48419"
+      },
       {
         "id": 48418,
         "text": "Server:\ncdn.toconvel.digital\nPort:\n443\nSecret:\neeefd9942127c0d394cb6c83aa9aea57b863646e2e746f636f6e76656c2e6469676974616c\n@ProxyMTProto",
@@ -12539,36 +12610,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/48322"
-      },
-      {
-        "id": 48321,
-        "text": "Server:\nportal.balalaika.click\nPort:\n443\nSecret:\neefcbdb65a11b00bbfbbd9de6fb0b17099706f7274616c2e62616c616c61696b612e636c69636b\n@ProxyMTProto",
-        "date": "2026-06-21T04:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/48321"
-      },
-      {
-        "id": 48320,
-        "text": "Server:\nlink.mishkalapy.life\nPort:\n443\nSecret:\neeb6b2b376ea60c64410542c640dc2765e6c696e6b2e6d6973686b616c6170792e6c696665\n@ProxyMTProto",
-        "date": "2026-06-20T20:28:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/48320"
-      },
-      {
-        "id": 48319,
-        "text": "Server:\npersian.gulf.ir.olsjddhf.info.\nPort:\n88\nSecret:\nee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
-        "date": "2026-06-20T20:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/48319"
       }
     ],
     "XpnTeam": [
@@ -24222,22 +24263,22 @@
       }
     ]
   },
-  "last_update": "2026-06-24T03:47:05.171553+00:00",
+  "last_update": "2026-06-24T05:37:45.711434+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1619,
-    "total_media": 1438,
-    "total_files": 1438,
-    "total_links": 234,
+    "total_media": 1448,
+    "total_files": 1448,
+    "total_links": 233,
     "files_by_type": {
-      "image": 1293,
-      "video": 125,
+      "image": 1300,
+      "video": 128,
       "document": 13,
       "audio": 7
     },
-    "referenced_files": 1438,
-    "existing_media_files": 1438,
-    "total_size_mb": 490.59,
-    "last_calculation": "2026-06-24T03:47:05.189159+00:00"
+    "referenced_files": 1448,
+    "existing_media_files": 1448,
+    "total_size_mb": 498.27,
+    "last_calculation": "2026-06-24T05:37:45.780479+00:00"
   }
 }
