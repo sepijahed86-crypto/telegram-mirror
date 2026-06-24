@@ -2622,6 +2622,21 @@
     ],
     "whitedns": [
       {
+        "id": 1039,
+        "text": "⭐️\nنسخه جدید WhiteDNS VPN 0.0.5 منتشر شد\n👆",
+        "date": "2026-06-24T05:58:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1039_0_caa177a0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1039"
+      },
+      {
         "id": 1034,
         "text": "",
         "date": "2026-06-24T05:13:33+00:00",
@@ -4563,42 +4578,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/881"
-      },
-      {
-        "id": 880,
-        "text": "☠️\nآموزش استفاده از آیپی تمیز کلودفلر و اتصال رایگان به اینترنت + آپدیت ساخت پنل BPB\n💦\n⚡️\nفایل اسکنر:\nhttps://t.me/MatinSenPaii/3598\nپنل BPB روی گیتهاب:\nhttps://github.com/bia-pain-bache/BPB-Worker-Panel\nپروژه اسکنر روی گیتهاب:\nhttps://github.com/MatinSenPai/SenPaiScanner\nپروژه رسول:\nhttps://github.com/seramo/v2ray-config-modifier\n⭐️\nتوی این ویدئو این مراحل رو پیش میریم:\n1- ساخت پنل BPB ورژن جدید\n2- رفع مشکل پینگ -1 کانفیگ‌های آپدیت جدید و درست کردن تنظیمات کلودفلر برای کار کردن پنل\n3- استفاده از اسکنر SenPai Scanner برای اسکن آیپی تمیز کلودفلر با استفاده از کانفیگ‌های Worker\n4- استفاده از پروژه رسول برای انداختن آیپی تمیز به تعداد بالا پشت کانفیگ\n5- توضیح حجم مصرفی و استفاده از این روش روی کلاینت‌های متفاوت\n⚠️\nپیش‌نیازها و نکات مهم:\n1️⃣\nاین متد نیاز هیچ سرور و دانش شبکه‌ای نداره\n✉️\nتماشا در تلگرام\n📹\nتماشا در یوتوب\n💰\nدونیت",
-        "date": "2026-05-30T22:57:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_880_0_60a33f4a.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/MatinSenPaii/3598",
-            "type": "telegram",
-            "display_text": "https://t.me/MatinSenPaii/3598"
-          },
-          {
-            "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
-            "type": "github",
-            "display_text": "https://github.com/bia-pain-bache/BPB-Worker-Panel"
-          },
-          {
-            "url": "https://github.com/MatinSenPai/SenPaiScanner",
-            "type": "github",
-            "display_text": "https://github.com/MatinSenPai/SenPaiScanner"
-          },
-          {
-            "url": "https://github.com/seramo/v2ray-config-modifier",
-            "type": "github",
-            "display_text": "https://github.com/seramo/v2ray-config-modifier"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/880"
       }
     ],
     "withyashar": [
@@ -9779,6 +9758,143 @@
     ],
     "IranintlTV": [
       {
+        "id": 344067,
+        "text": "🔻\nکارلوس کیروش، سرمربی تیم ملی غنا همراه با بازیکنان و هواداران این تیم پس از تساوی با انگلیس در جام جهانی ۲۰۲۶، به شادی پرداختند.\n🔹\nانگلیس و غنا که در بوستون باز کردند، به تساوی بدون گل رسیدند.\n@iranintltvsport",
+        "date": "2026-06-24T06:04:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_344067_0_88a462d2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344067_1_976800af.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344067_2_f2de537f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344067_3_c156a684.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344067_4_37d57de7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344067_5_67e85dc2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344067_6_55887071.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344067_7_bd557e04.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344067_8_28e011cc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344067_9_43a16676.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344067_10_2680406b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/344067"
+      },
+      {
+        "id": 344066,
+        "text": "طبق گزارش یک روزنامه استرالیایی، دولت استرالیا شش ماه پس از قرار دادن سپاه پاسداران در فهرست حامیان دولتی تروریسم، اختیارات جدیدی را برای جلوگیری از صدور گذرنامه به افراد مظنون به مشارکت در تروریسم مورد حمایت دولت‌ها اجرایی کرد\nگفت‌وگو با علیرضا محبی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-06-24T05:59:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_344066_0_88a462d2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_344066_1_5497d4e1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/344066"
+      },
+      {
+        "id": 344065,
+        "text": "رهبر حکومت کره شمالی با اشاره به وضعیت خاورمیانه و دیگر تحولات بین‌المللی بر تقویت نیروی نظامی هسته‌ای کشورش تاکید کرد\nگفت‌وگو با توماج طاهباز، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-06-24T05:57:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_344065_0_88a462d2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_344065_1_68bcda4c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/344065"
+      },
+      {
+        "id": 344064,
+        "text": "مدیر کل آژانس بین‌المللی انرژی اتمی گفت آژانس درباره محل احتمالی اورانیوم با غنای بالا اطلاعاتی در اختیار دارد، اما ضروری است جمهوری اسلامی به‌طور رسمی محل نگهداری آن را اعلام کند.\nگفت‌وگو با اردوان روزبه، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-06-24T05:39:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_344064_0_88a462d2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_344064_1_5053a763.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/344064"
+      },
+      {
+        "id": 344063,
+        "text": "مدیرکل دامپزشکی استان کرمانشاه با اشاره به افزایش ذبح دام در محرم، نسبت به خطر انتقال بیماری تب خونریزی‌دهنده کریمه کنگو هشدار داد و بر رعایت اصول بهداشتی در خرید، نگهداری و ذبح دام تاکید کرد.\nرامین سمیعیان در گفت‌وگو با ایسنا، همزمان با فرارسیدن تاسوعا و عاشورا، گفت که رعایت نکات بهداشتی در فرآیند خرید و ذبح دام برای پیشگیری از انتقال بیماری‌های مشترک بین انسان و دام، به‌ویژه تب کریمه کنگو، ضروری است.\nاو افزود تب کریمه کنگو یک بیماری ویروسی مشترک بین انسان و دام است که عمدتا از طریق کنه‌های آلوده به دام منتقل می‌شود و انسان نیز ممکن است در اثر تماس با خون، ترشحات یا بافت دام آلوده به این بیماری مبتلا شود.\nhttps://iranintl.com/202606247340",
+        "date": "2026-06-24T05:37:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_344063_0_88a462d2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344063_1_10edd564.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202606247340",
+            "type": "external",
+            "display_text": "https://iranintl.com/202606247340"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/344063"
+      },
+      {
         "id": 344062,
         "text": "۱۶۰۰ کارگر گروه ماشین‌سازی تبریز در اعتراض به پرداخت نشدن دو ماه دستمزد خود، روز سه‌شنبه دست به اعتصاب زدند.\nروزبه بوالهری، خبرنگار ایران‌اینترنشنال گفت در دو دهه گذشته کارگران در ایران با این مشکل مواجه هستند\n@iranintltv",
         "date": "2026-06-24T05:27:50+00:00",
@@ -10374,18 +10490,9 @@
         "id": 344031,
         "text": "ویدیوی رسیده نشان می‌دهد که مراسم زادروز علی حاجیوند رشیدی، شبانه در کنار آرامگاه او برگزار شد. این جاویدنام در جریان اعتراضات ۱۹ دی ۱۴۰۴ در دزفول، به دست سرکوبگران کشته شد.",
         "date": "2026-06-23T22:02:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_344031_0_2d34de11.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_344031_1_042210dd.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/344031"
       },
@@ -10393,18 +10500,9 @@
         "id": 344030,
         "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «دلیل عدم حمایت بسیاری از ایرانی‌ها از تیم ملی فوتبال ایستادن بازیکنان آن در کنار حکومت در اوج شکاف بین مردم و حکومت است. تعبیر مهدی طارمی درباره عادی بودن اختلافات در ایران درست بعد ازکشتار دی ماه همسویی در توجیه یک جنایت است.»\n@iranintltv",
         "date": "2026-06-23T21:54:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_344030_0_2d34de11.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_344030_1_3b4f75c6.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/344030"
       },
@@ -10412,18 +10510,9 @@
         "id": 344029,
         "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «با توجه به نوعی امان‌نامه که آمریکا بعد از امضای تفاهم‌نامه به مقامات جمهوری اسلامی داده است، احتمال دارد در مراسم تشییع و نماز میت علی خامنه‌ای، از مجتبی خامنه‌ای رونمایی شود و در انظار عمومی ظاهر شود. اگر تا حدود ۱۰ الی ۱۲ روز آینده او را نشان ندهند، ادامه روایت رهبر نادیده و ناشنیده برای نظام دشوارتر خواهد شد و پرسش‌های بیشتری درباره اصل زنده یا مرده بودن او مطرح می‌شود.»\n@iranintltv",
         "date": "2026-06-23T21:43:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_344029_0_2d34de11.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_344029_1_b8fe865d.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/344029"
       },
@@ -10431,18 +10520,9 @@
         "id": 344028,
         "text": "🔻\nرویترز روز سه‌شنبه به نقل از سخنگوی فیفا گزارش داد که پرچم عراق و عربستان به دلیل وجود عبارات مقدس اسلامی، در مراسم پیش از مسابقات جام جهانی ۲۰۲۶ روی زمین قرار داده نمی‌شوند؛ زیرا این پرچم‌ها دارای نوشته‌های مقدس اسلامی هستند.\n🔹\nدر مسابقات جام جهانی در آمریکا، کانادا و مکزیک، پرچم‌های بزرگ دو تیم پیش از آغاز بازی در هر نیمه زمین باز می‌شوند و هنگام صف کشیدن بازیکنان در نزدیکی دایره میانی برای پخش سرودهای ملی، روی زمین قرار می‌گیرند.\n🔹\nاما در دیدارهای عربستان سعودی و عراق، پرچم هر دو تیم به جای قرار گرفتن روی زمین، بالاتر از سطح زمین نگه داشته می‌شود تا ضمن حفظ مراسم پیش از مسابقه، به نوشته‌های اسلامی روی این پرچم‌ها نیز احترام گذاشته شود.\n🔹\nسخنگوی فیفا به رویترز گفت: «فیفا در چارچوب تغییرات جدید مراسم افتتاحیه جام جهانی ۲۰۲۶، شیوه‌ای تازه و هوادارمحور را برای ارائه مراسم پیش از مسابقات معرفی کرده است.»\n🔹\nاو افزود: «برای اجرای این مراسم، فیفا با تیم‌های شرکت‌کننده همکاری نزدیکی داشته تا درخواست‌های منطقی آن‌ها در زمینه نحوه برگزاری مراسم را در نظر بگیرد.»\nجزییات بیشتر را در\nسایت\nبخوانید\n@iranintltvsport",
         "date": "2026-06-23T21:26:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_344028_0_2d34de11.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_344028_1_0a96909d.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/344028"
       },
@@ -10450,18 +10530,9 @@
         "id": 344027,
         "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال گفت: «اورانیوم در برابر غذا؛ اورانیوم در برابر گندم؛ و حتی اورانیوم در برابر جو، ذرت و سویا برای گاوها، گوسفندها و مرغ‌ها.\nکار برنامه هسته‌ای جمهوری اسلامی بعد از سه دهه به جایی رسیده که جمهوری اسلامی مجبور شده اورانیوم‌های غنی‌شده را تحویل بدهد یا رقیق کند و از بین ببرد تا در مقابلش اجازه پیدا کند از پول‌های مسدودشده خود، گندم، ذرت و سایر کالاهای اساسی وارد کند.\nروایتی شبیه سال‌های پایانی اتحاد شوروی؛ کشوری که زرادخانه عظیم هسته‌ای و موشک‌های قاره‌پیما داشت، اما برای تأمین غلات مورد نیاز مردمش ناچار بود هر سال میلیون‌ها تن گندم از آمریکا وارد کند.»\n@iranintltv",
         "date": "2026-06-23T21:16:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_344027_0_2d34de11.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_344027_1_4251a151.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/344027"
       },
@@ -11248,59 +11319,24 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/343925"
-      },
-      {
-        "id": 343924,
-        "text": "سرخط خبرهای سه‌شنبه ۲ تیر\n@iranintltv",
-        "date": "2026-06-23T13:34:22+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/343924"
-      },
-      {
-        "id": 343923,
-        "text": "بر اساس اطلاعات رسیده به ایران‌اینترنشنال آرمان گرجیان، دانش‌آموز ۱۹ ساله اهل روستای بابامیدان در شهرستان رستم استان فارس، شامگاه ۱۸ دی‌ماه در جریان انقلاب ملی با شلیک مستقیم گلوله جنگی کشته شد.\nاو در تجمع اعتراضی بابامیدان هدف شلیک نیروهای حکومتی قرار گرفت.\n@iranintltv",
-        "date": "2026-06-23T13:21:34+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/343923"
-      },
-      {
-        "id": 343922,
-        "text": "مسعود پزشکیان، رئیس‌جمهور ایران، روز سه‌شنبه برای گفتگو با مقاماتی که به میانجی‌گری در مذاکرات تهران و واشنگتن جهت پایان دادن دائمی به جنگ در خاورمیانه کمک کرده‌اند، وارد پاکستان شد؛ این در حالی است که عباس عراقچی، وزیر امور خارجه، پیش از او مورد استقبال همتایان پاکستانی خود در پایگاه هوایی نورخان در راولپندی قرار گرفت.\nبه گفته پاکستان و قطر، این سفر پس از آن صورت می‌گیرد که ایالات متحده در پی اولین دور مذاکرات تحت یک توافق صلح نوپا، تحریم‌ها علیه ایران را به مدت ۶۰ روز تعلیق کرد و دو طرف در جریان مذاکرات خود در سوئیس، بر سر یک نقشه راه برای دستیابی به توافقی دائمی ظرف ۶۰ روز به توافق رسیدند.\n@iranintltv",
-        "date": "2026-06-23T13:17:09+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/343922"
-      },
-      {
-        "id": 343921,
-        "text": "رسانه‌های داخلی و پیام‌های ارسالی مخاطبان به ایران‌اینترنشنال از بروز اختلال در سامانه‌های بانکی کشور خبر داده‌اند. شرکت خدمات انفورماتیک، وابسته به بانک مرکزی جمهوری اسلامی، اعلام کرد اختلال در «سامانه‌های کارت‌محور» بانک‌های ملی، صادرات و تجارت ناشی از حملات سایبری است.\nجزییات بیشتر در گفت‌وگو با نیما اکبرپور، کارشناس فناوری\n@iranintltv",
-        "date": "2026-06-23T13:16:56+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/343921"
-      },
-      {
-        "id": 343919,
-        "text": "🔻\nتیم ملی فوتبال ایران شنبه ۶ تیر از ساعت ۶:۳۰ به وقت تهران در سومین و آخرین دیدار مرحله گروهی جام جهانی ۲۰۲۶ به مصاف مصر خواهد رفت. با اعلام فیفا، سیمون مارسینیاک، داور سرشناس لهستانی، این بازی را قضاوت خواهد کرد. داوری که سابقه قضاوت فینال جام جهانی ۲۰۲۲ میان آرژانتین و فرانسه را در کارنامه دارد.\n🔹\nدر آستانه این دیدار، مصر با چهار امتیاز در صدر جدول گروه G قرار دارد. ایران و بلژیک با دو امتیاز در رتبه‌های دوم و سوم ایستاده‌اند و نیوزیلند نیز با یک امتیاز در جایگاه چهارم قرار دارد.\n@iranintltvsport",
-        "date": "2026-06-23T13:12:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/343919"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 48422,
+        "text": "Server:\nwww2.acientirani-uor4.ir\nPort:\n443\nSecret:\nee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d\n@ProxyMTProto",
+        "date": "2026-06-24T06:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_48422_0_1327eb03.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/48422"
+      },
       {
         "id": 48421,
         "text": "Server:\nproxy65.arixo.shop\nPort:\n443\nSecret:\nee3ceb82a3b4254e6e6ae1971021f3c209617669746f2e7275\n@ProxyMTProto",
@@ -12600,16 +12636,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/48323"
-      },
-      {
-        "id": 48322,
-        "text": "Server:\njunior.ir.the-nice-mtproto.info.\nPort:\n88\nSecret:\nee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d\n@ProxyMTProto",
-        "date": "2026-06-21T05:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/48322"
       }
     ],
     "XpnTeam": [
@@ -23084,6 +23110,27 @@
     ],
     "BestProxyTel1": [
       {
+        "id": 10897,
+        "text": "پروکسی خفن\nhttps://t.me/proxy?server=188.40.68.169&port=8443&secret=dd104462821249bd7ac519130220c25d09\n🎖\n@BestProxyTel1",
+        "date": "2026-06-24T05:50:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "BestProxyTel1_10897_0_6f0b0142.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/proxy?server=188.40.68.169&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=188.40.68.169&port=8443&secret=dd1..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/BestProxyTel1/10897"
+      },
+      {
         "id": 10896,
         "text": "vless://80e1220d-11a9-00d6-20cd-64d4f6039e1b@217.195.200.153:2099?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=bm1X5R9OZK5AhcDhrn7j14rvTualxKopRR3lp065yWI&sid=5a8dba4b&spx=%2F&type=xhttp&host=brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site&path=%2F&mode=auto#@BestProxyTel1\n🎖\n@BestProxyTel1",
         "date": "2026-06-23T19:54:45+00:00",
@@ -24250,35 +24297,25 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/10723"
-      },
-      {
-        "id": 10721,
-        "text": "🔴\nترامپ و ژنرال پزشکیان تفاهم نامه 60 روزه بین جمهوری اسلامی و آمریکا رو به صورت الکترونیکی امضا کردند.\n🎖\n@BestProxyTel1",
-        "date": "2026-06-18T00:06:24+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/BestProxyTel1/10721"
       }
     ]
   },
-  "last_update": "2026-06-24T05:37:45.711434+00:00",
+  "last_update": "2026-06-24T06:14:12.843731+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1619,
-    "total_media": 1448,
-    "total_files": 1448,
-    "total_links": 233,
+    "total_media": 1459,
+    "total_files": 1459,
+    "total_links": 231,
     "files_by_type": {
-      "image": 1300,
-      "video": 128,
+      "image": 1312,
+      "video": 127,
       "document": 13,
       "audio": 7
     },
-    "referenced_files": 1448,
-    "existing_media_files": 1448,
-    "total_size_mb": 498.27,
-    "last_calculation": "2026-06-24T05:37:45.780479+00:00"
+    "referenced_files": 1459,
+    "existing_media_files": 1459,
+    "total_size_mb": 492.12,
+    "last_calculation": "2026-06-24T06:14:12.884858+00:00"
   }
 }
