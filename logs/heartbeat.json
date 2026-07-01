@@ -1,8 +1,8 @@
 {
-  "last_check": "2026-07-01 06:29:01 UTC",
+  "last_check": "2026-07-01 09:28:36 UTC",
   "repository": "sepijahed86-crypto/telegram-mirror",
-  "run_id": "28497787065",
-  "health": "cancelled",
-  "media_files": 1685,
-  "media_size": "500M"
+  "run_id": "28507350764",
+  "health": "success",
+  "media_files": 1690,
+  "media_size": "503M"
 }
