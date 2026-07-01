@@ -5214,6 +5214,21 @@
     ],
     "withyashar": [
       {
+        "id": 16249,
+        "text": "بی‌بی‌سی: ترامپ در سال گذشته بیش از یک میلیارد دلار از فعالیت‌های تجاری، به‌ویژه در حوزه رمزارزها، درآمد کسب کرده است\n@withyashar",
+        "date": "2026-07-01T06:33:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_16249_0_2dc4c2ba.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/16249"
+      },
+      {
         "id": 16248,
         "text": "وال‌استریت ژورنال: عربستان ابتدا دسترسی نظامی آمریکا به پایگاه‌ها و حریم هوایی خود را برای عملیات امنیت تنگه هرمز محدود کرد که با تهدید واشنگتن به تعلیق تحویل سامانه‌های دفاع هوایی همراه شد.\nهرچند ریاض بعداً موضع خود را تعدیل کرد، اما این اختلافات و تنش‌های دیپلماتیک اخیر باعث شده آمریکا به کاهش حضور نظامی خود در عربستان فکر کند.\n@withyashar",
         "date": "2026-07-01T06:04:48+00:00",
@@ -6859,29 +6874,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/16146"
-      },
-      {
-        "id": 16144,
-        "text": "نفتکش شرق لیما، المحبوبه (شماره IMO 9340415) با پرچم عربستان سعودی است که از چین حرکت می‌کند با سرپیچی از دستورات سپاه پاسداران عبور فقط از جنوب جزیره لارک از کریدوری تحت حمایت آمریکا و در میان اسکورت سنگین هوایی نیروی هوایی ایالات متحده، از تنگه هرمز عبور کرد.\n@withyashar",
-        "date": "2026-06-29T11:07:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_16144_0_a307281b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_16144_1_b1f09f00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_16144_2_1ba1e158.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/16144"
       }
     ],
     "vahidonline": [
@@ -11825,6 +11817,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 48653,
+        "text": "Server:\ncdn.savelyev.click\nPort:\n443\nSecret:\nee0e25d36b89ee532fcc5767a9dae2669e63646e2e736176656c7965762e636c69636b\n@ProxyMTProto",
+        "date": "2026-07-01T06:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_48653_0_3cb950c4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/48653"
+      },
+      {
         "id": 48652,
         "text": "Server:\nwww2.acientirani-uor4.ir\nPort:\n443\nSecret:\nee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d\n@ProxyMTProto",
         "date": "2026-07-01T06:00:00+00:00",
@@ -13308,21 +13315,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/48554"
-      },
-      {
-        "id": 48553,
-        "text": "Server:\nUnknown\nPort:\n443\nSecret:\nee1d89eb222800da9e0dca07e51883b2916c696e6b2e6672656574672e7077\n@ProxyMTProto",
-        "date": "2026-06-28T05:30:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_48553_0_2525c06e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/48553"
       }
     ],
     "XpnTeam": [
@@ -25526,22 +25518,22 @@
       }
     ]
   },
-  "last_update": "2026-07-01T06:29:06.011206+00:00",
+  "last_update": "2026-07-01T06:41:05.059215+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1621,
-    "total_media": 1692,
-    "total_files": 1692,
+    "total_media": 1690,
+    "total_files": 1690,
     "total_links": 254,
     "files_by_type": {
-      "image": 1549,
+      "image": 1547,
       "video": 133,
       "document": 6,
       "audio": 4
     },
-    "referenced_files": 1692,
-    "existing_media_files": 1692,
-    "total_size_mb": 499.26,
-    "last_calculation": "2026-07-01T06:29:06.031034+00:00"
+    "referenced_files": 1690,
+    "existing_media_files": 1690,
+    "total_size_mb": 499.12,
+    "last_calculation": "2026-07-01T06:41:05.078988+00:00"
   }
 }
