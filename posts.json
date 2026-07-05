@@ -9863,6 +9863,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 345928,
+        "text": "خودداری مراجع تقلید مشهور از اقامه نماز میت خامنه‌ای\nچشم‌انداز با مهدی مهدوی‌آزاد\nنسخه کامل این برنامه در یوتیوب:\nhttps://youtu.be/pdRedkY4BX4\n@iranintltv",
+        "date": "2026-07-05T19:22:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_345928_0_6ded18f3.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_345928_1_e10a49f8.mp4"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://youtu.be/pdRedkY4BX4",
+            "type": "youtube",
+            "display_text": "https://youtu.be/pdRedkY4BX4"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/345928"
+      },
+      {
         "id": 345927,
         "text": "مئير جاودانفر، تحلیل‌گر مسائل اسرائیل، می‌گوید در شرایط کنونی، برای دولت اسرائیل مهم است که نشان دهد رهبری روند مواجهه با جمهوری اسلامی در دست دونالد ترامپ است. به گفته او، تا زمانی که واشینگتن مسیر دیپلماسی را دنبال می‌کند، بنیامین نتانیاهو نیز از این روند حمایت خواهد کرد، هرچند بسیاری در اسرائیل نسبت به موفقیت نهایی آن خوش‌بین نیستند.\n@iranintltv",
         "date": "2026-07-05T19:03:27+00:00",
@@ -10595,10 +10620,6 @@
         "date": "2026-07-05T14:07:47+00:00",
         "media": [
           {
-            "type": "image",
-            "file": "IranintlTV_345892_0_6ded18f3.jpg"
-          },
-          {
             "type": "video",
             "file": "IranintlTV_345892_1_c75160cd.mp4"
           }
@@ -10612,18 +10633,9 @@
         "id": 345891,
         "text": "دیدار حساس مکزیک و انگلستان با قضاوت علیرضا فغانی، داور ایرانی که به نمایندگی از استرالیا در جام جهانی شرکت کرده، برگزار می‌شود.\nجزییات مرحله یک‌هشتم نهایی جام جهانی در گفت‌وگو با علیرضا مدیدی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-07-05T14:04:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_345891_0_6ded18f3.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_345891_1_844e12ba.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/345891"
       },
@@ -10631,18 +10643,9 @@
         "id": 345890,
         "text": "در پی کاهش نگرانی‌ها از کمبود عرضه و همچنین روند نزولی قیمت نفت، کشورهای عضو اوپک پلاس با افزایش تولید روزانه ۱۸۸ هزار بشکه نفت موافقت کردند.\nگفت‌وگو با مهدی مصلحی، کارشناس بازار نفت\n@iranintltv",
         "date": "2026-07-05T13:56:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_345890_0_6ded18f3.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_345890_1_35ca0372.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/345890"
       },
@@ -10650,16 +10653,7 @@
         "id": 345889,
         "text": "حسن حسن‌زاده، فرمانده سپاه پاسداران تهران و رییس ستاد تشییع جنازه علی خامنه‌ای در تهران، گفت مراسم تشییع جنازه رهبر کشته‌شده جمهوری اسلامی روز دوشنبه به‌صورت زمینی و با خودروی مخصوص حمل جنازه برگزار می‌شود.\nاو افزود: «همه دستگاه‌های مسئول برای خدمت‌رسانی به مردم آماده‌اند.»\nhttps://iranintl.com/202607052653",
         "date": "2026-07-05T13:51:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_345889_0_6ded18f3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_345889_1_6ba4d9d2.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202607052653",
@@ -10667,7 +10661,7 @@
             "display_text": "https://iranintl.com/202607052653"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/345889"
       },
@@ -10675,12 +10669,7 @@
         "id": 345888,
         "text": "🔻\nتیم‌های فوتبال مکزیک و انگلیس بامداد دوشنبه در مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶ به مصاف یکدیگر می‌روند، به نظر شما کدام تیم به مرحله بعد صعود می‌کند؟\n🔹\nبرای شرکت در این نظرسنجی به صفحه اینستاگرام ایران اینترنشنال ورزشی مراجعه کنید؛\n👇🏽\nhttps://www.instagram.com/p/DaaccVBMcOQ/\n@iranintltvsport",
         "date": "2026-07-05T13:49:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_345888_1_96a00c75.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://www.instagram.com/p/DaaccVBMcOQ/",
@@ -10688,7 +10677,7 @@
             "display_text": "https://www.instagram.com/p/DaaccVBMcOQ/"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/345888"
       },
@@ -11395,16 +11384,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/345822"
-      },
-      {
-        "id": 345821,
-        "text": "ویدیوی رسیده نشان می‌دهد گروهی از دانشجویان پیام‌نور شهریار به یاد جاویدنامان انقلاب ملی، بادکنک‌های سفید در هوا رها کردند.",
-        "date": "2026-07-05T06:22:26+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/345821"
       }
     ],
     "ProxyMTProto": [
@@ -12911,6 +12890,21 @@
     ],
     "XpnTeam": [
       {
+        "id": 7884,
+        "text": "@ XpnTeam-46.npvt",
+        "date": "2026-07-05T19:16:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "XpnTeam_7884_0_06f6bb4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/XpnTeam/7884"
+      },
+      {
         "id": 7883,
         "text": "🔐\nTraffic\n: UN/\nLimited\n♾\nTime : nA\n⏰\n⚠️\nLocation :\n🌐\nApp\n⬇️\n:\nNapesterNet\n❓\n|- آموزش :\nفایل رو دانلود کنید و روش ضربه بزنید ، برنامه نپستر رو انتخاب و سپس وارد اپلیکیشن شید انتخاب کنید سرورو،بعدشم‌روشن‌کنید..\n🤩\n›\n@XpnTeam",
         "date": "2026-07-05T19:15:29+00:00",
@@ -14027,16 +14021,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/XpnTeam/7776"
-      },
-      {
-        "id": 7775,
-        "text": "@XpnTeam - 12.npvt",
-        "date": "2026-06-14T19:23:33+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/XpnTeam/7775"
       }
     ],
     "putakk": [
@@ -23787,6 +23771,25 @@
     ],
     "BestProxyTel1": [
       {
+        "id": 11435,
+        "text": "از کل مقامات و سران نظام جمهوری‌اسلامی فقط همین یه عکس مونده.\n🎖\n@BestProxyTel1",
+        "date": "2026-07-05T19:21:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "BestProxyTel1_11435_0_ee6082f0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "BestProxyTel1_11435_1_05d37b1f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/BestProxyTel1/11435"
+      },
+      {
         "id": 11433,
         "text": "tg://proxy?server=95.182.114.239&port=443&secret=eeeb07bebf3a073e4c4bb4d5a19ca676ee7777772e636c6f7564666c6172652e636f6d\nhttps://t.me/proxy?server=188.245.252.34&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=win.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d\nhttps://t.me/proxy?server=kalakbaz.kalakbazi-co.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D\nhttps://t.me/proxy?server=mahopinami.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6D61686F70696E616D692E636F2E756B\n🎖\n@BestProxyTel1",
         "date": "2026-07-05T11:42:27+00:00",
@@ -25127,35 +25130,25 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/11201"
-      },
-      {
-        "id": 11199,
-        "text": "trojan://rdC7DTr5wK@45.130.125.2:443?type=ws&security=tls&path=%2Fda&host=si.farxmode.ir&sni=si.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#@BestProxyTel1\ntrojan://HHyBuQthOg@45.130.125.2:443?type=ws&security=tls&path=%2Fdb&host=sj.farxmode.ir&sni=sj.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#@BestProxyTel1\nvless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?encryption=none&type=ws&security=tls&path=%2Fproxyip&host=nbhhh.mrcool.kdns.fr&sni=nbhhh.mrcool.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#@BestProxyTel1\nاگہ وصل شدی\n👇\n👇\n👇\n👇\n🎖\n@BestProxyTel1",
-        "date": "2026-06-30T10:48:27+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/BestProxyTel1/11199"
       }
     ]
   },
-  "last_update": "2026-07-05T19:16:07.051051+00:00",
+  "last_update": "2026-07-05T19:24:12.255690+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1623,
-    "total_media": 1596,
-    "total_files": 1596,
-    "total_links": 270,
+    "total_media": 1593,
+    "total_files": 1593,
+    "total_links": 271,
     "files_by_type": {
-      "image": 1451,
-      "video": 133,
+      "image": 1449,
+      "video": 132,
       "document": 1,
       "audio": 11
     },
-    "referenced_files": 1596,
-    "existing_media_files": 1596,
-    "total_size_mb": 497.09,
-    "last_calculation": "2026-07-05T19:16:07.071195+00:00"
+    "referenced_files": 1593,
+    "existing_media_files": 1593,
+    "total_size_mb": 498.85,
+    "last_calculation": "2026-07-05T19:24:12.274304+00:00"
   }
 }
