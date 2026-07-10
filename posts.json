@@ -286,6 +286,42 @@
     ],
     "apkclub": [
       {
+        "id": 71319,
+        "text": "اگر فرصت نمی‌کنی همه بازی‌های جام جهانی رو ببینی، این کانال رو از دست نده.\nنتایج بازی‌ها، فیلم گل‌ها و مهم‌ترین اتفاقات جام رو خیلی مرتب و سریع منتشر می‌کنه تا بدون صرف ساعت‌ها وقت، از هیچ اتفاق مهمی جا نمونی.\n⚽️\nهمراه جام جهانی بمون:\nhttps://t.me/+qUiHg7uIVh0wNzNk",
+        "date": "2026-07-10T19:28:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71319_0_2c39b47b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+qUiHg7uIVh0wNzNk",
+            "type": "telegram",
+            "display_text": "https://t.me/+qUiHg7uIVh0wNzNk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/apkclub/71319"
+      },
+      {
+        "id": 71318,
+        "text": "",
+        "date": "2026-07-10T19:27:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71318_0_2c39b47b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/71318"
+      },
+      {
         "id": 71317,
         "text": "#کسب_درآمد\n🟢\nنئو بانک جدید با ۱۰۰ هزار تومن هدیه نقدی و ارسال رایگان کارت\n🟢\n⁠«رِدبانک - نئوبانک هواداری بانک شهر»\n⬇️\nلینک بازار\n⬇️\nلینک دانلود مستقیم از سایت\n🔖\nکد معرف :\nm5578\n❗️\nاگر از کد معرف استفاده نشه هیچ پولی بابت ثبت نام واریز نمیشه\n🌟\n@APKCLUB",
         "date": "2026-07-10T19:02:41+00:00",
@@ -1759,26 +1795,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/apkclub/71214"
-      },
-      {
-        "id": 71213,
-        "text": "",
-        "date": "2026-07-05T12:25:12+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71213"
-      },
-      {
-        "id": 71212,
-        "text": "💻\nKettlebell Home Workout\n🔝\nV 6.0.0\n⭐️\nنسخه مود برنامه ورزشی بدنسازی و کتل بل در خانه\n🔖\nویژگی های نسخه مود :\n🔵\nتبلیغات حذف شده\n🔵\nبرنامه‌های تمرینی آماده\n🔵\nشرح تمرین‌های مختلف برای هر گروه ماهیچه‌ای\n🔵\nسابقه تاریخی باجزئیات\n🔵\nدستیابی به عضلاتی پرقدرت و اندامی متناسب\n📱\nبرای دانلود فایل از ربات بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
-        "date": "2026-07-05T10:30:45+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71212"
       }
     ],
     "MediaMardom": [
@@ -11377,6 +11393,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 48974,
+        "text": "Server:\nnet.pelmeshka.top\nPort:\n443\nSecret:\neefe12a66db0212791c3ba09df4f6123806e65742e70656c6d6573686b612e746f70\n@ProxyMTProto",
+        "date": "2026-07-10T19:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_48974_0_6bfe698f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/48974"
+      },
+      {
         "id": 48973,
         "text": "Server:\nshould.be.wake.up.ir.yfdhjderkig.info.\nPort:\n88\nSecret:\nee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d\n@ProxyMTProto",
         "date": "2026-07-10T19:00:00+00:00",
@@ -12860,21 +12891,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/48875"
-      },
-      {
-        "id": 48874,
-        "text": "Server:\nthebestone.nolags.pw\nPort:\n443\nSecret:\ndd500852dff560b32a1580986b7f43cd28\n@ProxyMTProto",
-        "date": "2026-07-07T17:30:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_48874_0_4167348c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/48874"
       }
     ],
     "XpnTeam": [
@@ -21712,6 +21728,21 @@
     ],
     "iranstop": [
       {
+        "id": 3382,
+        "text": "🔴\nعظيمی‌راد، نماینده مجلس : روی جون دانش‌آموزان قمار نکنید!\nدغدغه این روزهای دانش آموزها به ویژه تو مناطق جنوبی کشور که چند روزیه آمریکا داره به اونجا حمله میکنه، باید فوراً توسط آموزش و پرورش پاسخ داده بشه.\nاگه دغدغه بچه‌ها بجاست، پس امتحانات رو به تعویق بندازید و اگه نه، سریع‌تر اعلام کنید که دانش‌آموزها به آرامش برسن آقای کاظمی و خسروپناه؛ شما نباید اجازه بدید حادثه مدرسه میناب دوباره تكرار بشه ترامپ یه شیطان واقعی و بوزینه‌ای بی عقله و ممکنه هرکاری بکنه.",
+        "date": "2026-07-10T19:37:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "iranstop_3382_0_b21d264d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/iranstop/3382"
+      },
+      {
         "id": 3381,
         "text": "🔴\nقالیباف: من در طول مذاکره با آمریکا به جی‌دی ونس گفتم که ما به شما اعتماد نداریم. بنظرم کسی میتونه وارد مذاکره با آمریکا بشه که آماده جنگ باشه.",
         "date": "2026-07-10T18:38:33+00:00",
@@ -23606,22 +23637,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/iranstop/3266"
-      },
-      {
-        "id": 3265,
-        "text": "⚽️\nرضا کینگ کونگم اگر میخوای تو بازی های جام جهانی از فرم های من استفاده کنی عضو کانالم شو\n👇\n👇\n👇\nhttps://t.me/+lCR7HeYTU15iNjM0\nhttps://t.me/+lCR7HeYTU15iNjM0\n⚡️\nرضام ، کینگ کونگش ولی یادت باشه\n😅\n🅰\n7",
-        "date": "2026-06-28T23:26:38+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://t.me/+lCR7HeYTU15iNjM0",
-            "type": "telegram",
-            "display_text": "https://t.me/+lCR7HeYTU15iNjM0"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/iranstop/3265"
       }
     ],
     "BestProxyTel1": [
@@ -24888,22 +24903,22 @@
       }
     ]
   },
-  "last_update": "2026-07-10T19:27:36.922142+00:00",
+  "last_update": "2026-07-10T19:40:18.674537+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1625,
-    "total_media": 1561,
-    "total_files": 1561,
+    "total_media": 1564,
+    "total_files": 1564,
     "total_links": 246,
     "files_by_type": {
-      "image": 1388,
+      "image": 1391,
       "video": 156,
       "document": 1,
       "audio": 16
     },
-    "referenced_files": 1561,
-    "existing_media_files": 1561,
-    "total_size_mb": 491.92,
-    "last_calculation": "2026-07-10T19:27:36.940508+00:00"
+    "referenced_files": 1564,
+    "existing_media_files": 1564,
+    "total_size_mb": 491.95,
+    "last_calculation": "2026-07-10T19:40:18.693251+00:00"
   }
 }
