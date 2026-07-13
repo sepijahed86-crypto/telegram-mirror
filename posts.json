@@ -24366,6 +24366,25 @@
     ],
     "BestProxyTel1": [
       {
+        "id": 11877,
+        "text": "🔴\nپست جدید ترامپ:\nتنگه هرمز بازه و باز خواهد ماند، با ایران یا بدون ایران. ما «محاصره ایران» رو دوباره برقرار می‌کنیم، اسمش هم همینه چون فقط کشتی‌ها یا مشتری‌های ایران رو از ورود و خروج بازمی‌دارد.\nهمه کشورهای دیگر استفاده منصفانه و آزاد از این تنگه خواهند داشت. از این لحظه به بعد، ایالات متحده آمریکا با عنوان «نگهبان تنگه هرمز» شناخته خواهد شد، ولی در ازای آن و برای رعایت انصاف، بابت تمام هزینه‌های لازم برای تأمین امنیت این بخش بسیار پرتنش جهان، معادل 20 درصد از ارزش کل محموله‌های عبوری بازپرداخت دریافت خواهد کرد. این روند و سازوکار بلافاصله آغاز میشه.\n🎖\n@BestProxyTel1",
+        "date": "2026-07-13T14:33:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "BestProxyTel1_11877_0_3141c79a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "BestProxyTel1_11877_1_c666c2f8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/BestProxyTel1/11877"
+      },
+      {
         "id": 11876,
         "text": "🔴\nترامپ :\n-وضعیت مجتبی خامنه‌ای؟\nترامپ:\nاکثر رهبران ایران کشته شدند. خامنه‌ای از بین رفت، و پسرش ۹۰ درصد از بین رفت\n🎖\n@BestProxyTel1",
         "date": "2026-07-13T12:43:55+00:00",
@@ -25721,35 +25740,25 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/11629"
-      },
-      {
-        "id": 11628,
-        "text": "🔹\nترامپ: امشب هم بسیار سخت بهشون ضربه خواهیم زد. آنها یک مشت دیوانه‌ان.\n🎖\n@BestProxyTel1",
-        "date": "2026-07-08T13:10:49+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/BestProxyTel1/11628"
       }
     ]
   },
-  "last_update": "2026-07-13T14:32:57.393795+00:00",
+  "last_update": "2026-07-13T14:42:28.696214+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1626,
-    "total_media": 1726,
-    "total_files": 1726,
+    "total_media": 1728,
+    "total_files": 1728,
     "total_links": 257,
     "files_by_type": {
-      "image": 1584,
+      "image": 1586,
       "video": 139,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1726,
-    "existing_media_files": 1726,
-    "total_size_mb": 493.48,
-    "last_calculation": "2026-07-13T14:32:57.415973+00:00"
+    "referenced_files": 1728,
+    "existing_media_files": 1728,
+    "total_size_mb": 493.62,
+    "last_calculation": "2026-07-13T14:42:28.717037+00:00"
   }
 }
