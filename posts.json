@@ -3553,6 +3553,31 @@
     ],
     "whitedns": [
       {
+        "id": 1166,
+        "text": "سلام به همه\n👋\nیک موضوع مهم که خیلی از کاربران VPN با آن آشنا نیستند، مسئله‌ی DNS Leak یا همان نشت DNS است.\nشاید برای شما هم پیش آمده باشد که VPN روشن است و آی‌پی شما تغییر کرده، اما بعضی سایت‌ها یا سرویس‌ها همچنان شما را به‌عنوان کاربر ایرانی شناسایی می‌کنند یا دسترسی‌تان را محدود می‌کنند.\nDNS نشت یعنی چه؟\nوقتی وارد یک سایت می‌شوید، دستگاه شما ابتدا از یک سرویس DNS می‌پرسد آدرس واقعی آن سایت چیست. اگر این درخواست به‌جای عبور از داخل VPN، از طریق اینترنت اصلی یا شرکت ارائه‌دهنده اینترنت شما ارسال شود، به آن DNS Leak می‌گویند.\nبه زبان ساده، با اینکه VPN روشن است، بخشی از اطلاعات اتصال واقعی شما هنوز قابل مشاهده است.\nچرا مهم است؟\nDNS Leak ممکن است باعث شود:\n• موقعیت یا کشور واقعی شما تشخیص داده شود\n• بعضی سایت‌ها همچنان دسترسی شما را محدود کنند\n• حریم خصوصی شما کاهش پیدا کند\n• اتصال VPN شما آن‌طور که انتظار دارید کامل و امن نباشد\nچطور تست کنیم؟\n1. ابتدا VPN را روشن کنید\n2. وارد سایت زیر شوید:\nhttps://ipleak.net\n3. چند ثانیه صبر کنید تا نتیجه نمایش داده شود\n4. بخش DNS Addresses را بررسی کنید\nاگر در نتیجه نام شرکت اینترنت شما، کشور واقعی شما یا DNSهای مربوط به اینترنت اصلی‌تان نمایش داده شد، احتمالاً VPN شما DNS Leak دارد.\nپیشنهاد می‌کنیم همیشه از VPNهایی استفاده کنید که نشت DNS ندارند تا هم حریم خصوصی بهتری داشته باشید و هم سرویس‌ها کمتر بتوانند موقعیت واقعی شما را تشخیص دهند.",
+        "date": "2026-07-15T04:34:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1166_0_d9112600.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1166_1_97a0d45a.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://ipleak.net",
+            "type": "external",
+            "display_text": "https://ipleak.net"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1166"
+      },
+      {
         "id": 1165,
         "text": "",
         "date": "2026-07-14T14:49:21+00:00",
@@ -5411,21 +5436,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/996"
-      },
-      {
-        "id": 995,
-        "text": "دوستان سلام :\nتذکر !\nمشکلات سخت افزاری و نرم افزاری گوشی شما فقط و و فقط توسط خودتون باید رفع بشه ، چون ما نمی‌تونیم کاری بکنیم ، مطمئن بشید گوشی شما آپدیت هست و مشکلات نرم افزاری و سخت افزاری ندارد\nموارد زیر را حتما برای whitedns bpb رعایت کنید\n۱.مرورگر دیفالت گوشی را روی فایرفاکس(که پیشنهاد ما هست ) تنظیم کنید و از مرورگرهای ناشناخته گوشی های مخصوصا چینی استفاده نکنید ،چون بسیاری از این مرورگرها مشکلات امنیتی داره و وبسایت های معتبر مثل کلادفلر به درستی اجازه دسترسی به اونها نمیده\n۲.فایرفاکس را باز کنید ، توی کلادفلر login کنید ،\nنکته : ایمیل شما حتما باید وریفای شده باشد\n۳.حالا وارد اپلیکیشن whitedns bpb بشید و شروع به نصب پنل کنید و ادامه ماجرا ....\nدر صورتی که به خطا برخوردید اپلیکیشن را uninstall کنید و مراحل بالا را از اول انجام بدید\nارادت\nتیم whitedns",
-        "date": "2026-06-16T09:43:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_995_0_e62b941f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/whitedns/995"
       }
     ],
     "withyashar": [
@@ -10172,6 +10182,125 @@
     ],
     "IranintlTV": [
       {
+        "id": 347650,
+        "text": "روزنامه کیهان که زیر نظر نماینده رهبر جمهوری اسلامی منتشر می‌شود، نوشت: «انتقام، ابزار قدرتمند بازدارندگی ما برای جلوگیری از امام‌کشی دشمنان است. بزرگ‌ترین دارایی این ملت رهبرشان بود و دیگر چیزی برای از دست دادن و از مرگ هم هراسی ندارند. اگر خونخواهی و انتقام جدی انجام نشود، امام‌کشی ادامه پیدا می‌کند.»\nاین روزنامه اضافه کرد: «اگر این جایگاه و سرمایه بزرگ با انتقام حفظ نشود، قطعا با هیچ ابزار دیگری حفظ نخواهد شد و نه تنها هیچ اموالی از ایران آزاد و هیچ تحریمی برداشته نخواهد شد بلکه ایرانی نخواهد ماند که اموالش آزاد و تحریمش لغو شود.»\nروزنامه کیهان افزود: «با خونخواهی و انتقام چنان بازدارندگی باید ایجاد شود که نه ترامپ بلکه هر وارث دیگر او در آینده مشارکت در جنگی دیگر در منطقه به مخیله‌اش هم نیاید.»\nhttps://iranintl.com/202607151726",
+        "date": "2026-07-15T04:49:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347650_0_cc28abf9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_347650_1_29e44a4d.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607151726",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607151726"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/347650"
+      },
+      {
+        "id": 347649,
+        "text": "سرخط خبرهای چهارشنبه ۲۴ تیر\n@iranintltv",
+        "date": "2026-07-15T04:15:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347649_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347649_1_6abd709a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347649"
+      },
+      {
+        "id": 347648,
+        "text": "ارتش اردن اعلام کرد سامانه‌های پدافندی این کشور بامداد چهارشنبه سه موشک بالستیک را که وارد حریم هوایی اردن شده بودند، رهگیری و سرنگون کردند.\nدر بیانیه ارتش اردن جزییات بیشتری درباره مبدا این موشک‌ها یا محل رهگیری آن‌ها منتشر نشده است.\nاین خبر در حالی منتشر می‌شود که در روزهای اخیر و هم‌زمان با تشدید درگیری‌ها میان آمریکا و جمهوری اسلامی، چندین بار آژیر هشدار در کشورهای منطقه از جمله اردن، بحرین و کویت به صدا درآمده است.\nhttps://iranintl.com/202607158459",
+        "date": "2026-07-15T03:37:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347648_0_cc28abf9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_347648_1_e2de870c.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607158459",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607158459"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/347648"
+      },
+      {
+        "id": 347647,
+        "text": "وب‌سایت اکسیوس به نقل از سه منبع آگاه گزارش داد دونالد ترامپ، رییس‌جمهوری آمریکا، روز سه‌شنبه در اتاق وضعیت کاخ سفید نشستی برای بررسی حمله‌ای گسترده‌تر به ایران برگزار کرده است. بر اساس این گزارش، دامنه این عملیات فراتر از حملات کنونی در اطراف تنگه هرمز خواهد بود.\nاکسیوس نوشت این نشست نشان می‌دهد ترامپ آماده تشدید عملیات نظامی علیه جمهوری اسلامی است تا با وارد کردن خسارت بیشتر، تهران را به بازگشایی تنگه هرمز و پذیرش خواسته‌های واشینگتن درباره برنامه هسته‌ای وادار کند.\nاین گزارش در حالی منتشر می‌شود که آمریکا در روزهای اخیر حملات خود به اهداف نظامی جمهوری اسلامی را افزایش داده و هم‌زمان محاصره دریایی بنادر ایران را از سر گرفته است.\nhttps://iranintl.com/202607151233",
+        "date": "2026-07-15T03:03:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347647_0_cc28abf9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_347647_1_fb1906cf.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607151233",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607151233"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/347647"
+      },
+      {
+        "id": 347646,
+        "text": "ستاد فرماندهی مرکزی ایالات متحده، سنتکام، اعلام کرد ساعت ۵:۳۰ بامداد به وقت تهران، دور تازه حملات آمریکا علیه اهداف نظامی جمهوری اسلامی به پایان رسیده است. به گفته سنتکام، این عملیات حدود هفت ساعت به طول انجامید.\nسنتکام اعلام کرد در این عملیات، ده‌ها هدف نظامی در نزدیکی تنگه هرمز و مناطق ساحلی ایران با استفاده از جنگنده‌ها، پهپادها و شناورهای نیروی دریایی آمریکا هدف حملات دقیق قرار گرفتند.\nبر اساس بیانیه سنتکام، این حملات سایت‌های موشکی و پهپادی، توانمندی‌های دریایی و سامانه‌های دفاع ساحلی جمهوری اسلامی را هدف قرار داد و با هدف کاهش بیشتر توان تهران برای تهدید کشتی‌رانی تجاری و خدمه غیرنظامی انجام شد.\nhttps://iranintl.com/202607154351",
+        "date": "2026-07-15T02:53:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347646_0_cc28abf9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_347646_1_a5bad025.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607154351",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607154351"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/347646"
+      },
+      {
         "id": 347645,
         "text": "گزارش‌هایی در شبکه‌های اجتماعی از شنیده شدن صدای چند انفجار در شهرهای سربندر و بندر ماهشهر در استان خوزستان منتشر شده است. تاکنون جزئیاتی درباره محل دقیق انفجارها یا علت آن‌ها منتشر نشده است.\nرسانه‌های حکومتی ایران و مقام‌های رسمی تا این لحظه درباره این گزارش‌ها اظهار نظر نکرده‌اند و اطلاعاتی درباره خسارت یا تلفات احتمالی در دست نیست.\nhttps://iranintl.com/202607159055",
         "date": "2026-07-15T02:06:15+00:00",
@@ -11821,14 +11950,9 @@
         "id": 347562,
         "text": "هم‌زمان با تشدید درگیری‌های نظامی میان جمهوری اسلامی و آمریکا، دونالد ترامپ، رییس‌جمهوری آمریکا، از بازگشت محاصره بنادر ایران و لغو طرح دریافت عوارض از کشتی‌های عبوری از تنگه هرمز خبر داد.\nنجات بهرامی، تحلیلگر سیاسی، به ایران‌اینترنشنال گفت که جمهوری اسلامی پس از تضعیف توان هسته‌ای، موشکی و شبکه نیروهای نیابتی، بیش از هر زمان دیگری بر ناامن نگه داشتن تنگه هرمز، به‌عنوان اصلی‌ترین اهرم فشار خود، تکیه کرده است.\n@iranintltv",
         "date": "2026-07-14T17:18:02+00:00",
-        "media": [
-          {
-            "type": "video",
-            "file": "IranintlTV_347562_1_34fcab8a.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/347562"
       },
@@ -12047,65 +12171,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/347544"
-      },
-      {
-        "id": 347543,
-        "text": "یک نانوا با ارسال ویدیویی به ایران‌اینترنشنال گفت که قطع برق روز ۲۳ تیر در خرمشهر باعث خراب شدن خمیر نانوایی شد و دو گونی خمیر را به دور ریز تبدیل کرد.",
-        "date": "2026-07-14T15:21:02+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347543"
-      },
-      {
-        "id": 347542,
-        "text": "🔻\nفیفا اسماعیل الفتح، داور ۴۴ ساله آمریکایی-مراکشی، را برای قضاوت دیدار حساس نیمه‌نهایی جام جهانی ۲۰۲۶ بین انگلیس و آرژانتین انتخاب کرد؛ داوری که لیونل مسی تاکنون در تمام مسابقاتی که با سوت او به میدان رفته، پیروز شده است.\n🔹\nالفتح که در کازابلانکای مراکش متولد شده، در ۱۸ سالگی به آمریکا مهاجرت کرد و پس از تحصیل در رشته مهندسی مکانیک، به داوری فوتبال روی آورد. او در سال ۲۰۱۱ داور حرفه‌ای شد و یک سال بعد نخستین قضاوت خود را در لیگ MLS انجام داد. الفتح همچنین نخستین داوری بود که در یک مسابقه رسمی از سیستم کمک‌داور ویدیویی (VAR) استفاده کرد.\n🔹\nاو تاکنون سه مسابقه در جام جهانی ۲۰۲۶ را قضاوت کرده است؛ دیدارهای هلند و ژاپن، اسپانیا و اروگوئه و همچنین نروژ و برزیل. در این سه مسابقه، یک کارت قرمز مستقیم و هشت کارت زرد از جیب او خارج شده است.\n🔹\nالفتح در جام جهانی ۲۰۲۲ نیز سه مسابقه را سوت زد و در فینال آرژانتین و فرانسه به عنوان داور چهارم حضور داشت. او پس از انتقال مسی به اینتر میامی، پنج بار دیدارهای این فوق‌ستاره آرژانتینی را قضاوت کرده که هر پنج مسابقه با پیروزی تیم‌های مسی به پایان رسیده است؛ آماری که پیش از نیمه‌نهایی برابر انگلیس مورد توجه رسانه‌ها قرار گرفته است.\n🔹\nدر همین حال، صعود همزمان انگلیس و آرژانتین به نیمه‌نهایی باعث شد مایکل اولیور، داور سرشناس انگلیسی، شانس قضاوت فینال را از دست بدهد.\n🔹\nبر اساس قوانین فیفا، داوران نمی‌توانند دیدارهای تیم ملی کشور خود را قضاوت کنند و همچنین به دلیل حساسیت‌های تاریخی میان انگلیس و آرژانتین بر سر جزایر فالکلند، داوران انگلیسی اجازه قضاوت مسابقات آرژانتین را نیز ندارند؛ اتفاقی که پیش‌تر برای آنتونی تیلور در جام جهانی ۲۰۲۲ نیز رخ داده بود.\n@iranintltvsport",
-        "date": "2026-07-14T15:20:58+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347542"
-      },
-      {
-        "id": 347541,
-        "text": "سپاه پاسداران در فهرست گروه‌های ممنوعه بریتانیا قرار گرفت. دولت بریتانیا می‌گوید حمایت یا کمک به این گروه می‌تواند تا ۱۴ سال حبس در پی داشته باشد و مجازات برخی اقدامات مرتبط با آن نیز ممکن است حبس ابد باشد.\n@iranintltv",
-        "date": "2026-07-14T15:19:31+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347541"
-      },
-      {
-        "id": 347540,
-        "text": "🎧\nنسخه صوتی اخبار شبانگاهی | سه‌شنبه ۲۳ تیر\n@iranintlTV",
-        "date": "2026-07-14T15:06:28+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347540"
-      },
-      {
-        "id": 347539,
-        "text": "شرکت توزیع برق تهران اعلام کرد از چهارشنبه ۲۴ تیر، «قطعی برق برنامه‌ریزی شده» در شهر تهران آغاز خواهد شد.\nشرکت توانیر، دلیل این اقدام را «افزایش دما و رشد مصرف» اعلام کرده است.\nشرکت توانیر گفت شهروندان می‌توانند زمان خاموشی‌های احتمالی را از سامانه‌های اطلاع‌رسانی پیگیری کنند.\nhttps://iranintl.com/202607144103",
-        "date": "2026-07-14T14:59:42+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607144103",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607144103"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/347539"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 49108,
+        "text": "Server:\nUnknown\nPort:\n443\nSecret:\nee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275\n@ProxyMTProto",
+        "date": "2026-07-15T04:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49108_0_c3846a3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49108"
+      },
       {
         "id": 49107,
         "text": "Server:\nmirror.balalaika.click\nPort:\n443\nSecret:\nee204fd0f2f4584c289c6aa284e46ed6406d6972726f722e62616c616c61696b612e636c69636b\n@ProxyMTProto",
@@ -13590,21 +13673,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49007"
-      },
-      {
-        "id": 49006,
-        "text": "Server:\n194.120.230.120\nPort:\n443\nSecret:\n3XnnAQIAAQAH8AMDhuJMOt0\n@ProxyMTProto",
-        "date": "2026-07-11T19:00:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_49006_0_0bd8644d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49006"
       }
     ],
     "XpnTeam": [
@@ -17744,6 +17812,25 @@
     ],
     "persian_asasins": [
       {
+        "id": 18785,
+        "text": "Good morning\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
+        "date": "2026-07-15T04:41:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_18785_0_9b217c1e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "persian_asasins_18785_1_ed99c581.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/18785"
+      },
+      {
         "id": 18782,
         "text": "بنازم استاد شعر و ادب پارسی\n❤\n🦅\nایرج میرزا بزرگ  ᴊᴏɪɴ ᴜs @persian_asasins | پرشین اساسین",
         "date": "2026-07-14T16:34:00+00:00",
@@ -19598,21 +19685,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/persian_asasins/18663"
-      },
-      {
-        "id": 18662,
-        "text": "به زن یارو تجاوز می‌کنن،\nزنش می‌گه بهم تجاوز کردن، یه غیرتی به‌جوش بده، یه‌کاری کن، با ناموست ور رفتن بهش بی‌حرمتی کردن، یه حرکتی بزنننننن\nاز اونور رفیقاش پشماشون می‌ریزه، به یارو‌ می‌گن داداش پاشو یه حرکتی کن جدی زشته طرف با زنت به‌زور خوابیده،\nکساییم که تو فامیل از یارو بدشون می‌امده هارهار می‌خندن بخاطر وضعیت\nاخر سر به رگ غیرت یارو برمی‌خوره بخاطر اینکه همش بهش اینطوری می‌گفتنو حرف می‌زدن، در یک حرکت غیورانه، می‌ره یارو رو پیدا می‌کنه، از تو ماشین شیشه رو‌ می‌ده پایین یه فحش ناموس بهش می‌ده یه گوجه فرنگیم پرت می‌کنه سمتش(گوجه فرنگی به متجاوزه نمی‌خوره) بعد با خیال راحت و آسوده شدن غیرتش میاد خونه.\nزنش می‌گه چی‌شد؟ می‌گه زدم صورتشو خونی کردم کارش رسید به بیمارستان فکش شیکست زانوشم مو برداشت ارنجشم خورد شد ابروهاشم ضرب برداشته، خیالت تخت.\nحکایت آشناییه.\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
-        "date": "2026-06-08T06:27:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "persian_asasins_18662_0_120d9934.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/18662"
       }
     ],
     "yehirani": [
@@ -21235,6 +21307,36 @@
     ],
     "crgaming7": [
       {
+        "id": 5683,
+        "text": "",
+        "date": "2026-07-15T04:59:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "crgaming7_5683_0_19ab3516.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/crgaming7/5683"
+      },
+      {
+        "id": 5682,
+        "text": "",
+        "date": "2026-07-15T04:55:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "crgaming7_5682_0_19ab3516.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/crgaming7/5682"
+      },
+      {
         "id": 5681,
         "text": "✅\n3⃣\nتا کد DNS جدید پینگ 28\n✅\nبرای پابجی کالاف\n✅\n✅\nیوسی رایگان برای همه\n🤑\n🔹\nویدیو آموزشیش\n⬇️\n⬇️\nhttps://youtu.be/IqQR8sUHpMA?si=1i3jYeXKbs8neJnl\n❗️\nیوسی رایگان\n❗️\nیوسی رایگان\n💵\n💵\n💵\n💵\n💵\n💵\n💵\n💵\n💵\n💵\n💵",
         "date": "2026-07-14T10:50:03+00:00",
@@ -22535,26 +22637,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/crgaming7/5575"
-      },
-      {
-        "id": 5573,
-        "text": "قدرت سوپر وایرگاد CR GAMING\n✅\nتخفیف ویژه تا ساعت 12 شب\n🤩\n🎁\nـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ\n🎮\nپینگ 20 الی 86\n😇\n❤\nسرور امارات\n🇦🇪\nترکیه\n🇹🇷\nآلمان\n🇩🇪\n🔥\nبرای تهیه به ادمین پیام بدید.\n👇\n👇\n@crgaming5",
-        "date": "2026-06-26T09:00:50+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/crgaming7/5573"
-      },
-      {
-        "id": 5572,
-        "text": "قدرت سوپر وایرگاد CR GAMING\n✅\nتخفیف ویژه تا ساعت 12 شب\n🤩\n🎁\nـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ\n🎮\nپینگ 20 الی 86\n😇\n❤\nسرور امارات\n🇦🇪\nترکیه\n🇹🇷\nآلمان\n🇩🇪\n🔥\nبرای تهیه به ادمین پیام بدید.\n👇\n👇\n@crgaming5",
-        "date": "2026-06-26T07:23:12+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/crgaming7/5572"
       }
     ],
     "iranstop": [
@@ -24669,17 +24751,58 @@
     ],
     "BestProxyTel1": [
       {
-        "id": 11949,
-        "text": "وضعیت اینترنتتون ؟",
-        "date": "2026-07-15T00:41:53+00:00",
+        "id": 11950,
+        "text": "https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ\nhttps://t.me/proxy?server=www.172-63.ir.&port=8443&secret=ee8b8238601de9360f332514afa56ada45626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=91.107.151.42&port=9443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nhttps://t.me/proxy?server=bia.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ\nhttps://t.me/proxy?server=1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=d4a7c1f8-3e9b-425d-a1c6-9f8e2b7a4d5c.casa&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d\n🎖\n@BestProxyTel1",
+        "date": "2026-07-15T03:18:00+00:00",
         "media": [
           {
             "type": "image",
-            "file": "BestProxyTel1_11949_0_dd93fcca.jpg"
+            "file": "BestProxyTel1_11950_0_dd93fcca.jpg"
           }
         ],
-        "links": [],
+        "links": [
+          {
+            "url": "https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=..."
+          },
+          {
+            "url": "https://t.me/proxy?server=www.172-63.ir.&port=8443&secret=ee8b8238601de9360f332514afa56ada45626973636f7474692e79656b74616e65742e636f6d",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=www.172-63.ir.&port=8443&secret=ee..."
+          },
+          {
+            "url": "https://t.me/proxy?server=91.107.151.42&port=9443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=91.107.151.42&port=9443&secret=YyE..."
+          },
+          {
+            "url": "https://t.me/proxy?server=bia.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=bia.nisti.co.uk&port=8880&secret=e..."
+          },
+          {
+            "url": "https://t.me/proxy?server=1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=1.mmd1.meli-n12.info&port=8443&sec..."
+          },
+          {
+            "url": "https://t.me/proxy?server=d4a7c1f8-3e9b-425d-a1c6-9f8e2b7a4d5c.casa&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=d4a7c1f8-3e9b-425d-a1c6-9f8e2b7a4d..."
+          }
+        ],
         "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/BestProxyTel1/11950"
+      },
+      {
+        "id": 11949,
+        "text": "وضعیت اینترنتتون ؟",
+        "date": "2026-07-15T00:41:53+00:00",
+        "media": [],
+        "links": [],
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/11949"
       },
@@ -24687,14 +24810,9 @@
         "id": 11948,
         "text": "طبق گزارشات در این حمله تعدادی از سربازان کشته شدن. جمهوری اسلامی و فرمانده هاش در چنین شرایطی که در جنوب کشور تقریبا هر شب درگیریه، مکانی که سربازا درش حضور دارن رو تخلیه نکرده و اینم مثل میناب، سپر انسانی درست کردن تا باهاش مظلوم نمایی کنن ولی همه میدونن که خون تک تک اون سربازا به گردن جمهوری اسلامیه\n🎖\n@BestProxyTel1",
         "date": "2026-07-14T23:33:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_11948_0_dd93fcca.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/11948"
       },
@@ -24702,22 +24820,9 @@
         "id": 11946,
         "text": "🔹\nنیم ساعت قبل، تیپ ۳۸۸ ارتش در شهرستان بمپور استان سیستان و بلوچستان چندین بار هدف حمله قرار گرفت\n🎖\n@BestProxyTel1",
         "date": "2026-07-14T23:32:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_11946_0_dd93fcca.jpg"
-          },
-          {
-            "type": "video",
-            "file": "BestProxyTel1_11946_1_37353724.mp4"
-          },
-          {
-            "type": "video",
-            "file": "BestProxyTel1_11946_2_22f45c0e.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/11946"
       },
@@ -24725,14 +24830,9 @@
         "id": 11945,
         "text": "🚨\nگزارش دادن که سمت سیستان و بلوچستان خوابگاه ارتش رو زدن و تلفات به شدت بالا گزارش میشه\n🎖\n@BestProxyTel1",
         "date": "2026-07-14T23:30:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_11945_0_dd93fcca.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/11945"
       },
@@ -24740,14 +24840,9 @@
         "id": 11940,
         "text": "من وصل شدمممم باهاش مرسی ازتون\n❤️\n🫠",
         "date": "2026-07-14T22:34:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_11940_0_dd93fcca.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/11940"
       },
@@ -24755,18 +24850,9 @@
         "id": 11939,
         "text": "📊\nحجم : نامحدود  |\n⏳\nانقضا : 30Day\n🛜\nوضعیت اتصال : فعال\n✅\n⚠️\nهرچی دانلود سنگین دارید باهاش انجام بدید  دریافت کانفیگ نامحدود رایگان\n🔴\nتوجه: تو بات آپلود میکنم نتونن آیپی هاشو ببندن",
         "date": "2026-07-14T22:31:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_11939_0_dd93fcca.jpg"
-          },
-          {
-            "type": "image",
-            "file": "BestProxyTel1_11939_1_cf28b7fc.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/11939"
       },
@@ -24774,18 +24860,9 @@
         "id": 11934,
         "text": "📊\nحجم : نامحدود  |\n⏳\nانقضا : 30Day\n🛜\nوضعیت اتصال : فعال\n✅\n⚠️\nهرچی دانلود سنگین دارید باهاش انجام بدید\nدریافت کانفیگ نامحدود رایگان\n🔴\nتوجه: تو بات آپلود میکنم نتونن آیپی هاشو ببندن",
         "date": "2026-07-14T21:54:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_11934_0_dd93fcca.jpg"
-          },
-          {
-            "type": "image",
-            "file": "BestProxyTel1_11934_1_04670ff5.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/11934"
       },
@@ -24793,14 +24870,9 @@
         "id": 11933,
         "text": "تا اختلال شدیدتر نشده یه کانفیگ ۱۰۰ گیگی با ساب براتون میزارم",
         "date": "2026-07-14T21:53:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_11933_0_dd93fcca.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/11933"
       },
@@ -26087,35 +26159,25 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/11707"
-      },
-      {
-        "id": 11705,
-        "text": "آیس خامنه ای ماکیاتو\n🐀\n🥤\n🎖\n@BestProxyTel1",
-        "date": "2026-07-09T16:58:46+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/BestProxyTel1/11705"
       }
     ]
   },
-  "last_update": "2026-07-15T02:39:56.881942+00:00",
+  "last_update": "2026-07-15T05:00:12.902829+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1626,
-    "total_media": 1766,
-    "total_files": 1766,
-    "total_links": 285,
+    "total_media": 1768,
+    "total_files": 1768,
+    "total_links": 295,
     "files_by_type": {
-      "image": 1617,
-      "video": 146,
+      "image": 1620,
+      "video": 145,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1766,
-    "existing_media_files": 1766,
-    "total_size_mb": 498.39,
-    "last_calculation": "2026-07-15T02:39:56.903250+00:00"
+    "referenced_files": 1768,
+    "existing_media_files": 1768,
+    "total_size_mb": 497.63,
+    "last_calculation": "2026-07-15T05:00:12.923646+00:00"
   }
 }
