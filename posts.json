@@ -317,6 +317,40 @@
     ],
     "apkclub": [
       {
+        "id": 71391,
+        "text": "💻\nOrNET Browser\n🔝\nV1.9.62\n⭐️\nمرورگر ناشناس و امن برای وب‌گردی بدون ردپا\n🔖\nویژگی‌های برنامه:\n🔵\nپشتیبانی از سرورهای جهانی با سرعت بالا در کشورهای مختلف\n🔵\nمرور ناشناس بدون ذخیره تاریخچه، کوکی یا اطلاعات فرم‌ها\n🔵\nعدم نیاز به ابزارهای جانبی یا تنظیمات پیچیده\n🔵\nمحافظت از اطلاعات در شبکه‌های عمومی مانند وای‌فای‌های رایگان\n🔵\nبدون تبلیغات مزاحم و بدون نیاز به پرداخت درون‌برنامه‌ای\n📱\nبرای دانلود فایل بر روی\n(\nدانــلود\n) کلیک کنید.\n🌟\n@APKCLUB",
+        "date": "2026-07-15T10:33:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71391_0_18091905.jpg"
+          },
+          {
+            "type": "image",
+            "file": "apkclub_71391_1_a7c8742c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/71391"
+      },
+      {
+        "id": 71390,
+        "text": "",
+        "date": "2026-07-15T10:27:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71390_0_18091905.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/71390"
+      },
+      {
         "id": 71389,
         "text": "💻\nدوست داری ساده و راحت سایت خودتو بسازی؟\nیکی از محبوب‌ترین ابزارهای ساخت سایت وردپرسه که اگه اصولی یادش بگیری، می‌تونی صفر تا صد سایت خودت رو باهاش بسازی!\n⬅️\nاز بهترین سایت‌هایی که می‌شه با وردپرس ساخت، سایت فروشگاهیه.\n🎯\nبرای یادگیری این مهارت اصولی، دانشکار یک اسکیل‌کمپ جامع داره و کل فرایند ساخت وبسایت فروشگاهی با وردپرس رو بهت یاد میده.\nروی لینک زیر کلیک کن، دوره وردپرس رو ثبت‌نام کن و سایت خودت رو بساز\n👇\n🔗\nhttps://dnkr.ir/2w4qg",
         "date": "2026-07-15T08:38:21+00:00",
@@ -2066,40 +2100,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/apkclub/71287"
-      },
-      {
-        "id": 71286,
-        "text": "💻\nDumbbell Home Workout\n🔝\nV5.26\n⭐️\nنسخه مود برنامه آموزش و انجام بدنسازی درخانه تنها با دمبل\n🔖\nویژگی‌های برنامه:\n🔵\nدارای برنامه های تمرینی کامل برای اهداف مختلف\n🔵\nآموزش حرکات با انیمیشن\n🔵\nارائه بازخورد صوتی برای کاهش نیاز شما به کار کردن با گوشی\n🔵\nنگهداری تاریخچه کامل از جلسات ورزشی شما\n🔵\nتمامی تمرینات تنها با یک جفت دمبل قابل انجام هستند\n📱\nبرای دانلود فایل از ربات بر روی (\nدانــلود\n) کلیک کنید.\n🌟\n@APKCLUB",
-        "date": "2026-07-09T12:30:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "apkclub_71286_0_5f9fef2a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "apkclub_71286_1_e36021d3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71286"
-      },
-      {
-        "id": 71285,
-        "text": "",
-        "date": "2026-07-09T12:27:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "apkclub_71285_0_5f9fef2a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71285"
       }
     ],
     "MediaMardom": [
@@ -3554,6 +3554,41 @@
       }
     ],
     "whitedns": [
+      {
+        "id": 1170,
+        "text": "☠️\nاتصال رایگان و پرسرعت با پروژه Aether + پروتکل ویژه گیم Wireguard\n⚡️\nلینک پروژه‌ی اصلی:\nhttps://github.com/CluvexStudio/Aether\nلینک پروژه GUI من:\nhttps://github.com/MatinSenPai/Aether-GUI\nدستور نصب از ترموکس:\ncurl -fsSL https://raw.githubusercontent.com/CluvexStudio/aether/main/aether.sh -o aether.sh && chmod +x aether.sh && ./aether.sh install\nدستور غیرفعال کردن محدودیت مصرف CPU و باتری:\ntermux-wake-lock\n⚠️\nپیش‌نیازها و نکات مهم:\n1️⃣\nاین ویدئو هیچ پیش‌نیاز فنی و نیاز به خرید سرور و... نداره. حتی نیاز به اکانت کلودفلر هم نداره\n😂\n📹\nتماشا در یوتوب\n💰\nدونیت",
+        "date": "2026-07-15T10:24:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1170_0_afa2a7bc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1170_1_12181ff6.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/CluvexStudio/Aether",
+            "type": "github",
+            "display_text": "https://github.com/CluvexStudio/Aether"
+          },
+          {
+            "url": "https://github.com/MatinSenPai/Aether-GUI",
+            "type": "github",
+            "display_text": "https://github.com/MatinSenPai/Aether-GUI"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/CluvexStudio/aether/main/aether.sh",
+            "type": "external",
+            "display_text": "https://raw.githubusercontent.com/CluvexStudio/aether/main/a..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1170"
+      },
       {
         "id": 1169,
         "text": "اگر برای استفاده از سرویس‌های هوش مصنوعی (AI) مشکل دارید\n🤖\nاین پراکسی را چک کنید\n🔍\nبرنامه یک اپلیکیشنِ نوار منو (Menu bar)  و یک داشبورد محیط ترمینال است که به عنوان یک\nمرکز کنترل و مانیتورینگ برای ایجنت‌های Claude Code\nعمل می‌کند.\nبه طور خلاصه، این ابزار کارهای زیر را انجام می‌دهد:\nنظارت یکپارچه بر ایجنت‌ها:\nوضعیت تمام ایجنت‌های در حال اجرای Claude Code را در یک نگاه نشان می‌دهد؛ بنابراین دقیقا می‌دانید کدام ایجنت در حال کار است، کدام متوقف شده (خطا داده) و کدام منتظر تایید شماست.\nبررسی وضعیت اینترنت و سرور:\nبه صورت مداوم وضعیت اتصال اینترنت شما و سرورهای Anthropic را چک می‌کند تا در صورت توقف کار ایجنت، دلیل واقعی آن (مثلاً کندی اینترنت یا مشکل خودِ Anthropic) را به شما بگوید.\nحفظ لوکیشن (Location Fencing):\nایجنت‌های شما را روی یک کشور خاص قفل می‌کند. اگر VPN شما قطع شود، به جای اینکه ایجنت‌ها با خطای دسترسی (مانند خطای 403) از کار بیفتند، درخواست‌های آن‌ها را موقتاً متوقف نگه می‌دارد تا دوباره به اینترنتِ همان کشور متصل شوید و کارشان را از سر بگیرند.\nردیابی مصرف (Usage Tracking):\nمیزان مصرف واقعیِ محدودیت‌های اکانت شما را (با خواندن دیتای خود Claude) به طور دقیق نمایش می‌دهد.\nhttps://ghhrmnzdh.github.io/tower/\n🔗\n@whitedns",
@@ -5433,24 +5468,353 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1001"
-      },
+      }
+    ],
+    "withyashar": [
       {
-        "id": 1000,
-        "text": "White DNS\npinned a file",
-        "date": "2026-06-16T11:26:58+00:00",
+        "id": 18194,
+        "text": "",
+        "date": "2026-07-15T11:14:28+00:00",
         "media": [
           {
             "type": "image",
-            "file": "whitedns_1000_0_e62b941f.jpg"
+            "file": "withyashar_18194_0_b3f70432.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_18194_1_077bf148.ogg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/whitedns/1000"
-      }
-    ],
-    "withyashar": [
+        "source": "https://t.me/withyashar/18194"
+      },
+      {
+        "id": 18193,
+        "text": "ساعاتی قبل، دارلین گراهام، خواهر لیندسی گراهام به عنوان سناتور کارولینای جنوبی ادای سوگند کرد.\n@WarRoom\nاتاق جنگ با یاشار : دست خدا عیان شد , لیندسی گراهام جوان شد.",
+        "date": "2026-07-15T11:10:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18193_0_b3f70432.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_18193_1_84999239.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18193"
+      },
+      {
+        "id": 18192,
+        "text": "پایگاه هوای بندر عباس ۷ انفجارررررر\n@WarRoom\n🚨\n🚨\n🚨\n🚨\n🚨\n🚨\n🚨",
+        "date": "2026-07-15T11:06:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18192_0_b3f70432.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18192"
+      },
+      {
+        "id": 18191,
+        "text": "انفجار مجدد شیراز ، سیمانش حرف نداره شرکت چیه حالا اسمش بخریم ازش\n@WarRoom",
+        "date": "2026-07-15T10:52:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18191_0_b3f70432.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18191"
+      },
+      {
+        "id": 18190,
+        "text": "@WarRoom\n😾",
+        "date": "2026-07-15T10:51:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18190_0_b3f70432.jpg"
+          },
+          {
+            "type": "video",
+            "file": "withyashar_18190_1_a4979c15.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18190"
+      },
+      {
+        "id": 18189,
+        "text": "وزیر خزانه‌داری آمریکا از ضرب سکه طلایی جدید یک دلاری با تصویر ترامپ خبر داد\n@WarRoom",
+        "date": "2026-07-15T10:47:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18189_0_b3f70432.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_18189_1_8ed39428.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18189"
+      },
+      {
+        "id": 18188,
+        "text": "",
+        "date": "2026-07-15T10:43:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18188_0_b3f70432.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_18188_1_b3e0da1e.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18188"
+      },
+      {
+        "id": 18187,
+        "text": "تعویق ۲ امتحان نهایی پایۀ دوازدهم در ۴ استان\nصداوسیما: وزارت آموزش‌وپرورش اعلام کرد امتحانات نهایی تمامی رشته‌های تحصیلی پایه دوازدهم در استان‌های هرمزگان، بوشهر، خوزستان و سیستان‌وبلوچستان در روزهای پنجشنبه ۲۵ تیر و شنبه ۲۷ تیر برگزار نخواهد شد.\nزمان جدید برگزاری این آزمون‌ها در این ۴ استان متعاقباً اطلاع‌رسانی خواهد شد.\n@WarRoom\n🚨\n🚨\n🚨\n🚨\n🚨",
+        "date": "2026-07-15T10:41:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18187_0_b3f70432.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18187"
+      },
+      {
+        "id": 18186,
+        "text": "هاآرتص: ایران کنترل تنگه هرمز را در دست دارد\nروزنامه عبری هاآرتص: ترامپ گفته بود که تنگه هرمز را باز خواهد کرد اما مشخص شد این ایران است که بر بازی مسلط است.\nترامپ مدام با انتشار پیام‌هایی ادعا می‌کند که در حال تغییر دادن قواعد بازی در تنگه هرمز است اما در میدان این ایران است که شروط خود را تحمیل می‌کند.\n@WarRoom",
+        "date": "2026-07-15T10:39:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18186_0_b3f70432.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18186"
+      },
+      {
+        "id": 18185,
+        "text": "صدای توافق شیراز\n🫱🏼‍🫲🏽\n🤣",
+        "date": "2026-07-15T10:35:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18185_0_b3f70432.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18185"
+      },
+      {
+        "id": 18184,
+        "text": "",
+        "date": "2026-07-15T10:32:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18184_0_b3f70432.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_18184_1_e428c1c6.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18184"
+      },
+      {
+        "id": 18183,
+        "text": "",
+        "date": "2026-07-15T10:31:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18183_0_b3f70432.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_18183_1_782b32ca.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18183"
+      },
+      {
+        "id": 18182,
+        "text": "انفجار دوباره شیراززززز\n@WarRoom\n🚨\n🚨\n🚨\n🚨",
+        "date": "2026-07-15T10:30:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18182_0_b3f70432.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18182"
+      },
+      {
+        "id": 18181,
+        "text": "فرماندهی مرکزی آمریکا (سنتکام): «نیروهای فرماندهی مرکزی ایالات متحده از ساعت ۶ صبح به وقت شرق آمریکا (ET)\n(۱:۳۰ بعدازظهر) به وقت تهران\nموجی از حملات علیه ایران را آغاز کردند.»\n@WarRoom",
+        "date": "2026-07-15T10:28:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18181_0_b3f70432.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18181"
+      },
+      {
+        "id": 18180,
+        "text": "خود آمریکا گردن گرفت\n@WarRoom",
+        "date": "2026-07-15T10:27:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18180_0_b3f70432.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18180"
+      },
+      {
+        "id": 18179,
+        "text": "چیزی‌نیست دارم سیمان جابجا میکنم\n@WarRoom",
+        "date": "2026-07-15T10:26:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18179_0_b3f70432.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_18179_1_0154208f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18179"
+      },
+      {
+        "id": 18178,
+        "text": "انفجار شیراز چرا و چگونه\n@WarRoom",
+        "date": "2026-07-15T10:24:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18178_0_b3f70432.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_18178_1_0f0c5f2a.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18178"
+      },
+      {
+        "id": 18177,
+        "text": "گزارشهای اولیه که ما نمیتوانیم تأیید یا رد کنیم، اینه که هدف حمله شیراز در دقایقی پیش یک پایگاه موشکی در کوه بوده.\n@WarRoom",
+        "date": "2026-07-15T10:17:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18177_0_b3f70432.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_18177_1_ed0dbadc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18177"
+      },
+      {
+        "id": 18176,
+        "text": "",
+        "date": "2026-07-15T10:15:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18176_0_b3f70432.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_18176_1_bfec61af.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18176"
+      },
+      {
+        "id": 18175,
+        "text": "مقام ارشد امریکایی به سی‌ان‌ان:\nایران از توافق‌نامه تفاهم با ایالات متحده خارج شد\n@WarRoom\n🚨\n🚨\n🚨\n🚨",
+        "date": "2026-07-15T10:12:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_18175_0_b3f70432.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/18175"
+      },
       {
         "id": 18166,
         "text": "گزارش انفجار در‌ اهواز\n@WarRoom",
@@ -6714,322 +7078,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/18083"
-      },
-      {
-        "id": 18082,
-        "text": "سنتکام:\nدور جدیدی از حملات هوایی علیه ایران را آغاز کرده‌ایم.\n@WarRoom\n🚨\n🚨\n🚨\n🚨",
-        "date": "2026-07-14T19:33:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18082_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18082"
-      },
-      {
-        "id": 18081,
-        "text": "ارتش کویت: یک شناور متعلق به نیروی دریایی کویت امشب مورد هدف ایران قرار گرفت که در نتیجه، چهار نفر از نیروهای مسلح مجروح شدند.\n@WarRoom",
-        "date": "2026-07-14T19:29:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18081_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18081"
-      },
-      {
-        "id": 18080,
-        "text": "شمارش معکوس و لحظه‌شماری رسانه‌ها برای آغاز محاصره دریایی امریکا علیه جمهوری اسلامی ایران:\n55 دقیقه تا از سرگیری محاصره دریایی آمریکا بر تنگه هرمز\n@WarRoom\n🚨\n🚨\n🚨\n🚨\n🚨",
-        "date": "2026-07-14T19:21:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18080_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18080"
-      },
-      {
-        "id": 18079,
-        "text": "۴ انفجار بندرررر ر\n@WarRoom\n🚨\n🚨\n🚨\n🚨",
-        "date": "2026-07-14T19:17:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18079_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18079"
-      },
-      {
-        "id": 18078,
-        "text": "لشکر 192 اهوازو زدن\n@WarRoom",
-        "date": "2026-07-14T19:14:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18078_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18078"
-      },
-      {
-        "id": 18077,
-        "text": "",
-        "date": "2026-07-14T19:08:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18077_0_22773a4e.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_18077_1_7ba4c3e3.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18077"
-      },
-      {
-        "id": 18076,
-        "text": "۵ انفجار اهواز\n🚨\n🚨\n🚨\n🚨\n🚨",
-        "date": "2026-07-14T19:07:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18076_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18076"
-      },
-      {
-        "id": 18075,
-        "text": "",
-        "date": "2026-07-14T19:07:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18075_0_22773a4e.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_18075_1_394d6ef8.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18075"
-      },
-      {
-        "id": 18074,
-        "text": "انفجار در کیانشهر اهواز\n@WarRoom\n🚨\n🚨\n🚨\n🚨",
-        "date": "2026-07-14T19:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18074_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18074"
-      },
-      {
-        "id": 18073,
-        "text": "وای نت : فرودگاه‌ بن‌گوریون به حدی از سوخت‌رسان پر شده که ممکن است باعث لغو یا اختلال هزاران بلیت هواپیمای غیرنظامی شود! @WarRoom",
-        "date": "2026-07-14T18:44:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18073_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18073"
-      },
-      {
-        "id": 18072,
-        "text": "۲ انفجار دمشق\n@WarRoom",
-        "date": "2026-07-14T18:42:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18072_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18072"
-      },
-      {
-        "id": 18070,
-        "text": "گزارش های بسیار از‌ درگیری پدافند شهر اسلام آباد غرب در استان کرمانشاه\n@WarRoom\n🚨\n🚨\n🚨",
-        "date": "2026-07-14T18:31:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18070_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18070"
-      },
-      {
-        "id": 18069,
-        "text": "رسانه های رژیم : دقایقی قبل نقطه‌ای در جزیره قشم مورد اصابت پرتابه‌های آمریکایی قرار گرفت که گزارش تکمیلی پس از ارزیابی‌های اولیه اعلام خواهد شد.\n@WarRoom\n🚨\n🚨\n🚨\n🚨",
-        "date": "2026-07-14T18:24:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18069_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18069"
-      },
-      {
-        "id": 18068,
-        "text": "برای اولین بار در‌\nتاریخ\n!!!\nیه کبوتر جای درستی میرینه\n@WarRoom\n🚨\n🚨\n🚨\n🚨\n😂",
-        "date": "2026-07-14T18:22:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18068_0_22773a4e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_18068_1_a076afd2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18068"
-      },
-      {
-        "id": 18067,
-        "text": "آموزش‌وپرورش : دانش آموزا به هیچ وجه نگران نباشند ،حوزه‌های امتحانی نزدیک مراکز حساس و نظامی جابه‌جا شدن ، با خیال آسوده امتحانتونو بدید.\n@WarRoom",
-        "date": "2026-07-14T18:19:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18067_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18067"
-      },
-      {
-        "id": 18066,
-        "text": "کابینه امنیتی-سیاسی فردا ساعت ۲۰:۰۰ تشکیل جلسه خواهد داد. @WarRoom",
-        "date": "2026-07-14T18:13:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18066_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18066"
-      },
-      {
-        "id": 18065,
-        "text": "سی‌ان‌ان : حداقل ۲۲ کشتی تجاری در ۲۴ ساعت گذشته از تنگه هرمز عبور کرده‌اند.\n@WarRoom",
-        "date": "2026-07-14T18:09:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18065_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18065"
-      },
-      {
-        "id": 18064,
-        "text": "لانچر مشهد\n@WarRoom",
-        "date": "2026-07-14T18:02:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18064_0_22773a4e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "withyashar_18064_1_9bbfc2c4.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18064"
-      },
-      {
-        "id": 18063,
-        "text": "فوری | شبکه ABC به نقل از یک مسئول آمریکایی: نیروهای آمریکایی در حال حاضر هم حملات هوایی را در ايران انجام می‌دهند.\n@WarRoom",
-        "date": "2026-07-14T17:58:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18063_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18063"
-      },
-      {
-        "id": 18062,
-        "text": "فوری | شبکه خبری ABC به نقل از یک مسئول آمریکایی: حملات آمریکا به ايران همچنان از چند ساعت پیش ادامه دارد.\n@WarRoom\n🚨\n🚨\n🚨\n🚨\n🚨\nیاشار : بابا من میگم میزنند! بعضی نمیفهمند !",
-        "date": "2026-07-14T17:57:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_18062_0_22773a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/18062"
       }
     ],
     "vahidonline": [
@@ -10198,6 +10246,367 @@
     ],
     "IranintlTV": [
       {
+        "id": 347698,
+        "text": "روری بر روزنامه‌های ایران، چهارشنبه ۲۴ تیر، با مجتبی هاشمی، روزنامه‌نگار\n@iranintltv",
+        "date": "2026-07-15T11:12:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347698_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347698_1_a591dc2a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347698"
+      },
+      {
+        "id": 347697,
+        "text": "🔻\nتقابل آرژانتین و انگلیس در مرحله نیمه‌نهایی جام جهانی ۲۰۲۶ بار دیگر خاطره یکی از حساس‌ترین و سیاسی‌ترین رقابت‌های تاریخ فوتبال را زنده کرده است؛ دیداری که برای بسیاری از مردم دو کشور، تنها یک مسابقه فوتبال نیست و خاطرات جنگ فالکلند (مالویناس) و گل جنجالی «دست خدا» دیه‌گو مارادونا را دوباره زنده می‌کند.\n🔹\nبه گزارش گاردین، پس از پیروزی ۳ بر یک آرژانتین مقابل سوئیس و صعود این تیم به نیمه‌نهایی، بازیکنان آلبی‌سلسته در رختکن سرود غیررسمی جام جهانی با نام «ستاره چهارم» را خواندند؛ سرودی که در بخشی از آن نام «مالویناس» و «دیه‌گو» مارادونا کنار هم آمده است.\n🔹\nاین سرود در طول جام جهانی بارها از سوی هواداران و بازیکنان آرژانتین خوانده شده، اما پس از مشخص شدن رویارویی دوباره با انگلیس، معنایی متفاوت پیدا کرده است.\n🔹\nنزدیک به چهار دهه از دیدار تاریخی جام جهانی ۱۹۸۶ می‌گذرد؛ مسابقه‌ای که مارادونا ابتدا با گل معروف «دست خدا» و سپس با یکی از زیباترین گل‌های تاریخ فوتبال، انگلیس را شکست داد. آن مسابقه تنها چهار سال پس از جنگ فالکلند برگزار شد و از همان زمان به نمادی فراتر از فوتبال تبدیل شده است.\n🔹\nادامه این گزارش را در\nسایت\nبخوانید\n@iranintltvsport",
+        "date": "2026-07-15T11:10:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347697_0_cc28abf9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_347697_1_09d06d8b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347697"
+      },
+      {
+        "id": 347696,
+        "text": "🔻\nدر حالی مسئولان ورزش جمهوری اسلامی طی ماه‌های گذشته بارها از آماده شدن ورزشگاه آزادی برای میزبانی مسابقات فصل جدید لیگ برتر خبر داده بودند، که به یکباره اقدام به جمع آوری چمن این استادیوم کردند تا تنها استادیوم استاندارد تهران همچنان آماده میزبانی از بازی‌های فوتبال نباشد.\n🔹\nچمن ورزشگاه آزادی در حالی جمع‌آوری شد که با توجه به زمان مورد نیاز برای آماده‌سازی و رشد چمن جدید، این فرآیند چندین ماه طول خواهد کشید و عملا استفاده از بزرگ‌ترین ورزشگاه فوتبال ایران را تا میانه نیم‌فصل نخست لیگ برتر غیرممکن می‌کند.\n🔹\nاین در حالی است که طی هفته‌های گذشته مسئولان از تامین بودجه برای تعویض چمن و آماده‌سازی ورزشگاه خبر داده بودند و انتظار می‌رفت آزادی پس از دو سال بازسازی، در فصل ۱۴۰۵ دوباره میزبان دیدارهای استقلال، پرسپولیس و تیم ملی باشد. با این حال، درست در آستانه آغاز لیگ، چمن ورزشگاه به طور کامل برداشته شده و هنوز زمان مشخصی برای بازگشت این استادیوم به چرخه میزبانی اعلام نشده است.\n🔹\nادامه این گزارش را در\nسایت\nبخوانید.\n@iranintltvsport",
+        "date": "2026-07-15T10:39:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347696_0_cc28abf9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_347696_1_23b2110f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347696"
+      },
+      {
+        "id": 347695,
+        "text": "سنتکام اعلام کرد نیروهای فرماندهی مرکزی آمریکا، ظهر دوشنبه به وقت ایران، موجی از حملات را علیه جمهوری اسلامی آغاز کردند.\nبه گفته سنتکام این حملات به منظور تضعیف بیشتر قابلیت‌های نظامی نیروهای ایرانی برای حمله به کشتی‌های تجاری در تنگه هرمز طراحی شده‌اند.\niranintl.com/202607153559",
+        "date": "2026-07-15T10:35:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347695_0_cc28abf9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_347695_1_6448ac06.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347695"
+      },
+      {
+        "id": 347694,
+        "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، در واکنش به پیام‌های سپاه خطاب به مردم اردن و کویت، که از آن‌ها خواسته موسسات آمریکایی را در کشورشان تخریب کنند، گفت این اقدام را روح‌الله خمینی نیز انجام می‌داد و به گفته برخی، این رفتار در آغاز جنگ با عراق تاثیر داشت.\n@iranintltv",
+        "date": "2026-07-15T10:32:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347694_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347694_1_b0584002.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347694"
+      },
+      {
+        "id": 347693,
+        "text": "وزارت کشور آلمان در واکنش به انتشار نام فریدریش مرتس، صدراعظم آلمان، در فهرست انتقام رسانه‌های جمهوری اسلامی، تاکید کرد که نهادهای امنیتی این کشور در حال بررسی نشانه‌های احتمالی جاسوسی، شناسایی اهداف و آماده‌سازی هرگونه حمله مرتبط با جمهوری اسلامی هستند.\nاحمد صمدی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
+        "date": "2026-07-15T10:32:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347693_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347693_1_e7555226.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347693"
+      },
+      {
+        "id": 347692,
+        "text": "گمانه‌زنی‌ها در اسرائیل درباره بازگشت رویارویی نظامی میان آمریکا و جمهوری اسلامی در حال افزایش است. تلویزیون دولتی اسرائیل به نقل از منابع نزدیک به واشینگتن گزارش داد که آمریکا در حال آماده‌سازی برای سناریوی ازسرگیری جنگ است.\nبابک اسحاقی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
+        "date": "2026-07-15T10:32:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347692_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347692_1_149385b6.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347692"
+      },
+      {
+        "id": 347691,
+        "text": "علی حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشنال در واکنش به اظهارات ترامپ درباره حمله زمینی و هدف قرار دادن زیرساخت‌های ایران گفت اگر هدف، خلع سلاح گسترده جمهوری اسلامی باشد، عملیات نظامی باید هفته‌ها ادامه یابد؛ در غیر این صورت، این تهدیدها با هدف وادار کردن تهران به مذاکره است\n@iranintltv",
+        "date": "2026-07-15T10:31:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347691_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347691_1_1ab1f2e3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347691"
+      },
+      {
+        "id": 347690,
+        "text": "مرگ خامنه‌ای؛ اهمیت و پیامدهای حذف دیکتاتور ایران و همراهانش\nکشته‌شدن علی خامنه‌ای و ده‌ها مقام ارشد نظامی، امنیتی و حکومتی، نه فقط جمهوری اسلامی که تاریخ سیاسی معاصر ایران را وارد دوران جدیدی کرده است.\nمرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، درباره اهمیت و پیامدهای حذف دیکتاتور ایران و همراهانش توضیح می‌دهد.\n@iranintltv",
+        "date": "2026-07-15T10:08:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347690_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347690_1_1a8c1d24.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347690"
+      },
+      {
+        "id": 347689,
+        "text": "خانواده کریگ و لیندزی فورمن، زوج بریتانیایی زندانی در ایران اعلام کردند که دادگاه حکم زندان کریگ فورمن را به دلیل گفت‌وگو با رسانه‌ها دو سال افزایش داده است.\nپیش‌تر خانواده این زوج بریتانیایی اعلام کرده بودند این دو نفر به اتهام جاسوسی، به ۱۰ سال زندان محکوم شده‌اند.\niranintl.com/202607155570",
+        "date": "2026-07-15T10:02:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347689_0_cc28abf9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_347689_1_0e600bb3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347689"
+      },
+      {
+        "id": 347688,
+        "text": "گزارش‌های دریافتی از ممسنی از وقوع آتش‌سوزی گسترده در مناطق پادراز و مورکی و پیشروی شعله‌ها به سمت کوه دکل، اشکان و روستاهای اطراف حکایت دارد. بر اساس این گزارش‌ها، مردم با درخواست کمک برای مهار آتش، نسبت به گسترش لحظه‌به‌لحظه آن ابراز نگرانی کرده‌اند.",
+        "date": "2026-07-15T10:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347688_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347688_1_f2c9e629.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347688"
+      },
+      {
+        "id": 347687,
+        "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال گفت که صبح ۲۴ تیر، کلانتری چابهار هدف گرفته شد.",
+        "date": "2026-07-15T09:56:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347687_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347687_1_d94877d4.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347687"
+      },
+      {
+        "id": 347686,
+        "text": "روح‌الله رحیم‌پور، روزنامه‌نگار و تحلیلگر سیاسی، به ایران‌اینترنشنال گفت با وجود حملات جمهوری اسلامی به هشت کشور منطقه، این کشورها به همکاری نظامی با آمریکا ادامه خواهند داد، اما هنوز نشانه‌ای از تصمیم آن‌ها برای حمله مستقل به جمهوری اسلامی دیده نمی‌شود.\n@iranintltv",
+        "date": "2026-07-15T09:55:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347686_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347686_1_98b89465.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347686"
+      },
+      {
+        "id": 347685,
+        "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، گفت جمهوری اسلامی موج جدیدی از حملات نظامی آمریکا را علیه کشور روانه کرده و پیامدهای سیاست‌هایش ایران را به غزه تبدیل خواهد کرد.\n@iranintltv",
+        "date": "2026-07-15T09:54:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347685_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347685_1_aa5951c6.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347685"
+      },
+      {
+        "id": 347684,
+        "text": "سرخط خبرهای چهارشنبه ۲۴ تیر\n@iranintltv",
+        "date": "2026-07-15T09:52:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347684_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347684_1_f4a08b78.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347684"
+      },
+      {
+        "id": 347683,
+        "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، درباره دور تازه حملات آمریکا به جمهوری اسلامی گفت: «ترامپ، بدون آنکه کارت‌های اصلی فشار جمهوری اسلامی، یعنی تنگه هرمز و ذخایر اورانیوم، را از طریق اقدام نظامی از این حکومت بگیرد، وارد فرایند دیپلماسی شد. آتش‌بس‌ها نیز این تصور را در جمهوری اسلامی ایجاد کرد که آمریکا قصد ازسرگیری یک جنگ گسترده را ندارد. اکنون ترامپ با تغییر روش خود، به دنبال جبران و بازنگری این نواقص است.»\n@iranintltv",
+        "date": "2026-07-15T09:43:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347683_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347683_1_b6291ed9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347683"
+      },
+      {
+        "id": 347682,
+        "text": "با شروع دور تازه حملات آمریکا علیه جمهوری اسلامی و هدف قرار گرفتن برخی اهداف نظامی در شهرهای جنوبی، مردم سایر شهرهای ایران پیام‌هایی در همدلی با ساکنان جنوب کشور برای مدیا بات ایران‌اینترنشنال ارسال کردند.\nلیلا سعادتی، عضو تحریریه ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
+        "date": "2026-07-15T09:42:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347682_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347682_1_852b3c7e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347682"
+      },
+      {
+        "id": 347681,
+        "text": "🔻\nدیدار حساس و تاریخی انگلیس و آرژانتین ناخودآگاه تداعی‌کننده خاطرات جام جهانی ۱۹۸۶، گل جنجالی «دست خدا» توسط دیگو مارادونا و البته تنش‌های سیاسی دیرینه بر سر جزایر فالکلند است.\n🔹\nلیونل اسکالونی، سرمربی آرژانتین، برای دور نگه داشتن سیاست از این دیدار حساس در کنفرانس خبری پیش از بازی گفت: «حقیقت این است که این فقط یک بازی فوتبال است. من همه‌چیز را با هم مخلوط نمی‌کنم، به‌ویژه مسائلی که سال‌ها پیش رخ داده است. آن دوران بخش بسیار غم‌انگیزی از تاریخ ما بود و کاری از دست ما ساخته نیست.»\n🔹\nاسکالونی درباره شرایط بدنی و خستگی بازیکنانش گفت: «ما در شرایط خوبی هستیم و واقعاً نمی‌توانیم برای شروع بازی صبر کنیم. این نیمه‌نهایی جام جهانی است و امیدهای ما دست‌نخورده باقی مانده است. یک ماه و نیم پیش، اگر رسیدن به نیمه‌نهایی را به من پیشنهاد می‌دادید، بی‌درنگ می‌پذیرفتم؛ بنابراین برایم مهم نیست چطور به اینجا رسیده‌ایم. نمی‌توانم از بازیکنانم خرده بگیرم. خسته باشیم یا نه، برایم اهمیتی ندارد. این نیمه‌نهایی جام جهانی است.»\n@iranintltvsport",
+        "date": "2026-07-15T09:35:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347681_0_cc28abf9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_347681_1_2f250227.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347681"
+      },
+      {
+        "id": 347680,
+        "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال، به مشکلات معیشتی خانواده‌اش اشاره کرد و گفت کابینت‌های خانه از خوراکی و مواد غذایی خالی است و فرزندش را با تخم‌مرغ سیر می‌کند. او پرسید: «آیا باید رطب بخوریم؟»",
+        "date": "2026-07-15T09:34:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347680_0_cc28abf9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347680_1_38b0b570.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347680"
+      },
+      {
         "id": 347679,
         "text": "سالار ولایتمدار، عضو کمیسیون امنیت ملی مجلس، در گفت‌وگو با باشگاه خبرنگاران جوان اعلام کرد جمهوری اسلامی می‌خواهد بتی را بشکند که سال‌ها به مردم «ظلم کرده و خون‌ها خورده و خون‌ها ریخته» است.\nولایتمدار گفت: «مردم ما در خیابان فریاد می‌زنند حرف ما یک کلام، انتقام، انتقام؛ که شعار بسیار راهبردی است.» او افزود این امر هزینه دارد و مردم باید پرداخت این هزینه را بپذیرند.\nعضو کمیسیون امنیت ملی مجلس گفت: «ممکن است در این راه زیرساخت‌های ما آسیب ببیند و در سطح جامعه با کمبود مواجه شویم، به همین دلیل باید از همین حالا برای مردم تشریح شود و رسانه‌ها در این موضوع کار کنند.»\nاو ادامه داد: «همه باید این را بدانند که ما بعد از کشته شدن رهبرمان، دنیا را سه‌طلاقه کردیم.»\niranintl.com/202607151518",
         "date": "2026-07-15T09:23:29+00:00",
@@ -11850,10 +12259,6 @@
         "media": [
           {
             "type": "image",
-            "file": "IranintlTV_347597_0_cc28abf9.jpg"
-          },
-          {
-            "type": "image",
             "file": "IranintlTV_347597_1_8cf0106c.jpg"
           }
         ],
@@ -11872,18 +12277,9 @@
         "id": 347593,
         "text": "گروهی از ایرانیان سه‌شنبه ۲۳ تیرماه با تجمع مقابل پارلمان بریتانیا در لندن، به اعدام‌ها در ایران اعتراض کردند. شرکت‌کنندگان در این تجمع خواستار اخراج دیپلمات‌های جمهوری اسلامی شدند و با تروریستی خواندن سپاه پاسداران، بر ضرورت مقابله با جمهوری اسلامی تاکید کردند. آنان همچنین با در دست داشتن پلاکاردها، خواستار حمایت از زندانیان محکوم به اعدام و رساندن صدای آنان به جهان شدند.",
         "date": "2026-07-14T20:02:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347593_0_cc28abf9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_347593_1_0b71f014.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/347593"
       },
@@ -11891,16 +12287,7 @@
         "id": 347592,
         "text": "معاون امنیتی و انتظامی استانداری خوزستان خبر داد که نقاطی در شهرستان اهواز هدف حمله و اصابت پرتابه‌های آمریکا قرار گرفته است.\nپیش‌تر نیز رسانه‌های ایران از شنیده‌شدن صدای انفجار در قشم، اهواز، بندرعباس و سیریک خبر دادند.\nhttps://iranintl.com/202607144495",
         "date": "2026-07-14T19:57:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347592_0_cc28abf9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_347592_1_1f061391.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202607144495",
@@ -11908,376 +12295,57 @@
             "display_text": "https://iranintl.com/202607144495"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/347592"
-      },
-      {
-        "id": 347591,
-        "text": "🎧\nنسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: موج تازه حملات آمریکا و پاسخ گسترده موشکی جمهوری اسلامی\n@iranintlTV",
-        "date": "2026-07-14T19:50:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347591_0_cc28abf9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347591"
-      },
-      {
-        "id": 347590,
-        "text": "فرماندهی مرکزی آمریکا (سنتکام) اعلام کرد سه‌شنبه ساعت ۲۲:۳۰ به وقت تهران، نیروهای این فرماندهی دور جدید حملات علیه جمهوری اسلامی را با هدف کاهش توانایی این کشور برای حمله به کشتی‌های تجاری در تنگه هرمز آغاز کردند.\nسنتکام افزود این حملات هم‌زمان با آماده‌سازی نیروهای آمریکایی برای ازسرگیری محاصره دریایی بنادر و مناطق ساحلی ایران انجام می‌شود. بر اساس این بیانیه، اجرای این محاصره از ساعت ۲۳:۳۰ به وقت تهران آغاز خواهد شد.\nhttps://iranintl.com/202607147600",
-        "date": "2026-07-14T19:49:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347590_0_cc28abf9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_347590_1_44af5b93.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607147600",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607147600"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/347590"
-      },
-      {
-        "id": 347589,
-        "text": "هم‌زمان با ادامه حملات متقابل جمهوری اسلامی و آمریکا، گزارش‌ها از موج تازه انفجارها در چند نقطه ایران و حملات موشکی جمهوری اسلامی به آن‌سوی خلیج فارس حکایت دارد.\nمعاون امنیتی استاندار بوشهر اعلام کرد که چهار نقطه در این استان هدف پرتابه‌های «دشمن» قرار گرفته‌اند.\nارزیابی شهیر شهیدثالث، تحلیل‌گر روابط بین‌الملل و مسائل ایران، و لیلا مروتی، تحلیل‌گر سیاسی، درباره تداوم تنش‌ها در تنگه هرمز و هدف آمریکا از حمله به مواضع نظامی جمهوری اسلامی در جنوب ایران\n@iranintltv",
-        "date": "2026-07-14T19:44:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347589_0_cc28abf9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_347589_1_86110af3.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347589"
-      },
-      {
-        "id": 347588,
-        "text": "غسان عاشور، تحلیلگر مسائل خاورمیانه، به ایران‌اینترنشنال گفت که با وجود اعلام آمادگی برخی گروه‌های مسلح برای تحویل سلاح، گروه‌هایی مانند کتائب حزب‌الله و نجبا که از جمهوری اسلامی فرمان می‌گیرند، همچنان با خلع سلاح مخالفت می‌کنند.\nاو تاکید کرد که تداوم نفوذ تهران نه‌تنها مانع برقراری امنیت و اجرای پروژه‌های اقتصادی و انرژی در عراق شده، بلکه این کشور را به واردات گاز و برق از ایران وابسته نگه داشته و توسعه زیرساخت‌های انرژی عراق را نیز به تاخیر انداخته است.\n@iranintltv",
-        "date": "2026-07-14T19:36:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347588_0_cc28abf9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_347588_1_4f2d3779.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347588"
-      },
-      {
-        "id": 347587,
-        "text": "🎧\nنسخه صوتی چشم‌انداز:‌ قلدری سپاه؛ احتمال جنگ ایران و کشورهای عربی\n@iranintlTV",
-        "date": "2026-07-14T19:34:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347587_0_cc28abf9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347587"
-      },
-      {
-        "id": 347586,
-        "text": "خبرگزاری دولتی ایرنا شامگاه سه‌شنبه ۲۳ تیر گزارش داد صدای سه انفجار پیاپی در بندرعباس شنیده شده است. به گزارش ایرنا، محل اصابت‌ها در شرق بندرعباس بوده است.\nهم‌زمان، خبرگزاری فارس، وابسته به سپاه پاسداران، گزارش داد مردم اهواز نیز صدای چند انفجار را شنیده‌اند. فارس اعلام کرد محل دقیق و منشا این انفجارها هنوز مشخص نیست و جزئیات تکمیلی بعدا منتشر خواهد شد. ایرنا نیز از شنیده شدن صدایی شبیه انفجار در بخش‌هایی از حاشیه شهر اهواز و ایجاد نگرانی در میان شهروندان خبر داد.\nhttps://iranintl.com/202607143892",
-        "date": "2026-07-14T19:33:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347586_0_cc28abf9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_347586_1_22d532f0.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607143892",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607143892"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/347586"
-      },
-      {
-        "id": 347585,
-        "text": "گروهی از ایرانیان روز سه‌شنبه در هامبورگ بر ادامه حمایت از مبارزه مردم ایران و مخالفت با جمهوری اسلامی تاکید کردند و یاد جاویدنامان انقلاب ملی ایرانیان را گرامی داشتند. شرکت‌کنندگان در همین تجمع با ادای احترام به سناتور لیندزی گراهام از مواضع او در حمایت از مردم ایران قدردانی کردند.",
-        "date": "2026-07-14T19:30:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347585_0_cc28abf9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_347585_1_b6d92d15.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347585"
-      },
-      {
-        "id": 347584,
-        "text": "کاظم غریب‌آبادی، معاون وزیر خارجه جمهوری اسلامی، اعلام کرد در گفت‌وگو با عمان هیچ توافقی درباره تنگه هرمز حاصل نشده است.\nاو با اشاره به حملات آمریکا در دو هفته گذشته گفت جمهوری اسلامی دیگر تعهدی به یادداشت تفاهم اسلام‌آباد، از جمله در موضوع تنگه هرمز، ندارد و هرگونه درخواست برای بازگشت به تعهدات این تفاهم، از جمله بازگشایی تنگه هرمز برای عبور کشتی‌ها را «بلاوجه و بی‌اساس» دانست.\nغریب‌آبادی همچنین گفت: «نوع پاسخ و واکنش ما به آمریکا باید پشیمان‌کننده باشد، نه متناسب.»\nhttps://iranintl.com/202607148464",
-        "date": "2026-07-14T19:22:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347584_0_cc28abf9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_347584_1_4f34f181.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607148464",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607148464"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/347584"
-      },
-      {
-        "id": 347583,
-        "text": "🔻\nبا وجود اینکه لامین یامال و پائو کوبارسی، هر دو ۱۹ ساله، اکنون در بالاترین سطح فوتبال جا افتاده‌اند، باز هم شگفت‌انگیز است که امشب در ترکیب اصلی اسپانیا در دیدار نیمه‌نهایی جام جهانی بازی می‌کنند.\n🔹\nدر واقع این دو پدیده بارسلونا باید این ماه در تیم زیر ۱۹ سال اسپانیا بازی می‌کردند.\n🔹\nتیمی که آخر هفته گذشته، حتی بدون دو استعداد بزرگ خود، قهرمان رقابت‌های قهرمانی زیر ۱۹ سال اروپا شد.\n🔹\nاسپانیا با پیروزی ۲ بر صفر مقابل آلمان در فینال روز شنبه، قهرمان این مسابقات شد؛ آن هم با آماری چشمگیر: ۱۹ گل زده و بدون دریافت حتی یک گل در پنج مسابقه این تورنمنت.\n🔹\nهرچند که ممکن است برخی از هم‌نسلان آن‌ها، از جمله تیاگو پیتارچ، بازیکن رئال مادرید، خیلی زودتر از آنچه انتظار می‌رود به کوبارسی و لامین یامال در تیم ملی بزرگسالان اسپانیا ملحق شوند.\n@iranintltvsport",
-        "date": "2026-07-14T19:20:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347583_0_cc28abf9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_347583_1_7be7eaa9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347583"
-      },
-      {
-        "id": 347582,
-        "text": "داده‌های شرکت «مارین‌ترافیک» نشان می‌دهد دست‌کم ۲۲ کشتی تجاری طی ۲۴ ساعت گذشته از تنگه هرمز عبور کرده‌اند؛ پیش از آنکه ضرب‌الاجل ساعت چهار بعدازظهر به وقت شرق آمریکا برای آغاز محاصره اعلام‌شده از سوی دونالد ترامپ، رییس‌جمهوری آمریکا، فرا برسد.\nدر این مدت، ۱۴ کشتی شامل ۱۱ کشتی باری و سه نفتکش وارد خلیج فارس شدند. هشت کشتی دیگر، شامل چهار کشتی باری و چهار نفتکش، از خلیج فارس خارج شدند.\nبا وجود این افزایش جزئی، میزان تردد همچنان تا حد زیادی در محدوده نرخ پایین عبور کشتی‌ها در هفته‌های اخیر قرار دارد. پیش از جنگ، به‌طور میانگین روزانه حدود ۱۱۰ کشتی از تنگه هرمز عبور می‌کردند.\nاختلال در سامانه موقعیت‌یابی کشتی‌ها نیز همچنان در منطقه ادامه دارد. این اختلال که ماه‌هاست در تنگه هرمز مشاهده می‌شود، باعث می‌شود موقعیت مخابره‌شده کشتی‌ها نادرست و در نقاطی متفاوت نمایش داده شود.\nhttps://iranintl.com/202607144165",
-        "date": "2026-07-14T19:13:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347582_0_cc28abf9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_347582_1_e1559be2.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607144165",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607144165"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/347582"
-      },
-      {
-        "id": 347581,
-        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در نشست خبری با علی الزیدی، نخست‌وزیر عراق، با اشاره به تحولات اخیر منطقه، اعلام کرد که خاورمیانه بیش از هر زمان دیگری در مسیر همگرایی قرار گرفته، اما جمهوری اسلامی همچنان مانعی برای این روند است.\nاو با اشاره به سرکوب اعتراضات در ایران گفت که حکومت ایران «۵۲ هزار معترض» را کشته و افزود که چنین اقداماتی باعث شده است این حکومت از حمایت و اعتماد کشورهای منطقه فاصله بگیرد.\n@iranintltv",
-        "date": "2026-07-14T19:11:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347581_0_cc28abf9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_347581_1_fc582b77.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347581"
-      },
-      {
-        "id": 347580,
-        "text": "سپاه پاسداران در بیانیه‌ای حملات شامگاه سه‌شنبه به «مواضع دشمن» در خاک بحرین و کویت را تایید کرد و گفت عملیات «نصر۲»، پاسخ به حملات عصر سه‌شنبه آمریکا به تعدادی از ایستگاه‌های ساحلی نیروهای مسلح جمهوری اسلامی بوده است.\nدر این بیانیه آمده است، در صورت تکرار حملات، مقابله به مثل جمهوری اسلامی ادامه خواهد داشت و این «تجاوزها» نتیجه‌ای جز تاخیر در بازگشایی تنگه هرمز ندارد.\nhttps://iranintl.com/202607144276",
-        "date": "2026-07-14T19:06:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347580_0_cc28abf9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_347580_1_d0f07593.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607144276",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607144276"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/347580"
-      },
-      {
-        "id": 347579,
-        "text": "یک شهروند از برگزاری یک تجمع حکومتی در شهریار ویدیویی فرستاد و در پیام خود گفت که حامیان جمهوری اسلامی شب‌ها با ایجاد سروصدای زیاد قصد دارند جمعیت خود را پرشمار نشان دهند اما تعداد آنها در چنین تجمع‌هایی اندک است.",
-        "date": "2026-07-14T19:02:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347579_0_cc28abf9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_347579_1_44f39854.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347579"
-      },
-      {
-        "id": 347578,
-        "text": "قلدری سپاه؛ احتمال جنگ ایران و کشورهای عربی\nچشم‌انداز با مهدی مهدوی‌آزاد\nنسخه کامل این برنامه در یوتیوب ایران‌اینترنشنال:\nyoutu.be/czyoBe08yGc\n@iranintltv",
-        "date": "2026-07-14T18:58:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347578_0_cc28abf9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_347578_1_4d60c5f7.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347578"
-      },
-      {
-        "id": 347577,
-        "text": "🔻\nهمزمان با مشخص شدن چهار تیم راه‌یافته به مرحله نیمه‌نهایی جام جهانی ۲۰۲۶، سرودهای ملی این کشورها نیز بار دیگر پیش از آغاز مسابقات در کانون توجه قرار گرفته‌اند؛ سرودهایی که هر یک ریشه‌ای تاریخی و متفاوت دارند.\n🔹\nسرود ملی انگلیس، قدیمی‌ترین سرود ملی جهان به شمار می‌رود و حدود ۲۸۰ سال پیش برای حمایت از پادشاه نوشته شده است.\n🔹\nسرود ملی آرژانتین اما از دل جنگ استقلال این کشور متولد شد و به یکی از مهم‌ترین نمادهای هویت ملی آرژانتینی‌ها تبدیل شده است.\n🔹\nسرود ملی فرانسه نیز در جریان انقلاب فرانسه به‌عنوان یک سرود جنگی شکل گرفت و همچنان یکی از حماسی‌ترین سرودهای ملی جهان محسوب می‌شود.\n🔹\nدر این میان، اسپانیا ویژگی منحصربه‌فردی دارد؛ سرود ملی این کشور برخلاف بسیاری از کشورهای جهان، شعر رسمی ندارد و تنها به‌صورت موسیقی اجرا می‌شود.\n🔹\nگزارش رها پوربخش، ایران‌اینترنشنال در هت‌تریک\n@iranintltvsport",
-        "date": "2026-07-14T18:53:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347577_0_cc28abf9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_347577_1_4c9da46b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347577"
-      },
-      {
-        "id": 347576,
-        "text": "محمدرضا عارف، معاون اول پزشکیان، سه‌شنبه در واکنش به سخنان ترامپ درباره تنگه هرمز گفت که او زیاد شوخی می‌کند و افرود بهترین چیزی که می‌توانم به او بگویم این است که «غلط کردی».\nاو افزود: «آمریکا با زیر پا گذاشتن سندی که به تازگی به امضا رسیده است، نشان داد که حرف‌هایش قابل اعتماد نیست.»\nhttps://iranintl.com/202607149178",
-        "date": "2026-07-14T18:52:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_347576_1_e05e8ff9.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607149178",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607149178"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/347576"
-      },
-      {
-        "id": 347575,
-        "text": "ویدیوهای رسیده به ایران اینترنشنال نشان می‌دهد که روز ۲۳ تیر، حدود ساعت ۱۴:۳۰، آتش‌سوزی گسترده‌ای در شهر فال استان فارس رخ داد. بر اساس روایت منتشرشده، مردم در فاصله حدود ۳۰۰ متری محل حضور داشتند و یک تا دو آتش‌نشان نیز در محل بودند، اما راوی از بی‌تفاوتی مسئولان مربوط برای مهار این آتش‌سوزی انتقاد کرد.",
-        "date": "2026-07-14T18:51:09+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347575"
-      },
-      {
-        "id": 347574,
-        "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
-        "date": "2026-07-14T18:41:57+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/347574"
-      },
-      {
-        "id": 347573,
-        "text": "ای‌بی‌سی نیوز شامگاه سه‌شنبه گزارش داد مقام‌های آمریکایی تایید کرده‌اند نیروهای ایالات متحده در حال انجام حملات هوایی جدید علیه اهدافی در ایران هستند.\nبه گفته یک مقام آمریکایی، این حملات از چند ساعت پیش آغاز شده و همچنان ادامه دارد.\nhttps://iranintl.com/202607141307",
-        "date": "2026-07-14T18:16:36+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607141307",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607141307"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/347573"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 49121,
+        "text": "Server:\nUnknown\nPort:\n443\nSecret:\n7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==\n@ProxyMTProto",
+        "date": "2026-07-15T11:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49121_0_c3846a3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49121"
+      },
+      {
+        "id": 49120,
+        "text": "Server:\nUnknown\nPort:\n443\nSecret:\nee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275\n@ProxyMTProto",
+        "date": "2026-07-15T10:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49120_0_c3846a3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49120"
+      },
+      {
+        "id": 49119,
+        "text": "Server:\nUnknown\nPort:\n6775\nSecret:\neee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d\n@ProxyMTProto",
+        "date": "2026-07-15T10:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49119_0_c3846a3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49119"
+      },
       {
         "id": 49118,
         "text": "Server:\nedge2.guardora.pro\nPort:\n443\nSecret:\n8f3c7a1d4b92e6c51a7d0fb843c2e91f\n@ProxyMTProto",
@@ -13732,51 +13800,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49020"
-      },
-      {
-        "id": 49019,
-        "text": "Server:\nproxy13.chunkycorp.shop\nPort:\n443\nSecret:\nee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275\n@ProxyMTProto",
-        "date": "2026-07-12T09:30:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_49019_0_0bd8644d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49019"
-      },
-      {
-        "id": 49018,
-        "text": "Server:\n194.120.230.120\nPort:\n443\nSecret:\n3XnnAQIAAQAH8AMDhuJMOt0\n@ProxyMTProto",
-        "date": "2026-07-12T09:00:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_49018_0_0bd8644d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49018"
-      },
-      {
-        "id": 49017,
-        "text": "Server:\nad1.arixo.shop\nPort:\n443\nSecret:\neee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70\n@ProxyMTProto",
-        "date": "2026-07-12T08:30:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_49017_0_0bd8644d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49017"
       }
     ],
     "XpnTeam": [
@@ -17926,6 +17949,101 @@
     ],
     "persian_asasins": [
       {
+        "id": 18791,
+        "text": "قبول دارین اکثر کسایی که از این ایموجی \"\n😉\n\" استفاده میکنن مادرشون کونیه\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
+        "date": "2026-07-15T11:06:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_18791_0_9b217c1e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/18791"
+      },
+      {
+        "id": 18790,
+        "text": "خیلی حرفه ها\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
+        "date": "2026-07-15T11:02:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_18790_0_9b217c1e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "persian_asasins_18790_1_bb82ab7d.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/18790"
+      },
+      {
+        "id": 18789,
+        "text": "طبق اعلام ترامپ به احتمال ۹۰ درصد مقوایی وجود نداشته باشه\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
+        "date": "2026-07-15T10:57:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_18789_0_9b217c1e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "persian_asasins_18789_1_45a7f19f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/18789"
+      },
+      {
+        "id": 18788,
+        "text": "وقتی بنده رو مجبور میکنن برای خامنه ای بنر بزنم ᴊᴏɪɴ ᴜs @persian_asasins | پرشین اساسین",
+        "date": "2026-07-15T09:35:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_18788_0_9b217c1e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "persian_asasins_18788_1_2f113c4f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "persian_asasins_18788_2_59290b05.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/18788"
+      },
+      {
+        "id": 18787,
+        "text": "وقتی بنده رو مجبور میکنن برای خامنه ای بنر بزنم\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
+        "date": "2026-07-15T09:34:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_18787_0_9b217c1e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "persian_asasins_18787_1_67ffb4ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/18787"
+      },
+      {
         "id": 18786,
         "text": "پس از مدت‌ها،\nچالش سعی کن نخندی با عمو مناخیم\n💫\nاین قسمت: شمر الاسفنجی\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
         "date": "2026-07-15T05:32:26+00:00",
@@ -19700,108 +19818,141 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/persian_asasins/18675"
-      },
-      {
-        "id": 18674,
-        "text": "درود\nصحبتی داشتم با اینکه در زمان جنگ این موضوع در اولویت نبود و چشم پوشی کردیم اما چون اکنون در حال بدتر شدن گسترش است لازم شد تا درباره آن بگویم\nدر حال حاضر 90 درصد چنل هایی که در جنگ 12 روزه مادرقحبگی خود را به وضوح نشان دادند و چون خودتان مثال های زیادی دیدید و به یاد دارید لازم نیست در مورد آنها ذکر خاطر کنم\nچنل ما از معدود چنل هایی بود که در آن زمان جلوی این قحبگان مجازی ایستاد و البته که حتی بسیار هم در بین مردم منفور شد این دسته از چنل ها در جنگ اخیر که به ظاهر از سرنگونی جمهوری اسلامی طرفداری می‌کردند و از اشخاصی مانند جناب رضا پهلوی ، نتانیاهو و ترامپ حمایت می‌کردند\nنه به خاطر اینکه عقیده شان عوض شده بود بلکه بخاطر جذب مخاطب و محبوبیت و حفظ تعداد بیننده بود و می‌دانستند که اگر در آن موقع مثل زمان جنگ 12 روزه رفتار کنند اول از همه ممبر های خودشان با مادرشان فلان کار را میکنند\nو همینطور باید به این موضوع اشاره کنم که به اندازه کافی از داستان دی ماه به نفع خودشان کره گیری کرده بودند\nحال با گذشت زمان دوباره به تنظیمات کارخانه برگشته و با خلوص بالایی از حرامزادگی دوباره شروع به مادرجنگی کرده و سعی در عادی سازی این موضوع در بین مردم را دارند\nکه اولش با توهین و فحش به ترامپ و آمریکا شروع شده و بعد کم کم نوبت اسرائیل و نتانیاهو و حتی به خود شخص رضا پهلوی ختم خواهد شد و به همین راحتی این حرکت را در بین اشخاص آیکیو تک رقمی جامعه که پروپاگاندای حکومت بوده و هست ترند می‌کنند\nاین را به یاد داشته باشید که مردم آگاه هستند و مثل قبل گول بازی ناموس متقلب و مکار شما را نمی‌خورند و حنای ناموس شما در بین اکثریت مردم دیگر رنگی ندارد\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
-        "date": "2026-06-10T21:31:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "persian_asasins_18674_0_dcb3bdc1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/18674"
-      },
-      {
-        "id": 18673,
-        "text": "ایران ما، امروز بیش از هر زمان دیگری به اتحاد نیروهای ملی نیاز دارد. چه با حمایت خارجی و چه بدون آن، سرنوشت ایران در دستان خود ماست. ما از این رژیم فرسوده و درمانده نیرومندتریم. ما از مزدورانی که برای نمایش‌های تبلیغاتی به خیابان فرستاده می‌شوند، مصمم‌تر و استوارتریم.\n@OfficialRezaPahlavi",
-        "date": "2026-06-10T17:35:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "persian_asasins_18673_0_dcb3bdc1.jpg"
-          },
-          {
-            "type": "video",
-            "file": "persian_asasins_18673_1_95e0f273.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/18673"
-      },
-      {
-        "id": 18671,
-        "text": "خلاصه ترین و عصاره گیری شده ترین ترجمه رفتارای اسرائیل و جمهوری اسلامی سر لبنان:\nماجرا اینه:\n● ۱۰ قدم جلو آمدن رقیب = ۱۰ قدم عقب رفتن تو\n● ۲ قدم عقب رفتن حریف = 0 قدم جلو اومدن تو\n- تو دستاوردی نداشتی، ولی ۲ قدم عقب رفتن حریفتو درحالی که می‌دونی ۱۰ تای دیگه و جمعاً ۲۰ قدم جلو می‌خواد بیاد، اون ۲۰ قدم رو نادیده می‌گیری و دستاورد و پیروزیت می‌شه ۲ قدم عقب رفته حریف.\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
-        "date": "2026-06-09T13:35:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "persian_asasins_18671_0_8f534dfb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/18671"
-      },
-      {
-        "id": 18670,
-        "text": "امروز در ایران و لبنان چیزی به اسم حسن نصرالله و علی خامنه‌ای وجود ندارد\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
-        "date": "2026-06-09T09:05:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "persian_asasins_18670_0_8f534dfb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "persian_asasins_18670_1_ef3a0ccf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/18670"
-      },
-      {
-        "id": 18666,
-        "text": "جمهوری اسلامی در حمایت از تروریست‌های حزب‌الله لبنان، درگیری نظامی دیگری را آغاز کرد تا ماهیت ناایرانی و ضدایرانی خود را آشکارتر کند. این رژیم، ملت ایران را به گروگان گرفته و جان و مال ایرانیان را ابزاری برای صدور ترور، جنگ و بی‌ثباتی می‌بیند.\nدر این درگیری نیز، همچون همیشه، مسئول هرگونه آسیب به زیرساخت‌های ایران و جان غیرنظامیان بی‌گناه در هر دو سو، جمهوری اسلامی است.\nملت ایران، که نخستین و بزرگ‌ترین قربانی این رژیم بوده است، به‌خوبی می‌داند که تا زمانی که جمهوری اسلامی بر سر کار باشد، ترور، خشونت و بی‌ثباتی بر ایران، منطقه و جهان سایه خواهد افکند. صلح، امنیت و رونق پایدار تنها با پایان این رژیم امکان‌پذیر است.\nراه‌حل، مذاکره با سپاه پاسداران و تروریست‌های اشغالگر ایران نیست؛ راه‌حل، ایستادن در کنار ملت ایران و حمایت از مبارزه آن برای پایان دادن به جمهوری اسلامی است.\n@OfficialRezaPahlavi",
-        "date": "2026-06-08T19:45:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "persian_asasins_18666_0_8f534dfb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "persian_asasins_18666_1_fed791db.jpg"
-          },
-          {
-            "type": "image",
-            "file": "persian_asasins_18666_2_48238fbe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "persian_asasins_18666_3_a2a4dd72.jpg"
-          },
-          {
-            "type": "image",
-            "file": "persian_asasins_18666_4_a0d16a5d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/18666"
       }
     ],
     "yehirani": [
+      {
+        "id": 18829,
+        "text": "🔴\nاصلاحیه |  بر اساس تصمیم ستاد عالی آزمون های وزارت آموزش و پرورش و با توجه به شرایط خاص کشور در استان های\n#هرمزگان\n،\n#بوشهر\n،\n#خوزستان\nو\n#سیستان_و_بلوچستان\n، امتحانات نهایی تمامی رشته های تحصیلی پایه دوازدهم در روز پنجشنبه؛ مورخ 1405/04/25 و پایه یازدهم در روز شنبه، 1405/04/27 لغو و به زمان دیگری که متعاقباً اعلام خواهد شد، موکول می شود.\n🫥\n]\n@YehIrani\n| هیچ",
+        "date": "2026-07-15T10:46:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_18829_0_c97c38c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/18829"
+      },
+      {
+        "id": 18828,
+        "text": "#فوووری | امتحانات نهایی رشته های تحصیلی پایه دوازدهم در ۴ استان لغو شد\n⏪\nوزارت آموزش و پرورش: بر اساس تصمیم ستاد عالی آزمون های این وزارتخانه و با توجه به شرایط خاص کشور در استان های هرمزگان، بوشهر، خوزستان و سیستان و بلوچستان، امتحانات نهایی تمامی رشته…",
+        "date": "2026-07-15T10:45:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_18828_0_c97c38c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/18828"
+      },
+      {
+        "id": 18827,
+        "text": "از این دردناکتر نداریم\n💔\n؛\nویدیو عموپورنگ تو مراسم ختم مادرش:\nمن مادر ندارم، دیگه واسه کی گریه کنم.\nالان برم تو خونه کی بهم بگه سلام\n@yehirani\n| 𝐏𝐎𝐔𝐑𝐢",
+        "date": "2026-07-15T10:38:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_18827_0_c97c38c9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "yehirani_18827_1_d33e8c5c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/18827"
+      },
+      {
+        "id": 18826,
+        "text": "🚨\nسنتکام آغاز حملات امروز را از ساعت ۱۳:۵۲ رسما اعلام کرد\n🫥\n]\n@YehIrani\n| هیچ",
+        "date": "2026-07-15T10:37:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_18826_0_c97c38c9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_18826_1_9cc05a7d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/18826"
+      },
+      {
+        "id": 18825,
+        "text": "#فوووری\n| امتحانات نهایی رشته های تحصیلی پایه دوازدهم در ۴ استان لغو شد\n⏪\nوزارت آموزش و پرورش: بر اساس تصمیم ستاد عالی آزمون های این وزارتخانه و با توجه به شرایط خاص کشور در استان های هرمزگان، بوشهر، خوزستان و سیستان و بلوچستان، امتحانات نهایی تمامی رشته های تحصیلی پایه دوازدهم در روز پنجشنبه 25 تیر و شنبه 27 تیر لغو و به زمان دیگری که متعاقباً اعلام خواهد شد، موکول می شود.\nامتحانات نهایی سایر استان ها و امتحانات بعدی استان های مذکور، بر اساس برنامه ابلاغی در موعد مقرر برگزار خواهد شد.\n🫥\n@YehIrani\n| هیچ",
+        "date": "2026-07-15T10:33:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_18825_0_c97c38c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/18825"
+      },
+      {
+        "id": 18824,
+        "text": "مقام ارشد امریکایی:ایران از توافق‌نامه تفاهم با ایالات متحده خارج شد\n🫥\n@YehIrani\n| هیچ",
+        "date": "2026-07-15T10:13:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_18824_0_c97c38c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/18824"
+      },
+      {
+        "id": 18823,
+        "text": "صنایع الکترونیک شیراز مورد اصابت قرار گرفت\n🫥\n@YehIrani\n| هیچ",
+        "date": "2026-07-15T09:57:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_18823_0_c97c38c9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_18823_1_afa51045.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/18823"
+      },
+      {
+        "id": 18822,
+        "text": "گزارشاتی از حمله به شیراز\nتایید میشه؟\n🫥\n@YehIrani\n| هیچ",
+        "date": "2026-07-15T09:55:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_18822_0_c97c38c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/18822"
+      },
       {
         "id": 18821,
         "text": "معلما وقتی دارن برگمو تصیح میکنن:\n🫥\n@YehIrani\n| هیچ",
@@ -21301,138 +21452,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/yehirani/18725"
-      },
-      {
-        "id": 18724,
-        "text": "🔴\nسایت رسمی رهبر اولین عکس جدید رهبر جمهوری اسلامی(مجتبی خامنه ای)رو منتشر کرد :\n+یسریا مدعی شدن چون لباس مشکی تنشه یعنی عکس جدید گرفته شده!\n@yehirani\n| 𝐏𝐎𝐔𝐑𝐢",
-        "date": "2026-07-12T11:03:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_18724_0_5e73ec46.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_18724_1_f6ef0129.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/18724"
-      },
-      {
-        "id": 18723,
-        "text": "لاس جمهوری اسلامی پسند:\n@yehirani\n| 𝐏𝐎𝐔𝐑𝐢",
-        "date": "2026-07-12T06:54:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_18723_0_5e73ec46.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_18723_1_9f723c7f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/18723"
-      },
-      {
-        "id": 18722,
-        "text": "لیندسی گراهام سناتور آمریکایی که از مخالفان سر سخت جمهوری اسلامی بود خیلی یهویی توی سن ۷۱ سالگی درگذشت!!!\n🫥\n@YehIrani\n| هیچ",
-        "date": "2026-07-12T06:31:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_18722_0_5e73ec46.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_18722_1_dfe13e52.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/18722"
-      },
-      {
-        "id": 18721,
-        "text": "🔴\nاین خبر که زیر نویس شبکه خبر گفته بعلت جنگ امتحانات لغو شد فیک هستش گول نخورید\nالان ۴ربع صبحه سگ بیدار نیس ایشالا بعد امتحات میگن دیگه امتحان نیس\n😂\n🌞\n@YehIrani\n| Dark",
-        "date": "2026-07-12T00:45:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_18721_0_5e73ec46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/18721"
-      },
-      {
-        "id": 18720,
-        "text": "تنها صدایی ک میشنوم\nصدای شکممه\n🌞\n@YehIrani\n| Dark",
-        "date": "2026-07-12T00:41:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_18720_0_5e73ec46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/18720"
-      },
-      {
-        "id": 18719,
-        "text": "احتمال داره نتا قطع بشه!\n📶\n❌\nبه عزیزانتون بگید که داستان از چه قراره\n📢\nو بگید ک اگه تونستن بیان تو پیام رسان هایی داخلی با تحت وب، با شماره ایرانی\n🇮🇷\n📱\nاگه نمیدونید چطوریه، بگید که تو. پست بعدی بگم بهتون دقیق تر ...\n📝\n✨\n🌞\n@YehIrani\n| Dark",
-        "date": "2026-07-12T00:35:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_18719_0_5e73ec46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/18719"
-      },
-      {
-        "id": 18718,
-        "text": "خب پس اخباری ک گفتن شرق تهران زدن چرت و پرته\nبگیرید بخوابید\n🌞\n@YehIrani\n| Dark",
-        "date": "2026-07-12T00:28:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_18718_0_5e73ec46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/18718"
-      },
-      {
-        "id": 18717,
-        "text": "تهران صدا میشنوید؟\n🌞\n@YehIrani\n| Dark",
-        "date": "2026-07-12T00:15:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_18717_0_5e73ec46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/18717"
       }
     ],
     "crgaming7": [
@@ -26292,22 +26311,22 @@
       }
     ]
   },
-  "last_update": "2026-07-15T09:34:24.946613+00:00",
+  "last_update": "2026-07-15T11:16:55.452252+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1626,
-    "total_media": 1805,
-    "total_files": 1805,
-    "total_links": 289,
+    "total_media": 1816,
+    "total_files": 1816,
+    "total_links": 285,
     "files_by_type": {
       "image": 1646,
-      "video": 156,
+      "video": 163,
       "document": 1,
-      "audio": 2
+      "audio": 6
     },
-    "referenced_files": 1805,
-    "existing_media_files": 1805,
-    "total_size_mb": 497.24,
-    "last_calculation": "2026-07-15T09:34:24.967894+00:00"
+    "referenced_files": 1816,
+    "existing_media_files": 1816,
+    "total_size_mb": 492.16,
+    "last_calculation": "2026-07-15T11:16:55.474109+00:00"
   }
 }
