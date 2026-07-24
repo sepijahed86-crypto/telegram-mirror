@@ -9183,6 +9183,69 @@
     ],
     "IranintlTV": [
       {
+        "id": 349308,
+        "text": "خبرگزاری رویترز گزارش داد که صبح جمعه دوم مرداد، آژیرهای هشدار در بحرین به صدا درآمد. این خبر جزئیات بیشتری درباره علت به صدا درآمدن آژیرها منتشر نکرد.\nhttps://iranintl.com/202607249419",
+        "date": "2026-07-24T05:07:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349308_0_fb529713.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_349308_1_e66e1d16.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607249419",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607249419"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/349308"
+      },
+      {
+        "id": 349307,
+        "text": "سرخط خبرهای جمعه ۲ مرداد\n@iranintltv",
+        "date": "2026-07-24T04:45:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349307_0_fb529713.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_349307_1_8b76ec82.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/349307"
+      },
+      {
+        "id": 349306,
+        "text": "تیم شیهی، سناتور جمهوری‌خواه، در نطقی در سنای آمریکا، با هشدار درباره نقش جمهوری اسلامی در گسترش ایدیولوژی خود گفت که جمهوری اسلامی ۴۷ سال پیش این جنگ را علیه آمریکا آغاز کرده، اما ایالات متحده آن را به پایان خواهد رساند.\nسناتور تیم شیهی گفت: «اکنون زمان آن رسیده است که این مشکل حل شود تا نسل دیگری از آمریکایی‌ها مجبور نباشند با چنین دشمنی قاتل و بی‌رحم بجنگند.»\nاو افزود حکومتی که آمریکا امروز با آن می‌جنگد، هیچ اهمیتی به اختلاف‌های سیاسی داخلی این کشور نمی‌دهد.\nاین سناتور جمهوری‌خواه گفت: «برای آن‌ها مهم نیست به چه کسی رای داده‌اید، چگونه دعا می‌کنید یا کجا زندگی می‌کنید. آن‌ها می‌خواهند همه ما را بکشند. فقط هم این را نمی‌گویند، بلکه واقعا این کار را انجام می‌دهند و ۴۷ سال است که چنین می‌کنند.»\nتیم شیهی افزود این جنگ را گروهی از «تروریست‌های» افراطی و دیوانه آغاز کردند که ۴۷ سال پیش کشوری زیبا را به دست گرفتند.\niranintl.com/202607247430",
+        "date": "2026-07-24T04:32:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349306_0_fb529713.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_349306_1_a3eac561.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/349306"
+      },
+      {
         "id": 349305,
         "text": "وال‌استریت ژورنال به نقل از یک مقام آمریکایی گزارش داد، مقام‌های اسرائیلی با وجود تنش میان دونالد ترامپ، رییس‌جمهوری آمریکا، و بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در تلاش هستند دیداری میان آن‌ها ترتیب دهند.\nاین روزنامه به نقل از همان مقام نوشت ترامپ از نتانیاهو ناامید شده و گاهی تمایلی به گفت‌وگو یا دیدار با او ندارد.\nوال‌استریت ژورنال همچنین به نقل از منابعی گزارش داد ادامه جنگ با حکومت ایران آثار شخصی بر ترامپ و حلقه نزدیکانش گذاشته است.\nاین گزارش می‌افزاید نهادهای اطلاعاتی آمریکا به برخی دستیاران ارشد ترامپ درباره تهدیدهای احتمالی جمهوری اسلامی علیه آن‌ها هشدار داده‌اند و از برخی مقام‌های ارشد دولت نیز خواسته شده است به دلایل امنیتی استفاده از خدمات خودروهای اینترنتی را متوقف کنند.\nhttps://iranintl.com/202607249312",
         "date": "2026-07-24T04:06:36+00:00",
@@ -10793,51 +10856,39 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/349203"
-      },
-      {
-        "id": 349202,
-        "text": "سپاه پاسداران در بیانیه‌ای با اعلام خبر حمله به پایگاه العدیری در کویت، نوشت: «دشمن باید تاوان عهدشکنی خود را بپردازد و این بار اجازه نخواهیم داد آمریکا با آتش‌بس‌های فریبنده، ذخایر نفت و مهمات خود را جایگزین و پس از آن مجددا حملات را از سرگیرد.»\nسپاه نوشت: «آمریکای شکست خورده در میدان جنگ، باز هم در صدد است با خدعه و نیرنگ، فرصت مجددی برای تنفس و تجدید قوا برای حمله ایجاد کنند و در بیانات روزهای اخیر مرتبا از برگشت به مذاکره حرف می‌زند.»\nhttps://iranintl.com/202607234075",
-        "date": "2026-07-23T13:51:53+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607234075",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607234075"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/349202"
-      },
-      {
-        "id": 349201,
-        "text": "«برنامه» صدای شماست.\nما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\nبیایید و روایت خود را برای همیشه ثبت کنید.\nتاریخ با صدای شما نوشته می‌شود.\nبرای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:  ۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n«برنامه با کامبیز حسینی»\n«یک ایران صدای شما را می‌شنود»\n@iranintltv",
-        "date": "2026-07-23T13:43:48+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/349201"
-      },
-      {
-        "id": 349200,
-        "text": "دفتر بنیامین نتانیاهو، نخست‌وزیر اسرائیل پنج‌شنبه اعلام کرد پیوستن عربستان سعودی به توافق‌های ابراهیم، تحولی تاریخی در مسیر صلح در خاورمیانه خواهد بود.\nدفتر نخست‌وزیر اسرائیل افزود اقدام نظامی مشترک آمریکا و اسرائیل علیه جمهوری اسلامی و تضعیف محور «تروریستی» تهران، زمینه را برای گسترش دایره صلح فراهم کرده است.\nhttps://iranintl.com/202607234726",
-        "date": "2026-07-23T13:29:43+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607234726",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607234726"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/349200"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 49405,
+        "text": "Server:\nlogs.jinxandjack.co.uk.\nPort:\n443\nSecret:\needdffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169\n@ProxyMTProto",
+        "date": "2026-07-24T05:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49405_0_27d95efe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49405"
+      },
+      {
+        "id": 49404,
+        "text": "Server:\nUnknown\nPort:\n443\nSecret:\nee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70\n@ProxyMTProto",
+        "date": "2026-07-24T04:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49404_0_27d95efe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49404"
+      },
       {
         "id": 49403,
         "text": "Server:\nUnknown\nPort:\n443\nSecret:\neef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
@@ -11942,26 +11993,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49306"
-      },
-      {
-        "id": 49305,
-        "text": "Server:\ncdn.savelyev.click\nPort:\n443\nSecret:\nee289573f97532f1d66fe239efbf0585ad63646e2e736176656c7965762e636c69636b\n@ProxyMTProto",
-        "date": "2026-07-21T05:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49305"
-      },
-      {
-        "id": 49304,
-        "text": "Server:\nrelaywise.co.uk.\nPort:\n443\nSecret:\nddf0eeb0bd9adc4fd4a93994ee3b2a216b\n@ProxyMTProto",
-        "date": "2026-07-21T05:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49304"
       }
     ],
     "XpnTeam": [
@@ -23492,21 +23523,21 @@
       }
     ]
   },
-  "last_update": "2026-07-24T04:18:51.167390+00:00",
+  "last_update": "2026-07-24T05:29:37.862109+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1628,
-    "total_media": 1156,
-    "total_files": 1156,
-    "total_links": 319,
+    "total_media": 1164,
+    "total_files": 1164,
+    "total_links": 318,
     "files_by_type": {
-      "image": 1024,
-      "video": 118,
+      "image": 1031,
+      "video": 119,
       "audio": 14
     },
-    "referenced_files": 1156,
-    "existing_media_files": 1156,
-    "total_size_mb": 497.56,
-    "last_calculation": "2026-07-24T04:18:51.181416+00:00"
+    "referenced_files": 1164,
+    "existing_media_files": 1164,
+    "total_size_mb": 498.8,
+    "last_calculation": "2026-07-24T05:29:37.876355+00:00"
   }
 }
