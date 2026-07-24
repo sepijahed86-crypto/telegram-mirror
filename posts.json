@@ -321,6 +321,42 @@
     ],
     "apkclub": [
       {
+        "id": 71565,
+        "text": "به جای روزی دو ساعت خبر خوندن، پنج دقیقه کانال شریف رو بخون هر خبری لازمه بدونی اینجا هست:\nhttps://t.me/+kUpKRNH6rmI4YWU0",
+        "date": "2026-07-24T19:24:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71565_0_e83a54bc.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+kUpKRNH6rmI4YWU0",
+            "type": "telegram",
+            "display_text": "https://t.me/+kUpKRNH6rmI4YWU0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/apkclub/71565"
+      },
+      {
+        "id": 71564,
+        "text": "",
+        "date": "2026-07-24T19:23:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71564_0_e83a54bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/71564"
+      },
+      {
         "id": 71563,
         "text": "#کسب_درآمد\n🟢\nبانکینو با ۱۰۰ هزار تومن هدیه نقدی و ارسال رایگان کارت\n🟢\n✅\nلینک دانلود مستقیم\nکد معرف :\n00ETSJF\n🩵\nحمایت شما، انگیزه ادامه مسیر ماست.\n🩵\n🟠\n@APKCLUB",
         "date": "2026-07-24T18:52:28+00:00",
@@ -1394,26 +1430,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/apkclub/71461"
-      },
-      {
-        "id": 71460,
-        "text": "",
-        "date": "2026-07-19T12:35:52+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71460"
-      },
-      {
-        "id": 71459,
-        "text": "💻\nZyra AI Chatbot\n🔝\nV1.1.2\n⭐️\nنسخه پریمیوم هوش مصنوعی زیرا\n🔖\nویژگی‌های برنامه:\n🔵\nتولید متن در سبک‌های مختلف\n🔵\nتحلیل اطلاعات و ارائه توضیح\n🔵\nنوشتن پیام، متن‌های کاربردی و توضیحات\n🔵\nپشتیبانی از مکالمات طولانی و موضوعات پیچیده\n🔵\nمحیط ساده و مناسب کاربران مبتدی و حرفه‌ای\n📱\nبرای دانلود فایل بر روی\n(\nدانــلود\n) کلیک کنید.\n🌟\n@APKCLUB",
-        "date": "2026-07-19T11:00:02+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71459"
       }
     ],
     "MediaMardom": [
@@ -4424,6 +4440,21 @@
     ],
     "withyashar": [
       {
+        "id": 19591,
+        "text": "کانال ۱۴ : «طبق یک گزارش جدید، چند تن از مشاوران ارشد رئیس‌جمهور هشدارهای اطلاعاتی دریافت کرده‌اند که ایران در تلاش است آن‌ها را هدف قرار دهد. در نتیجه، به برخی از آن‌ها دستور داده شد که به‌دلیل نگرانی از وقوع یک حملهٔ برنامه‌ریزی‌شده، استفاده از سرویس‌های هم‌سفری و خودروهای کرایه‌ای را متوقف کنند. هم‌زمان، خودِ ترامپ نیز از سوی اسرائیل در جریان اطلاعاتی قرار گرفت که نشان می‌داد تهران در حال بررسی طرحی تازه برای هدف قرار دادن اوست.»\n@WarRoom",
+        "date": "2026-07-24T19:11:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19591_0_96e54754.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19591"
+      },
+      {
         "id": 19590,
         "text": "المیادین: واشنگتن از رهبران کردستان عراق خواسته در جنگ علیه ایران وارد شوند و ایران هم به اربیل درباره پیامدهای هرگونه همراهی با این جنگ هشدار داده است\n@WarRoom",
         "date": "2026-07-24T18:58:34+00:00",
@@ -6093,21 +6124,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/19474"
-      },
-      {
-        "id": 19473,
-        "text": "سنای آمریکا سد راه محدودیت جنگی ترامپ شد\nمجلس سنای آمریکا، طرحی را که قصد داشت اختیارات نظامی دونالد ترامپ برای آغاز جنگ احتمالی علیه ایران را محدود کند، متوقف کرد.\n@WarRoom",
-        "date": "2026-07-23T16:46:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19473_0_f5a92a65.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19473"
       }
     ],
     "vahidonline": [
@@ -8006,6 +8022,36 @@
     ],
     "configraygan": [
       {
+        "id": 7871,
+        "text": "میخوایم یه پیج طلافروشی انلاین بزنم ، تقریبا ۱۵۰ گرم اینا طلا ابشده دارم ، ازاول ارزوم بوده طلا فروشی داشته باشم ، و میخام با انلاین شاپ (اینستا و سایت ) شروع کنم . به نظرتون امکان پذیره ؟ چه پیشنهاد هایی دارین ؟ بکنم نکنم؟ چیارو رعایت بکنم ؟ میخام ابشده هارو…",
+        "date": "2026-07-24T19:05:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7871_0_835cf981.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/configraygan/7871"
+      },
+      {
+        "id": 7870,
+        "text": "میخوایم یه پیج طلافروشی انلاین بزنم ، تقریبا ۱۵۰ گرم اینا طلا ابشده دارم ، ازاول ارزوم بوده طلا فروشی داشته باشم ، و میخام با انلاین شاپ (اینستا و سایت ) شروع کنم . به نظرتون امکان پذیره ؟ چه پیشنهاد هایی دارین ؟ بکنم نکنم؟ چیارو رعایت بکنم ؟\nمیخام ابشده هارو بدم ، طلا های مینیمال و کم وزن بجاش بگیرم ، شروع کنم . نظرتون چیه؟\nبزنم ،حمایتم میکنید؟",
+        "date": "2026-07-24T19:04:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7870_0_835cf981.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/configraygan/7870"
+      },
+      {
         "id": 7869,
         "text": "اگر نمیدونید معماری پردازنده‌تون چیه، این نسخه رو نصب کنید\nUniversal",
         "date": "2026-07-24T13:20:36+00:00",
@@ -9267,26 +9313,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/configraygan/7744"
-      },
-      {
-        "id": 7743,
-        "text": "vless://5%F0%9F%91%89TEL--JKVPN@37.156.43.207:8080?security=reality&encryption=none&pbk=T4N50lQCwR6TNe1oUzM9hM5NPEOqPOcUphfG5vWmUgU&host=www.yahoo.com&headerType=http&fp=chrome&spx=%2FttMOdSyneIdImqQ&type=tcp&sni=yahoo.com&sid=65caf3e0cab795e8#configraygan_1\nvless://8b62732c-0d4a-4f8f-80cf-f9d30de33b62@37.156.40.244:2082?security=reality&encryption=none&pbk=_Ep9rs71EW4BYpupN25Z91tKS4u2jyWERfrb0CY1OiE&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=0b#configraygan_2\nvless://d7f33e89-0eab-4d55-8588-59b1994e8d82@172.67.199.35:2096?path=%2FeyJqdW5rIjoieHZVS3U2MDBUSmFUbGhxMCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ezaccess-project-e87490.postttt.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=EZaccEss-PrOjeCt-e87490.poStTtT.WOrKeRS.dEV#configraygan_3\nvless://81199728-fa05-46d6-abc5-aa171ba2977a@188.114.96.3:8443?path=%2FeyJqdW5rIjoiTGFLclZPYWwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=v2ngnet.kalanman.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=v2NgnET.KalanMAN.wORKerS.dEv#configraygan_4\nvless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#configraygan_5\nvless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#configraygan_6\nvless://XpnTeam-6@199.232.130.246:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#configraygan_7\nvless://8b62732c-0d4a-4f8f-80cf-f9d30de33b62@37.156.40.244:2082?security=reality&encryption=none&pbk=_Ep9rs71EW4BYpupN25Z91tKS4u2jyWERfrb0CY1OiE&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=0b#configraygan_8\nvless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all44.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#configraygan_9\nvless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#configraygan_10\nvless://286c065e-566f-438c-b7c4-9c361baf96aa@c9v1mt2xe451.contigolibre.com:21847?security=reality&encryption=none&pbk=iZmzx7jEQZkVdLufLkHwuVIRXFYdhKG9Fi3AOrbhH3Q&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2FUVkB951T53SwoEX&type=tcp&sni=www.speedtest.net&sid=373f#configraygan_11\nvless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all27.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#configraygan_12\nvless://e1ea855f-d0c2-5ed2-a454-294bb73c0cee@104.16.72.70:8443?path=%2FZoRoVpn&security=tls&encryption=none&insecure=0&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&type=ws&allowInsecure=0&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com#configraygan_13\nvless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#configraygan_14",
-        "date": "2026-06-22T14:17:04+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7743"
-      },
-      {
-        "id": 7742,
-        "text": "لینک گروه : برای تبادل اطلاعات\n@configraygan_group",
-        "date": "2026-06-22T10:18:39+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7742"
       }
     ],
     "IranintlTV": [
@@ -10067,10 +10093,6 @@
           {
             "type": "image",
             "file": "IranintlTV_349389_0_fb529713.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_349389_1_57930311.jpg"
           }
         ],
         "links": [
@@ -10088,16 +10110,7 @@
         "id": 349388,
         "text": "وزارت خزانه‌داری آمریکا اعلام کرد تحریم‌های جدیدی مرتبط با ایران صادر کرد که بر اساس آن چهار فرد و ۹ شرکت از جمله یک شرکت مستقر در ترکیه و دو شرکت مستقر در امارات متحده عربی، به دلیل ارتباط با بابک زنجانی تحریم شدند.\nسولماز بنی، سخروب اویماخمادوف (شهروند تاجیکستان)، مهدی رضازاده و بهاره زنجانی چهار فردی هستند که در ارتباط با بابک زنجانی تحریم شدند.\nبابک زنجانی به دلیل مشارکت در تامین مالی سپاه و گروهی از ناقضان حقوق بشر در جمهوری اسلامی از سوی بریتانیا و ایالات متحده تحریم شده است.\nhttps://iranintl.com/202607247564",
         "date": "2026-07-24T14:31:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_349388_0_fb529713.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_349388_1_1331d2c5.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202607247564",
@@ -10105,7 +10118,7 @@
             "display_text": "https://iranintl.com/202607247564"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/349388"
       },
@@ -10749,6 +10762,21 @@
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 49435,
+        "text": "Server:\ncdn.savelyev.click\nPort:\n443\nSecret:\nee47db8cfb73a38af6c54d8976432e265863646e2e736176656c7965762e636c69636b\n@ProxyMTProto",
+        "date": "2026-07-24T19:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49435_0_606fe747.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49435"
+      },
       {
         "id": 49434,
         "text": "Server:\nUnknown\nPort:\n88\nSecret:\nee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d\n@ProxyMTProto",
@@ -11818,19 +11846,39 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49336"
-      },
-      {
-        "id": 49335,
-        "text": "Server:\nportal.malevich7.top\nPort:\n443\nSecret:\neee30148fd4521c39485fba4d59705671a706f7274616c2e6d616c6576696368372e746f70\n@ProxyMTProto",
-        "date": "2026-07-21T20:28:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49335"
       }
     ],
     "XpnTeam": [
+      {
+        "id": 7995,
+        "text": "@XpnTeam-84.npvt",
+        "date": "2026-07-24T19:08:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "XpnTeam_7995_0_4d6148aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/XpnTeam/7995"
+      },
+      {
+        "id": 7994,
+        "text": "🔐\nTraffic\n: UN/\nLimited\n♾\nTime : nA\n⏰\n⚠️\nLocation :\n🌐\nApp\n⬇️\n:\nNapesterNet\n❓\n|- آموزش :\nفایل رو دانلود کنید و روش ضربه بزنید ، برنامه نپستر رو انتخاب و سپس وارد اپلیکیشن شید انتخاب کنید سرورو،بعدشم‌روشن‌کنید..\n🤩\n›\n@XpnTeam",
+        "date": "2026-07-24T19:07:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "XpnTeam_7994_0_4d6148aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/XpnTeam/7994"
+      },
       {
         "id": 7993,
         "text": "🚨\nیه‌بار وصل شو؛ نه ده‌بار\n❌\n🗽\nاگه از قطع‌و‌وصل شدن، سرعت پایین و سرویس‌های بی‌کیفیت خسته شدی، وقتشه یه اتصال درست‌وحسابی رو تجربه کنی.\n💀\n☑️\nبا سرویس‌های XpnTeam بدون دردسر به کارهات برس؛\n🤩\n☑️\nاتصال سریع و پایدار\n☑️\nآی‌پی ثابت\n☑️\nتست رایگان قبل از خرید\n☑️\nپلن‌های حجمی و نامحدود اقتصادی\n☑️\nپشتیبانی واقعی تا آخرین روز اشتراک\n🌐\n.\n۱۰ لوکیشن فعال و پرسرعت:\n🇩🇪\nآلمان |\n🇫🇮\nفنلاند |\n🇹🇷\nترکیه\n🇨🇭\nسوئیس |\n🇫🇷\nفرانسه |\n🇬🇧\nانگلیس\n🇳🇱\nهلند |\n🇸🇪\nسوئد |\n🇺🇸\nآمریکا |\n🇳🇴\nنروژ\n🎁\nاول رایگان تستش کن؛ بعد برای خرید تصمیم بگیر!\n🛒\nدریافت تست و خرید:\n@XpnAdmin",
@@ -12819,26 +12867,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/XpnTeam/7885"
-      },
-      {
-        "id": 7884,
-        "text": "@ XpnTeam-46.npvt",
-        "date": "2026-07-05T19:16:23+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/XpnTeam/7884"
-      },
-      {
-        "id": 7883,
-        "text": "🔐\nTraffic\n: UN/\nLimited\n♾\nTime : nA\n⏰\n⚠️\nLocation :\n🌐\nApp\n⬇️\n:\nNapesterNet\n❓\n|- آموزش :\nفایل رو دانلود کنید و روش ضربه بزنید ، برنامه نپستر رو انتخاب و سپس وارد اپلیکیشن شید انتخاب کنید سرورو،بعدشم‌روشن‌کنید..\n🤩\n›\n@XpnTeam",
-        "date": "2026-07-05T19:15:29+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/XpnTeam/7883"
       }
     ],
     "putakk": [
@@ -20505,6 +20533,50 @@
     ],
     "iranstop": [
       {
+        "id": 3502,
+        "text": "🔴\nاکبر عبدی در گذشت\nاکبر عبدی بازیگر سینما در سن 66 سالگی در گذشت",
+        "date": "2026-07-24T19:20:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "iranstop_3502_0_5a836535.jpg"
+          },
+          {
+            "type": "image",
+            "file": "iranstop_3502_1_00672bd5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/iranstop/3502"
+      },
+      {
+        "id": 3501,
+        "text": "👀\nدنبال سایت معتبر برای شرطبندی می‌گردید\n⁉️\n🎲\nسایت بین المللی و معتبر Melbet\n👍\n😁\n😊\n🙂\n🥇\nواریز و برداشت ارزی و ریالی\n‼️\n🔥\nبونوس 100% اولین واریز\n‼️\n⚽️\nبونوس ورزشی هر\nچهارشنبه\n‼️\n🆗\nکازینو و انفجار با ضرایب جهانی\n‼️\n🎁\nکد هدیه ثبت نام :Melbet90\n🇩🇪\nدانلود اپلیکیشن MELBET\n👉\n🔗\nلینک وبسایت\n👉\n⭕️\nجهت استفاده از vpn از IP های آسیایی یا کانادا استفاده کنید.\n🇨🇦\n🇹🇷\nG2\n✔\nhttps://t.me/+x60dZGAgXTUxM2U0",
+        "date": "2026-07-24T19:20:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "iranstop_3501_0_5a836535.jpg"
+          },
+          {
+            "type": "image",
+            "file": "iranstop_3501_1_91be0775.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+x60dZGAgXTUxM2U0",
+            "type": "telegram",
+            "display_text": "https://t.me/+x60dZGAgXTUxM2U0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/iranstop/3501"
+      },
+      {
         "id": 3500,
         "text": "🔴\nامروز 2 مرداد تولد نازنین‌زهرا صالحی دختر 13 ساله ایه که در ۱۹ دی تو کرمانشاه جون خودشو از دست داد.",
         "date": "2026-07-24T15:50:24+00:00",
@@ -21881,26 +21953,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/iranstop/3391"
-      },
-      {
-        "id": 3390,
-        "text": "🔴\nهم‌اکنون حملات ارتش آمریکا به جنوب کشور.",
-        "date": "2026-07-11T23:26:36+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/iranstop/3390"
-      },
-      {
-        "id": 3389,
-        "text": "🔴\nکاتز: ارتش اسرائیل توسط من و نخست‌وزیر نتانیاهو دستور دریافت کرده تا برای یک حمله مستقل به ایران آماده بشه.",
-        "date": "2026-07-11T23:08:55+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/iranstop/3389"
       }
     ],
     "BestProxyTel1": [
@@ -21908,18 +21960,9 @@
         "id": 12243,
         "text": "🔴\nاکبر عبدی، بازیگر سینما و تلویزیون، تو سن 66 سالگی درگذشت.\n🎖\n@BestProxyTel1",
         "date": "2026-07-24T18:11:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12243_0_9511ad98.jpg"
-          },
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12243_1_57b0ba99.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12243"
       },
@@ -23147,21 +23190,21 @@
       }
     ]
   },
-  "last_update": "2026-07-24T19:03:07.326044+00:00",
+  "last_update": "2026-07-24T19:32:20.171901+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1629,
-    "total_media": 1118,
-    "total_files": 1118,
-    "total_links": 287,
+    "total_media": 1124,
+    "total_files": 1124,
+    "total_links": 289,
     "files_by_type": {
-      "image": 977,
+      "image": 983,
       "video": 128,
       "audio": 13
     },
-    "referenced_files": 1118,
-    "existing_media_files": 1118,
-    "total_size_mb": 499.83,
-    "last_calculation": "2026-07-24T19:03:07.340317+00:00"
+    "referenced_files": 1124,
+    "existing_media_files": 1124,
+    "total_size_mb": 499.99,
+    "last_calculation": "2026-07-24T19:32:20.182410+00:00"
   }
 }
