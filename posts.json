@@ -1434,6 +1434,21 @@
     ],
     "MediaMardom": [
       {
+        "id": 10453,
+        "text": "استاد رائفی پور\n: تا فتح قدس یه یاعلی مونده\n❤️\n•\n@MediaMardom",
+        "date": "2026-07-24T23:43:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_10453_0_d8b6693b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/10453"
+      },
+      {
         "id": 10452,
         "text": "🔴\nخبرگزاری آسوشیتدپرس: ارتش آمریکا یک کشتی تجاری را در خلیج عمان رهگیری و توقیف کرد.\n❤️\n•\n@MediaMardom",
         "date": "2026-07-24T22:20:52+00:00",
@@ -2600,16 +2615,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/9575"
-      },
-      {
-        "id": 9574,
-        "text": "🔴\nایران پایگاه آمریکا تو اردن هم زد\n❤️\n•\n@MediaMardom",
-        "date": "2026-07-09T01:15:18+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/9574"
       }
     ],
     "whitedns": [
@@ -4601,6 +4606,142 @@
     ],
     "withyashar": [
       {
+        "id": 19632,
+        "text": "ششمین سوخترسان رو بانده پروازه در  اسرائیل @WarRoom",
+        "date": "2026-07-25T00:08:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19632_0_e389ca76.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19632"
+      },
+      {
+        "id": 19631,
+        "text": "وال استریت ژورنال: ترامپ به برخی از نزدیکانش گفته است که معتقد است\nاز طریق یک بمباران تهاجمی و جهنمی، جمهوری اسلامی را در هم بشکند.\n@WarRoom",
+        "date": "2026-07-25T00:01:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19631_0_e389ca76.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19631"
+      },
+      {
+        "id": 19630,
+        "text": "پنجمین سوخترسان از اسرائیل بلند شد @WarRoom",
+        "date": "2026-07-24T23:59:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19630_0_e389ca76.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19630"
+      },
+      {
+        "id": 19629,
+        "text": "نیویورک تایمز : نشست چگونگی حمله به ایران با حضور ترامپ داره انجام میشه و شروع شده\n@WarRoom",
+        "date": "2026-07-24T23:58:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19629_0_e389ca76.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19629"
+      },
+      {
+        "id": 19628,
+        "text": "با فاصله بلند شدن ۴ رمی هم داره تیک آف میکنه  @WarRoom",
+        "date": "2026-07-24T23:41:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19628_0_e389ca76.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_19628_1_173f1f3a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19628"
+      },
+      {
+        "id": 19627,
+        "text": "اوه اوه هواپیما جاسوسی ریوت جوینت هم از خانیا یونان داره بلند میشه ! @WarRoom\n🚨",
+        "date": "2026-07-24T23:22:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19627_0_e389ca76.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_19627_1_018c57f0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19627"
+      },
+      {
+        "id": 19626,
+        "text": "",
+        "date": "2026-07-24T23:20:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19626_0_e389ca76.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_19626_1_6aede495.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19626"
+      },
+      {
+        "id": 19625,
+        "text": "اوه اوه هواپیما جاسوسی ریوت جوینت هم از خانیا یونان داره بلند میشه !\n@WarRoom\n🚨",
+        "date": "2026-07-24T23:18:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19625_0_e389ca76.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_19625_1_b1d4ea66.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19625"
+      },
+      {
         "id": 19624,
         "text": "از شاهزاده سلطان عربستان هم سوخترسان داره بلند میشه…\n@WarRoom\n🚨",
         "date": "2026-07-24T23:13:22+00:00",
@@ -6133,156 +6274,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/19522"
-      },
-      {
-        "id": 19521,
-        "text": "اتاق جنگ با یاشار : بمباران اهواز توسط هواپیمای بمب افکن B-1\n@WarRoom",
-        "date": "2026-07-23T23:07:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19521_0_96e54754.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_19521_1_97847267.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19521"
-      },
-      {
-        "id": 19520,
-        "text": "",
-        "date": "2026-07-23T23:04:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19520_0_96e54754.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_19520_1_8023fc76.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19520"
-      },
-      {
-        "id": 19519,
-        "text": "",
-        "date": "2026-07-23T23:03:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19519_0_96e54754.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_19519_1_297cafe2.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19519"
-      },
-      {
-        "id": 19518,
-        "text": "اتاق جنگ با یاشار : سرطان  حتما تا اخر ببینید و نظرتون رو کامنت کنید میخونم کارای اداری یادتون نره مخصوصا اد تو استوری و ریشیر  https://www.instagram.com/reel/DbJowDnR54h/?igsh=MW0yMnB5cG5pa2FyNQ==",
-        "date": "2026-07-23T22:58:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19518_0_96e54754.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_19518_1_56f9224c.ogg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_19518_2_b857e275.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.instagram.com/reel/DbJowDnR54h/?igsh=MW0yMnB5cG5pa2FyNQ==",
-            "type": "instagram",
-            "display_text": "https://www.instagram.com/reel/DbJowDnR54h/?igsh=MW0yMnB5cG5..."
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/withyashar/19518"
-      },
-      {
-        "id": 19517,
-        "text": "",
-        "date": "2026-07-23T22:55:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19517_0_96e54754.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_19517_1_b6bc4ac2.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19517"
-      },
-      {
-        "id": 19516,
-        "text": "اهواز‌ ادامه داره همچنان….",
-        "date": "2026-07-23T22:55:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19516_0_96e54754.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19516"
-      },
-      {
-        "id": 19515,
-        "text": "اهواز انفجار ها زیاد بود حتی‌ بیشتر از ۱۰ عدد گزارش شده\n@WarRoom\n🚨\n🚨\n🚨\n🚨",
-        "date": "2026-07-23T22:54:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19515_0_96e54754.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19515"
-      },
-      {
-        "id": 19514,
-        "text": "۳ انفجار مهیب اهواز\n🚨\n🚨\n🚨\n@WarRoom",
-        "date": "2026-07-23T22:52:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19514_0_96e54754.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19514"
       }
     ],
     "vahidonline": [
@@ -9452,6 +9443,50 @@
     ],
     "IranintlTV": [
       {
+        "id": 349459,
+        "text": "جف بارتوس، نماینده آمریکا در امور مدیریت و اصلاحات سازمان ملل، از تمدید چهار ساله ماموریت فولکر تورک انتقاد کرد و گفت سازوکارهای حقوق بشر سازمان ملل دهه‌هاست اعتبار خود را از دست داده‌اند.\nمجمع عمومی سازمان ملل جمعه با اکثریت قاطع به ادامه ماموریت تورک رای داد.\nبارتوس او را متهم کرد که دموکراسی‌های غربی، به‌ویژه اسرائیل، را محکوم می‌کند، اما در برابر نقض حقوق بشر در کوبا رویکرد متفاوتی دارد.\nاو همچنین مدعی شد تورک پس از آغاز سرکوب اعتراضات در ایران ۱۲ روز سکوت کرد، اما اقدامات آمریکا برای جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای را به‌سرعت محکوم کرد.\nاین در حالی است که تورک در مواضع خود سرکوب اعتراضات دی‌ماه در ایران را محکوم کرده و ۲۳ دی از مقام‌های جمهوری اسلامی خواسته بود بی‌درنگ به خشونت و سرکوب معترضان مسالمت‌جو پایان دهند.",
+        "date": "2026-07-24T23:57:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349459_0_8cb7bd0e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_349459_1_05bd8476.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/349459"
+      },
+      {
+        "id": 349458,
+        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، جمعه با مشاوران ارشد و اعضای ارشد دولت خود دیدار کرد تا در مورد تشدید حمله نظامی علیه جمهوری اسلامی تصمیم بگیرد.\nروزنامه نیویورک‌تایمز به نقل از «چهار نفر که در جریان این بحث قرار داشتند»، نوشت: «این جلسه در حالی برگزار شد که ترامپ پس از فروپاشی آتش‌بس شکننده و تفاهم‌نامه‌ای که قرار بود ایالات متحده و ایران را برای خلع سلاح هسته‌ای بلندمدت به میز مذاکره بازگرداند، با یک نقطه عطف بالقوه در رویکرد خود در قبال ایران روبرو است.»\nبر اساس این گزارش، کاخ سفید فاش نکرد که آیا ترامپ نحوه اقدام علیه جمهوری اسلامی را تعیین کرده است یا خیر. اما ترامپ گفت که ارتش آماده است در صورت دستور، حملات سنگین‌تری را انجام دهد، حتی در حالی که در را برای یک راه‌حل دیپلماتیک باز می‌گذارد.\nhttps://iranintl.com/202607248674",
+        "date": "2026-07-24T23:18:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349458_0_8cb7bd0e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_349458_1_490f5f1a.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607248674",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607248674"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/349458"
+      },
+      {
         "id": 349457,
         "text": "آسوشیتدپرس گزارش داد کشورهای نفت‌خیز خاورمیانه در پی اختلال در تردد از تنگه هرمز، طرح‌های چند میلیارد دلاری برای ایجاد مسیرهای جایگزین صادرات نفت را سرعت بخشیده‌اند.\nدست‌کم هفت پروژه خط لوله در دست ساخت، برنامه‌ریزی یا بررسی است.\nعربستان سعودی و امارات اکنون از خطوط موجود به دریای سرخ و دریای عمان نزدیک به حداکثر ظرفیت استفاده می‌کنند و امارات در حال ساخت خط لوله‌ای سه میلیارد دلاری به فجیره است.\nعراق نیز مسیرهایی به ترکیه، سوریه و اردن را بررسی می‌کند.\nگلدمن ساکس برآورد کرده ظرفیت تازه دور زدن هرمز تا پایان ۲۰۲۸ به روزانه ۷.۳ میلیون بشکه برسد و امکان انتقال حدود ۶۰ درصد صادرات پیش از جنگ خلیج فارس بدون عبور از هرمز فراهم شود.\nبا این حال، مسیرهای جایگزین طولانی‌تر، پرهزینه‌تر و در برابر حملات آسیب‌پذیرند و مشکل صادرات ال‌ان‌جی قطر را نیز حل نمی‌کنند.\nمتن کامل را اینجا بخوانید\nhttps://iranintl.com/202607247094",
         "date": "2026-07-24T23:01:18+00:00",
@@ -10815,26 +10850,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/349357"
-      },
-      {
-        "id": 349356,
-        "text": "عباس عراقچی، وزیر خارجه جمهوری اسلامی، در بخش دیگری از  گفت‌وگو با جواد موگویی، مستندساز حکومتی گفت در سفر اخیرش به عراق، مردم با فریاد «بطل» از او استقبال کردند و افزود این استقبال نه از شخص او، بلکه از وزیر خارجه جمهوری اسلامی بود و عراقی‌ها با خطاب کردن او به عنوان «قهرمان»، از ایرانیان تمجید می‌کردند.\nوزیر خارجه جمهوری اسلامی افزود انتظار داشت صداوسیما تصاویر استقبال مردم عراق از او را پخش کند و نشان دهد جمهوری اسلامی تا چه اندازه در عراق «مورد احترام است»، اما هیچ‌یک از شبکه‌های صداوسیما این تصاویر را پخش نکردند.",
-        "date": "2026-07-24T10:37:20+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/349356"
-      },
-      {
-        "id": 349355,
-        "text": "محمدباقر محمدی لائینی، امام جمعه ساری، در خطبه‌های نماز جمعه این شهر گفت: «مسئولان سیاسی و دیپلماسی باید با روحیه عزتمندانه با آمریکا برخورد کنند و تا زمانی که تغییری در رفتار این کشور ایجاد نشده، دلیلی برای مذاکره وجود ندارد. ملت ایران نیز از مذاکره با آمریکا احساس نفرت و بی‌اعتمادی دارد.»\nاو ادامه داد: «امروز دشمنان با ایران مستقل، جمهوری اسلامی و دین اسلام مشکل دارند و فرهنگ غرب با ارزش‌های دینی سازگار نیست.»\nامام جمعه ساری افزود: «هر کشوری که در کنار آمریکا و اسرائیل قرار بگیرد، در جبهه باطل قرار دارد و در مقابل، هر دولت یا ملتی که از مظلومان حمایت کند، در جبهه حق قرار گرفته است.»\niranintl.com/202607244997",
-        "date": "2026-07-24T10:29:46+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/349355"
       }
     ],
     "ProxyMTProto": [
@@ -15743,6 +15758,25 @@
     ],
     "persian_asasins": [
       {
+        "id": 18937,
+        "text": "Good night\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
+        "date": "2026-07-24T23:30:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_18937_0_49d5768a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "persian_asasins_18937_1_92ac0eac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/18937"
+      },
+      {
         "id": 18936,
         "text": "کاش میشد واقعا برینم دهن مادر تک تک اونایی که تو چنلاشون از عمد کپشن اشتباه میزنن و یه سری مادرکونی تر جوگیر مراد ویسی رو مزدور جمهوری اسلامی خطاب میکنن\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
         "date": "2026-07-24T21:02:46+00:00",
@@ -17528,25 +17562,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/persian_asasins/18794"
-      },
-      {
-        "id": 18792,
-        "text": "قبول دارین اکثر کسایی که از این ایموجی \"\n😉\n\" استفاده میکنن مادرشون کونیه  ᴊᴏɪɴ ᴜs @persian_asasins | پرشین اساسین",
-        "date": "2026-07-15T11:17:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "persian_asasins_18792_0_9b217c1e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "persian_asasins_18792_1_2b0fb019.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/18792"
       }
     ],
     "yehirani": [
@@ -23337,21 +23352,21 @@
       }
     ]
   },
-  "last_update": "2026-07-24T23:15:01.457805+00:00",
+  "last_update": "2026-07-25T00:12:09.334144+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1629,
-    "total_media": 1130,
-    "total_files": 1130,
+    "total_media": 1133,
+    "total_files": 1133,
     "total_links": 308,
     "files_by_type": {
-      "image": 998,
+      "image": 1004,
       "video": 118,
-      "audio": 14
+      "audio": 11
     },
-    "referenced_files": 1130,
-    "existing_media_files": 1130,
-    "total_size_mb": 480.59,
-    "last_calculation": "2026-07-24T23:15:01.469247+00:00"
+    "referenced_files": 1133,
+    "existing_media_files": 1133,
+    "total_size_mb": 480.74,
+    "last_calculation": "2026-07-25T00:12:09.373049+00:00"
   }
 }
