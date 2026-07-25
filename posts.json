@@ -1513,6 +1513,40 @@
     ],
     "MediaMardom": [
       {
+        "id": 10475,
+        "text": "🔴\nکانال 14 اسرائیل:\nترامپ دستور داد همه حملات علیه ایران فعلا متوقف بشه\n❤️\n•\n@MediaMardom",
+        "date": "2026-07-25T19:49:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_10475_0_d8b6693b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/10475"
+      },
+      {
+        "id": 10474,
+        "text": "🔴\nایلان ماسک: در سیاست زیاده‌روی کردم!\nبهتر بود به جای دخالت در امور اجرایی واشنگتن، تمام تمرکز خودم را روی مدیریت شرکت‌هایم می‌گذاشتم.\n❤️\n•\n@MediaMardom",
+        "date": "2026-07-25T19:14:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_10474_0_d8b6693b.jpg"
+          },
+          {
+            "type": "video",
+            "file": "MediaMardom_10474_1_c75be14d.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/10474"
+      },
+      {
         "id": 10473,
         "text": "🔴\nترامپ: اگر ایران ۱۰۰ درصد از خواسته‌های مارو برآورده نکنه، جنگ رو با تمام قوا شروع میکنیم.\n❤️\n•\n@MediaMardom",
         "date": "2026-07-25T18:54:16+00:00",
@@ -2811,29 +2845,44 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/9597"
-      },
-      {
-        "id": 9596,
-        "text": "🔴\nفارس:\nبرخی منابع خبری مدعی شدند سوخت‌رسان‌های اماراتی در حملات بامداد چهارشنبه آمریکا به بنادر ایرانی کمک کرده‌اند\nاین هواپیماها توسط امارات متحده عربی اداره می‌شوند\n﻿\n❤️\n•\n@MediaMardom",
-        "date": "2026-07-09T18:35:59+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/9596"
-      },
-      {
-        "id": 9595,
-        "text": "🔴\nخبرگزاری CNN به نقل از یه منبع منطقه‌ای :\nمجتبی خامنه‌ای، به توصیه سپاه، تو مراسم تشییع و حتی مراسم خاکسپاری خصوصی پدرش (علی خامنه‌ای) تو مشهد شرکت نمی‌کنه و فعلاً قرار نیست در انظار عمومی دیده بشه.\n❤️\n•\n@MediaMardom",
-        "date": "2026-07-09T17:40:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/9595"
       }
     ],
     "whitedns": [
+      {
+        "id": 1311,
+        "text": "10 سرور اهدایی و فعال WhiteDNS داشته باشید برای زمان قطعی (کلیک کنید روش کپی میشه)\nServer #1 thx to Coreforge\n♥️\nLocation: Turkey\n🇹🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7nwn4e3ICAgdGh4IHRvIENvcmVmb3JnZSIsInNlcnZlciI6eyJkb21haW4iOiJ2LmFub255bW91cy5vYnNlcnZlciIsImVuY3J5cHRpb25fa2V5IjoiYjI3NTAzOTE5OWIxYzhjOSIsImVuY3J5cHRpb25fbWV0aG9kIjozfX19\nServer #2 thx to Araskhatare\n♥️\nLocation: Germany\n🇩🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6nwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI5ZGIxNjYwMmM4Yzc3NjcxOWJhZDE3ZWZjOWQxM2E0NCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #3 thx to Araskhatare\n♥️\nLocation: USA\n🇺🇸\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7rwn4e4ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6ImVkMGNlZjE2YjcxNTNiOGQ4MzVhMzI3ODYxNTk3YzY0IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #4 thx to Araskhatare\n♥️\nLocation: France\n🇫🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6vwn4e3ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImIuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiIyZjAyZTNiN2NiNTg3ZjM4M2U0MWM0MmU4ZWYzYWY2MSIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #5 thx to Araskhatare\n♥️\nLocation: UK\n🇬🇧\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6zwn4enICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImMuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJkYmYwMmYyYWVmZmQzM2QyNDY0M2ViODM4OGY2N2Y0ZCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #6 thx to Araskhatare\n♥️\nLocation: Ireland\n🇮🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh67wn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImkuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjY0MTVlYjhmOTBmMWQ0NjY1N2JjZTljYjc5MTg2NDY2IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #7 thx to Araskhatare\n♥️\nLocation: Sweden\n🇸🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7jwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InEuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjFkYjFiMWIyNGM2N2IxNzYwOTAzMmNjNDdhZmRhMzZlIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #8 thx to Araskhatare\n♥️\nLocation: Spain\n🇪🇸\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6rwn4e4ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6Im4uYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjU4MTcyOTA4ZGFhNTAxZTk0MjUzNWU2NTY3NzkwM2ZkIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #9 thx to Araskhatare\n♥️\nLocation: Italy\n🇮🇹\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh67wn4e5ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6Imx5LmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJkMzM4NmM1MzkxZmRmOTJjMmNkODM3YmFkZTBhNGVjYyIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #10 thx to Araskhatare\n♥️\nLocation: Brazil\n🇧🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6fwn4e3ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImlsLmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJmNzk4MDAyYzlkMTkxMTg4M2MzOTE2YTQ4ZTkzNTVkMiIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nآموزش استفاده از برنامه اندروید\n👇\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\nآموزش استفاده از برنامه ios\n👇\nhttps://www.youtube.com/watch?v=filwdiPKN90\nآموزش استفاده از برنامه ویندوز\n👇\nhttps://youtu.be/Mc--GlKw2wg\n@whitedns",
+        "date": "2026-07-25T19:18:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1311_0_edff540b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1311_1_936f842d.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=tz8cj7HzHVI",
+            "type": "youtube",
+            "display_text": "https://www.youtube.com/watch?v=tz8cj7HzHVI"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=filwdiPKN90",
+            "type": "youtube",
+            "display_text": "https://www.youtube.com/watch?v=filwdiPKN90"
+          },
+          {
+            "url": "https://youtu.be/Mc--GlKw2wg",
+            "type": "youtube",
+            "display_text": "https://youtu.be/Mc--GlKw2wg"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1311"
+      },
       {
         "id": 1310,
         "text": "10 سرور اهدایی و فعال WhiteDNS داشته باشید برای زمان قطعی (کلیک کنید روش کپی میشه)\nServer #1 thx to Coreforge\n♥️\nLocation: Turkey\n🇹🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7nwn4e3ICAgdGh4IHRvIENvcmVmb3JnZSIsInNlcnZlciI6eyJkb21haW4iOiJ2LmFub255bW91cy5vYnNlcnZlciIsImVuY3J5cHRpb25fa2V5IjoiYjI3NTAzOTE5OWIxYzhjOSIsImVuY3J5cHRpb25fbWV0aG9kIjozfX19\nServer #2 thx to Araskhatare\n♥️\nLocation: Germany\n🇩🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6nwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI5ZGIxNjYwMmM4Yzc3NjcxOWJhZDE3ZWZjOWQxM2E0NCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #3 thx to Araskhatare\n♥️\nLocation: USA\n🇺🇸\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7rwn4e4ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6ImVkMGNlZjE2YjcxNTNiOGQ4MzVhMzI3ODYxNTk3YzY0IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #4 thx to Araskhatare\n♥️\nLocation: France\n🇫🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6vwn4e3ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImIuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiIyZjAyZTNiN2NiNTg3ZjM4M2U0MWM0MmU4ZWYzYWY2MSIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #5 thx to Araskhatare\n♥️\nLocation: UK\n🇬🇧\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6zwn4enICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImMuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJkYmYwMmYyYWVmZmQzM2QyNDY0M2ViODM4OGY2N2Y0ZCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #6 thx to Araskhatare\n♥️\nLocation: Ireland\n🇮🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh67wn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImkuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjY0MTVlYjhmOTBmMWQ0NjY1N2JjZTljYjc5MTg2NDY2IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #7 thx to Araskhatare\n♥️\nLocation: Sweden\n🇸🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7jwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InEuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjFkYjFiMWIyNGM2N2IxNzYwOTAzMmNjNDdhZmRhMzZlIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #8 thx to Araskhatare\n♥️\nLocation: Sweden\n🇸🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6rwn4e4ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6Im4uYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjU4MTcyOTA4ZGFhNTAxZTk0MjUzNWU2NTY3NzkwM2ZkIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #9 thx to Araskhatare\n♥️\nLocation: Italy\n🇮🇹\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh67wn4e5ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6Imx5LmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJkMzM4NmM1MzkxZmRmOTJjMmNkODM3YmFkZTBhNGVjYyIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #10 thx to Araskhatare\n♥️\nLocation: Brazil\n🇧🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6fwn4e3ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImlsLmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJmNzk4MDAyYzlkMTkxMTg4M2MzOTE2YTQ4ZTkzNTVkMiIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nآموزش استفاده از برنامه اندروید\n👇\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\nآموزش استفاده از برنامه ios\n👇\nhttps://www.youtube.com/watch?v=filwdiPKN90\nآموزش استفاده از برنامه ویندوز\n👇\nhttps://youtu.be/Mc--GlKw2wg\n@whitedns",
@@ -4873,34 +4922,73 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1167"
-      },
-      {
-        "id": 1166,
-        "text": "سلام به همه\n👋\nیک موضوع مهم که خیلی از کاربران VPN با آن آشنا نیستند، مسئله‌ی DNS Leak یا همان نشت DNS است.\nشاید برای شما هم پیش آمده باشد که VPN روشن است و آی‌پی شما تغییر کرده، اما بعضی سایت‌ها یا سرویس‌ها همچنان شما را به‌عنوان کاربر ایرانی شناسایی می‌کنند یا دسترسی‌تان را محدود می‌کنند.\nDNS نشت یعنی چه؟\nوقتی وارد یک سایت می‌شوید، دستگاه شما ابتدا از یک سرویس DNS می‌پرسد آدرس واقعی آن سایت چیست. اگر این درخواست به‌جای عبور از داخل VPN، از طریق اینترنت اصلی یا شرکت ارائه‌دهنده اینترنت شما ارسال شود، به آن DNS Leak می‌گویند.\nبه زبان ساده، با اینکه VPN روشن است، بخشی از اطلاعات اتصال واقعی شما هنوز قابل مشاهده است.\nچرا مهم است؟\nDNS Leak ممکن است باعث شود:\n• موقعیت یا کشور واقعی شما تشخیص داده شود\n• بعضی سایت‌ها همچنان دسترسی شما را محدود کنند\n• حریم خصوصی شما کاهش پیدا کند\n• اتصال VPN شما آن‌طور که انتظار دارید کامل و امن نباشد\nچطور تست کنیم؟\n1. ابتدا VPN را روشن کنید\n2. وارد سایت زیر شوید:\nhttps://ipleak.net\n3. چند ثانیه صبر کنید تا نتیجه نمایش داده شود\n4. بخش DNS Addresses را بررسی کنید\nاگر در نتیجه نام شرکت اینترنت شما، کشور واقعی شما یا DNSهای مربوط به اینترنت اصلی‌تان نمایش داده شد، احتمالاً VPN شما DNS Leak دارد.\nپیشنهاد می‌کنیم همیشه از VPNهایی استفاده کنید که نشت DNS ندارند تا هم حریم خصوصی بهتری داشته باشید و هم سرویس‌ها کمتر بتوانند موقعیت واقعی شما را تشخیص دهند.",
-        "date": "2026-07-15T04:34:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1166_0_d9112600.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1166_1_97a0d45a.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://ipleak.net",
-            "type": "external",
-            "display_text": "https://ipleak.net"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1166"
       }
     ],
     "withyashar": [
+      {
+        "id": 19702,
+        "text": "یک پهپاد در نزدیکی منزل ایتمار بن گویر، وزیر امنیت ملی اسرائیل، سقوط کرده است ، جزئیات در حال بررسی است.\n@WarRoom",
+        "date": "2026-07-25T19:39:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19702_0_7dcaa872.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19702"
+      },
+      {
+        "id": 19701,
+        "text": "دریای قزوین\n😁",
+        "date": "2026-07-25T19:36:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19701_0_7dcaa872.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_19701_1_7f8fe0d0.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19701"
+      },
+      {
+        "id": 19700,
+        "text": "وزارت امور خارجه ایران:\nما محکوم می‌کنیم اقدام دولت اوکراین مبنی بر حمله به یک کشتی تجاری ایرانی در دریای قزوين«خزر»که امروز صبح رخ داد. این حمله منجر به انفجار کشتی و شهادت یکی از ملوانان و زخمی شدن ملوان دیگری شد.\n@WarRoom",
+        "date": "2026-07-25T19:34:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19700_0_7dcaa872.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19700"
+      },
+      {
+        "id": 19699,
+        "text": "کانال ۱۴ : ترامپ دستور توقف تمام حملات به ایران را صادر کرد.\n@WarRoom\n🚨\n🚨\n🚨\n🚨",
+        "date": "2026-07-25T19:19:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19699_0_7dcaa872.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19699"
+      },
       {
         "id": 19698,
         "text": "کانال 12 : بنیامین نتانیاهو تصمیم دارد در نشستی در کاخ سفید، اطلاعاتی درباره پیشرفت برنامه هسته‌ای ایران را در اختیار ترامپ قرار دهد\n@WarRoom",
@@ -6492,69 +6580,32 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/19597"
-      },
-      {
-        "id": 19596,
-        "text": "ترامپ : همین الان که داریم حرف میزنیم ، داریم با ایرانیا مذاکره هم میکنیم\n@WarRoom",
-        "date": "2026-07-24T19:43:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19596_0_96e54754.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19596"
-      },
-      {
-        "id": 19595,
-        "text": "ترامپ:  مهمات برای یک حمله بزرگ علیه جمهوری اسلامی ایران آماده است. ایرانی‌ها باید این موضوع را جدی‌تر بگیرند.\n@WarRoom\n🚨\n🚨\n🚨",
-        "date": "2026-07-24T19:42:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19595_0_96e54754.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19595"
-      },
-      {
-        "id": 19594,
-        "text": "خبرنگار: شما دارید دربارهٔ منفجر کردن نیروگاه‌های غیرنظامی و پل‌ها صحبت می‌کنید. خیلی از جهانِ متمدن چنین کاری را یک جنایت جنگی محسوب می‌کند. شما هم همین نظر را دارید؟\nترامپ: به آن سؤال پاسخ نمی‌دهم. شما با کدام رسانه هستید؟\nخبرنگار: نیویورک تایمز.\nترامپ: حدس زدم. نیویورک تایمز شکست‌خورده.\n@WarRoom",
-        "date": "2026-07-24T19:40:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19594_0_96e54754.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19594"
-      },
-      {
-        "id": 19593,
-        "text": "ترامپ: اجازه نمی‌دهیم ایران به قلدر منطقه تبدیل شود. ایران آماده امضای توافق نیست.\n@WarRoom",
-        "date": "2026-07-24T19:40:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19593_0_96e54754.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19593"
       }
     ],
     "vahidonline": [
+      {
+        "id": 77497,
+        "text": "ولودیمیر زلنسکی، رییس‌جمهور اوکراین، اعلام کرد نیروهای کشورش یک ناو جنگی روسیه و همچنین کشتی‌هایی را که به گفته او برای جابه‌جایی محموله‌های نظامی مرتبط با ایران به کار می‌رفتند، در دریای خزر مورد هدف قرار داده‌اند.  زلنسکی روز شنبه، سوم مرداد، در پیامی در…",
+        "date": "2026-07-25T19:24:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vahidonline_77497_0_88432371.jpg"
+          },
+          {
+            "type": "image",
+            "file": "vahidonline_77497_1_b4961a29.jpg"
+          },
+          {
+            "type": "image",
+            "file": "vahidonline_77497_2_6a4522a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vahidonline/77497"
+      },
       {
         "id": 77496,
         "text": "کیتی پری، خواننده آمریکایی، از استفاده کاخ سفید از آهنگ «Firework» (آتش‌بازی) در ویدیویی از حمله آمریکا به اهدافی در ایران انتقاد کرد و گفت این استفاده بدون اطلاع و رضایت او انجام شده است. او افزود که از این اقدام عمیقا شوکه و خشمگین شده است.\nکاخ سفید روز پنج‌شنبه ویدیویی در حساب رسمی خود در تیک‌تاک منتشر کرد که در آن بخش «boom, boom, boom» آهنگ «Firework» با تصاویری از حملات آمریکا به اهدافی در جنوب ایران هم‌زمان شده است. کاخ سفید در توضیح این ویدیو نوشت: «به ایران هشدار داده شده است.»\nکیتی پری روز شنبه در شبکه ایکس نوشت: «از اینکه آهنگ \"Firework\" به‌عنوان موسیقی پس‌زمینه ویدیوی حملات نظامی در حساب کاربری تیک‌تاک کاخ سفید استفاده شده، عمیقا شوکه و خشمگین هستم. من این استفاده را تایید نکردم، از من اجازه‌ای خواسته نشد و به هیچ وجه آن را تایید یا حمایت نمی‌کنم.»\n@\nVahidOOnLine\n📡\n@VahidOnline",
@@ -8419,24 +8470,28 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vahidonline/77377"
-      },
+      }
+    ],
+    "configraygan": [
       {
-        "id": 77376,
-        "text": "پیام‌های دریافتی:\nهمین الان ماهشهر دو صدای انفجار از دور\nهمین الان یک انفجار دیگه\nسه چهارتا انفجار ماهشهر همین الاننن\nماهشهر ۴تا موج از دور ولی حس شد\nبندر ماهشهر ۴ انفجار\nسه چهارتا انفجار ماهشهر همین الاننن\nسلام ماهشهر الان ۳ انفجار\nوحید خسته نباشی بندرماهشهر الان چند انفجار اومد\nسلام صداها مثل ویبره هستن انگاردورازماهشهره به فاصله 2ذقیفه\nماهشهر صدای انفجار ساعت ۲:۳۱\n🔄\nاقا وحید ماهشهر دوتا دیگه زد همین الان 2.48 دقه\nباز ماهشهر دوتا زدن\n📡\n@VahidOnline",
-        "date": "2026-07-21T23:03:31+00:00",
+        "id": 7872,
+        "text": "چند ثانیه طول کشید تا ببینیش؟!!",
+        "date": "2026-07-25T19:47:22+00:00",
         "media": [
           {
             "type": "image",
-            "file": "vahidonline_77376_0_8fe4a658.jpg"
+            "file": "configraygan_7872_0_094216b8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "configraygan_7872_1_28fcd007.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/vahidonline/77376"
-      }
-    ],
-    "configraygan": [
+        "source": "https://t.me/configraygan/7872"
+      },
       {
         "id": 7871,
         "text": "میخوایم یه پیج طلافروشی انلاین بزنم ، تقریبا ۱۵۰ گرم اینا طلا ابشده دارم ، ازاول ارزوم بوده طلا فروشی داشته باشم ، و میخام با انلاین شاپ (اینستا و سایت ) شروع کنم . به نظرتون امکان پذیره ؟ چه پیشنهاد هایی دارین ؟ بکنم نکنم؟ چیارو رعایت بکنم ؟ میخام ابشده هارو…",
@@ -9719,19 +9774,162 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/configraygan/7745"
-      },
-      {
-        "id": 7744,
-        "text": "vless://d8b54a64-3e9a-4455-93c4-452202fbe440@45.130.125.2:443?mode=stream-one&path=%2Fa%2Fv----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&encryption=none&insecure=0&host=www.chinns.ccwu.cc&type=xhttp&allowInsecure=0&sni=www.chinns.ccwu.cc#configraygan_irancell_1\nvless://5%F0%9F%91%89TEL--JKVPN@991827262gsgs-8822nbeoaoznzznzb.poki-pakipon.ir:8080?security=reality&encryption=none&pbk=T4N50lQCwR6TNe1oUzM9hM5NPEOqPOcUphfG5vWmUgU&host=www.yahoo.com&headerType=http&fp=chrome&spx=%2FttMOdSyneIdImqQ&type=tcp&sni=yahoo.com&sid=65caf3e0cab795e8#configraygan_irancell_2\nvless://e52b2213-fd65-4c80-9c9a-223c576ab255@188.114.97.6:443?mode=stream-one&path=%2Fa%2Fv----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&encryption=none&insecure=0&host=www.speedbala.lat&fp=random&type=xhttp&allowInsecure=0&sni=www.speedbala.lat#configraygan_irancell_3\nvless://a89a691a-4349-4a40-8636-80f1ca053cac@104.17.108.69:2096?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=iranprimer.usip.org.entekhab.ir.tasnimnews.com.asriran.com.iribnews.ir.tabnak.ir.rajanews.com&allowInsecure=0&sni=IMAginATIVE-rangeu833H395Ji.wINdlEr.CO.uK#configraygan_irancell_4\nvless://TELEGRAM-NUFiLTER@fast.cd-tur4.ir:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&encryption=none&insecure=0&host=nesfeshzksab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#configraygan_irancell_5\nvless://b991b390-dd0f-4061-9150-bee0cb467bce@45.142.120.240:443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&insecure=0&host=opu-ao6.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=opu-ao6.pages.dev#configraygan_irancell_6\nvless://b991b390-dd0f-4061-9150-bee0cb467bce@14.102.229.240:443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&insecure=0&host=opu-ao6.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=opu-ao6.pages.dev#configraygan_irancell_7\nvless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#configraygan_irancell_8\nvless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.72:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#configraygan_irancell_9\nvless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#configraygan_irancell_10\nvless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.66:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#configraygan_irancell_11\ntrojan://humanity@208.103.161.170:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#configraygan_irancell_12",
-        "date": "2026-06-22T14:17:05+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7744"
       }
     ],
     "IranintlTV": [
+      {
+        "id": 349564,
+        "text": "لطف‌الله دژکام، امام جمعه شیراز، در تجمع حامیان حکومت در این شهر گفت: «ما اکنون برای انتقام از خون رهبرمان شعار می‌دهیم و از آن نمی‌گذریم. باید پاسخ دشمن داده شود و خانه‌هایشان را روی سرشان خراب کنیم.»\nاو ادامه داد: «اگر می‌خواهیم انتقام بگیریم و شعار آن را هم می‌دهیم، باید صبر خود را نیز بالا ببریم.»\nامام جمعه شیراز افزود: «صبر لازم است و ما باید پشت سر رهبرمان بایستیم، پای خود را محکم بر زمین بکوبیم و دندان‌هایمان را بر هم بفشاریم.»\nhttps://iranintl.com/202607252416",
+        "date": "2026-07-25T19:39:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349564_0_099f6d79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_349564_1_f4e7cd0e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607252416",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607252416"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/349564"
+      },
+      {
+        "id": 349563,
+        "text": "کانال ۱۲ اسرائیل گزارش داد که بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در دیدار سه‌شنبه خود با دونالد ترامپ، رییس‌جمهوری آمریکا، اطلاعات محرمانه‌ای را به ترامپ ارائه خواهد کرد که به گفته اسرائیل نشان می‌دهد جمهوری اسلامی بار دیگر با سرعت به سمت دستیابی به سلاح هسته‌ای حرکت می‌کند و فعالیت‌های خود را افزایش داده است.\nکانال ۱۲ اسرائیل گزارش داد که از جمله این اطلاعات تلاش‌های تسریع‌شده تحت رهبری مجتبی خامنه‌ای برای پیشرفت به سمت سلاح هسته‌ای است.\nنتانیاهو دوشنبه به آمریکا سفر می‌کند تا علاوه‌بر دیدار با دونالد ترامپ در کاخ سفید، در آیین خاکسپاری لیندسی گراهام، سناتور جمهوری‌خواه، شرکت کند.\nhttps://iranintl.com/202607250455",
+        "date": "2026-07-25T19:34:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349563_0_099f6d79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_349563_1_e7863aac.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607250455",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607250455"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/349563"
+      },
+      {
+        "id": 349562,
+        "text": "شبکه کان اسرائیل گزارش داد آمریکا با وجود مطرح بودن تلاش‌ها برای ازسرگیری مذاکرات با جمهوری اسلامی و انجام نشدن حمله‌ای تازه در شامگاه جمعه، همچنان به استقرار نیروها و تجهیزات نظامی خود در اسرائیل ادامه می‌دهد.\nایتای بلومنتال، خبرنگار این شبکه در برنامه تلویزیونی گفت که در روزهای اخیر ده‌ها فروند هواپیمای سوخت‌رسان، جنگنده، سامانه‌های دفاع هوایی و مهمات مورد نیاز جنگنده‌ها به اسرائیل منتقل شده‌اند. او افزود تجهیزات همچنان در حال ورود هستند و این روند از طریق هواپیماهایی که در پایگاه‌های نظامی اسرائیل فرود می‌آیند، قابل مشاهده است.\nبر اساس این گزارش، هواپیماهای سوخت‌رسان به فرودگاه بن‌گوریون، فرودگاه رامون و پایگاه هوایی عوودا منتقل شده‌اند. خبرنگار کان گفت این آرایش نیروها یادآور روزهای پیش از عملیات قبلی است.\nhttps://iranintl.com/202607250999",
+        "date": "2026-07-25T19:28:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349562_0_099f6d79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_349562_1_4d00766c.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607250999",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607250999"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/349562"
+      },
+      {
+        "id": 349561,
+        "text": "علیرضا نوری‌زاده، مدیر مرکز پژوهش‌های ایران و عرب، گفت امروز خطر حوثی‌ها در دریای سرخ حتی از مساله تنگه هرمز نیز مهم‌تر است.\nاو افزود تنگه هرمز ممکن است با نوعی توافق دوباره به شرایط عادی بازگردد و عبور کشتی‌ها از سر گرفته شود، اما اگر حوثی‌ها وارد مرحله جدیدی از درگیری شوند، منطقه با وضعیتی بسیار خطرناک روبه‌رو خواهد شد و عربستان سعودی بار دیگر به‌طور مستقیم در معرض تهدید قرار می‌گیرد.\n@iranintltv",
+        "date": "2026-07-25T19:24:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349561_0_099f6d79.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_349561_1_6a64bdec.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/349561"
+      },
+      {
+        "id": 349560,
+        "text": "وزارت خارجه جمهوری اسلامی حمله اوکراین به یک شناور ایرانی در دریای خزر در بامداد شنبه را محکوم کرد و نوشت که این حمله موجب انفجار کشتی، کشته شدن یک نفر و مجروح شدن یک نفر دیگر شد.\nوزارت خارجه جمهوری اسلامی این اقدام را «عمل تجاوزکارانه» خواند و نوشت که این اقدام «می‌تواند آتش جنگ را بیش از پیش شعله‌ور کرده و گسترش دهد.»\nاین وزارتخانه همچنین با اشاره به آنچه «اذعان رییس رژیم اوکراین» به این حمله خواند، اعلام کرد که این اقدام نشان‌دهنده تداوم رویکرد خصمانه اوکراین نسبت به جمهوری اسلامی است.\nدر پایان این بیانیه آمده است جمهوری اسلامی از منافع و امنیت ملی خود دفاع خواهد کرد و مسئولیت هرگونه پیامد ناشی از این رویداد را متوجه اوکراین و حامیان آن دانست.\nhttps://iranintl.com/202607256487",
+        "date": "2026-07-25T19:19:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349560_0_099f6d79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_349560_1_04960bf5.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607256487",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607256487"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/349560"
+      },
+      {
+        "id": 349559,
+        "text": "🎧\nنسخه صوتی چشم‌انداز: حملات جنگنده‌های امارات، کویت و بحرین به ایران\n@iranintlTV",
+        "date": "2026-07-25T19:18:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349559_0_099f6d79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/349559"
+      },
+      {
+        "id": 349558,
+        "text": "🔻\nامیرمهدی علوی، سخنگوی فدراسیون فوتبال ایران درباره وطن‌فروش خواندن منتقدان از سوی امیر قلعه‌نویی، سرمربی تیم ملی گفت: «نقطه نظرات و دیدگاه‌هایی داشت؛ سرمربی تحت‌فشار است. بار مسئولیت سنگین است.»\n🔹\nقلعه‌نویی در دو گفتگوی اخیر خود، منتقدان تیم ملی «بی‌وطن‌های ایران‌فروش» خوانده است.\n🔹\nاو درباره جلسه امروز هیات رییسه فدراسیون فوتبال گفت: «در هیات رییسه درباره عملکرد تیم ملی در جام جهانی و درباره آینده تیم ملی در جام ملت‌های آسیا و کادر فنی و مدیریتی بحث شد.»\n🔹\nعلوی گفت: «مقرر شد در جلسه آینده قلعه‌نویی هم حاضر شود، نقطه نظرات و دیدگاه های او هم شنیده شود و برای جام ملت های آسیا برنامه ریزی شود.»\n🔹\nسخنگوی فدراسیون فوتبال همچنین گفت: «هیات رییسه نسبت به حضور قلعه‌نویی و افتخارات او از سال ۷۷ ابراز رضایت و تمجید داشتند. اما نقطه‌نظراتی هم وجود داشت.»\n@iranintltvsport",
+        "date": "2026-07-25T19:15:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349558_0_099f6d79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_349558_1_4c808a05.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/349558"
+      },
       {
         "id": 349557,
         "text": "حملات جنگنده‌های امارات، کویت و بحرین به ایران\nچشم‌انداز با مهدی مهدوی‌آزاد\nنسخه کامل این برنامه در یوتیوب:\nhttps://youtu.be/dtQp6SUkanw\n@iranintltv",
@@ -10729,18 +10927,9 @@
         "id": 349506,
         "text": "روزنامه اعتماد گزارش داد قطعی برق در گرمای تابستان، وضعیت بیماران پروانه‌ای را دشوارتر کرده است. بر اساس این گزارش، از کار افتادن سیستم‌های سرمایشی موجب تشدید زخم‌های پوستی این بیماران شده و افزایش دفعات تعویض پانسمان، هزینه‌های درمان آن‌ها را بالا برده است.\nجزییات بیشتر در گفت‌وگو با منصوره حسینی‌یگانه، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-07-25T10:21:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_349506_0_8cb7bd0e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_349506_1_ad2f9531.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/349506"
       },
@@ -10748,18 +10937,9 @@
         "id": 349505,
         "text": "محمدصادق عظیمی‌فر، مدیرعامل شرکت ملی پالایش و پخش فرآورده‌های نفتی، گفت با توجه به اوج مصرف در مرداد و شهریور و محدودیت‌های ایجادشده در تولید و واردات، تامین پایدار سوخت بدون همکاری مردم امکان‌پذیر نیست. او از مردم خواست با استفاده از حمل‌ونقل عمومی، سوخت و کاهش مصرف بنزین، به مدیریت مصرف کمک کنند.\nعظیمی‌فر در جمع خبرنگاران گفت در صورت ادامه مصرف بالا و تداوم محدودیت‌های تولید و واردات ناشی از آسیب به تاسیسات، ممکن است برای حفظ پایداری عرضه سوخت، تصمیم‌های جدیدی اتخاذ شود. او افزود هرگونه تصمیم در این زمینه پیش از اجرا به اطلاع مردم خواهد رسید و دولت مردم را غافلگیر نخواهد کرد.",
         "date": "2026-07-25T10:13:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_349505_0_8cb7bd0e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_349505_1_3e2fd26c.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/349505"
       },
@@ -10767,18 +10947,9 @@
         "id": 349504,
         "text": "هوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی، در گفت‌وگو با ایران‌اینترنشنال، با اشاره به اظهارات دونالد ترامپ، رییس‌جمهوری آمریکا، درباره تداوم گفت‌وگوها با جمهوری اسلامی، گفت با وجود تاکید او بر باز بودن مسیر مذاکره، روند تحولات میدانی نشان می‌دهد احتمال تشدید حملات بیش از گذشته افزایش یافته است.\n@iranintltv",
         "date": "2026-07-25T10:03:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_349504_0_8cb7bd0e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_349504_1_136a2096.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/349504"
       },
@@ -10786,18 +10957,9 @@
         "id": 349503,
         "text": "وزارت خارجه آلمان در پاسخ به ایران‌اینترنشنال اعلام کرد که فعالیت‌های سفارت این کشور در تهران همچنان محدود است و بخش‌های کنسولی و صدور ویزا با ظرفیت محدود به ارائه خدمات ادامه می‌دهند. آلمان همچنین از شهروندانش خواست ایران را ترک کنند.\nگزارش احمد صمدی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-07-25T09:36:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_349503_0_8cb7bd0e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_349503_1_2916c216.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/349503"
       },
@@ -10805,18 +10967,9 @@
         "id": 349502,
         "text": "سرخط خبرهای شنبه ۳ مرداد\n@iranintltv",
         "date": "2026-07-25T09:36:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_349502_0_8cb7bd0e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_349502_1_cb01a4bd.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/349502"
       },
@@ -10824,18 +10977,9 @@
         "id": 349501,
         "text": "‌\nشورای هماهنگی تشکل‌های صنفی فرهنگیان ایران گزارش داد عبدالرضا امانی‌فر، فعال صنفی معلمان بوشهر، ۱۱۳ روز پس از بازداشت موقت همچنان در بلاتکلیفی به سر می‌برد و با وجود ابتلا به بیماری حاد کلیوی، از دسترسی به خدمات درمانی و رسیدگی پزشکی مناسب محروم است.\nکانون صنفی معلمان استان بوشهر نیز با انتشار بیانیه‌ای، نسبت به وضعیت جسمانی او ابراز نگرانی کرده و خواستار اعزامش به خارج از زندان و فراهم شدن امکان دسترسی او به خدمات درمانی شده است.",
         "date": "2026-07-25T09:28:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_349501_0_8cb7bd0e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_349501_1_2ae47403.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/349501"
       },
@@ -10843,14 +10987,9 @@
         "id": 349500,
         "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، با اشاره به سفر بنیامین نتانیاهو به واشینگتن و دیدار او با دونالد ترامپ، رییس‌جمهوری آمریکا، گفت ترامپ در حال دادن آخرین فرصت‌های دیپلماتیک به جمهوری اسلامی، پیش از اتخاذ تصمیم نهایی برای انجام حملات گسترده در ایران، است؛ تصمیمی که به گفته او، پس از دیدار با نتانیاهو، ابعاد روشن‌تری خواهد یافت.\n@iranintltv",
         "date": "2026-07-25T09:25:34+00:00",
-        "media": [
-          {
-            "type": "video",
-            "file": "IranintlTV_349500_1_bec0c9f0.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/349500"
       },
@@ -11281,109 +11420,24 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/349462"
-      },
-      {
-        "id": 349461,
-        "text": "ائتلاف نیروهای سیاسی کردستان ایران در بیانیه‌ای اعلام کرد که شکست مذاکرات متوالی تهران-واشینگتن نشان دهنده «بن‌بست سیاسی خودساخته رژیم است که با فروپاشی اعتماد عمومی، بحران شدید اقتصادی و ناتوانی در حل چالش‌هایش از طریق دیپلماسی تشدید شده است.»\nاین ائتلاف که شامل شش حزب کرد ایران است، همچنین گفت جمهوری اسلامی با انجام ترورها و حملات هوایی و زمینی علیه احزاب سیاسی کرد، فعالیت‌های شرورانه خود را افزایش داده است تا شکست‌های داخلی رو به رشد خود را پنهان کند.\nبه گزارش حساب کاربری حزب دموکرات کردستان ایران، ائتلاف افزود که حملات مکرر جمهوری اسلامی علیه احزاب سیاسی کردستان ایران جنایات جنگی است. در این ارتباط، بیانیه اشاره کرد: «بر اساس جراحات وارده به برخی از پیشمرگه‌ها، احتمال زیادی وجود دارد که دست‌کم در یک حمله از فسفر سفید استفاده شده باشد.»\nائتلاف تاکید کرد چنین اقداماتی را به عنوان مدرکی از استیصال رژیم و جنایت علیه بشریت توصیف می‌کند.\nائتلاف نیروهای سیاسی کردستان ایران ضمن اشاره به لزوم «وحدت کردها و اقدامات هماهنگ آن‌ها» گفت: «مسئله کردها به یک راه‌حل سیاسی، نه نظامی، نیاز دارد.»\nhttps://iranintl.com/2",
-        "date": "2026-07-25T00:37:35+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/2",
-            "type": "external",
-            "display_text": "https://iranintl.com/2"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/349461"
-      },
-      {
-        "id": 349460,
-        "text": "شبکه خبری الحره گزارش داد علی الزیدی، نخست‌وزیر عراق، در جریان سفر به تهران از مقام‌های جمهوری اسلامی خواسته است که عبور امن نفتکش‌های این کشور از تنگه هرمز را تضمین کنند.\nالحره به نقل از «منابع» خود گفت که تهران پاسخ روشنی ارائه نکرده و ممکن است در مورد سفر اخیر الزیدی به واشینگتن و توافق‌هایش با شرکت‌های آمریکایی واکنش منفی نشان دهد.",
-        "date": "2026-07-25T00:14:59+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/349460"
-      },
-      {
-        "id": 349459,
-        "text": "جف بارتوس، نماینده آمریکا در امور مدیریت و اصلاحات سازمان ملل، از تمدید چهار ساله ماموریت فولکر تورک انتقاد کرد و گفت سازوکارهای حقوق بشر سازمان ملل دهه‌هاست اعتبار خود را از دست داده‌اند.\nمجمع عمومی سازمان ملل جمعه با اکثریت قاطع به ادامه ماموریت تورک رای داد.\nبارتوس او را متهم کرد که دموکراسی‌های غربی، به‌ویژه اسرائیل، را محکوم می‌کند، اما در برابر نقض حقوق بشر در کوبا رویکرد متفاوتی دارد.\nاو همچنین مدعی شد تورک پس از آغاز سرکوب اعتراضات در ایران ۱۲ روز سکوت کرد، اما اقدامات آمریکا برای جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای را به‌سرعت محکوم کرد.\nاین در حالی است که تورک در مواضع خود سرکوب اعتراضات دی‌ماه در ایران را محکوم کرده و ۲۳ دی از مقام‌های جمهوری اسلامی خواسته بود بی‌درنگ به خشونت و سرکوب معترضان مسالمت‌جو پایان دهند.",
-        "date": "2026-07-24T23:57:55+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/349459"
-      },
-      {
-        "id": 349458,
-        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، جمعه با مشاوران ارشد و اعضای ارشد دولت خود دیدار کرد تا در مورد تشدید حمله نظامی علیه جمهوری اسلامی تصمیم بگیرد.\nروزنامه نیویورک‌تایمز به نقل از «چهار نفر که در جریان این بحث قرار داشتند»، نوشت: «این جلسه در حالی برگزار شد که ترامپ پس از فروپاشی آتش‌بس شکننده و تفاهم‌نامه‌ای که قرار بود ایالات متحده و ایران را برای خلع سلاح هسته‌ای بلندمدت به میز مذاکره بازگرداند، با یک نقطه عطف بالقوه در رویکرد خود در قبال ایران روبرو است.»\nبر اساس این گزارش، کاخ سفید فاش نکرد که آیا ترامپ نحوه اقدام علیه جمهوری اسلامی را تعیین کرده است یا خیر. اما ترامپ گفت که ارتش آماده است در صورت دستور، حملات سنگین‌تری را انجام دهد، حتی در حالی که در را برای یک راه‌حل دیپلماتیک باز می‌گذارد.\nhttps://iranintl.com/202607248674",
-        "date": "2026-07-24T23:18:00+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607248674",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607248674"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/349458"
-      },
-      {
-        "id": 349457,
-        "text": "آسوشیتدپرس گزارش داد کشورهای نفت‌خیز خاورمیانه در پی اختلال در تردد از تنگه هرمز، طرح‌های چند میلیارد دلاری برای ایجاد مسیرهای جایگزین صادرات نفت را سرعت بخشیده‌اند.\nدست‌کم هفت پروژه خط لوله در دست ساخت، برنامه‌ریزی یا بررسی است.\nعربستان سعودی و امارات اکنون از خطوط موجود به دریای سرخ و دریای عمان نزدیک به حداکثر ظرفیت استفاده می‌کنند و امارات در حال ساخت خط لوله‌ای سه میلیارد دلاری به فجیره است.\nعراق نیز مسیرهایی به ترکیه، سوریه و اردن را بررسی می‌کند.\nگلدمن ساکس برآورد کرده ظرفیت تازه دور زدن هرمز تا پایان ۲۰۲۸ به روزانه ۷.۳ میلیون بشکه برسد و امکان انتقال حدود ۶۰ درصد صادرات پیش از جنگ خلیج فارس بدون عبور از هرمز فراهم شود.\nبا این حال، مسیرهای جایگزین طولانی‌تر، پرهزینه‌تر و در برابر حملات آسیب‌پذیرند و مشکل صادرات ال‌ان‌جی قطر را نیز حل نمی‌کنند.\nمتن کامل را اینجا بخوانید\nhttps://iranintl.com/202607247094",
-        "date": "2026-07-24T23:01:18+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607247094",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607247094"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/349457"
-      },
-      {
-        "id": 349456,
-        "text": "یک مقام آمریکایی اعلام کرد که ارتش ایالات متحده به یک نفتکش که درصدد عبور از خط محاصره بنادر ایران بود، شلیک کرد و آن را از کار انداخت.\nبه گزارش خبرگزاری رویترز، این مقام که خواست نامش فاش نشود، گفت که نیروهای آمریکایی روز جمعه پس از تلاش کشتی «ام‌تی لاوین» برای عبور از محاصره، آن را در خلیج عمان از کار انداختند.\nhttps://iranintl.com/202607248615",
-        "date": "2026-07-24T22:39:39+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607248615",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607248615"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/349456"
-      },
-      {
-        "id": 349455,
-        "text": "ائتلاف تحت رهبری عربستان سعودی اعلام کرد که مواضع نظامی حوثی‌ها را در استان حدیده یمن هدف قرار داد. این ائتلاف گفت بندر حدیده را هدف قرار نداده و همه بنادر استان الحدیده همچنان به روی کشتیرانی باز هستند.\nائتلاف تحت رهبری عربستان سعودی گفت اهدافی که در یمن منهدم شدند، با تهدیدهای علیه کشتیرانی تجاری در دریای سرخ مرتبط بودند.\nhttps://iranintl.com/202607247363",
-        "date": "2026-07-24T22:34:08+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607247363",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607247363"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/349455"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 49469,
+        "text": "Server:\nmtp1.hlebushek.com\nPort:\n443\nSecret:\neea61deab187a415531ac418cd29ae58ee706574726f766963682e7275\n@ProxyMTProto",
+        "date": "2026-07-25T19:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49469_0_92963301.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49469"
+      },
       {
         "id": 49468,
         "text": "Server:\n91.107.160.196\nPort:\n443\nSecret:\n3XnnAQIAAQAH8AMDhuJMOt0\n@ProxyMTProto",
@@ -12623,16 +12677,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49370"
-      },
-      {
-        "id": 49369,
-        "text": "Server:\nmedblock.fit\nPort:\n443\nSecret:\nee8a3ea77a695f1a249d693078446a137a6d6564626c6f636b2e666974\n@ProxyMTProto",
-        "date": "2026-07-23T04:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49369"
       }
     ],
     "XpnTeam": [
@@ -13667,6 +13711,31 @@
       }
     ],
     "putakk": [
+      {
+        "id": 26504,
+        "text": "https://www.youtube.com/watch?v=pueYWbbOAQM",
+        "date": "2026-07-25T19:27:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "putakk_26504_0_8828c570.jpg"
+          },
+          {
+            "type": "image",
+            "file": "putakk_26504_1_b8570c96.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=pueYWbbOAQM",
+            "type": "youtube",
+            "display_text": "https://www.youtube.com/watch?v=pueYWbbOAQM"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/putakk/26504"
+      },
       {
         "id": 26503,
         "text": "لینک گپ\n💬\n👇\n👇\n👇\nhttps://t.me/chatputak\n✅",
@@ -15307,21 +15376,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/putakk/26400"
-      },
-      {
-        "id": 26399,
-        "text": "صدای انفجار توی پارچین",
-        "date": "2026-07-16T00:17:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "putakk_26399_0_3848e405.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/putakk/26399"
       }
     ],
     "SafeV2ray": [
@@ -18267,6 +18321,63 @@
     ],
     "yehirani": [
       {
+        "id": 19094,
+        "text": "🔴\nتلویزیون اسرائیل: ترامپ دستور توقف\nکل\nحملات به ایران‌ رو صادر کرد.\nمنبع\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@YehIrani\n| حاج متی",
+        "date": "2026-07-25T19:46:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19094_0_9a5b9e1d.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
+            "type": "telegram",
+            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/yehirani/19094"
+      },
+      {
+        "id": 19093,
+        "text": "🔴\nنیما تکیدو بلاگر، میتینگ گذاشت هواداراشو ببینه، گوشیشو زدن\nمنبع\n🇮🇷\n@YehIrani\n| حاج متی",
+        "date": "2026-07-25T19:30:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19093_0_9a5b9e1d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19093"
+      },
+      {
+        "id": 19092,
+        "text": "🔴\nکانال 14 اسرائیل :\n🇺🇸\nترامپ دستور توقف همه حملات به ایران رو صادر کرد.\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@Yehirani",
+        "date": "2026-07-25T19:29:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19092_0_9a5b9e1d.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
+            "type": "telegram",
+            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/yehirani/19092"
+      },
+      {
         "id": 19091,
         "text": "🔴\nرضا پهلوی برای برنامه ریزی هرچه بهتر برای ایران بعد از ج. اسلامی با پزشکان، هنرمندان، جامعه Lgbt\n🏳️‍🌈\nو دیگر ایرانیا دیدار و تبادل نظر کرد\nمنبع\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@YehIrani\n| حاج متی",
         "date": "2026-07-25T17:00:08+00:00",
@@ -20172,66 +20283,28 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/yehirani/18991"
-      },
+      }
+    ],
+    "crgaming7": [
       {
-        "id": 18990,
-        "text": "🔴\nدقایقی پیش صدای انفجار تو اصفهان هم شنیده شد.\n@Yehirani",
-        "date": "2026-07-20T21:26:48+00:00",
+        "id": 5712,
+        "text": "شانس سوپر وایرگاد\n😍\n🎁\nبا تهیه سوپر وایرگاد اینارو بدست میاری\n✅\n✅\n| پینگ 20 الی 86\n✅\n| لگ بازی تو صفر می کنه\n✅\n| ریجسترت عالی میشه\n✅\n| شانس اکانتت بالا میره\n🔥\nبرای تهیه به ادمین پیام بدید\n⬇️\n⬇️\n@crgaming5",
+        "date": "2026-07-25T19:22:07+00:00",
         "media": [
           {
             "type": "image",
-            "file": "yehirani_18990_0_ec59ea4e.jpg"
+            "file": "crgaming7_5712_0_846ad8af.jpg"
+          },
+          {
+            "type": "image",
+            "file": "crgaming7_5712_1_fa564989.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/yehirani/18990"
+        "source": "https://t.me/crgaming7/5712"
       },
-      {
-        "id": 18989,
-        "text": "🔴\nطبق گزارشات؛\nاز شیراز صدای انفجار شنیده شد!\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@Yehirani",
-        "date": "2026-07-20T21:18:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_18989_0_ec59ea4e.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
-            "type": "telegram",
-            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/yehirani/18989"
-      },
-      {
-        "id": 18988,
-        "text": "🔴\nاستاندار بوشهر:\nتاکنون گزارشی از مصدومیت گزارش نشده است\nصداهای قابل شنیدن ناشی از فعالیت سامانه پدافند هوایی بود.\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@yehirani\n| 𝐏𝐎𝐔𝐑𝐢",
-        "date": "2026-07-20T21:01:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_18988_0_ec59ea4e.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
-            "type": "telegram",
-            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/yehirani/18988"
-      }
-    ],
-    "crgaming7": [
       {
         "id": 5711,
         "text": "شانس سوپر وایرگاد\n😍\n🎁\nبا تهیه سوپر وایرگاد اینارو بدست میاری\n✅\n✅\n| پینگ 20 الی 86\n✅\n| لگ بازی تو صفر می کنه\n✅\n| ریجسترت عالی میشه\n✅\n| شانس اکانتت بالا میره\n🔥\nبرای تهیه به ادمین پیام بدید\n⬇️\n⬇️\n@crgaming5",
@@ -21318,19 +21391,53 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/crgaming7/5604"
-      },
-      {
-        "id": 5603,
-        "text": "امشب ساعت 9 روم داریم\n🤩\nاگه 90 نفر بشه جایزه داره\n🎁\nزیر 90 نفر جایزه نداره\n❌\n🎁\nجایزه روم : سوپر وایرگاد CR GAMING\nخودمم تو روم هستم منو لطفا فیست نکنید\n😂\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨",
-        "date": "2026-07-01T15:50:11+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/crgaming7/5603"
       }
     ],
     "iranstop": [
+      {
+        "id": 3510,
+        "text": "🔴\nطبق گفته‌ی رسانه های اسرائیلی؛ نتانیاهو برای دریافت مجوز جنگ سوم با ایران از ترامپ، به صورت فوری به آمریکا سفر می‌کند.",
+        "date": "2026-07-25T19:42:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "iranstop_3510_0_a8982352.jpg"
+          },
+          {
+            "type": "image",
+            "file": "iranstop_3510_1_757b186c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/iranstop/3510"
+      },
+      {
+        "id": 3509,
+        "text": "🏛️\nرومابت دنیای آفر ها و بونوس های ورزشی و کازینویی میباشد\n✅\n🎁\nبا شرطبندی روی مسابقات جام جهانی وارد تورنومنت 2.500.000.000 تومانی رومابت شوید\n✅\n🚨\nهمین حالا وارد حساب کاربری شوید و شرط مورد نظر خود را ثبت کنید\n👇\n🌐\nhttps://halvirox9371.bar\n✅\nکانال تلگرامی\n#رومابت\n👇\nG3\n🔵\n@RomaBet_official",
+        "date": "2026-07-25T19:42:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "iranstop_3509_0_a8982352.jpg"
+          },
+          {
+            "type": "image",
+            "file": "iranstop_3509_1_adfc74fd.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://halvirox9371.bar",
+            "type": "external",
+            "display_text": "https://halvirox9371.bar"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/iranstop/3509"
+      },
       {
         "id": 3508,
         "text": "🔴\nدختره درآمد یک سالشو داده یه 207 برای دوست پسرش بخره",
@@ -22782,39 +22889,44 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/iranstop/3399"
-      },
-      {
-        "id": 3398,
-        "text": "🔴\nاز ۱۵ گرمترین شهرهای جهان ۱۲ تاش واسه ایرانه",
-        "date": "2026-07-12T19:41:01+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/iranstop/3398"
-      },
-      {
-        "id": 3397,
-        "text": "🔴\nترامپ : آنها دیروز به یک توافق رسیدند. توافقی عالی برای ما. هیچ سلاح هسته‌ای. آنها همه چیز را کنار گذاشتند.\nو سپس، بعد از آن، آنها اتاق را ترک کردند و در عرض یک ساعت، یک پهپاد را به سمت یک کشتی پرتاب کردند.",
-        "date": "2026-07-12T18:06:31+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/iranstop/3397"
       }
     ],
     "BestProxyTel1": [
       {
-        "id": 12256,
-        "text": "➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\nhttps://t.me/proxy?server=vip.qavi-13.co.uk&port=1010&secret=3XnnAQIAAQAH8AMDhuJMOt0\nhttps://t.me/proxy?server=6ssxxxc8s61f64d6gar01a632511kkkkk.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=466ssxxxc8s61f64d6gar01a632511kkkkk.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=tall-shore.boxd.sh&port=50845&secret=ee3e99af290d25b71c94440fb7a97ec3e87777772e636c6f7564666c6172652e636f6d\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n🎖\n@BestProxyTel1",
-        "date": "2026-07-25T18:18:50+00:00",
+        "id": 12259,
+        "text": "🔴\nادعای کانال ۱۴ اسرائیل:\nترامپ دستور توقف تمام حملات به ایران را صادر کرد\n🎖\n@BestProxyTel1",
+        "date": "2026-07-25T19:44:25+00:00",
         "media": [
           {
             "type": "image",
-            "file": "BestProxyTel1_12256_0_42ec34b4.jpg"
+            "file": "BestProxyTel1_12259_0_42ec34b4.jpg"
           }
         ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/BestProxyTel1/12259"
+      },
+      {
+        "id": 12257,
+        "text": "🔹\nاوکراین، یک کشتی متعلق به جمهوری اسلامی را در دریای خزر هدف قرار داد!\nتاکنون مرگ یک ملوان در این حمله تایید می‌شود، رئیس جمهور اوکراین می‌گوید این کشتی حامل محموله نظامی بود.\n🎖\n@BestProxyTel1",
+        "date": "2026-07-25T19:30:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "BestProxyTel1_12257_0_42ec34b4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/BestProxyTel1/12257"
+      },
+      {
+        "id": 12256,
+        "text": "➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\nhttps://t.me/proxy?server=vip.qavi-13.co.uk&port=1010&secret=3XnnAQIAAQAH8AMDhuJMOt0\nhttps://t.me/proxy?server=6ssxxxc8s61f64d6gar01a632511kkkkk.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=466ssxxxc8s61f64d6gar01a632511kkkkk.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=tall-shore.boxd.sh&port=50845&secret=ee3e99af290d25b71c94440fb7a97ec3e87777772e636c6f7564666c6172652e636f6d\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n🎖\n@BestProxyTel1",
+        "date": "2026-07-25T18:18:50+00:00",
+        "media": [],
         "links": [
           {
             "url": "https://t.me/proxy?server=vip.qavi-13.co.uk&port=1010&secret=3XnnAQIAAQAH8AMDhuJMOt0",
@@ -22837,7 +22949,7 @@
             "display_text": "https://t.me/proxy?server=tall-shore.boxd.sh&port=50845&secr..."
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/BestProxyTel1/12256"
       },
@@ -22845,18 +22957,9 @@
         "id": 12255,
         "text": "مملکت تو جنگه و هرشب داره حمله میشه ؛ همون لحظه عراقچی:\n🎖\n@BestProxyTel1",
         "date": "2026-07-25T17:14:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12255_0_42ec34b4.jpg"
-          },
-          {
-            "type": "video",
-            "file": "BestProxyTel1_12255_1_01c8710b.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12255"
       },
@@ -24089,44 +24192,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12118"
-      },
-      {
-        "id": 12117,
-        "text": "🔹\nخطر فوری اجرای حکم اعدام 12 معترض از بازداشت شدگان انقلاب ملی شیر و خورشید در اصفهان. این 12 عزیز شجاعمون رو انتقال دادن به انفرادی. اگر میتونید اسم و عکس هاشونو پخش کنید تا صداشون باشیم (البته گفتن 14 عزیز هستن که اسم دو نفرشون هنوز مشخص نیست)\n🎖\n@BestProxyTel1",
-        "date": "2026-07-19T11:56:38+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/BestProxyTel1/12117"
-      },
-      {
-        "id": 12116,
-        "text": "پروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nقوی شین.\n🎖\n@BestProxyTel1",
-        "date": "2026-07-19T00:05:08+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/BestProxyTel1/12116"
       }
     ]
   },
-  "last_update": "2026-07-25T19:15:04.190756+00:00",
+  "last_update": "2026-07-25T19:50:42.046884+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1629,
-    "total_media": 1276,
-    "total_files": 1276,
-    "total_links": 325,
+    "total_media": 1291,
+    "total_files": 1291,
+    "total_links": 328,
     "files_by_type": {
-      "image": 1127,
-      "video": 132,
-      "audio": 17
+      "image": 1145,
+      "video": 128,
+      "audio": 18
     },
-    "referenced_files": 1276,
-    "existing_media_files": 1276,
-    "total_size_mb": 499.96,
-    "last_calculation": "2026-07-25T19:15:04.202670+00:00"
+    "referenced_files": 1291,
+    "existing_media_files": 1291,
+    "total_size_mb": 499.46,
+    "last_calculation": "2026-07-25T19:50:42.063152+00:00"
   }
 }
