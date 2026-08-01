@@ -9527,6 +9527,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 350588,
+        "text": "ارتش کویت اعلام کرد حمله جمهوری اسلامی در روز شنبه، یک مرکز دولتی در شمال این کشور و خودروهای متعلق به یک شرکت خصوصی در جزیره بوبیان را هدف قرار داده است.\nارتش کویت اعلام کرد در پی رهگیری پهپادها، سقوط ترکش‌ها خساراتی به اموال وارد کرده، اما هیچ خسارت جانی گزارش نشده است.\nhttps://iranintl.com/202608010829",
+        "date": "2026-08-01T08:30:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_350588_0_8e64ee87.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_350588_1_302570de.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608010829",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608010829"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/350588"
+      },
+      {
         "id": 350587,
         "text": "علی عبداللهی، فرمانده قرارگاه مرکزی خاتم‌الانبیا، در پیامی اعلام کرد که کشورهای مسلمان بایستی با دوراندیشی، «جنایات آمریکا» را زیر نظر داشته باشند و در همکاری و همراهی با آمریکا تجدیدنظر نمایند، که در غیر این صورت، هر کشوری که خود را سپر دفاعی آمریکا قرار دهد، در آتش جنگ خواهد سوخت.\nعبداللهی افزود: «آمریکا با شتابی فزاینده، مسیر آتش‌افروزی فراگیر در جنگ منطقه‌ای را دنبال می‌کند. این رویکرد، برآیند یک راهبرد خطرناک با هدف توسعه و سلطه نامشروع در کل منطقه است.»\nفرمانده قرارگاه مرکزی خاتم‌الانبیا اضافه کرد: «کشورهای مسلمان منطقه باید بدانند که آمریکا با بهره‌گیری از سرمایه، ثروت، زیرساخت‌های حیاتی و منابع راهبردی آنان، به عنوان سپر دفاعی ارتش فرسوده خود و همزمان تقویت ماشین جنگی و امنیت اسرائیل بهره می‌برد.»\niranintl.com/202608019581",
         "date": "2026-08-01T08:22:44+00:00",
@@ -10944,25 +10969,24 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/350480"
-      },
-      {
-        "id": 350479,
-        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در نشست کابینه در کمپ دیوید، حمله سایبری به ۳۰ تاسیسات آب در ایالت مینه‌سوتا را به عملکرد مقام‌های این ایالت نسبت داد و گفت مسئولیت این موضوع متوجه دولت ایالتی و فرماندار مینه‌سوتا است.\nاو همچنین گفت جمهوری اسلامی درگیر مشکلات مهم‌تری است و فرصتی برای دخالت در این حمله ندارد.\nترامپ گفت: «من مسئولیت آن را متوجه مینه‌سوتا و دولت آن، و فرماندار فاسد مینه‌سوتا، می‌دانم. آنها دوست دارند بگویند: «اوه، کار ایران بود. جمهوری اسلامی گرفتاری‌های خیلی مهم‌تری دارد و اصلا فرصتی ندارد خودش را درگیر مینه‌سوتا کند.»\nرییس‌جمهوری آمریکا همچنین درباره جمهوری اسلامی گفت: «آنها دوران سختی را می‌گذرانند. آنها در برخورد با ما بسیار ناصادق و بسیار غیرمنصفانه بوده‌اند. اما این هیچ تفاوتی ایجاد نمی‌کند. آنها عملکرد بسیار، بسیار ضعیفی دارند.»\nhttps://iranintl.com/202607319522",
-        "date": "2026-07-31T15:53:42+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607319522",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607319522"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/350479"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 49689,
+        "text": "Server:\nUnknown\nPort:\n443\nSecret:\nee0c002a9452cc7922f86bf4bfaa6b1a8d6164342e666c757876706e67756172642e7275\n@ProxyMTProto",
+        "date": "2026-08-01T08:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49689_0_1346009f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49689"
+      },
       {
         "id": 49688,
         "text": "Server:\niran-download.dinocol.co.uk.\nPort:\n8443\nSecret:\nEERighJJvXrFGRMCIMjdCQ\n@ProxyMTProto",
@@ -11992,19 +12016,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49590"
-      },
-      {
-        "id": 49589,
-        "text": "Server:\nUnknown\nPort:\n4455\nSecret:\ndd104462821249bd7ac519130220c25d09\n@ProxyMTProto",
-        "date": "2026-07-29T10:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49589"
       }
     ],
     "XpnTeam": [
+      {
+        "id": 8032,
+        "text": "درود و احترام خدمت تمامی همراهان.\n😂\n- تمامی تبلیغات گذاشته شده در کانال از سمت تلگرام میباشند، و از معتبر یا نامعتبر بودن آنها اطلاع نداریم و تا در حد امکان دوری کنید،\nو خریدی انجام ندید.\n⛔\nامیدوارم هفته شادی داشته باشید.",
+        "date": "2026-08-01T08:36:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "XpnTeam_8032_0_3333789c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/XpnTeam/8032"
+      },
       {
         "id": 8031,
         "text": "@XpnTeam-98.npvt",
@@ -12994,16 +13023,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/XpnTeam/7924"
-      },
-      {
-        "id": 7923,
-        "text": "@XpnTeam-59.npvt",
-        "date": "2026-07-12T09:52:55+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/XpnTeam/7923"
       }
     ],
     "putakk": [
@@ -15772,6 +15791,40 @@
     ],
     "persian_asasins": [
       {
+        "id": 19037,
+        "text": "👑\n🥳\nنبرد میان فرزندان اسپهبد رستم  فرخ‌هرمز و فرزندان علی‌ابن ابی‌طالب تازی است. #بهنام_درویشی ------------------------------------------- @IRANSHAHR_POWER ❈\n🌐\nTikTok |\n🎬\nYT",
+        "date": "2026-08-01T08:45:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_19037_0_1e245763.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/19037"
+      },
+      {
+        "id": 19036,
+        "text": "👑\n🥳\nنبرد میان فرزندان اسپهبد رستم\nفرخ‌هرمز و فرزندان علی‌ابن ابی‌طالب تازی است.\n#بهنام_درویشی\n-------------------------------------------\n@IRANSHAHR_POWER\n❈\n🌐\nTikTok\n|\n🎬\nYT",
+        "date": "2026-08-01T08:36:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_19036_0_1e245763.jpg"
+          },
+          {
+            "type": "video",
+            "file": "persian_asasins_19036_1_d4753d4e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/19036"
+      },
+      {
         "id": 19035,
         "text": "🇮🇱",
         "date": "2026-08-01T07:11:34+00:00",
@@ -17545,26 +17598,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/persian_asasins/18918"
-      },
-      {
-        "id": 18917,
-        "text": "امام کصین خواسته زائر هاش مثل خودش تیکه تیکه بشن به کسی مربوط نیست\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
-        "date": "2026-07-23T01:21:47+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/18917"
-      },
-      {
-        "id": 18916,
-        "text": "Good night\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
-        "date": "2026-07-22T19:43:04+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/18916"
       }
     ],
     "yehirani": [
@@ -23299,21 +23332,21 @@
       }
     ]
   },
-  "last_update": "2026-08-01T08:29:45.851476+00:00",
+  "last_update": "2026-08-01T08:46:15.567078+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1630,
-    "total_media": 1054,
-    "total_files": 1054,
+    "total_media": 1061,
+    "total_files": 1061,
     "total_links": 366,
     "files_by_type": {
-      "image": 922,
-      "video": 128,
+      "image": 928,
+      "video": 129,
       "audio": 4
     },
-    "referenced_files": 1054,
-    "existing_media_files": 1054,
-    "total_size_mb": 493.4,
-    "last_calculation": "2026-08-01T08:29:45.864173+00:00"
+    "referenced_files": 1061,
+    "existing_media_files": 1061,
+    "total_size_mb": 497.85,
+    "last_calculation": "2026-08-01T08:46:15.579758+00:00"
   }
 }
