@@ -4558,6 +4558,25 @@
     ],
     "withyashar": [
       {
+        "id": 20432,
+        "text": "هم اکنون ‏عراقچی در عراق\n😂\n(مراسم اربعین)\n@WarRoom",
+        "date": "2026-08-03T20:06:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20432_0_05a873c9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "withyashar_20432_1_25644e16.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20432"
+      },
+      {
         "id": 20431,
         "text": "کانال ۱۲ اسراییل : بانک اطلاعات اسراییل برای حذف سران نظام در حال تکمیل شدن است\n@WarRoom\n🚨\n🚨\n🚨",
         "date": "2026-08-03T19:22:39+00:00",
@@ -6211,25 +6230,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/20328"
-      },
-      {
-        "id": 20327,
-        "text": "خبر ها رو نگاه نکنید ! حمله ناگهانی خواهد بود !  خواهید دید",
-        "date": "2026-08-02T07:55:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20327_0_15880aef.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_20327_1_033b8a9f.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20327"
       }
     ],
     "vahidonline": [
@@ -9207,6 +9207,103 @@
     ],
     "IranintlTV": [
       {
+        "id": 350945,
+        "text": "🎧\nنسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: ترامپ: رهبران جمهوری‌اسلامی دورو اند!\n@iranintlTV",
+        "date": "2026-08-03T20:16:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_350945_0_0e4a5254.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/350945"
+      },
+      {
+        "id": 350944,
+        "text": "شهیر شهیدثالث، تحلیل‌گر روابط بین‌الملل و مسائل ایران، گفت رسیدن به توافق میان واشینگتن و تهران اجتناب‌ناپذیر است، زیرا بدون توافق امکان پایان جنگ وجود ندارد. او افزود گسترش جنگ به افزایش قیمت نفت منجر می‌شود؛ موضوعی که با هدف دونالد ترامپ برای کاهش قیمت انرژی در تضاد است.\nاو همچنین گفت جمهوری اسلامی در حالی که محاصره دریایی، تحریم‌ها و مسدود بودن دارایی‌هایش ادامه دارد، با باز ماندن تنگه هرمز موافقت نخواهد کرد، زیرا از نگاه تهران، آتش‌بس در این شرایط تنها به سود آمریکا خواهد بود.\n@iranintltv",
+        "date": "2026-08-03T20:06:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_350944_0_0e4a5254.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_350944_1_722c1b1c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/350944"
+      },
+      {
+        "id": 350943,
+        "text": "رسانه‌های اسرائیلی گزارش دادند مقام‌های امنیتی اسرائیل بر این باورند که تصمیم‌های ناگهانی دونالد ترامپ برای لغو حملات گسترده به جمهوری اسلامی، به توان عملیاتی اسرائیل آسیب جدی وارد کرده و آن را فرسوده کرده است.\n@iranintltv",
+        "date": "2026-08-03T20:02:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_350943_0_0e4a5254.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_350943_1_976abac5.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/350943"
+      },
+      {
+        "id": 350942,
+        "text": "سایت هرانا خبر داد جلسه بازپرسی سرهنگ شهرزاد ضمیری، از کارکنان پیشین فراجا و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، دوشنبه ۱۲ مرداد با پنج اتهام، از جمله «افشای اسرار دولتی» و «اقدام عملیاتی»، در دادسرای نظامی مشهد برگزار شد.\nبر اساس این گزارش، ضمیری پیش از بازداشت در جریان انقلاب ملی دی‌ماه با درجه سرهنگ در فراجا فعالیت می‌کرد و پس از بازداشت از کار اخراج شد و اکنون در بند آرامش زندان وکیل‌آباد مشهد نگهداری می‌شود.\nایران‌اینترنشنال پیش‌تر به نقل از منابع خود گزارش داده بود او معاون اجتماعی پلیس فتای خراسان رضوی بوده است. هرانا نیز او را معاون پلیس امنیت فراجا و شاغل در بخش فناوری و رایانه‌ای این نهاد معرفی کرده است.\nبنا بر اطلاعات رسیده به ایران‌اینترنشنال، ضمیری چند روز پس از اعتراضات برای مراجعه به فراجا احضار و سپس بازداشت شد. او حدود دو ماه در سلول انفرادی نگهداری شد، به وکیل دسترسی نداشت و اموالش نیز توقیف شد. منابع مطلع گفته بودند اتهام‌های او با حضور در اعتراضات و کمک به معترضان ارتباط دارد.\nhttps://iranintl.com/202608032192",
+        "date": "2026-08-03T20:00:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_350942_0_0e4a5254.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_350942_1_d30c1d2e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608032192",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608032192"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/350942"
+      },
+      {
+        "id": 350941,
+        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت گفت‌وگوها با جمهوری اسلامی، با وجود انکارهای پیشین مقام‌های ایران، همچنان ادامه دارد. او افزود علاوه بر ایران، عربستان سعودی، امارات و قطر نیز با واشینگتن در تماس بوده‌اند.\nترامپ گفت جمهوری اسلامی برای جلوگیری از حمله دوباره آمریکا خواستار گفت‌وگو شده و مذاکرات درباره تنگه هرمز و هسته‌ای‌زدایی ایران در جریان است. او تاکید کرد موضوع هسته‌ای، محور اصلی این گفت‌وگوها و دلیل اقدام آمریکا بوده است.\n@iranintltv",
+        "date": "2026-08-03T19:56:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_350941_0_0e4a5254.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_350941_1_eec0b7b8.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/350941"
+      },
+      {
         "id": 350940,
         "text": "🎧\nنسخه صوتی چشم‌انداز: یارکشی مجتبی خامنه‌ای برای ادامه جنگ با آمریکا\n@iranintlTV",
         "date": "2026-08-03T19:44:56+00:00",
@@ -10328,65 +10425,39 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/350833"
-      },
-      {
-        "id": 350832,
-        "text": "پگاه بنی‌هاشمی، پژوهشگر ارشد حقوق در دانشگاه شیکاگو، به ایران‌اینترنشنال گفت چندین حکم از احکام اعدام صادرشده در جمهوری اسلامی برای افرادی بوده که در زمان بازداشت زیر سن قانونی بوده‌اند.\nبه گفته او جمهوری اسلامی کودکان را در صف اعدام قرار داده و به‌رغم پیوستن ایران به کنوانسیون حقوق کودکان، هیچ تعهدی به اجرای مفاد آن ندارد.\n@iranintltv",
-        "date": "2026-08-03T05:41:16+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/350832"
-      },
-      {
-        "id": 350831,
-        "text": "خبرگزاری آسوشیتدپرس در گزارشی نوشت اعلام‌های مکرر دونالد ترامپ درباره توقف حملات به جمهوری اسلامی به یکی از ویژگی‌های اصلی جنگ پنج‌ماهه تبدیل شده است.\nامیر حمیدی، متخصص امنیت ملی، به ایران‌اینترنشنال گفت امتناع دونالد ترامپ از حمله به جمهوری اسلامی با هدف اعمال فشار حداکثری و وادار کردن طرف مقابل به امتیازدهی از طریق نشان دادن تهدیدهای معتبر است.\n@iranintltv",
-        "date": "2026-08-03T05:37:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/350831"
-      },
-      {
-        "id": 350830,
-        "text": "میزان، رسانه وابسته به قوه قضاییه جمهوری اسلامی، از اعدام دو شهروند با نام‌های امید بهزاد و پوریا صفوت، دوشنبه ۱۲ مرداد و در ارتباط با جنگ‌های ۱۲ روزه و ۴۰ روزه خبر داد.\nاتهامات این دو شهروند، «ارسال مختصات مکان‌های حساس نظامی و امنیتی برای افسران موساد» اعلام شده است.\nhttps://iranintl.com/202608035214",
-        "date": "2026-08-03T05:01:13+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608035214",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608035214"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/350830"
-      },
-      {
-        "id": 350829,
-        "text": "هم‌زمان با تجمع‌های اعتراضی ایرانیان در شهرهای مختلف اروپا و آمریکای شمالی، گروهی از ایرانیان در لس‌آنجلس در اعتراض به افزایش اعدام‌های فراقضایی در ایران تجمع کردند. شرکت‌کنندگان با محکوم کردن سرکوب و کشتارهای جمهوری اسلامی، خواستار توجه دولت آمریکا به مطالبات ایرانیان شدند.\nگزارش نیلوفر منصوری، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-03T05:00:15+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/350829"
-      },
-      {
-        "id": 350828,
-        "text": "سرخط خبرهای دوشنبه ۱۲ مرداد\n@iranintltv",
-        "date": "2026-08-03T04:52:17+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/350828"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 49777,
+        "text": "Server:\npanel.neo-vpn.ink\nPort:\n443\nSecret:\neeb4ea209a41744fcfe544c552c134b0a670616e656c2e6e656f2d76706e2e696e6b\n@ProxyMTProto",
+        "date": "2026-08-03T20:28:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49777_0_9a0c875d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49777"
+      },
+      {
+        "id": 49776,
+        "text": "Server:\nUnknown\nPort:\n443\nSecret:\neef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
+        "date": "2026-08-03T20:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49776_0_9a0c875d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49776"
+      },
       {
         "id": 49775,
         "text": "Server:\napi.nowabst.net\nPort:\n853\nSecret:\nee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d\n@ProxyMTProto",
@@ -11366,29 +11437,39 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49678"
-      },
-      {
-        "id": 49677,
-        "text": "Server:\n91.107.172.189\nPort:\n88\nSecret:\nee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d\n@ProxyMTProto",
-        "date": "2026-07-31T19:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49677"
-      },
-      {
-        "id": 49676,
-        "text": "Server:\ngate.soluqent.pro\nPort:\n443\nSecret:\neebdbd1f66a7c00e7bf92c6436d457861d676174652e736f6c7571656e742e70726f\n@ProxyMTProto",
-        "date": "2026-07-31T18:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49676"
       }
     ],
     "XpnTeam": [
+      {
+        "id": 8047,
+        "text": "@XpnTeam-104.npvt",
+        "date": "2026-08-03T20:10:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "XpnTeam_8047_0_bf5f17f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/XpnTeam/8047"
+      },
+      {
+        "id": 8046,
+        "text": "🔐\nTraffic\n: UN/\nLimited\n♾\nTime : nA\n⏰\n⚠️\nLocation :\n🌐\nApp\n⬇️\n:\nNapesterNet\n❓\n|- آموزش :\nفایل رو دانلود کنید و روش ضربه بزنید ، برنامه نپستر رو انتخاب و سپس وارد اپلیکیشن شید انتخاب کنید سرورو،بعدشم‌روشن‌کنید..\n🤩\n›\n@XpnTeam",
+        "date": "2026-08-03T20:09:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "XpnTeam_8046_0_bf5f17f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/XpnTeam/8046"
+      },
       {
         "id": 8045,
         "text": "@XpnTeam-103.npvt",
@@ -12368,26 +12449,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/XpnTeam/7942"
-      },
-      {
-        "id": 7941,
-        "text": "🔐\nTraffic\n: UN/\nLimited\n♾\nTime : nA\n⏰\n⚠️\nLocation :\n🌐\nApp\n⬇️\n:\nNapesterNet\n❓\n|- آموزش :\nفایل رو دانلود کنید و روش ضربه بزنید ، برنامه نپستر رو انتخاب و سپس وارد اپلیکیشن شید انتخاب کنید سرورو،بعدشم‌روشن‌کنید..\n🤩\n›\n@XpnTeam",
-        "date": "2026-07-15T09:16:20+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/XpnTeam/7941"
-      },
-      {
-        "id": 7940,
-        "text": "@ XpnTeam-64.npvt",
-        "date": "2026-07-14T18:46:07+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/XpnTeam/7940"
       }
     ],
     "putakk": [
@@ -19880,6 +19941,46 @@
     ],
     "iranstop": [
       {
+        "id": 3566,
+        "text": "🔴\nخرازی، دبیرکل حزب‌الله ایران :\nاگه پزشکیان یک بار دیگه استعفا بده، مجتبی خامنه‌ای موافقت می‌کنه.\nمسعود پزشکیان تا حالا نزدیک به 28 بار یا استعفا داده یا تهدید به استعفا کرده!",
+        "date": "2026-08-03T19:49:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "iranstop_3566_0_3320b58c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/iranstop/3566"
+      },
+      {
+        "id": 3565,
+        "text": "👀\nدنبال سایت معتبر برای شرطبندی می‌گردید\n⁉️\n🎲\nسایت بین المللی و معتبر Melbet\n👍\n😁\n😊\n🙂\n🥇\nواریز و برداشت ارزی و ریالی\n‼️\n🔥\nبونوس 100% اولین واریز\n‼️\n⚽️\nبونوس ورزشی هرچهارشنبه\n‼️\n🆗\nکازینو و انفجار با ضرایب جهانی\n‼️\n🎁\nکد هدیه ثبت نام :Melbet90\n🇩🇪\nدانلود اپلیکیشن MELBET\n👉\n🔗\nلینک وبسایت\n👉\n⭕️\nجهت استفاده از vpn از IP های آسیایی یا کانادا استفاده کنید.\n🇨🇦\n🇹🇷\nG12\n✔\nhttps://t.me/+x60dZGAgXTUxM2U0",
+        "date": "2026-08-03T19:49:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "iranstop_3565_0_3320b58c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "iranstop_3565_1_c91e3f76.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+x60dZGAgXTUxM2U0",
+            "type": "telegram",
+            "display_text": "https://t.me/+x60dZGAgXTUxM2U0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/iranstop/3565"
+      },
+      {
         "id": 3564,
         "text": "🔴\nلیست میانگین IQ کشورهای مختلف تو سال 2026 هم منتشر شد؛\n1-\n🇰🇷\nکره جنوبی : 106.97\n2-\n🇨🇳\nچین : 106.48\n3-\n🇯🇵\nژاپن : 106.30\n4-\n🇮🇷\nایران : 104.80\n5-\n🇦🇺\nاسترالیا : 104.45\n6-\n🇷🇺\nروسیه : 103.78\n7-\n🇸🇬\nسنگاپور : 103.56\n8-\n🇲🇳\nمغولستان : 102.61\n9-\n🇳🇿\nنیوزیلند : 102.35\n10-\n🇻🇳\nویتنام : 102.26\n.\n18-\n🇺🇸\nآمریکا : 101.04\n.\n.\n48-\n🇮🇱\nاسرائیل : 98.57\n50-\n🇮🇳\nهند : 98.44\n.\n.\n.\n129-\n🇦🇫\nافغانستان : 89.31\n137-\n🇸🇴\nسومالی : 83.84",
         "date": "2026-08-03T12:30:58+00:00",
@@ -21180,37 +21281,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/iranstop/3458"
-      },
-      {
-        "id": 3457,
-        "text": "🤩\n🤩\n🤩\n🤩\n🤩\n🤩\n🤩\n🤩\n🎲\n#تخته‌نرد\nفقط یه بازی نیست، یه جنگ مغزه!\nاگه فکر می‌کنی شانسی می‌بری، بیا وسط!\n📱\nتو وین اسپورت، پشت هر تاس یه نبرد جدیه!\n💲\nجایزه بزن، حریف رو بچ\nرخون، شاه تخته شو!\n🎁\nشارژ هدیه بدون قید و شرط ۵٪\n🎁\nبونوس تقویت ضرایب ورزشی تا ۵۰٪\n🎁\nکش بک (برگشت پول) ۳تا ۳۵٪\n🎁\nریک بک های هفتگی پوکر تا ۲۰٪\n♟️\nبازی کن، ببَر، پادشاه شو!\n👇\nhttp://Winspo7080.com/?registr=1\nR3\n⚡️\nکانال تلگرام و جوایز دلاری\n👇\nhttps://telegram.me/joinchat/AAAAAEgBTn0UL_Kmkpy4Cw",
-        "date": "2026-07-20T02:02:49+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "http://Winspo7080.com/?registr=1",
-            "type": "external",
-            "display_text": "http://Winspo7080.com/?registr=1"
-          },
-          {
-            "url": "https://telegram.me/joinchat/AAAAAEgBTn0UL_Kmkpy4Cw",
-            "type": "external",
-            "display_text": "https://telegram.me/joinchat/AAAAAEgBTn0UL_Kmkpy4Cw"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/iranstop/3457"
-      },
-      {
-        "id": 3456,
-        "text": "🔴\nویدیو کامل اجرای بین دو نیمه فینال جام جهانی با حضور بیژن مرتضوی، شکیرا، BTS، جاستین بیبر.",
-        "date": "2026-07-19T21:17:39+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/iranstop/3456"
       }
     ],
     "BestProxyTel1": [
@@ -22533,21 +22603,21 @@
       }
     ]
   },
-  "last_update": "2026-08-03T19:47:14.947336+00:00",
+  "last_update": "2026-08-03T20:50:52.355842+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1630,
-    "total_media": 890,
-    "total_files": 890,
-    "total_links": 365,
+    "total_media": 906,
+    "total_files": 906,
+    "total_links": 364,
     "files_by_type": {
-      "image": 768,
-      "video": 113,
-      "audio": 9
+      "image": 781,
+      "video": 117,
+      "audio": 8
     },
-    "referenced_files": 890,
-    "existing_media_files": 890,
-    "total_size_mb": 489.03,
-    "last_calculation": "2026-08-03T19:47:14.958666+00:00"
+    "referenced_files": 906,
+    "existing_media_files": 906,
+    "total_size_mb": 496.99,
+    "last_calculation": "2026-08-03T20:50:52.366786+00:00"
   }
 }
