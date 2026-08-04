@@ -10604,6 +10604,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 49780,
+        "text": "Server:\nad1.arixo.shop\nPort:\n443\nSecret:\neee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70\n@ProxyMTProto",
+        "date": "2026-08-04T05:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49780_0_9a0c875d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49780"
+      },
+      {
         "id": 49779,
         "text": "Server:\nrelaywise.co.uk.\nPort:\n443\nSecret:\nddf0eeb0bd9adc4fd4a93994ee3b2a216b\n@ProxyMTProto",
         "date": "2026-08-04T05:00:00+00:00",
@@ -11612,16 +11627,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49681"
-      },
-      {
-        "id": 49680,
-        "text": "Server:\nportal.malevich7.top\nPort:\n443\nSecret:\nee581fe7a67822287a191d54675fa00956706f7274616c2e6d616c6576696368372e746f70\n@ProxyMTProto",
-        "date": "2026-07-31T20:28:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49680"
       }
     ],
     "XpnTeam": [
@@ -22853,21 +22858,21 @@
       }
     ]
   },
-  "last_update": "2026-08-04T05:27:34.550988+00:00",
+  "last_update": "2026-08-04T05:38:34.015824+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1630,
-    "total_media": 943,
-    "total_files": 943,
+    "total_media": 944,
+    "total_files": 944,
     "total_links": 380,
     "files_by_type": {
-      "image": 817,
+      "image": 818,
       "video": 118,
       "audio": 8
     },
-    "referenced_files": 943,
-    "existing_media_files": 943,
-    "total_size_mb": 489.78,
-    "last_calculation": "2026-08-04T05:27:34.562911+00:00"
+    "referenced_files": 944,
+    "existing_media_files": 944,
+    "total_size_mb": 489.79,
+    "last_calculation": "2026-08-04T05:38:34.027000+00:00"
   }
 }
