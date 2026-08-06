@@ -1593,6 +1593,25 @@
     ],
     "MediaMardom": [
       {
+        "id": 10987,
+        "text": "ارزش این اسکناس شاهنشاهی در زمان خود  ۱۴۳ دلار بود!!!!\n❤️\n•\n@MediaMardom",
+        "date": "2026-08-06T05:45:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_10987_0_caab2570.jpg"
+          },
+          {
+            "type": "image",
+            "file": "MediaMardom_10987_1_11945055.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/10987"
+      },
+      {
         "id": 10986,
         "text": "🔴\nحرفای امشب پزشکیان درمورد دی:\nهنوز که هنوزه من اون حادثه رو نمی‌تونم فراموش کنم، نباید کارمون به اينجا می‌رسید!\nالبته خود ترامپ نامرد هم گفت که ما اینا رو مسلح کردیم.\nیه عده بی‌گناه هم با اینا قاطی شده بودن.\nوقتی شورش میشه، آدم نمی‌تونه دوست و دشمن رو تشخیص بده.\nهمه اونایی که شهید شده بودن یا فوت کرده بودن رو گفتیم کد ملی‌شون رو اعلام بکنن، هرکی هم اضافه داره خب بگه.\nیه عده تو خارج گفتن 30-40 هزار نفر مردن و بعد مردم رو تحریک کردن، این نشون میده اینا چقدر نامرد و وطن‌فروش هستن.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-05T22:07:12+00:00",
@@ -2973,19 +2992,49 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/10878"
-      },
-      {
-        "id": 10877,
-        "text": "🔴\nخلاصه صحبتای امشب ترامپ:\nمن میخواستم حمله بزرگی به ایران انجام بدم، ولی کشورای عربی بهم خواهش کردن اینکارو نکن.\nقرار بود سنگین‌ترین حملات از بعد جنگ جهانی دوم رو به ایران انجام بدیم، اما عربستان سعودی جلوی منو گرفت.\nمن دنبال این نیستم که به ایران حمله کنم و جون آدما رو به خطر بندازم، عده زیادی ازم میخوان که من وارد جنگ نشم.\nاز فردا مذاکرات با ایران شروع میشه و امیدوارم یه توافق خوب شکل بگیره.\n❤️\n•\n@MediaMardom",
-        "date": "2026-08-02T22:09:20+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/10877"
       }
     ],
     "whitedns": [
+      {
+        "id": 1412,
+        "text": "🌎\nنسخه‌ی دسکتاپ WhiteVPN منتشر شد!\n📤",
+        "date": "2026-08-06T05:43:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1412_0_89c0d07e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1412"
+      },
+      {
+        "id": 1410,
+        "text": "🎉\nنسخه‌ی دسکتاپ WhiteVPN منتشر شد!\nاگر می‌خواهید روی کامپیوتر بدون درگیری با تنظیمات پیچیده به VPN وصل شوید، WhiteVPN Desktop برای شما ساخته شده است.\n💻\nقابل استفاده روی:\n• ویندوز\n• مک، هم Apple Silicon و هم Intel\n• لینوکس با بسته‌های AppImage، DEB و RPM\n⚡️\nاتصال ساده و سریع\n• اتصال با اشتراک آماده WhiteVPN\n• اضافه‌کردن اشتراک شخصی\n• انتخاب خودکار بهترین سرور\n• انتخاب دستی کشور، نوع اتصال یا سرور دلخواه\n• نمایش IP و کشور واقعی اتصال\n• بررسی خودکار سلامت اتصال و جایگزینی سرور خراب\n📥\nواردکردن کانفیگ شخصی\n• پشتیبانی از VLESS، VMess، Trojan، Shadowsocks، Hysteria2 و WireGuard\n• امکان واردکردن یک یا چند کانفیگ به‌صورت هم‌زمان\n• فقط کانفیگ را کپی کنید و Ctrl+V یا در مک Cmd+V بزنید\n• کانفیگ‌های شخصی در بخش Manual و بالای لیست قرار می‌گیرند\n🚀\nتست کامل سرورها\n• بررسی سالم بودن سرور\n• تست پینگ واقعی\n• تست سرعت دانلود\n• مرتب‌سازی بر اساس کشور، پینگ، سرعت و نوع کانفیگ\n• تست‌ها بدون قطع‌کردن اتصال فعلی انجام می‌شوند\n🛡\nتنظیمات حرفه‌ای، با ظاهر ساده\n• حالت Proxy برای ویندوز، مک و لینوکس\n• حالت TUN برای اتصال کامل ویندوز\n• تنظیم DNS و حریم خصوصی DNS\n• Split Tunneling برای مدیریت مسیر برنامه‌ها\n• تنظیم IP Fronting به‌صورت خودکار یا دستی\n• مشاهده گزارش‌ها برای پیدا کردن سریع مشکلات اتصال\n🧰\nابزارهای کاربردی\n• White IP Generator: ساخت کانفیگ با White IP و اضافه‌کردن مستقیم به برنامه\n• Validator: بررسی تعداد زیادی IP یا آدرس و ذخیره نتیجه‌ها\n• Full Backup: پشتیبان‌گیری کامل از تنظیمات، اشتراک‌ها و کانفیگ‌ها و بازیابی آن‌ها\n🌍\nرابط کاربری کامل فارسی و انگلیسی\n• نمایش صحیح راست‌به‌چپ\n• فونت فارسی Vazir\n• محیط ساده و مدرن\n• ادامه اتصال در System Tray حتی بعد از بستن پنجره\n📌\nچند نکته درباره نسخه اول\n• حالت TUN فعلاً فقط روی ویندوز فعال است\n• در لینوکس ممکن است لازم باشد Proxy سیستم را دستی تنظیم کنید\n• برنامه هنوز امضای دیجیتال ندارد؛ بنابراین ویندوز یا مک ممکن است هنگام اجرای اول هشدار نمایش دهد\n🔓\nWhiteVPN Desktop متن‌باز است و تحت مجوز GPL-3.0 منتشر می‌شود.\n⬇️\nدانلود آخرین نسخه:\nhttps://github.com/WhiteDNS/WhiteVPN-Desktop/releases/latest\nاگر برنامه برایتان مفید بود، لینک آن را برای دوستانتان هم بفرستید\n❤️",
+        "date": "2026-08-06T05:38:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1410_0_89c0d07e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1410_1_05748e63.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/latest",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/latest"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1410"
+      },
       {
         "id": 1409,
         "text": "سرور های فعال WhiteDNS داشته باشید برای تست و زمان قطعی (کلیک کنید روش کپی میشه)\nکلاینت اندروید و IOS از CottenDNS پشتیبانی میکنن و به زودی کلاینت ویندوز هم آماده میشه\nServer #1 thx to LordofCinder\n♥️\nLocation: Turkey\n🇹🇷\ncottendns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgQ290dGVuRE5T8J-HufCfh7cgdGh4IHRvIExvcmRvZkNpbmRlciIsInNlcnZlciI6eyJkb21haW4iOiJ2LmFzaGVudGFqaXIuc2JzLCBjLmFzaGVudGFqaXIuc2l0ZSIsImVuY3J5cHRpb25fa2V5IjoiZTU1NGI4ZmI4ZGU4Mjc4ZDJmMTFlODcwNDA0NDI2OWEiLCJlbmNyeXB0aW9uX21ldGhvZCI6M319fQ\nServer #2 thx to Bamdad\n♥️\nLocation: Germany\n🇩🇪\ncottendns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgQ290dGVuRE5T8J-HqfCfh6ogdGh4IHRvIEJhbWRhZCIsInNlcnZlciI6eyJkb21haW4iOiJjLmJhbWFrLnh5eiIsImVuY3J5cHRpb25fa2V5IjoiMmRkZWI5ZGYyYzJiYTRkMyIsImVuY3J5cHRpb25fbWV0aG9kIjozfX19\nServer #3 thx to Araskhatare\n♥️\nLocation: France\n🇫🇷\ncottendns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgQ290dGVuRE5T8J-Hq_Cfh7cgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InBhcmlzLmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI1MjViNjkwYjU4ZmU0MTI0IiwiZW5jcnlwdGlvbl9tZXRob2QiOjN9fX0\nServer #4 thx to Araskhatare\n♥️\nLocation: France\n🇫🇷\n2\ncottendns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgQ290dGVuRE5T8J-Hq_Cfh7cgMiB0aHggdG8gQXJhc2toYXRhcmUiLCJzZXJ2ZXIiOnsiZG9tYWluIjoiYS5hcmFzLmRwZG5zLm9yZyIsImVuY3J5cHRpb25fa2V5IjoiNzFkM2MwOWYyYmY1NmVkYSIsImVuY3J5cHRpb25fbWV0aG9kIjozfX19\nServer #5 thx to Coreforge\n♥️\nLocation: Turkey\n🇹🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7nwn4e3ICAgdGh4IHRvIENvcmVmb3JnZSIsInNlcnZlciI6eyJkb21haW4iOiJ2LmFub255bW91cy5vYnNlcnZlciIsImVuY3J5cHRpb25fa2V5IjoiYjI3NTAzOTE5OWIxYzhjOSIsImVuY3J5cHRpb25fbWV0aG9kIjozfX19\nServer #6 thx to Araskhatare\n♥️\nLocation: USA\n🇺🇸\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7rwn4e4IDIgICB0aHggdG8gQXJhc2toYXRhcmUiLCJzZXJ2ZXIiOnsiZG9tYWluIjoidXNhLmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI5MzY5NjVjZWYzOWQzMmE5N2JlMWEzZDA4YzhiZmM5MyIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nآموزش استفاده از برنامه اندروید\n👇\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\nآموزش استفاده از برنامه ios\n👇\nhttps://www.youtube.com/watch?v=filwdiPKN90\nآموزش استفاده از برنامه ویندوز\n👇\nhttps://youtu.be/Mc--GlKw2wg\n@whitedns",
@@ -5093,49 +5142,28 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1259"
-      },
+      }
+    ],
+    "withyashar": [
       {
-        "id": 1258,
-        "text": "📹\nآموزش ساخت فیلترشکن رایگان با BPB Wizard\nhttps://youtu.be/vmazT67nRs0",
-        "date": "2026-07-22T12:22:36+00:00",
+        "id": 20556,
+        "text": "ترامپ در تروث : ایالات متحده مقادیر عظیمی «مهمات»، به ویژه از انواع خاص، دارد. علاوه بر این، مقادیر زیادی از آنها در صورت نیاز تولید و به ما ارسال می‌شود. شرکت‌های دفاعی در حال ساخت بیشترین تعداد کارخانه و تأسیسات در تاریخ کشورمان هستند. «\nافشاگران» این اظهارات خیانت‌آمیز تحت تعقیب هستند. احکام حبس طولانی مدت برایشان\nدرخواست خواهد شد!\n@WarRoom",
+        "date": "2026-08-06T05:38:04+00:00",
         "media": [
           {
             "type": "image",
-            "file": "whitedns_1258_0_159e228b.jpg"
+            "file": "withyashar_20556_0_3f7d32ae.jpg"
           },
           {
             "type": "image",
-            "file": "whitedns_1258_1_b91a5399.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://youtu.be/vmazT67nRs0",
-            "type": "youtube",
-            "display_text": "https://youtu.be/vmazT67nRs0"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1258"
-      },
-      {
-        "id": 1257,
-        "text": "👆\nانتشار نسخه ۱.۰.۰ اپلیکیشن WhiteVPN",
-        "date": "2026-07-22T10:34:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1257_0_159e228b.jpg"
+            "file": "withyashar_20556_1_9520d844.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/whitedns/1257"
-      }
-    ],
-    "withyashar": [
+        "source": "https://t.me/withyashar/20556"
+      },
       {
         "id": 20555,
         "text": "مرکز عملیات تجارت دریایی بریتانیا : بر اساس این گزارش، فرمانده یک نفتکش در حال عبور از تنگه هرمز اعلام کرده است که در فاصله حدود ۹ مایل دریایی جنوب‌شرقی منطقه کُمزار عمان، صدای دو انفجار را شنیده است. @WarRoom",
@@ -6808,24 +6836,28 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/20447"
-      },
+      }
+    ],
+    "vahidonline": [
       {
-        "id": 20446,
-        "text": "کانال ۱۴ :مسیرهای دیپلماتیک ایران عملاً از کار افتاده‌اند.\nبه گفته درور بالازاده، تحلیلگر کانال ۱۴، مجتبی خامنه‌ای،  رسماً اعتماد خود را از تیم‌های مذاکره‌کننده ایرانی و آمریکایی سلب کرده است. دکترین تندروانه و بدون امتیاز احمد وحیدی، فرمانده سپاه، اکنون سیاست رسمی آنها است.\n@WarRoom",
-        "date": "2026-08-03T23:30:37+00:00",
+        "id": 77762,
+        "text": "پست ترامپ ترجمه ماشین:\nایالات متحده مقادیر عظیمی «مهمات»، به‌ویژه از برخی انواع خاص، در اختیار دارد.\nافزون بر این، هر مقدار که نیاز باشد، حجم زیادی مهمات تولید و به ایالات متحده ارسال می‌شود.\nشرکت‌های دفاعی در حال ساخت بیشترین تعداد کارخانه و تأسیسات تولیدی در تاریخ کشور ما هستند.\nکسانی که این اظهارات خیانت‌بار را درز داده‌اند، تحت تعقیب قرار دارند.\nبرای آن‌ها درخواست محکومیت‌های طولانی‌مدت زندان خواهد شد!\nرئیس‌جمهور دی‌جی‌تی\nrealDonaldTrump\n📡\n@VahidOnline",
+        "date": "2026-08-06T05:40:03+00:00",
         "media": [
           {
             "type": "image",
-            "file": "withyashar_20446_0_05a873c9.jpg"
+            "file": "vahidonline_77762_0_053ec381.jpg"
+          },
+          {
+            "type": "image",
+            "file": "vahidonline_77762_1_7352b299.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/withyashar/20446"
-      }
-    ],
-    "vahidonline": [
+        "source": "https://t.me/vahidonline/77762"
+      },
       {
         "id": 77761,
         "text": "واشینگتن پست\n:\nدرگیری ترامپ و هگست در کمپ دیوید بر سر نگرانی‌ها از کاهش ذخایر موشکی در جنگ ایران\nترجمه ماشین:\nدر نشست این آخر هفته در کمپ دیوید، رئیس‌جمهور ترامپ از پیت هگست، وزیر دفاع، درباره کمبود شدید مهمات توضیح خواست.\nبه گفته دو فرد آگاه از این گفت‌وگو به روزنامه واشنگتن‌پست، سرخوردگی دونالد ترامپ، رئیس‌جمهور آمریکا، از جنگ ایران هفته گذشته در کمپ دیوید فوران کرد؛ جایی که او از پیت هگست، وزیر دفاع، خواست توضیح دهد چرا ظاهراً درباره کمبود شدید مهمات ــ که اکنون گزینه‌های نظامی در برابر ایران را محدود می‌کند ــ گمراه شده است.\nاین رویارویی روز جمعه و در حاشیه نشست کابینه ترامپ در کمپ دیوید رخ داد. به گفته هر دو فرد آگاه از گفت‌وگو، ترامپ با عصبانیت به هگست گفت تصور می‌کرده مشکل مهمات «حل شده است». این افراد نیز مانند دیگران، به‌دلیل ترس از تلافی‌جویی، به شرط ناشناس‌ماندن صحبت کردند.\nبه گفته یکی از منابع، کمبودها، به‌ویژه در زمینه موشک‌های هدایت‌شونده دوربرد و موشک‌های رهگیر پدافند هوایی، از دلایلی بوده است که ترامپ در روزهای اخیر از اجرای حملات گسترده‌تر علیه ایران عقب‌نشینی کرده است.\nکارولین لیویت، سخنگوی کاخ سفید، در پاسخ به پرسش‌های واشنگتن‌پست گفت: «این خبر صددرصد جعلی است. واقعاً هرگز چنین اتفاقی نیفتاده است. رئیس‌جمهور ترامپ نیز نهایت اعتماد را به وزیر هگست دارد.»\nمتن کامل فارسی\n📡\n@VahidOnline",
@@ -8794,21 +8826,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vahidonline/77631"
-      },
-      {
-        "id": 77630,
-        "text": "پیام‌های دریافتی:\nهمین الان سه انفجار در کیش\nکیشو زدن همین الان ۳:۳۱\nکیش دم بندرگاه ساعت ٣:٣٠ ٢ تا زدن\nوحید جان کیش ۲ تا ۳:۳۲\nسلام وحید\nکیش رو الان زد\nدوتا انفجار\nوحید الان کیشو زد\n۰۳و۳۰ دقیقه انگار  تووآب بود\nسلام وحید کیش همین الان صدا اومد\nسلام وحید جان\nهمین الان ۳۱:۰۳ کیش صدای انفجار اومد",
-        "date": "2026-07-30T00:05:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vahidonline_77630_0_6705772a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vahidonline/77630"
       }
     ],
     "configraygan": [
@@ -11318,6 +11335,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 49842,
+        "text": "Server:\nUnknown\nPort:\n8443\nSecret:\nee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275\n@ProxyMTProto",
+        "date": "2026-08-06T05:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49842_0_4ccf1867.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49842"
+      },
+      {
         "id": 49841,
         "text": "Server:\nbastani.mikham.co.uk\nPort:\n8443\nSecret:\nEERighJJvXrFGRMCIMJdCQ\n@ProxyMTProto",
         "date": "2026-08-06T05:00:00+00:00",
@@ -12581,16 +12613,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49743"
-      },
-      {
-        "id": 49742,
-        "text": "Server:\nnet.antitspu.com\nPort:\n443\nSecret:\nee24918e3782cee00f652c0018f2867ffd6e65742e616e7469747370752e636f6d\n@ProxyMTProto",
-        "date": "2026-08-02T18:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49742"
       }
     ],
     "XpnTeam": [
@@ -23780,21 +23802,21 @@
       }
     ]
   },
-  "last_update": "2026-08-06T05:28:56.908293+00:00",
+  "last_update": "2026-08-06T05:52:10.349196+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1632,
-    "total_media": 1132,
-    "total_files": 1132,
+    "total_media": 1137,
+    "total_files": 1137,
     "total_links": 382,
     "files_by_type": {
-      "image": 990,
+      "image": 995,
       "video": 137,
       "audio": 5
     },
-    "referenced_files": 1132,
-    "existing_media_files": 1132,
-    "total_size_mb": 498.51,
-    "last_calculation": "2026-08-06T05:28:56.922385+00:00"
+    "referenced_files": 1137,
+    "existing_media_files": 1137,
+    "total_size_mb": 498.72,
+    "last_calculation": "2026-08-06T05:52:10.363112+00:00"
   }
 }
