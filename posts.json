@@ -390,6 +390,40 @@
     ],
     "apkclub": [
       {
+        "id": 71791,
+        "text": "💻\nOnePlayer\n🔝\nV2.5.3\n⭐️\nنسخه مود پخش‌کننده ویدیو با کیفیت HD\n🔖\nویژگی‌های برنامه:\n🔵\nپشتیبانی از کیفیت‌های HD، Full HD و 4K\n🔵\nاجرای روان ویدیوهای سنگین بدون لگ\n🔵\nپشتیبانی از فرمت‌های مختلف ویدیویی\n🔵\nمدیریت هوشمند فایل‌های تصویری\n🔵\nفضای امن برای نگهداری ویدیوهای خصوصی\n🔵\nابزارهای کنترل پخش با ژست‌های لمسی\n📱\nبرای دانلود فایل بر روی\n(\nدانــلود\n) کلیک کنید.\n🌟\n@APKCLUB",
+        "date": "2026-08-07T14:34:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71791_0_b5c9f896.jpg"
+          },
+          {
+            "type": "image",
+            "file": "apkclub_71791_1_8058c8b1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/71791"
+      },
+      {
+        "id": 71790,
+        "text": "",
+        "date": "2026-08-07T14:34:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71790_0_b5c9f896.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/71790"
+      },
+      {
         "id": 71789,
         "text": "💻\nXRecorder Pro\n🔝\nV2.5.4.1\n⭐️\nنسخه مود ضبط ویدئو از صفحه نمایش\n🔖\nویژگی‌های برنامه:\n🔵\nگرفتن اسکرین شات های واضح\n🔵\nپشتیبانی از ضبط به صورت فول اچدی\n🔵\nقابل استفاده برای ضبط روند بازی ها در گوشی\n🔵\nپشتیبانی از ضبط انواع ویدئو ها مثل لایو های Periscope, Bigo یا ly, tik tok, YouTube, Twitch و ….\n📱\nبرای دانلود فایل بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
         "date": "2026-08-07T12:30:07+00:00",
@@ -1755,29 +1789,87 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/apkclub/71690"
-      },
-      {
-        "id": 71689,
-        "text": "💻\nMovieLix\n🔝\nV1.7.9\n➕\n#فیلم\n#سریال\n⭐️\nنسخه مود تماشا و دانلود فیلم و سریال بدون سانسور\n🔖\nویژگی‌های نسخه مود :\n🔵\nبدون نیاز به اشتراک\n🔵\nباز بودن تمام قسمت ها\n⭕️\nهنگام ورود به برنامه بر روی ( شروع کنیم ) بزنید.\n📱\nبرای دانلود فایل بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
-        "date": "2026-07-31T16:45:11+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71689"
-      },
-      {
-        "id": 71688,
-        "text": "",
-        "date": "2026-07-31T16:41:43+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71688"
       }
     ],
     "MediaMardom": [
+      {
+        "id": 11036,
+        "text": "🔴\nدیشب دخترا اکیپی، یه پسرو خفت کردن و ریختن سرش و تا جایی که میخورد، کتکش زدن!\nآخرش مردم مجبور شدن پسر رو از زیر مشت و لگد دخترا بکشن بیرون.\nحالا دلیلیش چی بود؟ پسره به یکی از رفیقاشون خیانت کرده بود.\n❤️\n•\n@MediaMardom",
+        "date": "2026-08-07T15:38:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11036_0_585c350a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "MediaMardom_11036_1_ea8bd695.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/11036"
+      },
+      {
+        "id": 11035,
+        "text": "اگه فوتبال رو فقط نگاه نمی‌کنی و تحلیلش می‌کنی، این کانال برای توئه!\n⚽\n🔥\nتو این کانال هر روز داریم: تحلیل تخصصی بازی‌ها بررسی فرم تیم‌ها آمار مهم قبل بازی پیش‌بینی مسابقات مهم نکات کاربردی برای فوتبال‌دوست‌های حرفه‌ای اگه دنبال تحلیل واقعی و بدون حاشیه‌ای،…",
+        "date": "2026-08-07T15:38:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11035_0_585c350a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/11035"
+      },
+      {
+        "id": 11034,
+        "text": "اگه فوتبال رو فقط نگاه نمی‌کنی و تحلیلش می‌کنی، این کانال برای توئه!\n⚽\n🔥\nتو این کانال هر روز داریم:\nتحلیل تخصصی بازی‌ها\nبررسی فرم تیم‌ها\nآمار مهم قبل بازی\nپیش‌بینی مسابقات مهم\nنکات کاربردی برای فوتبال‌دوست‌های حرفه‌ای\nاگه دنبال تحلیل واقعی و بدون حاشیه‌ای، همین الان عضو شو\nG16\nhttps://t.me/+MYdqaQ9wg_Q0NGM0",
+        "date": "2026-08-07T15:38:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11034_0_585c350a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "MediaMardom_11034_1_ef0c6da8.mp4"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+MYdqaQ9wg_Q0NGM0",
+            "type": "telegram",
+            "display_text": "https://t.me/+MYdqaQ9wg_Q0NGM0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/MediaMardom/11034"
+      },
+      {
+        "id": 11033,
+        "text": "🔴\nمارک لوین:\nمردم ایران را مسلح کنید!\nمن از آغاز جنگ با رژیم ایران، طرفدار مسلح کردن مردم ایران بوده‌ام. اکنون این موضوع به طور گسترده درک شده و توسط تعداد فزاینده‌ای از مردم حمایت می‌شود.\nاگر قرار است رژیم ایران را شکست دهیم، این امر کاملاً ضروری است. سوال این است که آیا این هدف ماست یا خیر. به نظر می‌رسد که هدف ما نیست، حداقل نه الان. تأکید بر انجام معامله به دلایل مختلف آشنا و مکرر است.\n❤️\n•\n@MediaMardom",
+        "date": "2026-08-07T14:48:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11033_0_585c350a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "MediaMardom_11033_1_69d48555.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/11033"
+      },
       {
         "id": 11032,
         "text": "🔴\nپیت هگست: ترامپ جنگ با ایران رو برد.\n❤️\n•\n@MediaMardom",
@@ -3218,52 +3310,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/10931"
-      },
-      {
-        "id": 10930,
-        "text": "اگه فوتبال رو فقط نگاه نمی‌کنی و تحلیلش می‌کنی، این کانال برای توئه!\n⚽\n🔥\nتو این کانال هر روز داریم:\nتحلیل تخصصی بازی‌ها\nبررسی فرم تیم‌ها\nآمار مهم قبل بازی\nپیش‌بینی مسابقات مهم\nنکات کاربردی برای فوتبال‌دوست‌های حرفه‌ای\nاگه دنبال تحلیل واقعی و بدون حاشیه‌ای، همین الان عضو شو\nG13\nhttps://t.me/+MYdqaQ9wg_Q0NGM0",
-        "date": "2026-08-04T16:50:29+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://t.me/+MYdqaQ9wg_Q0NGM0",
-            "type": "telegram",
-            "display_text": "https://t.me/+MYdqaQ9wg_Q0NGM0"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/MediaMardom/10930"
-      },
-      {
-        "id": 10929,
-        "text": "🔴\nبلومبرگ : ایران درحال بررسی گزینه کمک اروپایی‌ها برای پاکسازی مین‌های دریایی در تنگه هرمزه تا راه مذاکرات هموارتر بشه\n❤️\n•\n@MediaMardom",
-        "date": "2026-08-04T16:38:27+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/10929"
-      },
-      {
-        "id": 10928,
-        "text": "🔴\nاینترنشنال: پزشکیانو بردن تو ماشین با مجتبی حرف زده ولی نذاشتن صورت مجتبی دیده شه، پزشکیانم عصبی شده گفته از کجا بدونم خودشه؟\n❤️\n•\n@MediaMardom",
-        "date": "2026-08-04T15:26:51+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/10928"
-      },
-      {
-        "id": 10927,
-        "text": "🔴\nمارکو روبیو :\nیه پیشرفتایی تو مذاکرات با ایران برای باز شدن تنگه هرمز به دست اومده\nولی هنوز به توافق نهایی نرسیدیم\nاحتمال داره توافق با ایران درباره تنگه هرمز خیلی زود اعلام بشه\nتنگه هرمز همین الانشم بازه و کشتی‌ها در حال عبورن و انتقال نفت ادامه دارد\n❤️\n•\n@MediaMardom",
-        "date": "2026-08-04T14:26:36+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/10927"
       }
     ],
     "whitedns": [
@@ -5445,6 +5491,131 @@
     ],
     "withyashar": [
       {
+        "id": 20645,
+        "text": "وزارت دفاع آمریکا پنجمین مجموعه از پرونده‌های مربوط به پدیده‌های ناشناس هوایی و بشقاب پرنده ها رو منتشر کرد در همین راستا شبکه خبری CBS دقایقی‌پیش مصاحبه انجام داده با «آوی لوئب» که ترامپ او را مأمور و نماینده تحقیق بر روی این پروژه کرده، از دست ندید.با زیرنویس فارسی\n@WarRoom",
+        "date": "2026-08-07T15:36:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20645_0_be6b4a77.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20645"
+      },
+      {
+        "id": 20644,
+        "text": "سناتور جمهوری‌خواه تد کروز، درباره جمهوری اسلامی : اگر شما یک اسلام‌گرا هستید که از آمریکا متنفر است و سعی دارد ما را بکشد، من از اینکه شما یک کشور یا ملت را رهبری کنید و منابع لازم برای کشتن آمریکایی‌ها را داشته باشید حمایت نمی‌کنم؛ این جایی است که ما باید بر آن تمرکز کنیم؛ حال، چگونه فروپاشی حکومت را رقم بزنیم\n@WarRoom",
+        "date": "2026-08-07T15:09:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20644_0_be6b4a77.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20644"
+      },
+      {
+        "id": 20643,
+        "text": "محمد شهباز شریف، نخست وزیر، محمد بن سلمان بن عبدالعزیز آل سعود، ولیعهد و نخست وزیر عربستان سعودی و رجب طیب اردوغان، رئیس جمهور ترکیه نماز جمعه را در قصر الصفا اقامه کردند. در این مراسم، محمد اسحاق دار، معاون نخست وزیر و وزیر امور خارجه، سناتور محمد اسحاق دار، فرمانده ارتش و رئیس نیروهای دفاعی، سپهبد سید عاصم منیر، و مقامات ارشد سعودی و ترکیه نیز حضور داشتند.\n@WarRoom",
+        "date": "2026-08-07T15:05:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20643_0_be6b4a77.jpg"
+          },
+          {
+            "type": "video",
+            "file": "withyashar_20643_1_db778f2b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20643"
+      },
+      {
+        "id": 20642,
+        "text": "راستی امشب به روال هر جمعه بیداریم و کشیک رو میدیم\n😁",
+        "date": "2026-08-07T14:55:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20642_0_be6b4a77.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_20642_1_a1c7c5ee.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20642"
+      },
+      {
+        "id": 20641,
+        "text": "شبکه کان اسرائیل: ایران صدها موشک پدافندی دوش‌پرتاب از روسیه و چین دریافت کرده است\n@WarRoom",
+        "date": "2026-08-07T14:28:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20641_0_be6b4a77.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20641"
+      },
+      {
+        "id": 20640,
+        "text": "",
+        "date": "2026-08-07T14:22:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20640_0_be6b4a77.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_20640_1_83e5bb58.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20640"
+      },
+      {
+        "id": 20639,
+        "text": "پیت هگست وزیر جنگ متنی از مقاله که ترامپ هم دیروز آن را منتشر کرده بود منتشر کرد. این مقاله فقط دیدگاه نویسنده آن را بیان میکند نه یک گزارش خبری.  متن عکس : ترامپ در جنگ ایران پیروز شد پس این هم واقعیت؛ همان حقیقت تلخی که تردیدکنندگان دوست ندارند درباره‌اش…",
+        "date": "2026-08-07T14:17:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20639_0_be6b4a77.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_20639_1_ccc38644.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_20639_2_764ed530.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20639"
+      },
+      {
         "id": 20638,
         "text": "‏نیویورک تایمز: برنامه هسته‌ای رژیم کند شده اما متوقف نشده است\n‏ بازرسان سازمان ملل برآورد می‌کنند رژیم همچنان ذخیره‌ای از اورانیوم نزدیک به درجه تسلیحاتی در اختیار دارد که برای ساخت سریع ۹ تا ۱۰ بمب هسته‌ای کافی است. داریل کیمبال، مدیر انجمن کنترل تسلیحات، گفت سیاست فشار حداکثری و اقدامات نظامی دولت پرزیدنت ترامپ نتوانسته توانمندی هسته‌ای رژیم را از میان ببرد. الی گرانمایه نیز هشدار داد در نبود نظارت بین‌المللی، رژیم می‌تواند ذخایر فعلی اورانیوم خود را به سرعت تا سطح مورد نیاز برای ساخت سلاح هسته‌ای غنی‌سازی کند.\n@WarRoom",
         "date": "2026-08-07T14:00:51+00:00",
@@ -7000,118 +7171,32 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/20522"
-      },
-      {
-        "id": 20520,
-        "text": "رئیس تروریستی سپاه، احمد وحیدی:\n«هیچ بحثی درباره اورانیوم غنی‌شده یا سلاح‌های هسته‌ای صورت نخواهد گرفت. تا زمانی که ایالات متحده آمریکا و اسرائیل سلاح‌های هسته‌ای در اختیار داشته باشند، ما به کار خود در این زمینه برای امنیت ملی خود ادامه خواهیم داد.\nاگر آن‌ها سلاح‌های خود را کنار بگذارند، ما نیز این کار را خواهیم کرد\n.»\n@WarRoom\nاین رژیم قصد ندارد از اهداف هسته‌ای خود دست بکشد. آن‌ها در حال به دست آوردن زمان هستند. هیچ توافقی حاصل نخواهد شد.",
-        "date": "2026-08-05T13:47:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20520_0_3f7d32ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20520"
-      },
-      {
-        "id": 20519,
-        "text": "ارتش اسرائیل: ما حملات متمرکز در جنوب لبنان را آغاز کرده‌ایم در پاسخ به نقض آتش‌بس توسط حزب‌الله.\n@WarRoom\n🚨\n🚨\n🚨",
-        "date": "2026-08-05T13:15:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20519_0_3f7d32ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20519"
-      },
-      {
-        "id": 20518,
-        "text": "برای اولین بار پس از حدود یک و نیم ماه، ارتش اسرائیل دستور تخلیه را در جنوب لبنان منتشر کرد.\n@WarRoom\n🚨\n🚨\n🚨",
-        "date": "2026-08-05T13:09:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20518_0_3f7d32ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20518"
-      },
-      {
-        "id": 20517,
-        "text": "یک مقام ارشد خلیج فارس به سی‌ان‌ان گفت که احتمال رسیدن ایالات متحده و ایران به یک توافق موقت در روز جمعه ۵۰ به ۵۰ است، هرچند تندروهای اصلی ایران هنوز آن را امضا نکرده‌اند.\n@WarRoom",
-        "date": "2026-08-05T13:05:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20517_0_3f7d32ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20517"
-      },
-      {
-        "id": 20516,
-        "text": "اصابت یک فروند پهپاد دریایی به یک کشتی و بروز آتش‌سوزی در آن\nاین کشتی هدف حمله یک شناور سطحی بدون سرنشین قرار گرفت که در پی آن آتش‌سوزی در عرشه کشتی رخ داد. نیروهای محلی تمامی خدمه را نجات دادند و آن‌ها در سلامت کامل هستند. غرق شدن این کشتی تأیید شده است\n@WarRoom",
-        "date": "2026-08-05T12:09:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20516_0_3f7d32ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20516"
-      },
-      {
-        "id": 20515,
-        "text": "حسن روحانی: یک اقلیتی هستند که می‌گویند «اگر این جنگ تشدید و گسترش بیابد، امام زمان زودتر ظهور می‌کند! برای ظهور امام باید جنگ را تشدید کنیم»\nرهبر پیشین هیچ‌وقت به دنبال جنگ نبودند\n@WarRoom",
-        "date": "2026-08-05T11:35:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20515_0_3f7d32ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20515"
-      },
-      {
-        "id": 20514,
-        "text": "حمله هوایی اسرائیل به منطقه المنصوری در جنوب لبنان\n@WarRoom",
-        "date": "2026-08-05T10:33:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20514_0_c2c575c7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_20514_1_5d54eb50.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20514"
       }
     ],
     "vahidonline": [
+      {
+        "id": 77768,
+        "text": "#توافق_مکه\n:\nوزارت خارجه پاکستان در بیانیه‌ای اعلام کرد جمعه ۱۶ مرداد، پاکستان، ترکیه و عربستان سعودی، توافقنامه مشترک دفاعی امضا کردند.\nتوافق امضا شده تصریح می‌کند هرگونه حمله مسلحانه علیه هر یک از سه کشور، حمله علیه همه آنها تلقی خواهد شد.\nدر این بیانیه آمده است این امضای این توافق‌نامه «نشان‌دهنده تعهد سه کشور برای تقویت بیشتر امنیت جمعی آنها است.»\nوزارت خارجه پاکستان همچنین در این بیانیه نوشت این توافق با هدف تقویت صلح، امنیت و ثبات در منطقه و فراتر از آن و برای دستیابی به آینده‌ای امن و با رفاه بیشتر تنظیم شده است.\nهمچنین رویترز به نقل از یک مقام ترکیه اعلام کرد «توافق دفاعی میان پاکستان، ترکیه و عربستان سعودی ماهیتی کاملا دفاعی دارد و هدف آن، ایجاد تعهد برای حمایت متقابل در زمینه دفاعی است.\nاین مقام به رویترز گفت: «این توافق علیه هیچ کشور یا طرف مشخصی تنظیم نشده و کشورهای دیگر منطقه نیز امکان پیوستن به آن را دارند.»\nبه گفته این مقام، این پیمان جایگزین یا لغوکننده هیچ‌یک از توافق‌های دوجانبه یا چندجانبه موجود میان کشورها نیست.\n@\nVahidOOnLine\nابراهیم رضایی، عضو كميسيون امنيت ملی و سياست خارجی مجلس شورای اسلامی، عربستان سعودی را به طور غیرمستقیم تهدید کرد که پیمان دفاعی مکه برای آنها امنیت به همراه نخواهد آورد.\nرضایی در شبکه ایکس نوشت: «سعودی‌ها باید بدانند که توافق کاغذی با ترکیه و پاکستان برای آنها امنیت‌آور نیست، همان‌طور که سال‌ها شیردهی یکطرفه به آمریکایی‌ها برایشان امنیت نیاورد.»\nاو عربستان سعودی را به «گدایی امنیت» متهم کرده و به مقامات این کشور توصیه کرده به جای آن، سیاست‌هایشان را «اصلاح» کنند.\n@\nVahidHeadline\n📡\n@VahidOnline",
+        "date": "2026-08-07T15:19:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vahidonline_77768_0_560a391c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "vahidonline_77768_1_c8cde711.jpg"
+          },
+          {
+            "type": "image",
+            "file": "vahidonline_77768_2_5a493297.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vahidonline/77768"
+      },
       {
         "id": 77767,
         "text": "گفت‌وگوی ترامپ با خبرنگاران\nبخش‌های مرتبط با ایران به تشخیص و ترجمه ماشین:\n🔺\nخبرنگار:\nو آقای رئیس‌جمهور، جمهوری‌خواهان اکنون بحث زیادی درباره قدرت خرید و هزینه‌های زندگی دارند. پیام شما درباره این موضوع در آستانه انتخابات میان‌دوره‌ای چیست؟\n🔻\nترامپ:\nسؤال خوبی است، اما پاسخ آن تا حدی ساده است. من بالاترین قیمت‌های تاریخ را به ارث بردم. بدترین تورم تاریخ کشورمان را به ارث بردم و ما کار فوق‌العاده‌ای انجام داده‌ایم.\nقیمت نفت اکنون به‌سرعت در حال کاهش است. اگر به اوضاع نگاه کنید، تا ۷۵ پایین آمده است.\nوقتی آن اقدام بسیار مهم را در جمهوری اسلامی ایران آغاز کردم، اقدام بسیار مهمی بود؛ چون آن‌ها نمی‌توانند سلاح هسته‌ای داشته باشند. در غیر این صورت، تمام جهان منفجر می‌شد. ما اجازه نمی‌دهیم چنین اتفاقی بیفتد. مسئله فقط ما یا خاورمیانه نبود؛ برای تمام جهان فاجعه‌بار می‌شد. چاره دیگری نداشتیم.\nقیمت بنزین در بسیاری از نقاط، مانند آیووا، به کمتر از دو دلار رسیده بود؛ قیمت‌هایی که مردم سال‌ها ندیده بودند: یک دلار و ۸۵ سنت، یک دلار و ۹۵ سنت. سه‌شنبه در یکی از توقف‌هایم در آیووا، در یک محل قیمت ۱٫۹۵ دلار و در محل دیگری ۱٫۸۵ دلار برای هر گالن بود.\nبر اساس هرچه می‌بینم، به‌محض پایان جنگ، خیلی زود دوباره آن روزها را خواهیم دید. فکر می‌کنم جنگ به‌زودی پایان پیدا کند. تصور نمی‌کنم آن‌ها بتوانند مدت خیلی بیشتری ادامه بدهند. بله، بفرمایید.\n🔺\nخبرنگار:\nآیا برای بازگشایی تنگه هرمز توافقی حاصل شده است؟\n🔻\nترامپ:\nنمی‌خواهم بگویم که توافق حاصل شده است. تنگه در حال حاضر تا حدودی باز است. می‌دانید، چیزی داریم که «محاصره» نامیده می‌شود و نیروی دریایی آمریکا آن را هدایت می‌کند؛ ما آن را کنترل می‌کنیم.\nاکنون کنترل آن با ماست، اما آن‌ها همیشه می‌توانند به چیزی شلیک کنند یا مینی در آب بیندازند. حتی اگر فقط یک مین آن بیرون باشد، اوضاع را به هم می‌ریزد؛ چون مردم نمی‌خواهند کشتی‌های میلیارددلاری خود را وارد منطقه کنند و تصادفاً با مین برخورد کنند.\nاما فکر می‌کنم عملکردمان بسیار خوب است. خودم در مذاکرات دخیل هستم و فکر می‌کنم اوضاع خوب پیش می‌رود. ممکن است توافق حاصل شود؛ ممکن است به‌زودی باشد. بله.\n🔺\nخبرنگار:\nآقای رئیس‌جمهور، درباره مهمات؛ شما شب گذشته نوشتید که آمریکا مقدار عظیمی مهمات دارد و وجود هرگونه کمبود را رد کردید. در عین حال، یک درخواست بودجه تکمیلی ۲۱ میلیارد دلاری برای پرکردن مجدد ذخایر وجود دارد. اگر کمبودی نیست، چرا این درخواست همچنان مطرح است؟\n🔻\nترامپ:\nچون همیشه به مقدار بیشتری نیاز داریم. منظورم این است که مهمات بیشتری لازم داریم.\nببینید، دولت بایدن مقدار بسیار زیادی به اوکراین داد؛ رایگان، بدون دریافت هیچ پولی. میلیاردها و صدها میلیارد دلار.\nخوشبختانه من در دوره خودم ذخایر بسیار زیادی ایجاد کرده بودم. نیروهای نظامی را بازسازی کردم و مقدار زیادی تجهیزات و مهمات نیز در اختیارشان گذاشتم.\nاز بعضی انواع مهمات بسیار قدرتمند، ذخیره‌ای نامحدود یا تقریباً نامحدود داریم. در مورد بعضی انواع دیگر، وضعیت کمی محدودتر است و هر روز محموله‌های تازه دریافت می‌کنیم.\nهمان‌طور که می‌دانید، شرکت‌های دفاعی ما اکنون بیش از هر زمان دیگری در تاریخ کارخانه می‌سازند. برای موشک‌های پاتریوت، تاماهاوک و همه‌چیز کارخانه می‌سازند.\nدر عین حال، انواعی از مهمات داریم که ممکن است به آن اندازه دقیق نباشند یا در آن سطح ممتاز قرار نگیرند. نمونه‌های ممتاز را هم داریم و این موضوع را بسیار دقیق زیر نظر گرفته‌ایم. اما بعضی از انواع مهمات ما بسیار قدرتمند و بسیار خوب‌اند و ذخیره‌ای نامحدود از آن‌ها داریم.\nبنابراین در وضعیت بسیار خوبی هستیم. بااین‌حال، همیشه مهمات بیشتری می‌خواهیم و باید مقدار بیشتری داشته باشیم. ممکن است مسائل دیگری پیش بیاید و ممکن است هم پیش نیاید. امیدوارم هیچ مسئله دیگری پیش نیاید، اما ما در وضعیت بسیار خوبی قرار داریم. واقعاً مقادیر عظیمی مهمات داریم.\n📡\n@VahidOnline",
@@ -9092,24 +9177,88 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vahidonline/77637"
-      },
-      {
-        "id": 77636,
-        "text": "پیام‌های دریافتی:\n۴:۴۹ اهواز انفجار شدید\nانفجار های وحشتناک و پشت سر هم در اهواز\nخیلی وحشتناکه\nپشت سر هم\nحداقل ۴ انفجار\nاهواز رو زدن صدای ۲ انفجار\nاهواز و دارن میزنن شدید\nصدای انفجار مهیب توی اهواز ۴:۴۹\nهمچنان ادامه داره\nتا الان ۴ انفجار بلند\nصدا انفجار پشت سر هم ۴ تا زد ۴:۴۹ اهواز مرکز شهر\nسلام وحید ۴:۴۹ اهواز ۴تا صدای انفجار شدید اومد\nاهواز سه تا انفجار ۴:۵۰\nسلام وحید الان ساعت 4:50 اهواز زدن\n5 بار صدای زیاد اومده تا الان\nاهواز رو زد چهار بار الان!!!!\n۴ تا انفجار سنگین ظرف ۲ دقیقه\nهمین الان اهواز چهارتا صدای انفجار شدید\nساعت ۴:۵۰\nهمین الان اهواز نمیدونم چند تا افتضاح بلنده\nتمام شیشه ها داره میلرزه\nاهواز همین الان ۶تا انفجار\n۶ تا پشت سر هم اهواز\nاهواز ۴.۵۰ دقیقه صدای ۵ انفجار شدید .\nسلام وحید جان ۴:۴۹ ۵تا انفجار خیلی شدید اهواز\nوحید واییییی خیلی بد بود چندبار زد اهوازو\n۴:۵۰ وحشتناک نزدیک ۴ یا ۵ تا انفجار شدید شدید ماشینا به صدا درومدن\nما همین الان با صدای انفجار از خواب پریدیم اهواز ۴:۵۰\nاهواز ۴تا اتفجارشدید پشت سر هم\nاهواز تو چند دقیقه چندین انفجار شدید داشتیم و طوری که خونه میلرزید و برقمون هم به یک باره قطع شد\nاهواز به گلستان خيلي نزديك بود ٤ بار\n😭\n😭\n😭\nسلام وحید جان، اهواز اطلاعات توی گلستان رو زدن ما اونجاییم\nاهواز فکر کنم سپاه توی اتوبان گلستان بود، سایت اداری. ۴ انفجار.\nاهواز کوی سعدی بعد انفجار دوم برق رفته الان ساعت ۴:۵۴\nسلام وحید،4,49دقیقه4انفجارشدید دراهواز احتمالااسنگرشکن بودن،\nسلام وحید جان ساعت ۴:۵۵ دقیقه صدای انفجار پشت هم از دور شنیده شد\nساختمان اطلاعات اهواز توی گلستان رو زدن\n+ کلی پیام دیگر\n🔄\nمجدد صدای انفجار اهواز ۵:۲۲\n۵:۲۲ صدای انفجار مجدد اهواز\nاهواز یه صدای دیگه اومد ۵و ۲۲\n+ کلی پیام مشابه\n🔄\nصدای دو انفجار توی اهواز، ساعت ۵.۲۸\n+ ++ ده‌ها پیام مشابه\n🔄\nموج بعدی پیام‌ها در ساعت ۵:۴۳\nخبر از دو انفجار میدن\n📡\n@VahidOnline",
-        "date": "2026-07-30T01:20:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vahidonline_77636_0_6705772a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vahidonline/77636"
       }
     ],
     "configraygan": [
+      {
+        "id": 7962,
+        "text": "توجه توجه : یه کد تخفیف پیدا کردم ۴۰ درصد تخفیف میده برای خرید از سایت داروخانه سبز https://mosbatesabz.com/ هرچی لازم دارید ، برید بخرید سریع ، معلوم نیس کد تخفیف تا کی فعاله . نوش جونتون ، من ۹۵۰۰ خرید زدم ، برا این مبلغ ۳۸۰۰ تخفیف گرفتم ، حالشو ببرید  کد…",
+        "date": "2026-08-07T14:38:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7962_0_21fd44ad.jpg"
+          },
+          {
+            "type": "image",
+            "file": "configraygan_7962_1_f8b5517f.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://mosbatesabz.com/",
+            "type": "external",
+            "display_text": "https://mosbatesabz.com/"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/configraygan/7962"
+      },
+      {
+        "id": 7961,
+        "text": "توجه توجه : یه کد تخفیف پیدا کردم ۴۰ درصد تخفیف میده برای خرید از سایت داروخانه سبز https://mosbatesabz.com/ هرچی لازم دارید ، برید بخرید سریع ، معلوم نیس کد تخفیف تا کی فعاله . نوش جونتون ، من ۹۵۰۰ خرید زدم ، برا این مبلغ ۳۸۰۰ تخفیف گرفتم ، حالشو ببرید  کد…",
+        "date": "2026-08-07T14:37:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7961_0_21fd44ad.jpg"
+          },
+          {
+            "type": "image",
+            "file": "configraygan_7961_1_ba677aea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "configraygan_7961_2_6f86d8d4.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://mosbatesabz.com/",
+            "type": "external",
+            "display_text": "https://mosbatesabz.com/"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/configraygan/7961"
+      },
+      {
+        "id": 7960,
+        "text": "توجه توجه :\nیه کد تخفیف پیدا کردم ۴۰ درصد تخفیف میده برای خرید از سایت داروخانه سبز\nhttps://mosbatesabz.com/\nهرچی لازم دارید ، برید بخرید سریع ، معلوم نیس کد تخفیف تا کی فعاله . نوش جونتون ، من ۹۵۰۰ خرید زدم ، برا این مبلغ ۳۸۰۰ تخفیف گرفتم ، حالشو ببرید\nکد تخفیف پرداخت ۴ قسطی دیجی پی :\nDESBZC",
+        "date": "2026-08-07T14:27:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7960_0_21fd44ad.jpg"
+          },
+          {
+            "type": "image",
+            "file": "configraygan_7960_1_cdeef578.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://mosbatesabz.com/",
+            "type": "external",
+            "display_text": "https://mosbatesabz.com/"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/configraygan/7960"
+      },
       {
         "id": 7959,
         "text": "کانفیگ پرسرعت ، حالشو ببرید\n🛡\nکانفیگ نپستر برای تمومی اپراتور ها نامحدود مولتی لوکیشن پرسرعت مخصوص دانلود وب گردی برای اندروید و آیفون\nفیلترینگ شدید و نت ملی رو باهاش دوربزن\n@configraygan",
@@ -10196,39 +10345,323 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/configraygan/7846"
-      },
-      {
-        "id": 7832,
-        "text": "trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.41:443?path=%2Fbr-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#configraygan_20\nvless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#configraygan_21\ntrojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#configraygan_22\nvless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.11.57:2083?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#configraygan_23\nvless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?path=%2Fproxyip%3Ddc844a1f.tp15333.ip.090227.xyz&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#configraygan_24\nvless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.185:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#configraygan_25\nvless://b7d8604b-e24b-4973-840a-d02ed34053f1@ipv4.daimondweb.ir:2053?path=%2Fsalsaserver&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.daimondweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daimondweb.ir#configraygan_26\ntrojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#configraygan_27\nvless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#configraygan_28\nvless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#configraygan_29\nvless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.140:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#configraygan_30\nvless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#configraygan_31",
-        "date": "2026-07-02T12:58:39+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7832"
-      },
-      {
-        "id": 7831,
-        "text": "vless://XpnTeam-45@151.101.57.134:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#configraygan_1\ntrojan://MITIVPN@104.16.72.41:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=De.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=De.App-Cloud.ir#configraygan_2\ntrojan://MITIVPN@94.140.0.40:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#configraygan_3\ntrojan://MiTiVPN@104.19.230.21:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=Nl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#configraygan_4\ntrojan://MiTiVPN@104.16.72.41:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=sw.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw.App-Cloud.ir#configraygan_5\ntrojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#configraygan_6\nvless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?path=%2FLiL%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#configraygan_7\nvless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL&security=tls&encryption=none&insecure=0&host=kingcloud.biack.ir&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#configraygan_8\nvless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#configraygan_9\nvless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?path=%2FLiL%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#configraygan_10\nvless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#configraygan_11\nvless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#configraygan_12\nvless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=&encryption=none&host=a12.crowsvpn.shop&type=xhttp#configraygan_13\nvless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.150:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#configraygan_14\nvless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#configraygan_15\nvless://3b715892-8610-4fdc-9086-647b36af5443@cd3.postshup.ir:2086?mode=auto&path=%2F%3Fed%3D8192&security=&encryption=none&host=B.cafearen.ir&type=xhttp#configraygan_16\ntrojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#configraygan_17\nvless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:2083?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#configraygan_18\nvless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.152.241:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#configraygan_19",
-        "date": "2026-07-02T12:58:38+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7831"
-      },
-      {
-        "id": 7830,
-        "text": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?path=%2FLiL%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#configraygan_1\nvless://75e889b3-8086-4c2c-b9a0-69244ef0c9ef@grok.com:443?path=%2FeyJqdW5rIjoia0hqSExMclV0T2F0Mm9VIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ez-9041ca.shiftam.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=Ez-9041Ca.ShIfTAM.worKeRs.DEv#configraygan_2\nvless://XpnTeam-39@151.101.57.134:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#configraygan_3\nvless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#configraygan_4\ntrojan://MiTiVPN@104.16.72.41:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#configraygan_5\ntrojan://MITIVPN@104.16.72.41:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#configraygan_6\nvless://f66ecf1a-fa6f-442d-baa1-f1d8c08c1908@188.114.96.3:8443?path=%2FeyJqdW5rIjoiOWkzMENlQlAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ez-33d06b.shakak55.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-33D06b.shAkaK55.wORKeRs.dev#configraygan_7\nvless://d80f8868-1b38-4307-bf83-31c415668bd7@104.21.44.249:443?path=%2FeyJqdW5rIjoiUTQyVGFESUNKWiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ez-305ff7.lamarii.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-305FF7.lAMaRIi.wOrkErs.dev#configraygan_8\nvless://42a1c069-9dc9-4181-86b8-13bf28632851@lala.baguvix.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#configraygan_9\ntrojan://MITIVPN@104.16.72.41:443?path=%2FMiTiVPN%3DUsa&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#configraygan_10\ntrojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#configraygan_11\ntrojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#configraygan_12\nvless://XpnTeam-38@104.18.153.130:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=hello.aihoshbartar.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=hello.aihoshbartar.ir#configraygan_13\ntrojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?path=%2Fus-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#configraygan_14",
-        "date": "2026-07-01T08:52:20+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7830"
       }
     ],
     "IranintlTV": [
+      {
+        "id": 351510,
+        "text": "هم‌زمان با افزایش چشمگیر قبوض آب و برق، یک منبع مطلع در بانک مرکزی به ایران‌اینترنشنال گفت جمهوری اسلامی برای جبران بدهی‌ها و بحران مالی، بخشی از درآمد حاصل از قبوض آب و برق را به حساب‌های دیگر دولت منتقل می‌کند.\nبه گفته این منبع، این منابع عمدتا صرف پرداخت حقوق کارکنان و بدهی‌های دولت می‌شود و شرکت‌های آب و برق برای جبران کسری ایجادشده، مبالغ قبوض را افزایش می‌دهند.\nگفت‌وگو با معصومه طاهرخانی، تحلیلگر اقتصادی\n@iranintltv",
+        "date": "2026-08-07T15:35:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351510_0_d8a97303.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351510_1_be6b7d3e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351510"
+      },
+      {
+        "id": 351509,
+        "text": "گزارشگران ویژه سازمان ملل با انتشار بیانیه‌ای نسبت به افزایش سرکوب‌ها در ماه‌های گذشته هشدار دادند و از مقام‌های جمهوری اسلامی خواستند بازداشت‌های خودسرانه، شکنجه و اعدام اقلیت‌های قومی، به‌ویژه کردها و بلوچ‌ها، را متوقف کنند.\nگزارش مریم رحمتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-08-07T15:35:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351509_0_d8a97303.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351509_1_a183461e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351509"
+      },
+      {
+        "id": 351508,
+        "text": "رسانه‌های منطقه از تفاهم اولیه جمهوری اسلامی و عمان درباره چارچوب توافقی ۶۰ روزه برای بازگشایی تنگه هرمز خبر داده‌اند؛ تفاهمی که هنوز به تایید شورای عالی امنیت ملی نرسیده است.\nگزارش سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-08-07T15:35:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351508_0_d8a97303.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351508_1_f3aa6ac3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351508"
+      },
+      {
+        "id": 351507,
+        "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «کنوانسیون خزر یکی از ننگین‌ترین توافق‌های معاصر ایران است که در آن حقوق و منافع ایران در دریای خزر نادیده گرفته شده و جزییات آن سال‌ها از افکار عمومی پنهان مانده است. تصویب آن در مجلس می‌تواند بازنگری یا لغو این توافق ننگین را در آینده بسیار دشوار کند.»\n@iranintltv",
+        "date": "2026-08-07T15:35:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351507_0_d8a97303.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351507_1_c855b86f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351507"
+      },
+      {
+        "id": 351506,
+        "text": "مسعود پزشکیان، رییس‌جمهور دولت جمهوری اسلامی، در واکنش به برخی گزارش‌ها و اظهارنظرها درباره استعفای خود، تاکید کرد قصد کناره‌گیری از ریاست قوه مجریه را ندارد. عملکرد پزشکیان به گونه‌ای بوده که بر اساس نظرسنجی‌های رسمی در ایران، میزان حمایت از او نسبت به دو سال پیش به نصف کاهش یافته است.\nسامان رحمتیان، عضو تحریریه ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
+        "date": "2026-08-07T15:35:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351506_0_d8a97303.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351506_1_65c7b868.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351506"
+      },
+      {
+        "id": 351505,
+        "text": "قیمت نفت روز جمعه کاهش یافت و بهای نفت خام برنت به ۸۱٫۹۲ دلار و نفت خام وست تگزاس اینترمدیت آمریکا به ۷۶٫۹۶ دلار رسید.\nکارشناسان افت قیمت نفت را ناشی از ارزیابی سرمایه‌گذاران از سیگنال‌های مربوط به توافق احتمالی و موقت برای بازگشایی تنگه هرمز می‌دانند.\nمهسا مرتضوی، خبرنگار ایران‌اینترنشنال گزارش می‌دهد\n@iranintltv",
+        "date": "2026-08-07T15:30:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351505_0_d8a97303.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351505_1_c9c20b8d.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351505"
+      },
+      {
+        "id": 351504,
+        "text": "🗣\nروایت شما از زندگی در دور تازه درگیری‌ها- جمعه ۱۶ مرداد:\n🔹\nکل استان گلستان رو گشتیم یه ورق مفنامیک اسید و سرماخوردگی کوریزان پیدا نمی‌شه.\n🔹\nاز پرند پیام می‌دم و مدیر ساختمانم. قبض برق مشاعات ساختمان پارسال ماهی یک میلیون و ۲۰۰ هزار تومان بود الان قبض اومده ۴ میلیون تومان.\n🔹\nاز خرم‌آباد پیام می‌دهم. چندرغاز سبد کالا دادن به مردم، اما از اون‌ور بدهی‌شون بابت کالابرگ رو به فروشگاه‌ها ندادن، برای همین دیگه هیچ‌جا خرید با سبد کالا رو قبول نمی‌کنه.\n🔹\nاز تهران پیام می‌دم. هیچ کدوم از داروهای اعصاب شرکت اکتوور پیدا نمی‌شه، هر جا رو می‌گردم یه ورق هم نیست. داروخانه‌ها می‌گن تولید کننده توزیع نمی‌کنه تا افزایش قیمت بگیره.\n🔹\nدر این وضعیت که کشور داره نابود می‌شه یه سری افتادن به جان کسب و کار مردم و داران بی دلیل مغازه‌ها را پلمب می‌کنند.\n🔹\nاز مشهد پیام می‌دم. انقدر اجاره خانه بالا رفته که همه به شهر جدید گلبهار می‌روند تا کمی اجاره خانه ارزان‌تر باشد. جمعیت این شهر به ۱۲۰ هزار نفر رسیده.\n🔹\nزانتیا شده بالای یک میلیارد. یه ماشین قدیمی ۲۰ سال پیش هم حسرت ما جوونا شده.",
+        "date": "2026-08-07T15:19:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351504_0_d8a97303.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351504"
+      },
+      {
+        "id": 351503,
+        "text": "🎧\nنسخه صوتی اخبار شبانگاهی | جمعه ۱۶ مرداد\n@iranintlTV",
+        "date": "2026-08-07T15:19:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351503_0_d8a97303.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351503"
+      },
+      {
+        "id": 351502,
+        "text": "مجید دوستعلی، عضو کمیسیون اصل ۹۰ مجلس، درباره «تبعات فشار آمریکا بر عمان» در جریان مذاکرات با جمهوری اسلامی بر سر تنگه هرمز، به خبرگزاری خانه ملت گفت: «در صورت تداوم این رویکرد تخریبی، ایران هرگز تنگه هرمز را بازگشایی نخواهد کرد.»\nدوستعلی گفت: «آمریکا در پی تسری سیاست حاکمیت بر نفت به سراسر جهان است تا هیچ قطره نفتی بدون مدیریت و نظارت واشینگتن جابه‌جا نشود.»\nنماینده کرمان در مجلس گفت: «در صورت بسته ماندن این آبراه حیاتی، تبعات ویرانگر آن بر حوزه انرژی و اقتصاد جهانی، بیش از هر کشوری دامنگیر خود ایالات متحده خواهد شد؛ چرا که واشینگتن با سیاست‌های فشار، مانع از بازگشایی این مسیر بر اساس قواعد قانونی و توافقی میان جمهوری اسلامی و عمان شده است.»\nhttps://iranintl.com/202608073361",
+        "date": "2026-08-07T15:07:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351502_0_d8a97303.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351502_1_0dd96ebd.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608073361",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608073361"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/351502"
+      },
+      {
+        "id": 351501,
+        "text": "عربستان سعودی، پاکستان و ترکیه جمعه ۱۶ مرداد «توافق دفاعی مشترک مکه» را امضا کردند.\nاین سه کشور در بیانیه‌ای مشترک اعلام کردند هدف این توافق تقویت بازدارندگی جمعی در برابر هرگونه «اقدام تجاوزکارانه» است و بر اساس آن، حمله مسلحانه به هر یک از سه کشور، حمله به همه طرف‌ها تلقی خواهد شد.\nیک مقام ترکیه‌ای به رویترز گفت این پیمان شامل بند دفاع جمعی است و ماهیتی کاملا دفاعی دارد. یک مقام ارشد سعودی نیز گفت ریاض انتظار دارد به‌زودی با حملات هماهنگ شبه‌نظامیان عراقی و حوثی‌های مورد حمایت جمهوری اسلامی روبه‌رو شود.\n@iranintltv",
+        "date": "2026-08-07T15:07:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351501_0_d8a97303.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351501_1_588080e1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351501"
+      },
+      {
+        "id": 351500,
+        "text": "هم‌زمان با افزایش چشمگیر قبوض آب و برق، یک منبع مطلع در بانک مرکزی به ایران‌اینترنشنال گفت جمهوری اسلامی برای جبران بدهی‌ها و بحران مالی، بخشی از درآمد حاصل از قبوض آب و برق را به حساب‌های دیگر دولت منتقل می‌کند.\nبه گفته این منبع، این منابع عمدتا صرف پرداخت حقوق کارکنان و بدهی‌های دولت می‌شود و شرکت‌های آب و برق برای جبران کسری ایجادشده، مبالغ قبوض را افزایش می‌دهند.\nگفت‌وگو با معصومه طاهرخانی، تحلیلگر اقتصادی\n@iranintltv",
+        "date": "2026-08-07T15:07:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351500_0_d8a97303.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351500_1_637c9d4a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351500"
+      },
+      {
+        "id": 351499,
+        "text": "یک شهروند با ارسال ویدیویی از شهرکرد روایت کرد که در بنایی که متعلق به پایگاه بسیج بوده است، مقام‌های حکومت یک مدرسه ایجاد کرده‌اند. در پی انفجار در مدرسه میناب طی جنگ‌های اخیر میان جمهوری اسلامی با آمریکا و اسرائیل، موضوع به‌کارگیری مدارس به عنوان سپر انسانی مورد انتقاد مردم قرار گرفت.",
+        "date": "2026-08-07T15:01:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351499_0_d8a97303.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351499_1_7a64e7b5.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351499"
+      },
+      {
+        "id": 351498,
+        "text": "🔻\nکریستیانو رونالدو و جورجینا رودریگس قرار است این آخر هفته مراسم ازدواج خود را در جزیره مادیرا پرتغال برگزار کنند؛ مراسمی که یکی از پرسر‌وصداترین عروسی‌های سال خواهد بود. با این حال، روزنامه سان در گزارشی فهرستی از افرادی را منتشر کرده که به دلیل اختلاف‌ها و تنش‌های گذشته، بعید است در فهرست مهمانان این مراسم حضور داشته باشند.ز\n🔹\nدر صدر این فهرست، وین رونی قرار دارد؛ هم‌تیمی سابق رونالدو در منچستریونایتد که رابطه آنها از ماجرای جام جهانی ۲۰۰۶ و سپس انتقادهای رونی در دوره دوم حضور رونالدو در اولدترافورد تیره شد. لیونل مسی نیز با وجود احترام متقابل، به دلیل رقابت تاریخی و رابطه نه‌چندان نزدیک با رونالدو، از غایبان احتمالی این مراسم معرفی شده است.\n🔹\nاریک تن‌هاخ و رالف رانگنیک، دو سرمربی پیشین رونالدو در منچستریونایتد، نیز پس از اختلاف‌های علنی با این ستاره پرتغالی در این فهرست قرار دارند. همچنین جیمی کاراگر و گری لینه‌کر به دلیل انتقادهای مکرر از رونالدو و حمایت آشکار از مسی، از دیگر افرادی هستند که احتمال حضورشان در این مراسم بسیار کم ارزیابی شده است.\n🔹\nدر ادامه این گزارش، از آلساندرو فلورنزی، کاسمیرو، آنتونیو کاسانو و سپ بلاتر نیز به عنوان دیگر چهره‌هایی نام برده شده که به دلیل درگیری‌های لفظی، اختلاف‌نظر یا اظهارنظرهای جنجالی درباره رونالدو، احتمالاً دعوت‌نامه‌ای برای مراسم ازدواج او و جورجینا دریافت نخواهند کرد.\n@iranintltvsport",
+        "date": "2026-08-07T14:54:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351498_0_d8a97303.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351498_1_c4246c37.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351498"
+      },
+      {
+        "id": 351497,
+        "text": "ادنوک، شرکت ملی نفت ابوظبی، اعلام کرد که از آغاز جنگ ایران تاکنون، ۱۵ فروند از کشتی‌های این شرکت هنگام عبور از تنگه هرمز هدف حمله موشکی و پهپادی قرار گرفته‌‌اند که سه مورد از آن در هفته جاری رخ داده است.\nبر اساس اعلام این شرکت متعلق به امارات متحده عربی، این حملات به کشته شدن یک نفر و زخمی شدن ۲۰ خدمه از کشتی‌ها منجر شده است.\nادنوک اعلام کرد که با همکاری مقام‌های مسئول اقدام‌هایی برای حفاظت از کارکنان، دارایی‌ها و فعالیت‌های خود انجام می‌دهد و تا حد امکان نیازهای مشتریان را تامین خواهد کرد.\nشرکت ملی نفت ابوظبی تاکید کرد آزادی کشتیرانی و عبور ایمن و بدون وقفه کشتی‌های تجاری از آبراه‌های بین‌المللی باید رعایت و محافظت شود.\nhttps://iranintl.com/202608073421",
+        "date": "2026-08-07T14:50:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351497_0_d8a97303.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351497_1_a20fc317.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608073421",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608073421"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/351497"
+      },
+      {
+        "id": 351496,
+        "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، درباره تحولات مربوط به جمهوری اسلامی به شبکه «۱۲ نیوز» گفت: «فکر می‌کنم به‌زودی، شاید حتی امروز یا فردا، شاهد یک توافق خواهیم بود؛ یک آتش‌بس ۳۰ تا ۶۰ روزه، و تنگه هرمز باز خواهد شد.»\nوزیر خزانه‌داری آمریکا همچنین درباره وضعیت اقتصادی جمهوری اسلامی گفت تورم مواد غذایی در ایران به ۱۵۰ تا ۱۸۰ درصد رسیده و حکومت با مشکل پرداخت حقوق نیروهای نظامی روبه‌رو است.\nhttps://iranintl.com/202608076788",
+        "date": "2026-08-07T14:34:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351496_0_d8a97303.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351496_1_6f48b8f0.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608076788",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608076788"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/351496"
+      },
+      {
+        "id": 351495,
+        "text": "‏هفتمین دور مذاکرات لبنان و اسرائیل در رم، بدون دستیابی به توافقی درباره آتش‌بس و عقب‌نشینی نیروها پایان یافت.\n‏بر اساس گزارش اختصاصی الشرق الاوسط، مخالفت اسرائیل با پیشنهاد لبنان برای تعیین بنت جبیل و الخیام به عنوان مناطق نمونه جدید، علت اصلی بن‌بست بود. اسرائیل تا زمان راستی‌آزمایی خلع سلاح حزب‌الله با عقب‌نشینی مخالفت کرده، اما گفت‌وگوها درباره پرونده اسرا با حضور صلیب سرخ و نظارت بین‌المللی ادامه دارد.\nگفت‌وگو با می فرحات، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-08-07T14:32:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351495_0_d8a97303.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351495_1_65e452d9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351495"
+      },
       {
         "id": 351494,
         "text": "حسن عاملی، امام جمعه اردبیل، در خطبه‌های نماز جمعه این شهر، با اشاره به تکذیب ادعای محمدباقر خرازی درباره استعفای مسعود پزشکیان از سوی دفتر مجتبی خامنه‌ای، گفت: «دروغ بستن به رهبری قطعا جرم بسیار بزرگی است و این دروغ علاوه بر ضربه به جایگاه رهبری، هزینه بسیار سنگینی برای کشور درست کرد.»\nعاملی گفت: «اگر کسی خدای نکرده عالما عامدا دارد وحدت اسلامی را بر هم می‌زند، با او مبارزه کنید، ولو عمامه من بر سر او باشد.»\nعاملی گفت علی خامنه‌ای در جریان جنگ ۱۲ روزه، ترساندن، ناامید کردن و ایجاد اختلاف را سه هدف دشمن در فضای مجازی و «جنگ روانی» دانسته بود.\nاو گفت برخی افراد در داخل کشور با ترساندن مردم، دعوت به ناامیدی و ایجاد اختلاف، «کاملا نقش دشمن را ایفا می‌کنند».\nhttps://iranintl.com/202608079548",
@@ -10260,10 +10693,6 @@
         "date": "2026-08-07T14:15:17+00:00",
         "media": [
           {
-            "type": "image",
-            "file": "IranintlTV_351493_0_d8a97303.jpg"
-          },
-          {
             "type": "video",
             "file": "IranintlTV_351493_1_13ba4e1b.mp4"
           }
@@ -10277,18 +10706,9 @@
         "id": 351492,
         "text": "هم‌زمان با گزارش‌ها درباره احتمال اعلام تفاهم تهران و مسقط بر سر تنگه هرمز، تد کروز، سناتور جمهوری‌خواه آمریکا، از تلاش‌های دیپلماتیک دولت دونالد ترامپ انتقاد کرد. کروز گفت هدف واشینگتن نباید دستیابی به توافق با جمهوری اسلامی، بلکه فراهم کردن زمینه فروپاشی حکومت در ایران باشد.\nجزییات بیشتر با مریم رحمتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-08-07T14:10:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351492_0_d8a97303.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351492_1_dda753a6.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351492"
       },
@@ -10296,30 +10716,9 @@
         "id": 351488,
         "text": "🔻\nرقابت‌های شیرجه از ارتفاع (High Diving) مسابقات قهرمانی ورزش‌های آبی اروپا ۲۰۲۶ از ۱۶ مرداد در پاریس آغاز شده است. مسابقات سکویی ۲۰ متری با چشم‌انداز برج ایفل، یکی از شاخص‌ترین رویدادهای این دوره از رقابت‌ها به شمار می‌رود.\n🔹\nدر دور نخست بخش بانوان، ایریس کورینا اشمیدباوئر از آلمان و الیزا کوزتی از ایتالیا با اجرای شیرجه‌های خود رقابت را آغاز کردند. اشمیدباوئر، قهرمان چند دوره جام جهانی شیرجه از ارتفاع، یکی از مدعیان اصلی کسب مدال در این مسابقات محسوب می‌شود و کوزتی نیز از امیدهای تیم ایتالیاست.\n🔹\nرقابت‌های شیرجه از ارتفاع قهرمانی اروپا در دو بخش مردان و زنان طی دو روز برگزار می‌شود و فینال این رشته ۱۷ مرداد برگزار خواهد شد؛ جایی که بهترین شیرجه‌روهای اروپا برای کسب مدال در یکی از زیباترین لوکیشن‌های ورزشی جهان به مصاف یکدیگر می‌روند.\n@iranintltvsport",
         "date": "2026-08-07T14:02:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351488_0_d8a97303.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351488_1_752e60a2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351488_2_c456779e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351488_3_c2a9b738.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351488_4_390e52ce.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351488"
       },
@@ -10327,18 +10726,9 @@
         "id": 351487,
         "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال ضمن اشاره به گرانی حلب پنج كيلويی روغن جامد، حکومت را مسئول افزایش چشمگیر قیمت‌ها دانست.",
         "date": "2026-08-07T14:01:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351487_0_d8a97303.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351487_1_2337ccab.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351487"
       },
@@ -10346,18 +10736,9 @@
         "id": 351486,
         "text": "نیویورک تایمز به نقل از مقام‌ها و کارشناسان گزارش داد که جنگ شاید برنامه هسته‌ای جمهوری اسلامی را کند کرده باشد، اما آن را متوقف نکرده است. بازرسان سازمان ملل برآورد می‌کنند جمهوری اسلامی همچنان ذخیره‌ای از اورانیوم نزدیک به درجه تسلیحاتی در اختیار دارد که برای ساخت سریع ۹ تا ۱۰ بمب هسته‌ای کافی است.\nبر اساس این گزارش، داریل کیمبال، مدیر انجمن کنترل تسلیحات، در تحلیلی نوشت: «سیاست فشار حداکثری و اقدام‌های نظامی دولت دونالد ترامپ نتوانسته و نمی‌تواند توانمندی هسته‌ای ایران را از بین ببرد.»\nالی گرانمایه، نویسنده گزارش «رصدگر هسته‌ای ایران» در شورای روابط خارجی اروپا، نیز گفت: «این توانمندی تا حد زیادی همچنان پابرجاست.» او همچنین هشدار داد که در نبود نظارت بین‌المللی، جمهوری اسلامی می‌تواند به سرعت ذخایر فعلی اورانیوم خود را تا سطح مورد نیاز برای ساخت سلاح هسته‌ای غنی‌سازی کند.\nجیمز اکتون، پژوهشگر بنیاد کارنگی، نیز گفت بخش قابل توجهی از زیرساخت هسته‌ای جمهوری اسلامی همچنان پابرجاست و اگر مانعی ایجاد نشود، تهران ممکن است در کمتر از یک سال، و شاید حتی بسیار زودتر، بتواند به توانایی ساخت بمب هسته‌ای دست یابد.\nh",
         "date": "2026-08-07T13:56:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351486_0_d8a97303.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351486_1_7cb94b66.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351486"
       },
@@ -10365,18 +10746,9 @@
         "id": 351485,
         "text": "سرخط خبرهای جمعه ۱۶ مرداد\n@iranintltv",
         "date": "2026-08-07T13:37:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351485_0_d8a97303.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351485_1_0703bc8a.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351485"
       },
@@ -10384,16 +10756,7 @@
         "id": 351484,
         "text": "ابوالفضل ابوترابی، نماینده نجف‌آباد در مجلس، با تاکید بر اهمیت «حقوق بشر اسلامی» گفت: «مسلمانان باید با استخراج و نشر بیانیه‌های اسلامی در مسئله حقوق بشر این قوانین را به سایر کشورهای دنیا صادر کنند.»\nابوترابی گفت: «غرب حقوق بشر را به جای اینکه بر اساس معیارهای الهی و یا حتی انسانی پایه‌ریزی کند، بر اساس سیاست‌های نامشروع خود تدوین کرده است.»\nنماینده نجف‌آباد گفت: «حقوق بشر غربی هم‌اینک ترامپ و نتانیاهو را خدمتگزار حقوق بشر معرفی می‌کند. هر حکومت مستقلی که بخواهد از دین، مردم و یا تمامیت ارضی خود دفاع کند، او را تروریست می‌نامند چرا که این مقاومت با منافع دولت‌های غربی، مغایرت دارد.»\nhttps://iranintl.com/202608070298",
         "date": "2026-08-07T13:37:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351484_0_d8a97303.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351484_1_a7f6a597.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608070298",
@@ -10401,7 +10764,7 @@
             "display_text": "https://iranintl.com/202608070298"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351484"
       },
@@ -10409,18 +10772,9 @@
         "id": 351483,
         "text": "آسیه امینی، تحلیلگر مسائل اجتماعی، با اشاره به انتقادهای گسترده از اظهارات اخیر مسعود پزشکیان درباره قتل عام معترضان در دی‌ماه، گفت اظهارات او تلاشی برای عادی‌سازی کشتار است.\nاو افزود پزشکیان در حالی از «همه مردم» سخن می‌گوید که رنج معترضان همواره نادیده گرفته شده و تحقیر می‌شود.\n@iranintltv",
         "date": "2026-08-07T13:30:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351483_0_d8a97303.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351483_1_827c8ce2.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351483"
       },
@@ -10428,18 +10782,9 @@
         "id": 351482,
         "text": "روح‌الله رحیم‌پور، تحلیلگر سیاسی، به ایران‌اینترنشنال گفت ائتلاف نظامی جدید میان پاکستان، عربستان و ترکیه می‌تواند جمهوری اسلامی را با یک محاصره ژئوپلیتیک روبه‌رو کند؛ تحولی که به گفته او، ظرفیت تغییر موازنه قدرت در منطقه و افزایش فشار بازدارنده بر تهران را دارد.\n@iranintltv",
         "date": "2026-08-07T13:23:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351482_0_d8a97303.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351482_1_f4a9da8e.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351482"
       },
@@ -10447,16 +10792,7 @@
         "id": 351481,
         "text": "علیرضا اعرافی، امام جمعه قم، در خطبه‌های نماز جمعه، گفت که آمریکا به گرگ درنده‌ای تبدیل شده که حتی به دوستان خود در اروپا و کانادا هم یاوه‌گویی می‌کند. او افزود: «حتی بر اولین عهدها و پیمان‌های خودشان هم نایستادند. امروز حساب کردن روی حرف‌های آن‌ها یا سادگی است یا غرض‌ورزی.»\nاعرافی با تهدید کشورهای منطقه گفت: «امنیت عاریه‌ای و گدایی امنیت از آمریکا نجات‌بخش نیست. تا وقتی با دشمنان اسلام و جمهوری اسلامی هستید، غرش موشک‌های ما شما را تهدید خواهد کرد.»\nhttps://iranintl.com/202608077959",
         "date": "2026-08-07T13:17:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351481_0_d8a97303.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351481_1_cfdac900.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608077959",
@@ -10464,7 +10800,7 @@
             "display_text": "https://iranintl.com/202608077959"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351481"
       },
@@ -10472,18 +10808,9 @@
         "id": 351480,
         "text": "امضای پیمان دفاعی سه‌جانبه عربستان، پاکستان و ترکیه در حالی انجام شده که همکاری‌های امنیتی اسلام‌آباد با کشورهای منطقه در ماه‌های اخیر گسترش یافته است. پاکستان هم‌زمان روابط خود با جمهوری اسلامی، آمریکا و متحدانش را حفظ کرده و تلاش کرده نقش میانجی بین تهران و واشینگتن داشته باشد.\n@iranintltv",
         "date": "2026-08-07T13:15:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351480_0_d8a97303.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351480_1_1fe16735.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351480"
       },
@@ -10491,18 +10818,9 @@
         "id": 351479,
         "text": "یک شهروند با ارسال پیامی به ایران اینترنشنال خطاب به مسعود پزشکیان گفت: «فرض کنیم تعداد کشته‌شدگان اعتراضات دی‌ماه همان سه هزار نفری باشد که تو ادعا می‌کنی؛ اما حتی یک نفر هم نباید کشته می‌شد. آیا از این که اینقدر راحت از قتل‌عام مردم حرف می‌زنی، خجالت نمی‌کشی؟»\nپیام این شهروند با هوش مصنوعی بازخوانی شده است.",
         "date": "2026-08-07T13:02:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351479_0_d8a97303.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351479_1_854c345e.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351479"
       },
@@ -10510,16 +10828,7 @@
         "id": 351478,
         "text": "رائد قرملی، معاون وزیر خارجه عربستان سعودی، اعلام کرد بر اساس توافق «دفاع مشترک مکه»، هرگونه حمله مسلحانه خارجی به یکی از سه کشور عربستان سعودی، ترکیه و پاکستان، حمله به هر سه کشور تلقی خواهد شد.\nبه گزارش شبکه العربیه، قرملی گفت این توافق حاصل سال‌ها مذاکرات تفصیلی و بازتاب روابط راهبردی و تاریخی سه کشور است. به گفته او، این توافق با هدف تقویت توانمندی‌های دفاعی مشترک، افزایش بازدارندگی راهبردی، ارتقای آمادگی نظامی و یکپارچه‌سازی ظرفیت‌های دفاعی برای مقابله با تهدیدهای مشترک امضا شده است.\nمعاون وزیر خارجه عربستان سعودی تاکید کرد این توافق به معنای تشکیل یک محور نظامی یا ائتلاف طایفه‌ای و مذهبی نیست و ارتباطی با برنامه‌های هسته‌ای یا رقابت تسلیحاتی ندارد، بلکه بر توسعه توانمندی‌های دفاعی بومی و پایدار متمرکز است.\nاو همچنین گفت توافق دفاع مشترک مکه به روابط راهبردی عربستان با کشورهای خلیج فارس، جهان عرب و دیگر شرکای بین‌المللی آسیبی نمی‌زند، تهدیدی برای امنیت هیچ کشوری در منطقه نیست و جایگزین توافق‌های دوجانبه یا چندجانبه موجود میان سه کشور یا سایر دولت‌ها و سازمان‌ها نخواهد شد.\nhttps://iranintl.com/202608",
         "date": "2026-08-07T12:58:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351478_0_d8a97303.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351478_1_362c17cf.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608",
@@ -10527,7 +10836,7 @@
             "display_text": "https://iranintl.com/202608"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351478"
       },
@@ -10535,16 +10844,7 @@
         "id": 351477,
         "text": "ابراهیم رضایی، عضو کمیسیون امنیت ملی مجلس جمهوری اسلامی، در واکنش به توافق دفاعی مشترک ترکیه، عربستان سعودی و پاکستان، گفت که این توافق «کاغذی» امنیت‌آور نخواهد بود و خطاب به عربستان سعودی نوشت: «سیاست‌هایتان را اصلاح کنید تا نیاز نباشد از دیگران گدایی امنیت کنید.»\nhttps://iranintl.com/202608077238",
         "date": "2026-08-07T12:48:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351477_0_d8a97303.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351477_1_c73d8d40.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608077238",
@@ -10552,7 +10852,7 @@
             "display_text": "https://iranintl.com/202608077238"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351477"
       },
@@ -10560,16 +10860,7 @@
         "id": 351476,
         "text": "کاظم غریب‌آبادی، معاون وزیر خارجه جمهوری اسلامی، به خبرگزاری دولتی ایرنا گفت: «هر وقت در مقابل آمریکا و کشورهای غربی نرمش بی‌موردی نشان داده شود، در اظهارات، در رفتارها، در عمل و اگر موضع ضعیفی گرفته شود، آن‌ها چند قدم جلوتر می‌آیند.»\nغریب‌آبادی اعلام کرد که روندهای دیپلماتیک در زمان جنگ ادامه دارد، اما پیام‌ها، مواضع و ادبیات دستگاه دیپلماسی باید متناسب با شرایط جنگی تنظیم شود و به هیچ‌وجه حاکی از ضعف در برابر دشمن نباشد.\nمعاون وزیر خارجه جمهوری اسلامی افزود این «امکان‌پذیر نیست» که برخی از جمهوری اسلامی انتظار داشته باشند ادبیات آن‌ها در زمان جنگ، مانند ادبیات آن‌ها در زمان صلح باشد.\nغریب‌آبادی گفت: «اعتقاد دولت این است که همه ما اجزای یک پیکر هستیم. کشور در جنگ است و همه باید تلاش کنیم که هم دشمن را شکست بدهیم و هم کشور را با کمترین خسارت از این ورطه عبور دهیم.»\nhttps://iranintl.com/202608074738",
         "date": "2026-08-07T12:26:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351476_0_d8a97303.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351476_1_d1c84ad1.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608074738",
@@ -10577,7 +10868,7 @@
             "display_text": "https://iranintl.com/202608074738"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351476"
       },
@@ -10585,18 +10876,9 @@
         "id": 351475,
         "text": "🔻\nباشگاه اتلتیکو مادرید مذاکرات اولیه را برای جذب کریستین رومرو، کاپیتان تاتنهام، آغاز کرده است. با وجود آنکه مدافع ۲۸ ساله تیم ملی آرژانتین آگوست سال گذشته قراردادی چهارساله امضا کرد، انتظار می‌رود در تابستان جاری اسپرز را ترک کند.\n🔹\nدیه‌گو سیمئونه، سرمربی اتلتیکو، مدت‌هاست که بازی هم‌وطن خود را زیر نظر دارد و اکنون باشگاه اسپانیایی قصد دارد تلاش‌هایش را برای جذب این مدافع بیشتر کند. اگرچه اینترمیلان نیز به رومرو علاقه‌مند است، اما گفته می‌شود توافقات شخصی بین او و اتلتیکو راه را برای رفتن به مادرید هموارتر می‌کند.\n🔹\nرومرو ماه گذشته در تمام هفت بازی آرژانتین در جام جهانی به میدان رفت. تاتنهام فصل گذشته را در رده هفدهم به پایان رساند و در روز پایانی از سقوط گریخت؛ فصلی پر‌افت‌وخیز برای رومرو که با دو کارت قرمز و مصدومیت زانو همراه شد.\n🔹\nروبرتو دی‌زربی، سرمربی تاتنهام، اخیراً تأکید کرده که به تصمیم بازیکنانی که خواهان جدایی هستند احترام می‌گذارد. در این میان، باشگاه تاتنهام در حال نهایی‌کردن قراردادی جدید و پنج‌ساله با میکی فن‌ده‌فن، دیگر مدافع میانی خود، است.\n@iranintltvsport",
         "date": "2026-08-07T12:17:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351475_0_d8a97303.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351475_1_db4bfe30.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351475"
       },
@@ -10604,18 +10886,9 @@
         "id": 351474,
         "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، ائتلاف عربستان سعودی، ترکیه و پاکستان را فراتر از یک توافق معمولی می‌داند و می‌گوید پیوند سرمایه و انرژی عربستان، توان نظامی و صنعتی ترکیه و بازدارندگی اتمی پاکستان می‌تواند به شکل‌گیری یک بلوک قدرت منطقه‌ای منجر شود.\nبه گفته او، این ائتلاف می‌تواند وابستگی سه کشور به آمریکا را کاهش دهد، بازدارندگی جدیدی در منطقه ایجاد کند و پیام روشنی به جمهوری اسلامی و اسرائیل بفرستد.\n@iranintltv",
         "date": "2026-08-07T12:05:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351474_0_d8a97303.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351474_1_236d27ab.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351474"
       },
@@ -10623,18 +10896,9 @@
         "id": 351473,
         "text": "یک شهروند با ارسال پیامی صوتی به ایران اینترنشنال به میانجی‌گری‌ شهباز شریف، نخست‌وزیر پاکستان، برای جلوگیری از حمله آمریکا و اسرائیل به مواضع جمهوری اسلامی انتقاد کرد.\nصدای این شهروند با هوش مصنوعی تغییر داده شده است.",
         "date": "2026-08-07T12:03:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351473_0_d8a97303.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351473_1_5d9a2ab3.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351473"
       },
@@ -10642,16 +10906,7 @@
         "id": 351472,
         "text": "حسن قشقاوی، سخنگوی کمیسیون امنیت ملی مجلس، در گفت‌وگو با صدا و سیمای جمهوری اسلامی، اعلام کرد چارچوب کلی تفاهم جمهوری اسلامی با عمان درباره تنگه هرمز مورد توافق قرار گرفته است.\nقشقاوی گفت: «پس از اعلام نظر نهایی در سطوح بالاتر، به‌زودی بیانیه مشترک و جزییات آن اعلام خواهد شد.»\nسخنگوی کمیسیون امنیت ملی مجلس افزود پس از طی شدن این مراحل، بیانیه مشترکی که «خطوط کلی» این توافق را روشن می‌کند، منتشر خواهد شد.\nhttps://iranintl.com/202608071662",
         "date": "2026-08-07T11:52:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351472_0_d8a97303.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351472_1_fd2eec68.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608071662",
@@ -10659,7 +10914,7 @@
             "display_text": "https://iranintl.com/202608071662"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351472"
       },
@@ -10667,16 +10922,7 @@
         "id": 351471,
         "text": "عبدالنبی موسوی‌فرد، امام‌جمعه اهواز، اعلام کرد جمهوری اسلامی در حال آماده‌سازی برای افزایش برد موشک‌های خود تا ۱۵ هزار کیلومتر است تا بتواند «عمق آمریکا» را هدف قرار دهد و افزود: «خود را مهیا می‌کنیم تا مردم آمریکا نیز موشک خوردن را ببینند و بدانند به خاک و خون کشیده شدن یعنی چه.»\nموسوی‌فرد در خطبه‌های نماز جمعه اهواز گفت جمهوری اسلامی به جایی رسیده که دشمنان را از عراق به سوریه و از سوریه به مرزهای اردن و عربستان سعودی عقب رانده است و افزود: «موشک به عمق اورشلیم که حدود ۲۰۰۰ کیلومتر فاصله دارد می‌رسد.»\nنماینده مجتبی خامنه‌ای در خوزستان با بیان شعار «انتقام، انتقام» گفت «مردم» در این مساله جدی هستند و ابراز امیدواری کرد بنیامین نتانیاهو و دیگر مقام‌های اسرائیل و «همه قدرت‌های منطقه» به دست نیروهای جمهوری اسلامی «نابود شوند».\nhttps://www.iranintl.com/fa/202608076431",
         "date": "2026-08-07T11:44:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351471_0_a33d6ce4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351471_1_bcc46c53.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://www.iranintl.com/fa/202608076431",
@@ -10684,7 +10930,7 @@
             "display_text": "https://www.iranintl.com/fa/202608076431"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351471"
       },
@@ -10692,18 +10938,9 @@
         "id": 351470,
         "text": "در جریان انقلاب ملی دی‌ماه، سقوط شهر آبدانان در ایلام، آن را به نماد از دست رفتن کنترل حکومت با گسترش اعتراضات تبدیل کرد. از سوی دیگر، ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد هم‌زمان با سرکوب خشونت‌آمیز اعتراضات در استان، ماموران مراکز درمانی، به‌ویژه بیمارستان خمینی ایلام، را هدف حمله مسلحانه قرار دادند.\nمحسن مهیمنی، عضو تحریریه ایران‌اینترنشنال، درباره سرکوب انقلاب ملی در ایلام توضیح می‌دهد.\n@iranintltv",
         "date": "2026-08-07T11:30:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351470_0_a33d6ce4.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351470_1_1c897664.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351470"
       },
@@ -10711,18 +10948,9 @@
         "id": 351469,
         "text": "رجب طیب اردوغان، رییس‌جمهوری ترکیه، جمعه ۱۶ مرداد برای امضای توافق دفاعی مشترک میان ترکیه، عربستان سعودی و پاکستان وارد جده شد.\nاین توافق در بحبوحه تنش‌های منطقه‌ای و پس از حملات آمریکا و اسرائیل به جمهوری اسلامی صورت می‌گیرد؛ حملاتی که در پی آن، کشورهای حاشیه خلیج فارس نیز هدف حملات جمهوری اسلامی قرار گرفته‌اند.\nوزارت خارجه پاکستان اعلام کرد ترکیه، عربستان سعودی و پاکستان توافقنامه مشترک دفاعی را امضا کردند.\n@iranintltv",
         "date": "2026-08-07T11:26:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351469_0_a33d6ce4.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351469_1_0d6c3032.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351469"
       },
@@ -11467,205 +11695,54 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351406"
-      },
-      {
-        "id": 351405,
-        "text": "🔻\nاتحادیه جهانی بازیکنان فوتبال (فیفپرو) با انتشار بیانیه‌ای تند، از جیانی اینفانتینو و مدیریت فیفا به دلیل طرح جنجالی فروش بخشی از حقوق تجاری جام جهانی به شدت انتقاد کرد و خواستار اصلاحات اساسی در ساختار حکمرانی این نهاد شد.\n🔹\nفیفپرو با اشاره به کنار گذاشته شدن پروژه FIFA Forward Enterprise (FFE) اعلام کرد لغو این طرح به معنای پایان بحران نیست و آنچه رخ داده، «نمونه‌ای آشکار از سوءاستفاده از قدرت ریاست فیفا» بوده است. این اتحادیه تاکید کرد تصمیمی که می‌توانست مالکیت و ساختار اداره جام جهانی را برای همیشه تغییر دهد، پشت درهای بسته و بدون اطلاع شورای فیفا، فدراسیون‌های عضو، بازیکنان و دیگر ذی‌نفعان فوتبال طراحی شده بود.\n🔹\nاین اتحادیه همچنین اعلام کرد بیانیه اخیر فیفا و حمایت دوباره مدیران این سازمان از اینفانتینو، نمی‌تواند اعتماد از دست‌رفته را بازگرداند. در این بیانیه آمده است: «اعتماد با بیانیه‌های رسمی یا بررسی‌های داخلی بازنمی‌گردد و تنها با اصلاحات واقعی در ساختار حکمرانی فیفا احیا خواهد شد.»\n🔹\nاتحادیه جهانی بازیکنان خواستار مشارکت قانونی و الزام‌آور نمایندگان فوتبال حرفه‌ای در تصمیم‌گیری‌های کلان فیفا، اعطای حق رای به ذی‌نفعان فوتبال در شورای فیفا و اصلاح مقررات به گونه‌ای شد که هیچ فردی نتواند به تنهایی تصمیم‌های سرنوشت‌ساز برای فوتبال جهان اتخاذ کند.\n🔹\nاین بیانیه در حالی منتشر شد که اتحادیه فوتبال انگلیس به صورت رسمی حمایت خود از انتخاب دوباره اینفانتینو را پس گرفته، یوفا نیز بار دیگر بر تهدید به تحریم رقابت‌های فیفا تا زمان تحقق خواسته‌های خود تاکید کرده و همچنان خواستار کناره‌گیری رییس فیفاست.\n@iranintltvsport",
-        "date": "2026-08-06T21:49:07+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351405"
-      },
-      {
-        "id": 351404,
-        "text": "خبرگزاری رویترز به نقل از یک مقام ارشد سعودی که نخواست نامش فاش شود، گزارش داد ارزیابی‌های اطلاعاتی عربستان سعودی، آمریکا و کشورهای منطقه نشان می‌دهد شبه‌نظامیان عراقی با هماهنگی حوثی‌های یمن و تحت هدایت سپاه پاسداران، برای حملاتی قریب‌الوقوع به عربستان آماده می‌شوند.\nبه گفته این مقام، تاسیسات انرژی، بنادر، فرودگاه‌ها و دیگر زیرساخت‌های غیرنظامی و اقتصادی ممکن است هدف قرار گیرند. او افزود عربستان جابه‌جایی پهپادها و موشک‌ها را رصد کرده است؛ اقدامی که می‌تواند نشانه تدارک عملیاتی هماهنگ از شمال و جنوب این کشور باشد.\nhttps://iranintl.com/202608069076",
-        "date": "2026-08-06T21:49:03+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608069076",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608069076"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/351404"
-      },
-      {
-        "id": 351403,
-        "text": "ائتلاف به رهبری عربستان سعودی اعلام کرد حملات حوثی‌ها به شهر نجران ۱۱ غیرنظامی را زخمی کرده است. به گفته این ائتلاف، زخمی‌ها شامل هفت شهروند سعودی، یک شهروند یمنی، دو شهروند مصری و یک شهروند پاکستانی هستند.\nحملات حوثی‌ها در حالی ادامه دارد که تنش‌های منطقه‌ای همزمان با جنگ آمریکا و جمهوری اسلامی افزایش یافته و عربستان پیش‌تر درباره احتمال حملات هماهنگ حوثی‌ها و شبه‌نظامیان عراقی به زیرساخت‌های این کشور هشدار داده بود.\nhttps://iranintl.com/202608061652",
-        "date": "2026-08-06T21:39:45+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608061652",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608061652"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/351403"
-      },
-      {
-        "id": 351402,
-        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در کاخ سفید به خبرنگاران گفت اقدام نظامی علیه جمهوری اسلامی ضروری بود، زیرا این حکومت نباید به سلاح هسته‌ای دست یابد.\nاو گفت: «در غیر این صورت، کل دنیا نابود می‌شد. ما اجازه نمی‌دهیم چنین اتفاقی بیفتد. نه فقط ما، نه فقط خاورمیانه، بلکه کل جهان. این وضعیت می‌توانست فاجعه‌بار باشد. ما چاره‌ای نداشتیم.»\nاو درباره محاصره دریایی جمهوری اسلامی گفت: «نیروی دریایی آمریکا محاصره را اجرا می‌کند و ما آن را کنترل می‌کنیم. اگر آنها بخواهند کاری انجام دهند یا چیزی شلیک کنند، ما یک مین دریایی رها می‌کنیم و تنها یک مین می‌تواند همه چیز را به هم بریزد، اما نمی‌خواهم مسیر حرکت کشتی‌ها مختل شود یا کشتی‌ها به‌طور تصادفی با مین برخورد کنند.»\nترامپ همچنین گفت: «فکر می‌کنم در مورد جمهوری اسلامی اوضاع بسیار خوب پیش می‌رود. من در مذاکرات دخیل هستم و فکر می‌کنم عملکرد خوبی داریم. ممکن است توافق به‌زودی حاصل شود.»\nاو درباره ذخایر مهمات آمریکا نیز گفت: «از نظر ذخایر مهمات در وضعیت بسیار خوبی هستیم، اما همیشه خواهان ذخایر تسلیحاتی بیشتر هستیم.»\nhttps://iranintl.com/202608063925",
-        "date": "2026-08-06T21:24:49+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608063925",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608063925"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/351402"
-      },
-      {
-        "id": 351359,
-        "text": "دو منبع پزشکی به خبرگزاری فرانسه اعلام کردند حملات موشکی و پهپادی حوثی‌های یمن در پنج‌شنبه ۱۵ مرداد، دست‌کم ۳۸ نیروی دولتی یمن را کشته و ۲۹ نفر دیگر را زخمی کرد.\nاین خبرگزاری نوشت: «این یکی از مرگبارترین روزها میان دو طرف در سال‌های اخیر بوده است.»\nیک مقام نظامی نیز به خبرگزاری فرانسه اعلام کرد یک پایگاه نظامی در منطقه «الرویک» در استان مارب در مرکز یمن و همچنین پایگاه‌هایی در مناطق «العبر» و «الودیعه» در حضرموت نزدیک مرز عربستان سعودی هدف حمله قرار گرفتند.\nhttps://iranintl.com/202608068914",
-        "date": "2026-08-06T15:40:31+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608068914",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608068914"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/351359"
-      },
-      {
-        "id": 351358,
-        "text": "🎧\nنسخه صوتی اخبار شبانگاهی | پنج‌شنبه ۱۵ مرداد\n@iranintlTV",
-        "date": "2026-08-06T15:30:03+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351358"
-      },
-      {
-        "id": 351357,
-        "text": "سازمان عملیات تجارت دریایی بریتانیا روز پنج‌شنبه اعلام کرد دو شناور در دریای سرخ و خلیج عدن روز چهارشنبه هدف حمله قرار گرفتند. این سازمان همچنین گزارش داد خدمه یک نفتکش هنگام عبور از تنگه هرمز از وقوع دو انفجار در نزدیکی این شناور خبر داده‌اند.\nاین نفتکش مسیر خود را تغییر داد و گزارشی از خسارت یا آسیب به خدمه منتشر نشده است.\nhttps://iranintl.com/202608069151",
-        "date": "2026-08-06T15:09:47+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608069151",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608069151"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/351357"
-      },
-      {
-        "id": 351356,
-        "text": "🗣\nروایت شما: وضعیت معیشت در سایه تنش‌های نظامی - پنجشنبه ۱۵ مرداد\n🔹\nمردم فقط نان و پنیر می‌خورند، چون گوشت کیلویی دو میلیون، ماهی کیلویی یک میلیون و حتی عسل و کره کیلویی یک میلیون تومان، تخم‌مرغ شانه‌ای ۸۰۰ هزار تومان شده. سوءتغذیه دارد شدید می‌شود و این شیعه‌سان‌های کله‌پوک درکی از وضعیت مردم ندارند.\n🔹\nمن یک معلم رسمی و سرپرست خانوار دارای پسر ۱۷ ساله هستم. موبایل فرزندم سوخته و قادر نیستم گوشی موبایل برایش بخرم و اجاره‌نشین در یک سوئیت هستیم. با این حقوق ناچیز معلمی، چگونه زندگی کنیم؟ جمهوری اسلامی تا کی برای بقای خود، ما را بدبخت نگه می‌دارد؟\n🔹\nبه داد پرسنل خودروسازی سایپا برسید، معوقه‌های کارگران پرداخت نشده، اقلام ارزاق را چندین ماهه ندادن. مدیران با حقوق‌های نجومی به فکر کارگرا و سفره خالیشون نیستن.\n🔹\nبنده بدهکار مهریه هستم که سالانه باید یک سکه پرداخت کنم. ارزش سکه شده ۲۰۰ میلیون تومان. من سال ۸۸ ازدواج کردم و آن زمان ارزش سکه ۱۸۰ هزار تومان بود. من از کجا خبر داشتم تورم قراره این‌طور باشه؟\n🔹\nاز آبیک: وضعیت قیمت دارو خیلی داغون شده؛ اسپری آسم را دو ماه پیش ۲ عدد با بیمه خریدم ۸۰۰ هزار تومان و دیروز که به داروخانه‌ای در بیمارستان دولتی مراجعه کردم، گفتن باید آزاد بخری به قیمت دو میلیون و ۹۶۰ هزار تومان. من متأسفانه پول خرید نداشتم.\n🔹\nفرق اقتصاد قوی و ضعیف را می‌شه از این‌جا فهمید که یه بطری آب در آمریکا طی ۵ سال حتی یک سنت هم افزایش قیمت نداشته، ولی در ایران طی ۵ سال از ۲۵۰۰ تومان شده ۲۰ هزار تومان. لعنت بر جمهوری اسلامی.\n🔹\nمن و داداشم دیشب گفتیم باهم بریم تفریح. دوتا بلیت سینما ۳۵۰ هزار تومان، یک عدد کرانچی و دو عدد چیپس ۳۶۰ هزار تومان، بعدش رفتیم باهم یک پیتزا گرفتیم که شد یک میلیون و ۳۰۰ هزار تومان. یعنی سینما و شام واسه دو نفر ۲ میلیون تومان می‌شود.",
-        "date": "2026-08-06T15:04:02+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351356"
-      },
-      {
-        "id": 351355,
-        "text": "ویدیوی منتشرشده در شبکه‌های اجتماعی نشان می‌دهد که مراسم یادبود آروین خیرخواهان پنجشنبه ۱۵ مرداد بر مزارش برگزار شد. این جاویدنام از معترضان بازداشت‌شده در جریان انقلاب ملی ایرانیان بود که صبح شنبه ۱۰ مرداد در زندان شاهرود، در سکوت خبری اعدام شد.",
-        "date": "2026-08-06T14:53:01+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351355"
-      },
-      {
-        "id": 351354,
-        "text": "وزیر خارجه ایتالیا پس از گفت‌وگوی تلفنی با عباس عراقچی، در شبکه اجتماعی ایکس گزارشی از این تماس منتشر کرد که در آن از ایموجی پرچم با نشان شیر و خورشید استفاده شده بود. این پست بعدتر حذف و همان متن بدون این پرچم بازنشر شد.\nوزارت خارجه ایتالیا در پاسخ به ایران‌اینترنشنال، دلیل حذف پست را «فنی» اعلام کرد و گفت ملاحظه دیگری در این تصمیم وجود نداشته است.\n@iranintltv",
-        "date": "2026-08-06T14:51:49+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351354"
-      },
-      {
-        "id": 351353,
-        "text": "وزارت امور خارجه ایتالیا در پاسخ به ایران‌اینترنشنال اعلام کرد دلیل حذف و بازنشر پست آنتونیو تایانی، وزیر خارجه این کشور، در شبکه ایکس که در آن از ایموجی پرچم ایران با نماد شیر و خورشید استفاده شده بود، صرفا «فنی» بوده است.\nتایانی این ایموجی را در پستی درباره گفت‌وگوی خود با عباس عراقچی، وزیر خارجه جمهوری اسلامی، به‌کار برده بود، اما این پست ساعاتی بعد حذف و دوباره بدون ایموجی پرچم منتشر شد.\nدر پاسخ به پرسش خبرنگار ایران‌اینترنشنال، وزارت امور خارجه ایتالیا اعلام کرد تغییر و بازنشر این پست صرفا به دلایل فنی انجام شده و هیچ ملاحظه دیگری در کار نبوده است. این وزارتخانه همچنین تاکید کرد این تغییر «به هیچ‌گونه ملاحظات دیگری یا ارتباطات، درخواست‌ها یا فشارهایی از سوی اشخاص یا طرف‌های خارجی» مرتبط نیست و ارتباطی با فشار یا درخواست مقام‌های جمهوری اسلامی ندارد.\nhttps://iranintl.com/202608069885",
-        "date": "2026-08-06T14:48:57+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608069885",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608069885"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/351353"
-      },
-      {
-        "id": 351352,
-        "text": "«برنامه» صدای شماست.\nما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\nبیایید و روایت خود را برای همیشه ثبت کنید.\nتاریخ با صدای شما نوشته می‌شود.\nبرای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:  ۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n«برنامه با کامبیز حسینی»\n«یک ایران صدای شما را می‌شنود»\n@iranintltv",
-        "date": "2026-08-06T14:46:26+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351352"
-      },
-      {
-        "id": 351351,
-        "text": "رسانه‌های منطقه از تفاهم اولیه جمهوری اسلامی و عمان درباره چارچوب توافقی ۶۰ روزه برای بازگشایی تنگه هرمز خبر داده‌اند؛ تفاهمی که هنوز به تایید شورای عالی امنیت ملی نرسیده است.\nگزارش سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-06T14:45:18+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351351"
-      },
-      {
-        "id": 351350,
-        "text": "جنگ آمریکا با جمهوری اسلامی، فقط یک رویارویی نظامی نبود. به نظر می‌رسد برای صنعت دفاعی آمریکا هم یک آزمون بزرگ بود. گزارش‌های اخیر از قراردادهای جدید وزارت دفاع آمریکا برای افزایش ظرفیت کارخانه‌ها و تغییر در زنجیره تولید موشک‌ها حکایت دارند.\nمهدی بیگی، عضو تحریریه ایران‌اینترنشنال، در «پیوست» به این موضوع پرداخته است\n@iranintltv",
-        "date": "2026-08-06T14:39:18+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351350"
-      },
-      {
-        "id": 351349,
-        "text": "🔻\nگاوی، هافبک بارسلونا، پس از قهرمانی اسپانیا در جام جهانی به وعده‌اش عمل کرد و موهایش را صورتی کرد. او با انتشار تصاویری از ظاهر جدیدش در اینستاگرام نوشت: «مردی که به قولش عمل می‌کند.»\n🔹\nگاوی پس از تغییر رنگ موهایش در تمرین بارسلونا حاضر شد.\n@iranintltvsport",
-        "date": "2026-08-06T14:37:56+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351349"
-      },
-      {
-        "id": 351348,
-        "text": "ویدیوهایی در شبکه‌های اجتماعی منتشر شده است که آتش‌سوزی در تالاب میانکاله را نشان می‌دهد. به گزارش رسانه‌های دولتی، از ۲۶ تیر تا ششم خردادماه، ۱۳ فقره آتش‌سوزی در این زیستگاه رخ داده است",
-        "date": "2026-08-06T14:37:07+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351348"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 49898,
+        "text": "Server:\nlive.garden-troll.life\nPort:\n443\nSecret:\nee35e031f41ae8bb68b6d517e706ccdfb06c6976652e67617264656e2d74726f6c6c2e6c696665\n@ProxyMTProto",
+        "date": "2026-08-07T15:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49898_0_7c3e6d6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49898"
+      },
+      {
+        "id": 49897,
+        "text": "Server:\nbastani.mikham.co.uk\nPort:\n8443\nSecret:\nEERighJJvXrFGRMCIMJdCQ\n@ProxyMTProto",
+        "date": "2026-08-07T15:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49897_0_7c3e6d6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49897"
+      },
+      {
+        "id": 49896,
+        "text": "Server:\napi.nowabst.net\nPort:\n853\nSecret:\nee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d\n@ProxyMTProto",
+        "date": "2026-08-07T14:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49896_0_7c3e6d6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49896"
+      },
       {
         "id": 49895,
         "text": "Server:\noffers.wrenshire.co.uk\nPort:\n7980\nSecret:\neeNEgYdJvXrFGRMCIMJdCQ\n@ProxyMTProto",
@@ -13120,51 +13197,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49796"
-      },
-      {
-        "id": 49795,
-        "text": "Server:\nbezan-roo.connectina.co.uk.\nPort:\n443\nSecret:\needdffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169\n@ProxyMTProto",
-        "date": "2026-08-04T13:00:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_49795_0_9a0c875d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49795"
-      },
-      {
-        "id": 49794,
-        "text": "Server:\nad6.fluxvpnguard.ru\nPort:\n443\nSecret:\neeb471ae1aa2e8a185ed77a4d024dd3b7f6164362e666c757876706e67756172642e7275\n@ProxyMTProto",
-        "date": "2026-08-04T12:30:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_49794_0_9a0c875d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49794"
-      },
-      {
-        "id": 49793,
-        "text": "Server:\nUnknown\nPort:\n443\nSecret:\neef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
-        "date": "2026-08-04T12:00:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_49793_0_9a0c875d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49793"
       }
     ],
     "XpnTeam": [
@@ -18256,6 +18288,31 @@
     ],
     "yehirani": [
       {
+        "id": 19442,
+        "text": "🔴\nنیکلاس لیسک(تحلیل گر):\nمجتبی خامنه‌ای در وضعیت بحرانی نیست و از اواسط مارس جونشو از دست داده.\nحرفم را به خاطر بسپارید: رژیم سقوط خواهد کرد...\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@yehirani\n| 𝐏𝐎𝐔𝐑𝐢",
+        "date": "2026-08-07T14:22:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19442_0_29663627.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_19442_1_8fd5f0b6.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
+            "type": "telegram",
+            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/yehirani/19442"
+      },
+      {
         "id": 19441,
         "text": "وارد یه مهمونی فامیلی میشم\n+زنی که تو عمرم ندیدم :\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@YehIrani\n| nazi",
         "date": "2026-08-07T13:17:40+00:00",
@@ -20499,21 +20556,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/yehirani/19341"
-      },
-      {
-        "id": 19340,
-        "text": "نتانیاهو:\n\"اکثریت قاطع مردم ایران به اسرائیل احترام می‌گذارند.\"\nآمارها نشان میده نزدیک 85 درصد مردم از حملات اسرائیل به رژیم حمایت میکنند و شخص نتانیاهو برای اکثریت مردم ایران قابل احترام است.\n🇮🇷\n@YehIrani\n| هیچ",
-        "date": "2026-08-03T15:27:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19340_0_24b69a4e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/19340"
       }
     ],
     "crgaming7": [
@@ -21701,6 +21743,25 @@
       }
     ],
     "iranstop": [
+      {
+        "id": 3590,
+        "text": "🔴\nپیت هگست: ترامپ جنگ با ایران رو برد.",
+        "date": "2026-08-07T14:38:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "iranstop_3590_0_d631a7a4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "iranstop_3590_1_61b8e4cc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/iranstop/3590"
+      },
       {
         "id": 3589,
         "text": "🔴\nرسانه عبری:\nمحسن رضایی جزو اهداف ترور است",
@@ -23186,22 +23247,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/iranstop/3488"
-      },
-      {
-        "id": 3487,
-        "text": "✅\nدربی‌بت؛ جایی که پیش‌بینی فقط حدس نیست، شروعِ بردهای واقعیه!\n✅\nآفرهای خفن ثبت‌نام در دربی‌بت؛ فرصت‌هایی که تکرار نمی‌شن:\n⬅️\n۱۰۰٪ بونوس اولین واریز؛ شروع انفجاری\n⬅️\nپشتیبانی کامل از همه ارزهای دیجیتال\n⬅️\nدرگاه ریالی و تومنی امن، سریع\n⬅️\nبرداشت‌های آنی و بدون معطلی\n⬅️\nپشتیبانی حرفه‌ای ۲۴ ساعته\n✅\nدربی‌بت؛ پول رو چند برابر کن، لذت ببر! با خیال راحت و کامل امن\ng31\n✅\nhttps://DerbyBet.com\n📩\n@Derbybet",
-        "date": "2026-07-22T20:34:11+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://DerbyBet.com",
-            "type": "external",
-            "display_text": "https://DerbyBet.com"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/iranstop/3487"
       }
     ],
     "BestProxyTel1": [
@@ -23209,14 +23254,9 @@
         "id": 12612,
         "text": "رباتش اینه هرکیو بخوایید میتونید استاک کنید بدون اینکه خودش بفهمه  @Stakerebot",
         "date": "2026-08-07T14:13:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12612_0_3f7d4c7e.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12612"
       },
@@ -23224,18 +23264,9 @@
         "id": 12611,
         "text": "هرکیو میخوایید میتونید استاک کنید بزارم براتون؟؟",
         "date": "2026-08-07T14:09:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12611_0_3f7d4c7e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12611_1_840ee04a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12611"
       },
@@ -23243,18 +23274,9 @@
         "id": 12610,
         "text": "یه بات همین الان پیدا کردم  ایدی هرکی رو براش بفرستی بهت میگه با کی چت میکنه، تو چه گروه و کانالایی عضوه، دوستاش کیان و همه پرونده طرفو میریزه رو میز برات بزارم براتون؟؟؟",
         "date": "2026-08-07T14:04:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12610_0_3f7d4c7e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12610_1_c7fa5a1e.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12610"
       },
@@ -23262,14 +23284,9 @@
         "id": 12609,
         "text": "یه بات همین الان پیدا کردم  ایدی هرکی رو براش بفرستی بهت میگه با کی چت میکنه، تو چه گروه و کانالایی عضوه، دوستاش کیان و همه پرونده طرفو میریزه رو میز برات بزارم براتون؟؟؟",
         "date": "2026-08-07T14:01:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12609_0_3f7d4c7e.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12609"
       },
@@ -24536,21 +24553,21 @@
       }
     ]
   },
-  "last_update": "2026-08-07T14:18:12.763891+00:00",
+  "last_update": "2026-08-07T15:41:44.848701+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1272,
-    "total_files": 1272,
+    "total_media": 1276,
+    "total_files": 1276,
     "total_links": 392,
     "files_by_type": {
-      "image": 1135,
-      "video": 128,
-      "audio": 9
+      "image": 1136,
+      "video": 130,
+      "audio": 10
     },
-    "referenced_files": 1272,
-    "existing_media_files": 1272,
-    "total_size_mb": 498.63,
-    "last_calculation": "2026-08-07T14:18:12.775962+00:00"
+    "referenced_files": 1276,
+    "existing_media_files": 1276,
+    "total_size_mb": 497.9,
+    "last_calculation": "2026-08-07T15:41:44.863777+00:00"
   }
 }
