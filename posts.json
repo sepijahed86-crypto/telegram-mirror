@@ -11888,6 +11888,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 49909,
+        "text": "Server:\nmtp.webvirt.cloud\nPort:\n443\nSecret:\nee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564\n@ProxyMTProto",
+        "date": "2026-08-08T04:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49909_0_5ddd9226.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49909"
+      },
+      {
         "id": 49908,
         "text": "Server:\nUnknown\nPort:\n443\nSecret:\neea990d0794c43c68cdd51caea31e4e957706574726f766963682e7275\n@ProxyMTProto",
         "date": "2026-08-07T20:28:00+00:00",
@@ -13371,21 +13386,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49807"
-      },
-      {
-        "id": 49806,
-        "text": "Server:\ns03.neo-trading.org\nPort:\n443\nSecret:\neeaf794bcc20f70b1436b6b92b01b207e26d61676e69742e7275\n@ProxyMTProto",
-        "date": "2026-08-04T18:30:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_49806_0_2f45eb5d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49806"
       }
     ],
     "XpnTeam": [
@@ -24827,7 +24827,7 @@
       }
     ]
   },
-  "last_update": "2026-08-08T03:42:00.191070+00:00",
+  "last_update": "2026-08-08T04:41:43.435399+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
@@ -24842,6 +24842,6 @@
     "referenced_files": 1320,
     "existing_media_files": 1320,
     "total_size_mb": 499.93,
-    "last_calculation": "2026-08-08T03:42:00.201020+00:00"
+    "last_calculation": "2026-08-08T04:41:43.451479+00:00"
   }
 }
