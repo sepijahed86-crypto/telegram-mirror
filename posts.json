@@ -1955,6 +1955,37 @@
     ],
     "MediaMardom": [
       {
+        "id": 11066,
+        "text": "🔴\nیه کمپانی به نام «کیری» اومده ادکلن جدید خودشو رونمایی کرده که از شانسش پستش خورده به تور ایرانیا و همونطور که میدونید ایرانی جماعت زیر کامنتای یه پست کم نمیزارن :\n❤️\n•\n@MediaMardom",
+        "date": "2026-08-08T19:58:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11066_0_16a7dab8.jpg"
+          },
+          {
+            "type": "video",
+            "file": "MediaMardom_11066_1_3bebcd6f.mp4"
+          },
+          {
+            "type": "image",
+            "file": "MediaMardom_11066_2_b0297143.jpg"
+          },
+          {
+            "type": "image",
+            "file": "MediaMardom_11066_3_c04fe841.jpg"
+          },
+          {
+            "type": "image",
+            "file": "MediaMardom_11066_4_5f48d7f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/11066"
+      },
+      {
         "id": 11065,
         "text": "🔴\nکارشناس صداسیما: باید نیروی نظامی ببریم و بحرین را پس بگیریم\n❤️\n•\n@MediaMardom",
         "date": "2026-08-08T19:25:26+00:00",
@@ -3521,16 +3552,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/10959"
-      },
-      {
-        "id": 10958,
-        "text": "🔴\nخبر کوتاه اسکای نیوز عربی: وزارت خزانه‌داری آمریکا اعلام کرد تحریم‌های مرتبط با ایران را لغو کرده است.\n❤️\n• @MediaMardom",
-        "date": "2026-08-05T14:40:35+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/10958"
       }
     ],
     "whitedns": [
@@ -5722,6 +5743,25 @@
     ],
     "withyashar": [
       {
+        "id": 20696,
+        "text": "سنتکام : ملوانان آمریکایی در حال تعمیر و نگهداری هواپیماهای F/A-18E Super Hornet در عرشه پرواز ناو هواپیمابر USS Abraham Lincoln (CVN 72) هستند تا اطمینان حاصل کنند که تجهیزات گروه ضربت ناو هواپیمابر برای اجرای محاصره ایالات متحده علیه ایران آماده ماموریت هستند. تا 8 آگوست، سنتکام 53 کشتی تجاری را تغییر مسیر داد، 2 کشتی را از کار انداخت و 2 کشتی دیگر را نیز توقیف کرد.\nارتش ایالات متحده همچنین به بیش از 30 کشتی اجازه عبور از محاصره برای کمک‌های بشردوستانه را داده است.\n@WarRoom",
+        "date": "2026-08-08T19:41:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20696_0_de793f4f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_20696_1_caa0d2d6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20696"
+      },
+      {
         "id": 20695,
         "text": "فرمانده سنتکام وارد تل‌آویو شد  برد کوپر با رئیس ستاد مشترک ارتش اسرائیل و دیگر مقامات ارشد ارتش دیدار خواهد کرد. @WarRoom",
         "date": "2026-08-08T18:59:15+00:00",
@@ -7431,21 +7471,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/20574"
-      },
-      {
-        "id": 20573,
-        "text": "حسین شریعتمداری نماینده ولی فقیه و مدیرمسئول روزنامه کیهان : باز شدن تنگه هرمز یعنی باز کردن راه فرار دشمن و از دست دادن یکی از مهم‌ترین اهرم‌های فشار جمهوری اسلامی.\n@WarRoom",
-        "date": "2026-08-06T13:36:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20573_0_907d3f52.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20573"
       }
     ],
     "vahidonline": [
@@ -9480,6 +9505,21 @@
     ],
     "configraygan": [
       {
+        "id": 7980,
+        "text": "۳۰ کانفیگ پرسرعت ، حالشو ببرید\n🛡\nکانفیگ نپستر برای تمومی اپراتور ها نامحدود مولتی لوکیشن پرسرعت مخصوص دانلود وب گردی برای اندروید و آیفون\n- بزنید داخل npv نپسترنت\n- پنیگ بگیرید\n- هرکدوم بهتر بود از اون استفاده کنید\nفیلترینگ شدید و نت ملی رو باهاش دوربزن\n@configraygan",
+        "date": "2026-08-08T19:48:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7980_0_97dd67ba.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/configraygan/7980"
+      },
+      {
         "id": 7979,
         "text": "vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=&encryption=none&headerType=none&type=tcp#configraygan_19\nvless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.117:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#configraygan_20\nvless://1f5f2b12-7b91-4ddf-928b-d7362cf1aa43@164.90.185.67:59653?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#configraygan_21\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#configraygan_22\nvless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#configraygan_23\nvless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#configraygan_24\nvless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&encryption=none&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=3.oncloudnineservicestreang.com&sid=1991780b928b292d#configraygan_25\nvless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#configraygan_26",
         "date": "2026-08-08T17:21:23+00:00",
@@ -10825,19 +10865,87 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/configraygan/7873"
-      },
-      {
-        "id": 7872,
-        "text": "چند ثانیه طول کشید تا ببینیش؟!!",
-        "date": "2026-07-25T19:47:22+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7872"
       }
     ],
     "IranintlTV": [
+      {
+        "id": 351674,
+        "text": "به گزارش رویترز، منطقه سامرلند در استان بریتیش‌کلمبیای کانادا بامداد شنبه ۱۷ مرداد در پی پیشروی سریع آتش‌سوزی جنگلی «بالد رنج» وضعیت اضطراری اعلام کرد و هزاران نفر ناچار به ترک خانه‌های خود شدند. ویدیویی که جمعه ۱۶ مرداد در شبکه‌های اجتماعی منتشر شد، ستون‌های دود را بر فراز این منطقه کوهستانی نشان می‌دهد. بر پایه اعلام سازمان آتش‌نشانی جنگل‌های بریتیش‌کلمبیا، کانون این آتش‌سوزی حدود ۱۵ کیلومتر غرب سامرلند بوده و دامنه آن تا بامداد شنبه به حدود ۵ هزار هکتار رسیده و همچنان مهار نشده است.\n@iranintltv",
+        "date": "2026-08-08T19:59:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351674_0_9888e163.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351674_1_f3650694.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351674"
+      },
+      {
+        "id": 351673,
+        "text": "سایت هرانا گزارش داد که دست‌کم ۱۵۹ نفر از بازداشت‌شدگان انقلاب ملی ایرانیان در دی‌ماه ۱۴۰۴، همچنان در زندان یزد نگهداری می‌شوند.\nبنا بر این گزارش، شماری از این زندانیان به هفت تا ۱۵ سال زندان محکوم شده‌اند و ده‌ها نفر دیگر همچنان بدون حکم قطعی در بلاتکلیفی قضایی به سر می‌برند.\nhttps://iranintl.com/202608080498",
+        "date": "2026-08-08T19:57:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351673_0_9888e163.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351673_1_d59c2bce.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608080498",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608080498"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/351673"
+      },
+      {
+        "id": 351672,
+        "text": "🎧\nنسخه صوتی چشم‌انداز: بازگشت حجاب اجباری با پروژه‌های خشن و ترسناک دهه ۶۰\n@iranintlTV",
+        "date": "2026-08-08T19:55:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351672_0_9888e163.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351672"
+      },
+      {
+        "id": 351671,
+        "text": "جابر رجبی، تحلیل‌گر سیاسی، گفت مجتبی خامنه‌ای برای تثبیت موقعیت خود به حمایت هسته سخت جمهوری اسلامی نیاز دارد؛ هسته‌ای که به گفته او هر روز کوچک‌تر می‌شود و به همین دلیل، او تلاش می‌کند با تغییرات تدریجی، جایگاه خود را در ساختار قدرت تثبیت کند.\nاو افزود مجتبی خامنه‌ای هم‌زمان به این جمع‌بندی رسیده که برای حفظ قدرت، ناچار به توافق با آمریکا است. به گفته رجبی، چالش اصلی او این است که چگونه هم هسته سخت حامی خود را راضی نگه دارد و هم با دولت ترامپ به توافقی برسد که بقای او در قدرت را تضمین کند.\n@iranintltv",
+        "date": "2026-08-08T19:39:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351671_0_9888e163.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351671_1_7119606b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351671"
+      },
       {
         "id": 351670,
         "text": "🔻\nخبرگزاری فرانسه گزارش داده توپی که دیگو مارادونا با آن گل جنجالی «دست خدا» را در پیروزی آرژانتین مقابل انگلیس در جام جهانی ۱۹۸۶ به ثمر رساند، قرار است اواخر این ماه در آمریکا به حراج گذاشته شود و پیش‌بینی می‌شود حدود ۱۰ میلیون دلار فروخته شود.\n🔹\nمارادونا در دیدار مرحله یک‌چهارم نهایی جام جهانی ۱۹۸۶ با ضربه دست، توپ را به شکل غیرقانونی وارد دروازه انگلیس کرد؛ خطایی که از دید داور پنهان ماند.\n🔹\nستاره آرژانتینی پس از مسابقه گفت گل او «کمی با سر مارادونا و کمی با دست خدا» به ثمر رسیده است. آرژانتین در ادامه همان جام جهانی قهرمان شد.\n🔹\nحراجی هرتیج اکشنز مستقر در ایالت تگزاس اعلام کرده است این توپ در فاصله ۳۰ مرداد تا یکم شهریور به مزایده گذاشته خواهد شد. قیمت پایه حراج ۲.۵ میلیون دلار تعیین شده و برگزارکنندگان انتظار دارند فروش آن به رقمی هشت‌رقمی برسد.\n🔹\nدن ایملر، نایب‌رییس بخش ورزش در حراجی هرتیج، به خبرگزاری فرانسه گفت: «به نظر من، این بدون تردید تاریخی‌ترین توپ فوتبال جهان است. همین توپ، در همان مسابقه، برای به ثمر رسیدن گل مشهور دیگر مارادونا، موسوم به «گل قرن»، نیز استفاده شد.»\n@iranintltvsport",
@@ -10957,10 +11065,6 @@
         "date": "2026-08-08T18:44:16+00:00",
         "media": [
           {
-            "type": "image",
-            "file": "IranintlTV_351665_0_9888e163.jpg"
-          },
-          {
             "type": "video",
             "file": "IranintlTV_351665_1_9802778a.mp4"
           }
@@ -10978,10 +11082,6 @@
           {
             "type": "image",
             "file": "IranintlTV_351664_0_9888e163.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351664_1_04f60c47.jpg"
           }
         ],
         "links": [
@@ -11018,10 +11118,6 @@
           {
             "type": "image",
             "file": "IranintlTV_351662_0_9888e163.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351662_1_7c18b2d0.jpg"
           }
         ],
         "links": [
@@ -11039,18 +11135,9 @@
         "id": 351661,
         "text": "فرزین ندیمی، کارشناس امور دفاعی و امنیتی، گفت جمهوری اسلامی همچنان بر خروج نیروهای آمریکایی از منطقه پافشاری می‌کند و این موضوع یکی از محورهای اصلی اختلاف با واشینگتن است.\n@iranintltv",
         "date": "2026-08-08T17:27:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351661_0_9888e163.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351661_1_30fab6d2.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351661"
       },
@@ -11058,18 +11145,9 @@
         "id": 351660,
         "text": "سخنگوی قوه قضاییه از احضار محمدباقر خرازی، دبیرکل حزب‌الله ایران، به دادگاه خبر داد. خرازی اخیرا از استعفاهای مسعود پزشکیان و تهدید مجتبی خامنه‌ای به پذیرش استعفای او سخن گفته بود؛ مساله‌ای که از سوی دفتر مجتبی خامنه‌ای و مسعود پزشکیان تکذیب شد. با این حال، مسعود پزشکیان تلویحا بخش دیگری از اظهارات خرازی درباره تغییر دبیر شورای عالی امنیت ملی را تایید کرد.\nایمان آقایاری، تحلیل‌گر سیاسی، گفت پیش‌تر در مواقعی که بحران‌ها بالا می‌گرفت، علی خامنه‌ای وارد می‌شد و به قول خودشان نقش «فصل‌الخطاب» را ایفا می‌کرد. الان در غیاب مجتبی خامنه‌ای، انگار کسی نیست که وقتی این اختلافات بالا می‌گیرد، بتواند حرف نهایی را بزند.\n@iranintltv",
         "date": "2026-08-08T17:19:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351660_0_9888e163.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351660_1_0cd6ba8e.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351660"
       },
@@ -11077,16 +11155,7 @@
         "id": 351659,
         "text": "حمیدرضا حاجی‌بابایی، نایب رییس مجلس، به خبرگزاری دانشجو گفت: «ما هیچ‌وقت با آمریکا به تفاهم نمی‌رسیم، آمریکا برای شکل‌گیری پروژه اسرائیل بزرگ می‌خواهد ایران نباشد.»\nاو ادامه داد: «باید آمریکا بپذیرد که جمهوری اسلامی یک ابرقدرت است و نباید اجازه دهیم آمریکا از آتش‌بس برای تجدید قوا و آماده شدن برای حمله بعدی استفاده کند.»\nاین نماینده مجلس افزود: «بعضی از مسئولان حتی اگر آمریکا را صد بار آزمایش کنند و آمریکا هر بار تعهد خود را نقض کند، باز هم می‌خواهند این مسیر را تکرار کنند؛ در حالی که این رویکرد به نفع ما نیست.»\nحاجی‌بابایی اضافه کرد: «همه ما با جنگ مخالفیم، اما وقتی می‌گوییم باید با آمریکا برخورد کرد، منظور این است که سایه جنگ را از سر کشور برداریم.»\nhttps://iranintl.com/202608086075",
         "date": "2026-08-08T17:05:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351659_0_9888e163.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351659_1_70520b43.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608086075",
@@ -11094,7 +11163,7 @@
             "display_text": "https://iranintl.com/202608086075"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351659"
       },
@@ -11102,18 +11171,9 @@
         "id": 351658,
         "text": "تیتر اول با نیوشا صارمی، شنبه ۱۷ مرداد\n@iranintltv",
         "date": "2026-08-08T16:40:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351658_0_9888e163.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351658_1_3cb4f114.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351658"
       },
@@ -11121,18 +11181,9 @@
         "id": 351657,
         "text": "یک مقام حماس به خبرگزاری فرانسه گفت این گروه برای اجرای مرحله دوم توافق صلح غزه با حمایت آمریکا آماده است و از واشینگتن خواست برای اجرای توافق بر اسرائیل فشار بیاورد. بر اساس این طرح، حماس باید خلع سلاح شود و اسرائیل نیز از بخشی از مناطق تحت کنترل خود در غزه عقب‌نشینی کند.\nگزارش اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-08-08T16:35:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351657_0_9888e163.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351657_1_94de2d71.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351657"
       },
@@ -12093,55 +12144,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351572"
-      },
-      {
-        "id": 351571,
-        "text": "حسین شریعتمداری، مدیرمسئول روزنامه کیهان، در واکنش به پیمان نظامی میان پاکستان، عربستان سعودی و ترکیه، با اشاره به اظهارات شهباز شریف، نخست‌وزیر پاکستان، گفت: «آیا کشوری که نخست‌وزیرش، ترامپ پلید و جنایتکار را انسانی شریف می‌داند، شایسته میانجی‌گری است؟»\nاو تاکید کرد که شریف شایسته میانجی‌گری میان جمهوری اسلامی و آمریکا نیست و افزود: «خوشبختانه مسئولان محترم کشورمان به این نکته توجه دارند.»\nمدیرمسئول روزنامه کیهان همچنین پاکستان، ترکیه و عربستان سعودی را کشورهای «به‌اصطلاح مسلمان» خواند و گفت: «شواهدی در دست است که در قتل‌های غزه با اسرائیل سر و سر مخفیانه‌ای هم داشته‌اند.»\nhttps://iranintl.com/202608085051",
-        "date": "2026-08-08T05:43:25+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608085051",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608085051"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/351571"
-      },
-      {
-        "id": 351570,
-        "text": "رسانه‌های ایران از گسترش بازار غیررسمی دارو خبر داده و نوشته‌اند بسیاری از داروهای کمیاب، به جای داروخانه‌ها، در دست دلالان با قیمت‌های چندبرابری فروخته می‌شوند.\nارزیابی رقیه رضایی، روزنامه‌نگار و عضو تحریریه ایران‌وایر، از دلایلی که منجر به بروز بحران در بازار دارو شده است\n@iranintltv",
-        "date": "2026-08-08T05:38:28+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351570"
-      },
-      {
-        "id": 351569,
-        "text": "وزارت خزانه‌داری آمریکا شبکه‌ای از صرافی‌ها و شرکت‌های پوششی را که به جمهوری اسلامی کمک می‌کردند صدها میلیون دلار را به صورت مخفیانه از طریق نظام مالی بین‌المللی جابه‌جا کند، تحریم کرد.\nمیعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، به ایران‌اینترنشنال گفت جایگزینی شرکت‌های تحریم‌شده برای جمهوری اسلامی گران و هزینه‌بر است.\n@iranintltv",
-        "date": "2026-08-08T05:34:39+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351569"
-      },
-      {
-        "id": 351568,
-        "text": "سرخط خبرهای شنبه ۱۷ مرداد\n@iranintltv",
-        "date": "2026-08-08T05:05:06+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351568"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 49940,
+        "text": "Server:\nrelaywise.co.uk.\nPort:\n443\nSecret:\nddf0eeb0bd9adc4fd4a93994ee3b2a216b\n@ProxyMTProto",
+        "date": "2026-08-08T20:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49940_0_5ddd9226.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49940"
+      },
       {
         "id": 49939,
         "text": "Server:\ndata.fast-proxy.ink\nPort:\n443\nSecret:\neef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b\n@ProxyMTProto",
@@ -13626,21 +13646,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49838"
-      },
-      {
-        "id": 49837,
-        "text": "Server: Unknown\nPort: 4455\nSecret: dd104462821249bd7ac519130220c25d09\n@ProxyMTProto",
-        "date": "2026-08-05T20:01:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_49837_0_f307e11d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49837"
       }
     ],
     "XpnTeam": [
@@ -17646,6 +17651,44 @@
     ],
     "persian_asasins": [
       {
+        "id": 19077,
+        "text": "کسمادرتون همراه با خانوم روگیه\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
+        "date": "2026-08-08T20:01:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_19077_0_bd14ca24.jpg"
+          },
+          {
+            "type": "video",
+            "file": "persian_asasins_19077_1_109c8e47.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/19077"
+      },
+      {
+        "id": 19076,
+        "text": "کیر طاهر\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
+        "date": "2026-08-08T19:36:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_19076_0_bd14ca24.jpg"
+          },
+          {
+            "type": "video",
+            "file": "persian_asasins_19076_1_62ef6151.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/19076"
+      },
+      {
         "id": 19075,
         "text": "صالح بعد صالح\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
         "date": "2026-08-08T19:22:41+00:00",
@@ -18844,26 +18887,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/persian_asasins/18963"
-      },
-      {
-        "id": 18961,
-        "text": "فرق دو حکومت با همین دو ویدیو مشخص میشه .\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
-        "date": "2026-07-27T14:56:18+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/18961"
-      },
-      {
-        "id": 18960,
-        "text": "🫥\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
-        "date": "2026-07-27T14:17:49+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/18960"
       }
     ],
     "yehirani": [
@@ -25323,21 +25346,21 @@
       }
     ]
   },
-  "last_update": "2026-08-08T19:34:32.483572+00:00",
+  "last_update": "2026-08-08T20:02:14.610717+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1414,
-    "total_files": 1414,
+    "total_media": 1419,
+    "total_files": 1419,
     "total_links": 419,
     "files_by_type": {
-      "image": 1271,
-      "video": 131,
+      "image": 1275,
+      "video": 132,
       "audio": 12
     },
-    "referenced_files": 1414,
-    "existing_media_files": 1414,
-    "total_size_mb": 498.07,
-    "last_calculation": "2026-08-08T19:34:32.500406+00:00"
+    "referenced_files": 1419,
+    "existing_media_files": 1419,
+    "total_size_mb": 497.62,
+    "last_calculation": "2026-08-08T20:02:14.624195+00:00"
   }
 }
