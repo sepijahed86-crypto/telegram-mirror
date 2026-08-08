@@ -5752,6 +5752,25 @@
     ],
     "withyashar": [
       {
+        "id": 20698,
+        "text": "بیشترین باز دید پیج اینستاگرام از شهر های داخل ایران\n😁\nتبریز\n🥇\n🏆\nاصفهان\n🥈\nتهران\n🥉\n@WarRoom",
+        "date": "2026-08-08T20:35:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20698_0_de793f4f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_20698_1_7c15d4de.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20698"
+      },
+      {
         "id": 20697,
         "text": "نیویورک پست: تأسیسات هسته ای کوه «کلنگ\nگزلا» در تیررس ترامپ قرار داره\n@WarRoom",
         "date": "2026-08-08T20:03:28+00:00",
@@ -7469,21 +7488,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/20576"
-      },
-      {
-        "id": 20575,
-        "text": "تعدادی از نیروهای عربستان سعودی کشته و زخمی شدند، پس از آنکه یک موشک شلیک شده از یمن مستقیماً به پایگاه‌های نیروهای تیپ واکنش سریع اصابت کرد. @WarRoom",
-        "date": "2026-08-06T15:15:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20575_0_907d3f52.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20575"
       }
     ],
     "vahidonline": [
@@ -10882,6 +10886,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 351677,
+        "text": "🔻\nتیم فوتبال استاندارد لیژ در نخستین مسابقه لیگ حرفه‌ای بلژیک، با تساوی ۲ - ۲ مقابل سرکل بروخه متوقف شد؛ دنیس اکرت، دو گل لیژ را به ثمر رساند.\n🔹\nدرخشش دنیس اکرت در نخستین بازی استاندارد لیژ درحالی است که امیر قلعه‌نویی، سرمربی تیم فوتبال ایران به او در جام جهانی ۲۰۲۶ بازی نداد.\n@iranintltvsport",
+        "date": "2026-08-08T21:01:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351677_0_9888e163.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351677_1_ed4512e7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351677"
+      },
+      {
         "id": 351676,
         "text": "غسان آشور، تحلیل‌گر مسائل خاورمیانه، با اشاره به حمله به نفتکش امارات، گفت جمهوری اسلامی در تلاش است کنترل تنگه هرمز و امنیت خلیج فارس را به مهم‌ترین اهرم قدرت خود تبدیل کند و به کشورهای منطقه نشان دهد دست برتر در این آبراه در اختیار تهران است.\n@iranintltv",
         "date": "2026-08-08T20:19:28+00:00",
@@ -12091,16 +12114,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351575"
-      },
-      {
-        "id": 351574,
-        "text": "هوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی، با اشاره به امضای پیمان دفاعی سه‌جانبه عربستان سعودی، ترکیه و پاکستان، به ایران‌اینترنشنال گفت توافق مکه، محاصره امنیتی جمهوری اسلامی را کامل‌تر کرده و فشار بیشتری بر حکومت ایران وارد می‌کند.\n@iranintltv",
-        "date": "2026-08-08T06:28:23+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351574"
       }
     ],
     "ProxyMTProto": [
@@ -25296,21 +25309,21 @@
       }
     ]
   },
-  "last_update": "2026-08-08T20:32:11.047317+00:00",
+  "last_update": "2026-08-08T21:05:05.250017+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1411,
-    "total_files": 1411,
+    "total_media": 1414,
+    "total_files": 1414,
     "total_links": 417,
     "files_by_type": {
-      "image": 1267,
+      "image": 1270,
       "video": 132,
       "audio": 12
     },
-    "referenced_files": 1411,
-    "existing_media_files": 1411,
-    "total_size_mb": 498.64,
-    "last_calculation": "2026-08-08T20:32:11.064739+00:00"
+    "referenced_files": 1414,
+    "existing_media_files": 1414,
+    "total_size_mb": 498.75,
+    "last_calculation": "2026-08-08T21:05:05.266693+00:00"
   }
 }
