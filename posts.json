@@ -5752,6 +5752,25 @@
     ],
     "withyashar": [
       {
+        "id": 20699,
+        "text": "😁",
+        "date": "2026-08-08T21:29:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20699_0_de793f4f.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_20699_1_97dbd0fe.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20699"
+      },
+      {
         "id": 20698,
         "text": "بیشترین باز دید پیج اینستاگرام از شهر های داخل ایران\n😁\nتبریز\n🥇\n🏆\nاصفهان\n🥈\nتهران\n🥉\n@WarRoom",
         "date": "2026-08-08T20:35:36+00:00",
@@ -7469,25 +7488,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/20600"
-      },
-      {
-        "id": 20576,
-        "text": "محسن رضایی (محسن کج بند) دبیر شورای عالی امنیت ملی(جایگزین علی شمخانی) شد، اون سرش رفت اینم تهش میره\n@WarRoom",
-        "date": "2026-08-06T15:35:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20576_0_907d3f52.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_20576_1_f0d1add3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20576"
       }
     ],
     "vahidonline": [
@@ -10886,6 +10886,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 351678,
+        "text": "اکرم الکعبی، دبیرکل جنبش النجباء عراق، از گروه‌های نزدیک به سپاه و تشکیل دهنده حشد الشعبی، گزینه دیپلماسی با عربستان سعودی را «بی‌فایده» خواند. او ریاض را به «توطئه» علیه عراق متهم کرد و خواستار «پاسخ نظامی مناسب» به عربستان سعودی شد.\nhttps://iranintl.com/202608086013",
+        "date": "2026-08-08T21:22:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351678_0_9888e163.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351678_1_84afa28e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608086013",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608086013"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/351678"
+      },
+      {
         "id": 351677,
         "text": "🔻\nتیم فوتبال استاندارد لیژ در نخستین مسابقه لیگ حرفه‌ای بلژیک، با تساوی ۲ - ۲ مقابل سرکل بروخه متوقف شد؛ دنیس اکرت، دو گل لیژ را به ثمر رساند.\n🔹\nدرخشش دنیس اکرت در نخستین بازی استاندارد لیژ درحالی است که امیر قلعه‌نویی، سرمربی تیم فوتبال ایران به او در جام جهانی ۲۰۲۶ بازی نداد.\n@iranintltvsport",
         "date": "2026-08-08T21:01:06+00:00",
@@ -12104,16 +12129,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351576"
-      },
-      {
-        "id": 351575,
-        "text": "یک مقام آمریکایی به رویترز گفت مذاکرات جمهوری اسلامی و عمان درباره بازگشایی تنگه هرمز پیشرفت کرده و انتظار می‌رود دو طرف به‌زودی به توافق برسند. هم‌زمان، اکسیوس به نقل از یک دیپلمات آگاه گزارش داد شورای عالی امنیت ملی جمهوری اسلامی احتمالا به‌زودی توافق بازگشایی این آبراه را تایید خواهد کرد.\nجزییات بیشتر با اردوان روزبه، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-08T06:31:54+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351575"
       }
     ],
     "ProxyMTProto": [
@@ -25309,21 +25324,21 @@
       }
     ]
   },
-  "last_update": "2026-08-08T21:05:05.250017+00:00",
+  "last_update": "2026-08-08T21:38:33.477862+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1414,
-    "total_files": 1414,
-    "total_links": 417,
+    "total_media": 1416,
+    "total_files": 1416,
+    "total_links": 418,
     "files_by_type": {
-      "image": 1270,
+      "image": 1271,
       "video": 132,
-      "audio": 12
+      "audio": 13
     },
-    "referenced_files": 1414,
-    "existing_media_files": 1414,
-    "total_size_mb": 498.75,
-    "last_calculation": "2026-08-08T21:05:05.266693+00:00"
+    "referenced_files": 1416,
+    "existing_media_files": 1416,
+    "total_size_mb": 498.77,
+    "last_calculation": "2026-08-08T21:38:33.494208+00:00"
   }
 }
