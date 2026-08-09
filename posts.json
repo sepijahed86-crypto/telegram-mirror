@@ -390,6 +390,61 @@
     ],
     "apkclub": [
       {
+        "id": 71821,
+        "text": "ویدیو آموزش خرید",
+        "date": "2026-08-09T06:35:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71821_0_93bf7287.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/71821"
+      },
+      {
+        "id": 71820,
+        "text": "نورتون وی‌پی‌ان — 1 ماه اشتراک\nبین‌نامبر:\n-بین-1\n553890200019|02|27\n-بین-2\n55389020001|02|27\nکشور:\nاسپانیا\n🇪🇸\nلینک:\nhttps://buy.norton.com/ps?selSKU=21454123&ctry=ES&lang=es&tppc=94503596-81BC-F81E-A12D-FA76BF259110&ptype=cart&promocode=VPN30WIN10FR&inid=nortoncom-vpn-for-windows-10__ps\nمراحل:\n1. از یک آی‌پی تمیز اسپانیا استفاده کنید.\n2. لینک بالا را باز کنید.\n3. یک کارت مجازی با استفاده از BINهای بالا تولید کنید.\n4. در صفحه پرداخت، اطلاعات کارت را وارد کرده و تأیید کنید.\nدستورات ربات:\n-\n/gen + BIN\n→ تولید کارت مجازی\n-\n/fake es\n→ تولید آدرس جعلی اسپانیا\nنکته:\nاگر BIN اول رد شد، از BIN دوم استفاده کنید.\n#AMIRREJ\n#NORTONVPN\n#BIN\n☁️\n@APKCLUB\n|\n@APKCLUB_GP",
+        "date": "2026-08-09T06:30:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71820_0_93bf7287.jpg"
+          },
+          {
+            "type": "image",
+            "file": "apkclub_71820_1_8effba1c.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://buy.norton.com/ps?selSKU=21454123&ctry=ES&lang=es&tppc=94503596-81BC-F81E-A12D-FA76BF259110&ptype=cart&promocode=VPN30WIN10FR&inid=nortoncom-vpn-for-windows-10__ps",
+            "type": "external",
+            "display_text": "https://buy.norton.com/ps?selSKU=21454123&ctry=ES&lang=es&tp..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/apkclub/71820"
+      },
+      {
+        "id": 71819,
+        "text": "",
+        "date": "2026-08-09T06:27:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71819_0_93bf7287.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/71819"
+      },
+      {
         "id": 71818,
         "text": "درود\n👋\nاکانت ۱۸ ماهه Gemini Pro رو می‌تونید با یه قیمت فوق‌العاده استثنایی تهیه و فعال کنید!\n​\n✨\nمشخصات اکانت:\n​نوع اکانت: منیجر (امکان اضافه کردن ۵ نفر به فمیلی)\n​قیمت : 390 هزار تومان\n😱\n​\n🛡\nدارای ۱ ماه ضمانت کامل\n​\n💡\nتخفیف‌ها و محصولات جدیدتر رو هم اگه ردیف شد توی\nاین کانال\nمی‌ذارم تا اینجا شلوغ نشه.(اینجا کانال فروشگاهی نیست و صرفاً معرفی این محصول به نفع خودتونه).\n​\n📌\nروش خرید (اول تحویل، بعد پرداخت!):\nبرای سفارش به آی‌دی زیر پیام بدید؛ اول براتون فعال میشه، بعد از اطمینان پرداخت می‌کنید:\n👤\nآیدی ادمین:\n@Amiarami\n​\n@TECHaJUNKIE",
         "date": "2026-08-08T18:27:41+00:00",
@@ -1921,36 +1976,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/apkclub/71720"
-      },
-      {
-        "id": 71719,
-        "text": "",
-        "date": "2026-08-02T18:26:02+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71719"
-      },
-      {
-        "id": 71718,
-        "text": "💻\nG-Stomper Producer [\n#Premium\n]\n🔝\nV\n6.1.4.1\n#اندروید\n📱\nبرنامه آهنگسازی سریع و انعطاف‌پذیر اندروید!\n🔥\nنسخهٔ Premium برنامه : G-Stomper Producer\n💎\nویژگی ها :\n◉ دسترسی به یک درام حرفه ای 24 تایی برای نواختن بیت ها به صورت زنده\n◉ ترتیب‌ دهنده مرحله ملودیک مونوفونیک تا حداکثر 24 آهنگ\n◉ سینتی سایزر آنالوگ مجازی چند صدایی با پشتیبانی پیشرفته FM، شکل موج و سنتز چند نمونه ای\n◉ دسترسی به یک صفحه کلید پیانو با توانایی تعویض 8 اکتاو\n◉ کوانتیزاسیون نوسانی فردی، امضای زمان، و اندازه‌ گیری در هر آهنگ\n◉ میکسر حرفه ای با حداکثر 36 کانال\n◉ سه واحد افکت رک زنجیری\n◉ تنظیم کننده الگوی زنده با 64 الگوی همزمان در هر آهنگ\n📱\nبرای دانلود فایل از ربات بر روی (\nدانــلود\n)  کلیک کنید.\n🌟\n@APKCLUB",
-        "date": "2026-08-02T14:31:20+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71718"
-      },
-      {
-        "id": 71717,
-        "text": "",
-        "date": "2026-08-02T14:27:01+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71717"
       }
     ],
     "MediaMardom": [
@@ -2249,10 +2274,6 @@
         "media": [
           {
             "type": "image",
-            "file": "MediaMardom_11053_0_3ee2b828.jpg"
-          },
-          {
-            "type": "image",
             "file": "MediaMardom_11053_1_fea84020.jpg"
           }
         ],
@@ -2265,18 +2286,9 @@
         "id": 11052,
         "text": "🔴\nمراد ویسی تحلیلگر ایران اینترنشنال :\nاتفاقاتی که در خاورمیانه میوفته نشون‌دهنده اینه که جنگ جهانی سوم بسیار نزدیکه !\nهرچقدر شرایط و اتفاقات رو بررسی میکنم دقیقا مثل قبل از جنگ جهانی اول و دومه ، توافق و تفاهم نامه همش کشکه\nهیچکس تو خاورمیانه حاضر نیست سلاحش رو تحویل بده و برعکس داره سلاح جمع میکنه ،جنگ جهانی سوم در راهه\n❤️\n•\n@MediaMardom",
         "date": "2026-08-08T08:36:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11052_0_3ee2b828.jpg"
-          },
-          {
-            "type": "video",
-            "file": "MediaMardom_11052_1_200d593c.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11052"
       },
@@ -2284,14 +2296,9 @@
         "id": 11051,
         "text": "🔴\nخرازی: باید ابتدا اروپا رو فتح کنیم بعد از راه دریا به آمریکا بریم و اونجا رو اسلامی کنیم\n❤️\n•\n@MediaMardom",
         "date": "2026-08-08T06:47:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11051_0_3ee2b828.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11051"
       },
@@ -2299,18 +2306,9 @@
         "id": 11050,
         "text": "🔴\nپر بازدیدترین ویدیوی اینستاگرام فارسی در ۲۴ساعت اخیر:\nمنم مثل شما کلی سوال دارم.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T22:11:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11050_0_3ee2b828.jpg"
-          },
-          {
-            "type": "video",
-            "file": "MediaMardom_11050_1_1a7961d1.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11050"
       },
@@ -2318,18 +2316,9 @@
         "id": 11049,
         "text": "🔴\nتفاوت قیمتا فقط در ۱ دهه:\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T21:38:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11049_0_3ee2b828.jpg"
-          },
-          {
-            "type": "video",
-            "file": "MediaMardom_11049_1_d042802a.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11049"
       },
@@ -2337,18 +2326,9 @@
         "id": 11048,
         "text": "🃏\nفقط کارت نکش… بازی رو کنترل کن!  در بلک‌جک آنلاین UndoBet روبه‌روی دیلرهای زنده فارسی زبان بازی کن، تصمیم درست بگیر و برای رسیدن به ۲۱ رقابت کن.\n♦️\n♠️\n❤️‍🔥\nمیزهای زنده و حرفه‌ای\n⚡️\nواریز و برداشت سریع\n🎧\nپشتیبانی فارسی ۲۴ ساعته\n🔒\nمحیط امن و قابل‌اعتماد…",
         "date": "2026-08-07T21:38:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11048_0_3ee2b828.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11048_1_995f353b.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11048"
       },
@@ -2356,16 +2336,7 @@
         "id": 11047,
         "text": "🃏\nفقط کارت نکش… بازی رو کنترل کن!\nدر\nبلک‌جک آنلاین UndoBet\nروبه‌روی دیلرهای زنده فارسی زبان بازی کن، تصمیم درست بگیر و برای رسیدن به ۲۱ رقابت کن.\n♦️\n♠️\n❤️‍🔥\nمیزهای زنده و حرفه‌ای\n⚡️\nواریز و برداشت سریع\n🎧\nپشتیبانی فارسی ۲۴ ساعته\n🔒\nمحیط امن و قابل‌اعتماد\n✅\nکریپتوپاور اینجاست تا کاربران حرفه ای تفاوت را احساس کنند!\nبا هر واریز با ارز های دیجیتال در اوندوبت ده درصد بونوس بدون محدودیت دریافت کنیدتا مسیر پیروزی هموار تر شود\nفقط کافیه حسابت رو رمز ارز شارژ کنی!\n🔴\nهمین حالا در\nثبت نام کن\n🌐\nhttps://Undobet.com\n🌐\nhttps://Undobet.com\nA16\nکانال تلگرام:\n📱\n👇\nhttps://t.me/+RLAjZit9CsxmMGM8\nhttps://t.me/+RLAjZit9CsxmMGM8",
         "date": "2026-08-07T21:38:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11047_0_3ee2b828.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11047_1_aea58e3a.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://Undobet.com",
@@ -2378,7 +2349,7 @@
             "display_text": "https://t.me/+RLAjZit9CsxmMGM8"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/MediaMardom/11047"
       },
@@ -2386,18 +2357,9 @@
         "id": 11046,
         "text": "🔴\nدقایقی پیش مختار به دعوت حق لبیک گفت و برای هزارمین بار کشته شد.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T20:53:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11046_0_3ee2b828.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11046_1_775aafe1.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11046"
       },
@@ -2405,14 +2367,9 @@
         "id": 11045,
         "text": "🔴\nامشب همزمان با تموم شدن مهلت ترامپ فعالیت سوخت‌رسان ها خیلی زیاد شده.\nهمچنین یک فروند هواپیمای E3B Sentry بر فراز در عربستان در حال پرواز هست.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T20:53:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11045_0_3ee2b828.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11045"
       },
@@ -2420,14 +2377,9 @@
         "id": 11044,
         "text": "🔴\nخرازی: یه موشک \"رستاخیز\" داریم میره ۱ دور، دور کره زمین میچرخه\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T20:05:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11044_0_3ee2b828.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11044"
       },
@@ -2435,18 +2387,9 @@
         "id": 11043,
         "text": "🔴\nتو متروی تهران، یک زن چادری به‌خاطر حجاب زنای تو مترو تذکر میده و وقتی بهش میگن سرت تو کون خودت باشه شروع به جیغ زدن کرد تا مرز جر خوردن\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T19:21:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11043_0_3ee2b828.jpg"
-          },
-          {
-            "type": "video",
-            "file": "MediaMardom_11043_1_f2dec3c9.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11043"
       },
@@ -2454,18 +2397,9 @@
         "id": 11042,
         "text": "🔴\nعباس عراقچی :\nنیروهای مسلح ایران، قدرت، آمادگی و توانایی خودشونو در مقابله با قوی‌ترین ارتش جهان ( آمریکا ) به نمایش گذاشتن\nوقتی مسلمانان متحد شن، میتونیم با هر چالشی که از سوی غربی هایِ بدخواه مطرح میشه، به طور مستقیم روبرو شیم.\nوقت اونه که فقط به خودمون تکیه کنیم و بپریم بغلِ داداشیای واقعیمون",
         "date": "2026-08-07T19:10:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11042_0_3ee2b828.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11042_1_b58493f0.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11042"
       },
@@ -2473,14 +2407,9 @@
         "id": 11041,
         "text": "خیلی اوضاع خیته\n🔴\nوزارت ورزش و جوانان :\n۱۸ میلیون زن و مرد ایرانی بدون حتی یک بار ازدواج وارد ۴۰ سالگی شدن،بخاطر شرایط کشور و کسب تجربه از زندگی مشترک دیگران و هم چنین لذت بردن از تنهایی،بسیاری از جوونای ایرانی ترجیح میدن هرگز ازدواج نکنن و تا آخر عمر تنها بمونن.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T17:45:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11041_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11041"
       },
@@ -2488,14 +2417,9 @@
         "id": 11040,
         "text": "🔴\nپزشکیان :\nاگه بخوام استعفا بدم، خودم رسماً اعلامش میکنم\nاونایی که تفاهم‌نامه رو شکست میدونن، دارن حرف اسرائیل رو تکرار میکنن.\nبخدا ما تو این توافق چیزی به آمریکا ندادیم و برعکس کلی دستاورد داشتیم\nبا قدرت از این تفاهم‌نامه دفاع میکنیم\nیه عده هم کنار گود وایسادن و درباره اقتصاد، سیاست و همه‌چی نظر میدن، انگار تو همه زمینه‌ها متخصصن\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T17:16:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11040_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11040"
       },
@@ -2503,14 +2427,9 @@
         "id": 11039,
         "text": "🔴\nبخشایش اردستانی، عضو کمیسیون امنیت ملی مجلس: جمهوری اسلامی به اسم عمان داره با آمریکا مذاکره می‌کنه.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T16:41:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11039_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11039"
       },
@@ -2518,14 +2437,9 @@
         "id": 11038,
         "text": "🔴\nخزانه داری آمریکا: احتمالا تا فردا با ایران به آتش بس ۱ یا ۲ ماهه برسیم\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T16:05:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11038_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11038"
       },
@@ -2533,14 +2447,9 @@
         "id": 11037,
         "text": "🔴\nزاکانی، شهردار تهران: تنگه هرمز در صورتی باز میشه که تحریم‌ها لغو و آمریکا غرامت جنگی ما رو پرداخت کنه.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T15:58:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11037_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11037"
       },
@@ -2548,18 +2457,9 @@
         "id": 11036,
         "text": "🔴\nدیشب دخترا اکیپی، یه پسرو خفت کردن و ریختن سرش و تا جایی که میخورد، کتکش زدن!\nآخرش مردم مجبور شدن پسر رو از زیر مشت و لگد دخترا بکشن بیرون.\nحالا دلیلیش چی بود؟ پسره به یکی از رفیقاشون خیانت کرده بود.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T15:38:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11036_0_585c350a.jpg"
-          },
-          {
-            "type": "video",
-            "file": "MediaMardom_11036_1_ea8bd695.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11036"
       },
@@ -2567,14 +2467,9 @@
         "id": 11035,
         "text": "اگه فوتبال رو فقط نگاه نمی‌کنی و تحلیلش می‌کنی، این کانال برای توئه!\n⚽\n🔥\nتو این کانال هر روز داریم: تحلیل تخصصی بازی‌ها بررسی فرم تیم‌ها آمار مهم قبل بازی پیش‌بینی مسابقات مهم نکات کاربردی برای فوتبال‌دوست‌های حرفه‌ای اگه دنبال تحلیل واقعی و بدون حاشیه‌ای،…",
         "date": "2026-08-07T15:38:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11035_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11035"
       },
@@ -2582,16 +2477,7 @@
         "id": 11034,
         "text": "اگه فوتبال رو فقط نگاه نمی‌کنی و تحلیلش می‌کنی، این کانال برای توئه!\n⚽\n🔥\nتو این کانال هر روز داریم:\nتحلیل تخصصی بازی‌ها\nبررسی فرم تیم‌ها\nآمار مهم قبل بازی\nپیش‌بینی مسابقات مهم\nنکات کاربردی برای فوتبال‌دوست‌های حرفه‌ای\nاگه دنبال تحلیل واقعی و بدون حاشیه‌ای، همین الان عضو شو\nG16\nhttps://t.me/+MYdqaQ9wg_Q0NGM0",
         "date": "2026-08-07T15:38:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11034_0_585c350a.jpg"
-          },
-          {
-            "type": "video",
-            "file": "MediaMardom_11034_1_ef0c6da8.mp4"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://t.me/+MYdqaQ9wg_Q0NGM0",
@@ -2599,7 +2485,7 @@
             "display_text": "https://t.me/+MYdqaQ9wg_Q0NGM0"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/MediaMardom/11034"
       },
@@ -2607,18 +2493,9 @@
         "id": 11033,
         "text": "🔴\nمارک لوین:\nمردم ایران را مسلح کنید!\nمن از آغاز جنگ با رژیم ایران، طرفدار مسلح کردن مردم ایران بوده‌ام. اکنون این موضوع به طور گسترده درک شده و توسط تعداد فزاینده‌ای از مردم حمایت می‌شود.\nاگر قرار است رژیم ایران را شکست دهیم، این امر کاملاً ضروری است. سوال این است که آیا این هدف ماست یا خیر. به نظر می‌رسد که هدف ما نیست، حداقل نه الان. تأکید بر انجام معامله به دلایل مختلف آشنا و مکرر است.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T14:48:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11033_0_585c350a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11033_1_69d48555.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11033"
       },
@@ -2626,18 +2503,9 @@
         "id": 11032,
         "text": "🔴\nپیت هگست: ترامپ جنگ با ایران رو برد.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T14:01:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11032_0_585c350a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11032_1_2e5f33af.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11032"
       },
@@ -2645,18 +2513,9 @@
         "id": 11031,
         "text": "🔴\nدو منبع نزدیک به پزشکیان اعلام کردن وضعیت جسمی مجتبی خامنه‌ای وخیم گزارش شده و هر لحظه ممکنه بمیره!\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T11:28:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11031_0_585c350a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11031_1_400609f1.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11031"
       },
@@ -2664,26 +2523,9 @@
         "id": 11028,
         "text": "🔴\nخرازی که دیشب فتوای قتل بی حجابارو داد چند وقت پیش گفته بود به جای قلعه نویی باید پپ گواردیولارو بیاریم مربی تیم ملی بشه\nسال 1386 هم گفته بود داره منچستر یونایتد رو میخره و اسمشو میخواد بزاره خیبر\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T11:14:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11028_0_585c350a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11028_1_a639723d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11028_2_925d5b07.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11028_3_f2960ceb.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11028"
       },
@@ -2691,14 +2533,9 @@
         "id": 11027,
         "text": "🔴\nسحر قریشی: دیگه حجاب نمیذارم، الان ایران آزاد شده و مشکلی نیست\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T10:44:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11027_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11027"
       },
@@ -2706,18 +2543,9 @@
         "id": 11026,
         "text": "🔴\nامروز august 7، روز جهانی آبجوعه.\n+ بفرست برای کسی که امشب دورهم میخواین برین بالا\n🍻\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T10:39:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11026_0_585c350a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11026_1_246085f4.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11026"
       },
@@ -2725,14 +2553,9 @@
         "id": 11025,
         "text": "🔴\nوال‌استریت ژورنال: کاخ سفید هرگونه کمبود ذخایر موشکی رو رد کرده و به شدت دنبال نفوذی توی کاخ سفیده تا ببینه دلیل نشت خبر کمبود ذخایر موشکی کار کی بوده.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T09:40:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11025_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11025"
       },
@@ -2740,18 +2563,9 @@
         "id": 11024,
         "text": "خداروشکر تو این شرایط بد یه خبر خوب شنیدیم\n❤️\n🙏🏻\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T09:37:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11024_0_585c350a.jpg"
-          },
-          {
-            "type": "video",
-            "file": "MediaMardom_11024_1_0950e70f.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11024"
       },
@@ -2759,16 +2573,7 @@
         "id": 11023,
         "text": "⚠️\nفقط در توتوی بزرگ بت فیدو میتونی با ۱۶۰ هزار تومن ۷۸ میلیون و یا حتی خیلی بیشتر برنده بشی\n😮\nدلت میخاد اولین توتوی خودت رو ثبت کنی و شانست رو امتحان کنی؟!\n⚡️\nکافیه روی لینک زیر کلیک کنی\n✏️\nhttps://fido08bazi20.click https://fido08bazi20.click\n📤\n📤\n📤\n📤\n📤\n📤\n📤\n📤\n(ورود…",
         "date": "2026-08-07T09:37:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11023_0_585c350a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11023_1_0365249d.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://fido08bazi20.click",
@@ -2776,7 +2581,7 @@
             "display_text": "https://fido08bazi20.click"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/MediaMardom/11023"
       },
@@ -2784,16 +2589,7 @@
         "id": 11022,
         "text": "⚠️\nفقط در توتوی بزرگ بت فیدو میتونی با ۱۶۰ هزار تومن ۷۸ میلیون و یا حتی خیلی بیشتر برنده بشی\n😮\nدلت میخاد اولین توتوی خودت رو ثبت کنی و شانست رو امتحان کنی؟!\n⚡️\nکافیه روی لینک زیر کلیک کنی\n✏️\nhttps://fido08bazi20.click\nhttps://fido08bazi20.click\n📤\n📤\n📤\n📤\n📤\n📤\n📤\n📤\n(ورود با وی-پی-ان غیر اروپایی)\nR16\n📱\nکانال تلگرام\n👇\nhttps://t.me/+dySI_QFj0T0xZGVk\nhttps://t.me/+dySI_QFj0T0xZGVk",
         "date": "2026-08-07T09:37:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11022_0_585c350a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11022_1_540b9249.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://fido08bazi20.click",
@@ -2806,7 +2602,7 @@
             "display_text": "https://t.me/+dySI_QFj0T0xZGVk"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/MediaMardom/11022"
       },
@@ -2814,14 +2610,9 @@
         "id": 11021,
         "text": "🔴\nظهر جمعه‌ست\n❤️\n•\n@MediaMardom",
         "date": "2026-08-07T09:15:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11021_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11021"
       },
@@ -2829,18 +2620,9 @@
         "id": 11020,
         "text": "🤣\n🤣\n🤣\n🤣\n🤣\n🤣\n🤣\n🤣\n🤣\n🤣\n🤣\n🤣\n🤣\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T21:59:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11020_0_585c350a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11020_1_3fdd99d7.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11020"
       },
@@ -2848,14 +2630,9 @@
         "id": 11019,
         "text": "🔴\nهشدار\nخرازی: فتوا میدم بی حجابارو بکشید، لشکر کشی کنید و برهنه هارو به قتل برسونید اگه دولت اومد اونارم بزنید، این دولت شیطانیه و زیر دست آمریکاست، اسلام همینه، باید ضربه بزنیم و ضربه بخوریم\nبه گفته خود خرازی، وی با مجتبی خامنه‌ای ارتباط فامیلی و ۴۰ سال رفاقت دارد\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T21:57:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11019_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11019"
       },
@@ -2863,18 +2640,9 @@
         "id": 11018,
         "text": "🤩\n🤩\n🤩\n🤩\n🤩\n🤩\n🤩\n🤩\n🎲\n#تخته‌نرد فقط یه بازی نیست، یه جنگ مغزه! اگه فکر می‌کنی شانسی می‌بری، بیا وسط!\n📱\nتو وین اسپورت، پشت هر تاس یه نبرد جدیه!\n💲\nجایزه بزن، حریف رو بچرخون، شاه تخته شو!\n🎁\nشارژ هدیه بدون قید و شرط ۵٪\n🎁\nبونوس تقویت ضرایب ورزشی تا ۵۰٪\n🎁\nکش بک (برگشت پول)…",
         "date": "2026-08-06T21:57:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11018_0_585c350a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11018_1_eb24b097.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11018"
       },
@@ -2882,16 +2650,7 @@
         "id": 11017,
         "text": "🤩\n🤩\n🤩\n🤩\n🤩\n🤩\n🤩\n🤩\n🎲\n#تخته‌نرد\nفقط یه بازی نیست، یه جنگ مغزه!\nاگه فکر می‌کنی شانسی می‌بری، بیا وسط!\n📱\nتو وین اسپورت، پشت هر تاس یه نبرد جدیه!\n💲\nجایزه بزن، حریف رو بچ\nرخون، شاه تخته شو!\n🎁\nشارژ هدیه بدون قید و شرط ۵٪\n🎁\nبونوس تقویت ضرایب ورزشی تا ۵۰٪\n🎁\nکش بک (برگشت پول) ۳تا ۳۵٪\n🎁\nریک بک های هفتگی پوکر تا ۲۰٪\n♟️\nبازی کن، ببَر، پادشاه شو!\n👇\nhttp://Winspo7080.com/?registr=1\nA15\n⚡️\nکانال تلگرام و جوایز دلاری\n👇\nhttps://telegram.me/joinchat/AAAAAEgBTn0UL_Kmkpy4Cw",
         "date": "2026-08-06T21:57:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11017_0_585c350a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11017_1_2523d1c6.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "http://Winspo7080.com/?registr=1",
@@ -2904,7 +2663,7 @@
             "display_text": "https://telegram.me/joinchat/AAAAAEgBTn0UL_Kmkpy4Cw"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/MediaMardom/11017"
       },
@@ -2912,14 +2671,9 @@
         "id": 11016,
         "text": "🔴\nصحبتای ترامپ درباره ایران :\nفکر میکنم جنگ خیلی زود تموم میشه، ایران دیگه نمیتونه زیاد ادامه بده\nدرباره باز شدن تنگه هرمزم چیزی نمیگم، ولی الان عملا دست ماست و کنترلش میکنیم\nشخصاً تو مذاکرات با ایران دخیل هستم و\nاحتمال داره به‌زودی توافقی حاصل بشه\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T20:53:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11016_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11016"
       },
@@ -2927,14 +2681,9 @@
         "id": 11015,
         "text": "🔴\nترامپ:\nایرانی‌ها می‌دانند که من چه زمانی دروغ می‌گویم.\nآخرین تهدیدی که مطرح کردم کاملاً جدی بود.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T20:24:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11015_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11015"
       },
@@ -2942,14 +2691,9 @@
         "id": 11014,
         "text": "🔴\nسپاه هم اکنون داره در قالب توافق به سمت تنگه ی هرمز موشک شلیک می‌کنه و کشتی هارو میزنه.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T19:52:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11014_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11014"
       },
@@ -2957,14 +2701,9 @@
         "id": 11013,
         "text": "🔴\nقشم صدا انفجار میاد",
         "date": "2026-08-06T19:29:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11013_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11013"
       },
@@ -2972,14 +2711,9 @@
         "id": 11012,
         "text": "🔴\nپزشکیان : یه خبر خوب بدم به مردم ایران،مبلغ کالابرگ بزودی بیشتر میشه.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T19:12:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11012_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11012"
       },
@@ -2987,14 +2721,9 @@
         "id": 11011,
         "text": "🔴\nاز هفته آینده نسخه متنی چت GPT نامحدود میشه\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T19:12:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11011_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11011"
       },
@@ -3002,18 +2731,9 @@
         "id": 11010,
         "text": "🔴\nقالیباف :\nاول می‌گویند حمله بزرگی در راه است، بعد می‌گویند دنبال مذاکره هستند؛ این یک بازی تکراری و نمایشی است.\nاستفاده از تهدید، فشار، وعده‌های دروغ و اخبار نادرست راه درستی نیست.\nباید واقعیت را پذیرفت و به تعهدات عمل کرد؛ دیگر نیازی به نمایش‌های سیاسی نیست.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T18:47:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11010_0_585c350a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11010_1_00a874c2.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11010"
       },
@@ -3021,14 +2741,9 @@
         "id": 11009,
         "text": "🔴\nسی‌ان‌ان: ترامپ از خبری که مبنی بر کمبود ذخایر موشکی آمریکا پخش شده عصبانی شده چون معتقده این خبر آمریکا رو در موضع ضعف در برابر جمهوری اسلامی قرار داده.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T18:21:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11009_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11009"
       },
@@ -3036,14 +2751,9 @@
         "id": 11008,
         "text": "🔴\nقشم صدا انفجار میاد",
         "date": "2026-08-06T18:18:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11008_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11008"
       },
@@ -3051,14 +2761,9 @@
         "id": 11007,
         "text": "🔴\nمحسن‌ رضایی دبیر امنیت ملی شد و الان کنترل کشور دست محسنه\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T17:41:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11007_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11007"
       },
@@ -3066,14 +2771,9 @@
         "id": 11006,
         "text": "🔴\nامام‌جمعه رشت: دستور دادم عکس زن نزنن رو سنگ قبر، مسلمانیما مثلا\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T17:16:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11006_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11006"
       },
@@ -3081,14 +2781,9 @@
         "id": 11005,
         "text": "🔴\nربیعی، دستیار پزشکیان: نظرسنجیا میگن مردم از پزشکیان راضی‌ان\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T16:18:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11005_0_585c350a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11005"
       },
@@ -3096,18 +2791,9 @@
         "id": 11004,
         "text": "🔴\nآی‌شو اسپید، یوتیوبر معروف اعلام کرد:\nبعد از آروم شدن اوضاع در خاورمیانه، به ایران سفر خواهد کرد\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T15:05:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11004_0_caab2570.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11004_1_b2704021.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11004"
       },
@@ -3115,18 +2801,9 @@
         "id": 11003,
         "text": "🔴\nتونل زمان با مراد ویسی!\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T14:49:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11003_0_caab2570.jpg"
-          },
-          {
-            "type": "video",
-            "file": "MediaMardom_11003_1_5fbdd5ae.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11003"
       },
@@ -3134,18 +2811,9 @@
         "id": 11002,
         "text": "🔴\nشما در خیابان هستید و ناگهان یک ماشین فوق لاکچری میبینید و در دلتون میگید این مادرجنده پول این ماشین رو از کجا آورده\nپاسخ  :\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T14:30:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11002_0_caab2570.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11002_1_2f306211.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11002"
       },
@@ -3153,14 +2821,9 @@
         "id": 11001,
         "text": "🔴\nطالبان هم این وسط رسماً اعلام کرد انجام پیوند کلیه و سایر اعضای بدن در افغانستان ممنوع شد.\nوزارت امر به معروف افغانستان: انتقال عضو از یه فرد به فرد دیگه از نظر شرعی جایز نیست و این کار با رابطه جنسی بین دو نفر یکیه و انگار سکس کردن\n😐\n❤️\n•\n@MediaMardom",
         "date": "2026-08-06T14:28:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11001_0_caab2570.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11001"
       },
@@ -3168,14 +2831,9 @@
         "id": 11000,
         "text": "فوتبال رو فقط نبین؛ با تحلیل درست دنبال کن!\n🔥\nاینجا قبل از هر بازی، آمار و شرایط تیم‌ها رو بررسی می‌کنیم:\n✅\nتحلیل پیش‌بازی مسابقات مهم\n✅\nبررسی فرم، ترکیب و انگیزه تیم‌ها\n✅\nتحلیل زنده در جریان بازی\n✅\nگزینه‌های جذاب گل، کرنر، BTTS و آندر/اور\n✅\nپوشش لیگ‌های…",
         "date": "2026-08-06T14:28:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11000_0_caab2570.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11000"
       },
@@ -5729,6 +5387,25 @@
     ],
     "withyashar": [
       {
+        "id": 20702,
+        "text": "اورشلیم پست : ایرانیان آزاده و اسرائیلی‌ها باید در کنار هم بایستند و اطمینان حاصل کنند که سنگ بنای صلح فردا هرگز قربانی تیترهای جنجالی نشود.\n@WarRoom",
+        "date": "2026-08-09T06:36:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20702_0_de793f4f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_20702_1_f5fd6d29.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20702"
+      },
+      {
         "id": 20701,
         "text": "کانال ۱۳: ارتش اسرائیل به فرمانده سنتکام اطلاع داده است که اسرائیل برای جنگ علیه ایران نیازی به تأیید یا حمایت ایالات متحده ندارد و اعلام کرد ما در حال حاضر در حال آماده‌سازی برای شروع جنگ هستیم.\n@WarRoom\n🚨\n🚨\n🚨",
         "date": "2026-08-08T22:40:02+00:00",
@@ -7442,25 +7119,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/20603"
-      },
-      {
-        "id": 20602,
-        "text": "هم اکنون دود از پایگاه موشکی پارچین ، بی بی داره خنثی میکنه شاید براشون\n@WarRoom",
-        "date": "2026-08-06T19:07:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20602_0_907d3f52.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_20602_1_2fbad0d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20602"
       }
     ],
     "vahidonline": [
@@ -10859,19 +10517,281 @@
     ],
     "IranintlTV": [
       {
-        "id": 351696,
-        "text": "فداحسین مالکی، عضو کمیسیون امنیت ملی مجلس، گفت: «آمریکایی‌ها از روند مذاکرات جمهوری اسلامی و عمان ناراحتند؛ چون یکی از شروط ما در مذاکرات با عمان این بود که آمریکایی‌ها در این مذاکرات شرکت نکنند و اجازه ندادیم آمریکا در گفت‌وگوها حضور داشته باشد.»\nمالکی اضافه کرد: «این موضوع برای آمریکایی‌ها سنگین تمام می‌شود و طبیعی است که آن‌ها از این اقدام عصبانی شوند.»\nاین نماینده مجلس افزود: «آنچه مسلم است این است که اگر ما با عمان به توافق برسیم، با توجه به اینکه مذاکرات در مرحله نهایی قرار دارد، این توافق می‌تواند یکی از بزرگ‌ترین پیروزی‌های جمهوری اسلامی در مقابل آمریکا باشد.»\nاو ادامه داد: «ترتیبات تردد در تنگه هرمز باید بر اساس نظر و ملاحظاتی باشد که جمهوری اسلامی تعیین می‌کند.»\nhttps://iranintl.com/202608093700",
-        "date": "2026-08-09T05:42:43+00:00",
+        "id": 351709,
+        "text": "دکتر اندرو بوزری، برنده جایزه نوآوری فرماندار کل کانادا، با اجرای پروژه مسکن برای بی‌خانمان‌ها و راه‌اندازی کلینیک سیار به بهبود سلامت و عدالت اجتماعی کمک کرده است. او به ایران‌اینترنشنال گفت اسکان افراد بی‌خانمان نقش مهمی در کاهش فشار بر کادر درمان دارد.\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال، و گفت‌وگو با دکتر اندرو بوزری، برنده جایزه نوآوری کانادا\n@iranintltv",
+        "date": "2026-08-09T06:57:43+00:00",
         "media": [
           {
             "type": "image",
-            "file": "IranintlTV_351696_0_9888e163.jpg"
+            "file": "IranintlTV_351709_0_9888e163.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351709_1_12ce00c8.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351709"
+      },
+      {
+        "id": 351708,
+        "text": "سخنگوی حوثی‌های وابسته به جمهوری اسلامی در یمن، اعلام کرد پالایشگاه آرامکوی عربستان سعودی در جازان را با پهپاد هدف قرار داده‌اند.\nاو گفت این حمله در پاسخ به نقض حریم هوایی استان‌های صعده و حجه از سوی عربستان سعودی و استفاده این کشور از پهپادها در این مناطق انجام شده است.\nhttps://iranintl.com/202608099150",
+        "date": "2026-08-09T06:56:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351708_0_9888e163.jpg"
           },
           {
             "type": "image",
-            "file": "IranintlTV_351696_1_c0ce15ec.jpg"
+            "file": "IranintlTV_351708_1_b1b7e101.jpg"
           }
         ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608099150",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608099150"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/351708"
+      },
+      {
+        "id": 351707,
+        "text": "براساس تازه‌ترین داده‌های مرکز آمار ایران، حدود ۶۳۰ هزار شغل صنعتی در بهار ۱۴۰۵ از بین رفته و سهم صنعت از کل اشتغال کشور به ۳۱ درصد کاهش یافته است. هم‌زمان، کاهش سرمایه‌گذاری و فرسودگی تجهیزات، ظرفیت اشتغال‌زایی و تولید در بخش صنعت را تحت فشار قرار داده است.\nعلی دادپی، اقتصاددان، به ایران‌اینترنشنال گفت ایجاد اشتغال در شرایط کنونی اقتصاد ایران نه مشکلی را حل می‌کند و نه اساسا ممکن است.\n@iranintltv",
+        "date": "2026-08-09T06:54:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351707_0_9888e163.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351707_1_a626d777.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351707"
+      },
+      {
+        "id": 351706,
+        "text": "محمد قائدی، مدرس روابط بین‌الملل، به ایران‌اینترنشنال گفت پیمان دفاعی مکه با گرد هم آوردن توان نظامی ترکیه و پاکستان و منابع مالی و انرژی عربستان، می‌تواند توازن قوای منطقه را تغییر دهد؛ اما میزان اثرگذاری آن به تشکیل نهادهای اجرایی و توان اعضا برای عبور از اختلافات داخلی و منطقه‌ای بستگی دارد.\n@iranintltv",
+        "date": "2026-08-09T06:42:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351706_0_9888e163.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351706_1_8e7192fa.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351706"
+      },
+      {
+        "id": 351705,
+        "text": "مصطفی رجبی مشهدی، معاون وزیر نیرو، به خبرگزاری ایلنا گفت: «قرار است برای تامین نیاز پتروشیمی‌ها ۴۵۰ مگاوات برق از ترکیه وارد کنیم. همه هماهنگی‌ها انجام شده و طرف ترکیه‌ای هم برای انتقال برق به ایران آماده است.»\nاو اضافه کرد: «سالانه حدود ۵۰۰ مگاوات برق نیز از ترکمنستان و ارمنستان وارد ایران می‌شود.»\nمعاون وزیر نیرو افزود: «قراردادهای مربوط به واردات برق از ترکیه برای شرکت‌های پتروشیمی آماده شده و در حال حاضر، روند اجرایی آن در انتظار اقدام این شرکت‌ها است، یعنی شرکت‌های پتروشیمی باید برای دریافت برق وارداتی وارد عمل شوند.»\nhttps://iranintl.com/202608099504",
+        "date": "2026-08-09T06:39:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351705_0_9888e163.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351705_1_133da6ea.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608099504",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608099504"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/351705"
+      },
+      {
+        "id": 351704,
+        "text": "محمد قائدی، مدرس روابط بین‌الملل، به ایران‌اینترنشنال گفت پیمان دفاعی مکه با گرد هم آوردن توان نظامی ترکیه و پاکستان و منابع مالی و انرژی عربستان، می‌تواند توازن قوای منطقه را تغییر دهد؛ اما میزان اثرگذاری آن به تشکیل نهادهای اجرایی و توان اعضا برای عبور از اختلافات داخلی و منطقه‌ای بستگی دارد.\n@iranintltv",
+        "date": "2026-08-09T06:37:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351704_0_9888e163.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351704_1_3c83d60f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351704"
+      },
+      {
+        "id": 351703,
+        "text": "مایک هاکبی، سفیر آمریکا در اسرائیل، در پاسخ به پستی درباره کشته‌شدن غیرنظامیان در غزه در شبکه ایکس نوشت: «کشته‌شدن غیرنظامیان غم‌انگیز است، اما این نتیجه خودداری حماس از آزاد کردن گروگان‌ها و استفاده از غیرنظامیان به‌عنوان سپر در برابر اهداف است، در حالی که خود به‌صورت بزدلانه در تونل‌ها پنهان می‌شود.»\nهاکبی در ادامه نوشت: «چرا درباره حدود ۶۰ هزار غیرنظامی ایرانی که به دست حکومت جمهوری اسلامی کشته شده‌اند، اعتراضی وجود ندارد؟»\nhttps://iranintl.com/202608095905",
+        "date": "2026-08-09T06:24:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351703_0_9888e163.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351703_1_5031e506.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608095905",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608095905"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/351703"
+      },
+      {
+        "id": 351702,
+        "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان مقیم آلمان، شنبه ۱۷ مرداد در اعتراض به اعدام‌های جمهوری اسلامی در شهر هامبورگ تجمع کردند.",
+        "date": "2026-08-09T06:22:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351702_0_9888e163.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351702_1_4dcf56a0.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351702"
+      },
+      {
+        "id": 351701,
+        "text": "این هفته یک روحانی، توی مسجد و جلوی دوربین، برنامه‌اش را برای براندازی جمهوری اسلامی اعلام کرد. و هیچ اتفاقی برایش نیفتاد.\nمحمدباقر خرازی مخالف نظام نیست؛ خودی‌تر از خودی‌هاست. پدرش عضو مجلس خبرگان بود، عمویش سال‌ها وزیر خارجه، خواهرش عروس خانواده‌ی خامنه‌ای. خودش می‌گوید چهل سال است با رهبر جدید رفیق است؛ رهبری که پنج ماه است نه عکسی از او هست، نه صدایی، و کل حکومتش چند فایل پی‌دی‌اف است.\nنقشه‌اش؟ دویست‌وپنجاه هزار «مؤمن»، هر نفر هفده نفر، برای محاصره‌ی وزارتخانه‌ها و تبدیل جمهوری اسلامی به حکومتی اسلامی‌تر.\nدر همین مملکت، آدم‌ها برای یک شعار در خیابان اعدام شدند، زندان کشیدند، جان دادند.\nپس چرا او آزاد است؟ یا کسی نمانده که جلویش را بگیرد، یا کسی می‌خواهد که او حرف بزند.\n@iranintltv",
+        "date": "2026-08-09T06:22:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351701_0_9888e163.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351701_1_4bf5c186.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351701"
+      },
+      {
+        "id": 351700,
+        "text": "حسین قاضیان، جامعه‌شناس، به ایران‌اینترنشنال گفت فشارهای اقتصادی، افزایش فردگرایی، نبود افق امیدوارکننده در آینده و همچنین فقر فزاینده، باعث کاهش نرخ تولد در ایران شده است. با این شرایط، سیاست‌های جمهوری اسلامی برای تشویق به فرزندآوری هم نتیجه‌بخش نخواهد بود.\n@iranintltv",
+        "date": "2026-08-09T06:20:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351700_0_9888e163.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351700_1_e84ae132.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351700"
+      },
+      {
+        "id": 351699,
+        "text": "غلامرضا نوری قزلجه، وزیر جهاد کشاورزی، در مراسمی به مناسبت روز خبرنگار گفت: «هر اقدامی که به صلاح کشور و در راستای منافع ملی باشد، انجام خواهیم داد. اگر منافع ملی ایجاب کند بجنگیم، محکم خواهیم جنگید.»\nاو ادامه داد: «اگر منافع ملی در صلح باشد، صلح خواهیم کرد و اگر مذاکره به نفع کشور باشد، بدون تردید مذاکره می‌کنیم.»\nوزیر جهاد کشاورزی افزود: «از جنگ هراسی نداریم، اما در صورت امکان نمی‌خواهیم هزینه بیشتری بر مردم تحمیل شود.»\nhttps://iranintl.com/202608099365",
+        "date": "2026-08-09T06:17:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351699_0_9888e163.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351699_1_fa470cb8.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608099365",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608099365"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/351699"
+      },
+      {
+        "id": 351698,
+        "text": "انجمن صنفی روزنامه‌نگاران استان تهران اعلام کرد فعالان رسانه‌ای در ایران یکی از دشوارترین دوره‌های حرفه‌ای و معیشتی خود را تجربه می‌کنند. این انجمن قطع اینترنت در پی اعتراضات دی‌ماه و جنگ، مشکلات اقتصادی و کاهش آگهی‌ها را از عوامل تشدید بحران دانست و گفت بیش از ۱۰۰ روزنامه‌نگار در تهران بیکار شده‌اند.\nجزییات بیشتر در گفت‌وگو با مهرداد قاسمفر، روزنامه‌نگار و تحلیل‌گر مسائل ایران\n@iranintltv",
+        "date": "2026-08-09T06:14:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351698_0_9888e163.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351698_1_f089369e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351698"
+      },
+      {
+        "id": 351697,
+        "text": "جی‌دی ونس، معاون رییس‌جمهوری آمریکا، گفت واشینگتن در حال بررسی این است که آیا جمهوری اسلامی آماده ایجاد تغییرات بلندمدتی برای بهبود روابط با آمریکا هست یا نه. او تاکید کرد در صورت نبود تمایل تهران به این تغییرات، فشار آمریکا ادامه خواهد یافت.\nجزییات بیشتر با امیر گیتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-08-09T05:53:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351697_0_9888e163.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_351697_1_1b8c2e8c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/351697"
+      },
+      {
+        "id": 351696,
+        "text": "فداحسین مالکی، عضو کمیسیون امنیت ملی مجلس، گفت: «آمریکایی‌ها از روند مذاکرات جمهوری اسلامی و عمان ناراحتند؛ چون یکی از شروط ما در مذاکرات با عمان این بود که آمریکایی‌ها در این مذاکرات شرکت نکنند و اجازه ندادیم آمریکا در گفت‌وگوها حضور داشته باشد.»\nمالکی اضافه کرد: «این موضوع برای آمریکایی‌ها سنگین تمام می‌شود و طبیعی است که آن‌ها از این اقدام عصبانی شوند.»\nاین نماینده مجلس افزود: «آنچه مسلم است این است که اگر ما با عمان به توافق برسیم، با توجه به اینکه مذاکرات در مرحله نهایی قرار دارد، این توافق می‌تواند یکی از بزرگ‌ترین پیروزی‌های جمهوری اسلامی در مقابل آمریکا باشد.»\nاو ادامه داد: «ترتیبات تردد در تنگه هرمز باید بر اساس نظر و ملاحظاتی باشد که جمهوری اسلامی تعیین می‌کند.»\nhttps://iranintl.com/202608093700",
+        "date": "2026-08-09T05:42:43+00:00",
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608093700",
@@ -10879,7 +10799,7 @@
             "display_text": "https://iranintl.com/202608093700"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351696"
       },
@@ -10887,18 +10807,9 @@
         "id": 351695,
         "text": "سرخط خبرهای یکشنبه ۱۸ مرداد\n@iranintltv",
         "date": "2026-08-09T05:23:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351695_0_9888e163.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351695_1_0ba37c2a.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351695"
       },
@@ -10906,16 +10817,7 @@
         "id": 351694,
         "text": "علی شکوری، رییس دفتر مطالعات و تحقیقات پدافند هوایی ارتش جمهوری اسلامی، به خبرگزاری مهر گفت: «اگر آسمان کشوری امن نباشد، نه اقتصاد، نه فعالیت اجتماعی و نه پیشرفت علمی و فناوری نمی‌تواند با قدرت ادامه پیدا کند.»\nشکوری ادامه داد: «رسالت ما این است که امنیت آسمان جمهوری اسلامی را حفظ کنیم و اجازه ندهیم دشمن به اهداف خود دست پیدا کند.»\nhttps://iranintl.com/202608097390",
         "date": "2026-08-09T04:55:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351694_0_9888e163.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351694_1_eed0c3d2.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608097390",
@@ -10923,7 +10825,7 @@
             "display_text": "https://iranintl.com/202608097390"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351694"
       },
@@ -10931,14 +10833,9 @@
         "id": 351693,
         "text": "🎧\nنسخه صوتی سیاست با مراد ویسی: ایرانیان؛ خشمگین و منتظر\n@iranintlTV",
         "date": "2026-08-09T04:09:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351693_0_9888e163.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351693"
       },
@@ -10946,16 +10843,7 @@
         "id": 351692,
         "text": "لس‌آنجلس تایمز نوشت شرط‌های تازه جمهوری اسلامی برای بازگشایی تنگه هرمز می‌تواند مذاکرات بر سر مدیریت این آبراه و تردد کشتی‌ها را با چالش‌های بیشتری روبه‌رو کند.\nبه نوشته این روزنامه، آمریکا خواهان دستیابی به توافق درباره تنگه هرمز پیش از پایان محاصره دریایی است، در حالی که تهران اجرای مجموعه‌ای از خواسته‌های سیاسی، نظامی و اقتصادی را پیش‌شرط بازگشایی این مسیر می‌داند.\nاین روزنامه همچنین گزارش داد تنها کمی بیش از یک هفته تا پایان مهلت ۶۰ روزه مذاکرات برای دستیابی به توافق نهایی باقی مانده است. با این حال، به نوشته لس‌آنجلس تایمز، این مهلت می‌تواند تمدید شود و مذاکرات همچنان ادامه دارد.\nhttps://iranintl.com/202608084324",
         "date": "2026-08-09T03:38:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351692_0_9888e163.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351692_1_b1a3e9ed.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608084324",
@@ -10963,7 +10851,7 @@
             "display_text": "https://iranintl.com/202608084324"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351692"
       },
@@ -10971,16 +10859,7 @@
         "id": 351691,
         "text": "نیروی هوایی اسرائیل درباره جنگ ۱۲ روزه اطلاعاتی در اختیار والانیوز قرار داده است که فشار سنگین بر کنترل‌کنندگان ترافیک هوایی و همکاری بی‌سابقه ارتش‌های اسرائیل و آمریکا را نشان می‌دهد. یک افسر ارشد نیروی هوایی اسرائیل این وضعیت را «بی‌سابقه‌ترین شلوغی حریم هوایی» توصیف کرد.\nاین جزییات از فشار سنگین بر کنترل‌کنندگان ترافیک هوایی برای هماهنگ‌سازی همکاری بی‌سابقه میان نیروی هوایی اسرائیل و ارتش آمریکا تا تصمیم‌های لحظه‌ای که امنیت آسمان را حفظ کردند و البته اقدام بعدی این ماشین عظیم هوایی را شامل می‌شود.\nطبق این گزارش، این پیچیده‌ترین، خطرناک‌ترین و تاریخی‌ترین روز از زمان تاسیس سامانه کنترل ترافیک هوایی نیروی هوایی اسرائیل بود و صدها هواپیما از هر نوع ممکن، هم‌زمان در حال بازگشت بودند.\nبه نوشته والانیوز، حریم هوایی اسرائیل به یک گره ترافیکی انفجاری و پرخطر متشکل از جنگنده‌ها، بالگردها، هواپیماهای سوخت‌رسان، پهپادها و پروازهای غیرنظامی تبدیل شده بود که در ارتفاع‌های مختلف و در مسیرهای پروازی همپوشان فعالیت می‌کردند.\nhttps://iranintl.com/202608094640",
         "date": "2026-08-09T02:07:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351691_0_9888e163.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351691_1_31577d82.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608094640",
@@ -10988,7 +10867,7 @@
             "display_text": "https://iranintl.com/202608094640"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351691"
       },
@@ -10996,16 +10875,7 @@
         "id": 351690,
         "text": "واشینگتن‌پست با استناد به یادداشتی از وزارت جنگ آمریکا گزارش داد پنتاگون از شرکت‌های دفاعی آمریکا خواسته است هم‌زمان با کاهش شدید ذخایر موشکی در جنگ با حکومت ایران، برنامه‌های خود را برای افزایش سریع تولید و تحویل تسلیحات ارائه کنند.\nطبق این گزارش، استیو فاینبرگ، معاون وزیر جنگ، به مدیران صنایع تسلیحاتی ۲۱ روز فرصت داده است تا برنامه‌های خود را برای افزایش تولید قابلیت‌های حیاتی و تحویل سریع‌تر آنها ارائه کنند.\nفاینبرگ در این یادداشت نوشته است چرخه‌های چند‌ساله توسعه تسلیحات دیگر پذیرفتنی نیست و آمریکا باید برنامه‌های تولید را به‌شدت تسریع کند و ظرفیت کارخانه‌های دفاعی را افزایش دهد.\nاین دستور در شرایطی صادر شده است که جنگ با حکومت ایران بخش قابل توجهی از ذخایر موشکی آمریکا را مصرف کرده و کمبود مهمات به یکی از موضوعات تنش میان دونالد ترامپ، رییس‌جمهوری آمریکا، و وزارت جنگ تبدیل شده است.\nhttps://iranintl.com/202608098644",
         "date": "2026-08-09T01:10:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351690_0_9888e163.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351690_1_c933a7d6.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608098644",
@@ -11013,7 +10883,7 @@
             "display_text": "https://iranintl.com/202608098644"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351690"
       },
@@ -11021,16 +10891,7 @@
         "id": 351689,
         "text": "واشینگتن‌پست با استناد به یادداشتی از وزارت جنگ آمریکا گزارش داد پنتاگون از شرکت‌های دفاعی آمریکا خواسته است هم‌زمان با کاهش شدید ذخایر موشکی در جنگ با حکومت ایران، برنامه‌های خود را برای افزایش سریع تولید و تحویل تسلیحات ارائه کنند.\nطبق این گزارش، استیو فاینبرگ، معاون وزیر جنگ، به مدیران صنایع تسلیحاتی ۲۱ روز فرصت داده است تا برنامه‌های خود را برای افزایش تولید قابلیت‌های حیاتی و تحویل سریع‌تر آنها ارائه کنند.\nفاینبرگ در این یادداشت نوشته است چرخه‌های چند‌ساله توسعه تسلیحات دیگر پذیرفتنی نیست و آمریکا باید برنامه‌های تولید را به‌شدت تسریع کند و ظرفیت کارخانه‌های دفاعی را افزایش دهد.\nاین دستور در شرایطی صادر شده است که جنگ با حکومت ایران بخش قابل توجهی از ذخایر موشکی آمریکا را مصرف کرده و کمبود مهمات به یکی از موضوعات تنش میان دونالد ترامپ، رییس‌جمهوری آمریکا، و وزارت جنگ تبدیل شده است.\nhttps://iranintl.com/202608098644",
         "date": "2026-08-09T01:10:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351689_0_9888e163.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351689_1_2838c9d0.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608098644",
@@ -11038,7 +10899,7 @@
             "display_text": "https://iranintl.com/202608098644"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351689"
       },
@@ -11046,16 +10907,7 @@
         "id": 351688,
         "text": "وب‌سایت رکنا با استناد به گزارش‌های میدانی از افزایش ۷۰ تا ۱۰۰ درصدی اجاره‌بها در برخی مناطق تهران خبر داد و نوشت این افزایش اجاره‌بها فاصله‌ای عمیق میان سیاست‌های اعلامی دولت و واقعیت زندگی مستاجران ایجاد کرده است.\nرکنا به نقل از علیرضا نوین، عضو کمیسیون عمران مجلس شورای اسلامی، نوشت: وزیر مسکن موضوع افزایش ۲۵ درصدی اجاره‌بها را در سران قوا مطرح کرد و تصمیم ابلاغی بر همان ۲۵ درصد اتوماتیک سالانه گرفته شد، اما در عمل، افزایش‌ها به بالای ۵۰ درصد رسیده و مالکان به‌دلیل تورم ۶۰ درصدی، اجاره‌های خود را بالا می‌برند.\nhttps://iranintl.com/202608092162",
         "date": "2026-08-09T01:01:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351688_0_9888e163.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351688_1_34de1716.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608092162",
@@ -11063,7 +10915,7 @@
             "display_text": "https://iranintl.com/202608092162"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351688"
       },
@@ -11071,18 +10923,9 @@
         "id": 351687,
         "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «جمهوری اسلامی در ۴۸ سال گذشته نتوانسته رضایت مردم ایران را جلب کند و نارضایتی از حکومت ادامه دارد و تشدید شده است. خواست تغییر حکومت به محور اصلی احساسات و مطالبات سیاسی مردم ایران تبدیل شده است.»\n@iranintltv",
         "date": "2026-08-09T00:44:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351687_0_9888e163.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351687_1_b6fe73aa.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351687"
       },
@@ -11090,18 +10933,9 @@
         "id": 351686,
         "text": "🔻\nفیفا با انتشار بیانیه‌ای با اشاره به تلاش‌ها برای برکناری جیانی اینفانتینو نوشت: «کسانی که از حمایت اعضای فیفا برخوردار نیستند، نباید با طرح اتهام، القا یا انتشار اطلاعات نادرست، به دنبال دستیابی به اهدافی باشند که از طریق روندهای دموکراتیک و رسمی فیفا قادر به تحقق آن نیستند.»\n🔹\nاین بیانیه شنبه‌شب پس از آن منتشر شد که یوفا بار دیگر تهدید کرد در صورت ادامه روند کنونی، کشورهای اروپایی مسابقات آینده جام جهانی را تحریم خواهند کرد.\n🔹\nاین موضع در پی طرح لغوشده فیفا فوروارد اینترپرایز (FFE) مطرح شد؛ طرحی که قرار بود بخشی از سهام فعالیت‌های تجاری و برگزاری رقابت‌های فیفا، از جمله جام جهانی و جام جهانی باشگاه‌ها، به سرمایه‌گذاران خصوصی واگذار شود.\n🔹\nهمچنین این بیانیه پس از انتشار گزارشی در روزنامه دیلی تلگراف منتشر شد که مدعی بود یوفا زمانی که اینفانتینو دبیرکل این نهاد بود، مبلغی شش‌رقمی به فردی که به عنوان شریک عاطفی او معرفی شده، پرداخت کرده است. تلگراف هویت این فرد را فاش نکرد.\n🔹\nجزییات بیشتر را در\nسایت\nبخوانید.\n@iranintltvsport",
         "date": "2026-08-08T23:42:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351686_0_9888e163.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351686_1_bb579201.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351686"
       },
@@ -11109,16 +10943,7 @@
         "id": 351685,
         "text": "سازمان حقوق بشری هانا گزارش داد کمپ محل استقرار خانواده‌های اعضای حزب کومله کردستان ایران در منطقه سورداش در اقلیم خودگردان عراق هدف حمله دو فروند پهپاد انتحاری قرار گرفت.\nطبق گزارش هانا، این حمله خساراتی به بخش‌هایی از کمپ وارد کرده است، با این حال، تا زمان تنظیم این خبر هیچ‌گونه تلفات یا جراحات انسانی گزارش نشده است.\nhttps://iranintl.com/202608080569",
         "date": "2026-08-08T23:00:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351685_0_9888e163.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351685_1_f79b7754.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608080569",
@@ -11126,7 +10951,7 @@
             "display_text": "https://iranintl.com/202608080569"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351685"
       },
@@ -11134,16 +10959,7 @@
         "id": 351684,
         "text": "العربیه از بازداشت سه عضو یک شبکه وابسته به گروه‌های شبه‌نظامی در استان بابل عراق خبر داد که قصد انجام حمله‌هایی در خارج از عراق داشتند. از این شبکه که به‌طور مستقیم با مقام‌های ایرانی مسئول انجام حملات پهپادی مرتبط است، تعدادی پهپاد کشف و ضبط شده است.\nhttps://iranintl.com/202608082924",
         "date": "2026-08-08T22:24:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351684_0_9888e163.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351684_1_fa9ab86c.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608082924",
@@ -11151,7 +10967,7 @@
             "display_text": "https://iranintl.com/202608082924"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/351684"
       },
@@ -11159,18 +10975,9 @@
         "id": 351683,
         "text": "رضا گوهرزاد، روزنامه‌نگار و تحلیل‌گر سیاسی، گفت برد کوپر، فرمانده سنتکام، پیش از سفر به اسرائیل با مقام‌های بحرین، امارات و دیگر کشورهای منطقه دیدار کرده است.\nاو افزود هم‌زمان با تاکید رییس ستاد مشترک ارتش آمریکا بر ضرورت یافتن راهی برای خروج از بحران، سفرهای منطقه‌ای فرمانده سنتکام نشان می‌دهد واشینگتن در حال بررسی و هماهنگی گزینه‌های پیش رو برای مدیریت مسیر ادامه جنگ نیز هست.\n@iranintltv",
         "date": "2026-08-08T22:10:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351683_0_9888e163.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351683_1_cec6a5cd.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351683"
       },
@@ -11178,18 +10985,9 @@
         "id": 351682,
         "text": "در ادامه تلاش‌ها برای دستیابی به توافقی درباره تنگه هرمز، جی‌دی‌ونس، معاون رییس‌جمهوری آمریکا، گفت آمریکا و ائتلاف کشورهای خلیج فارس خواهان بازگشت صادرات نفت و گاز از منطقه به سطح پیش از آغاز درگیری‌ها هستند و جمهوری اسلامی نیز با این موضوع موافقت کرده است.\nهم‌زمان، در میانه تلاش‌های دیپلماتیک، برد کوپر، فرمانده سنتکام، وارد اسرائیل شد.\nگزارش امیر گیتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-08-08T22:09:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351682_0_9888e163.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351682_1_a1630d86.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351682"
       },
@@ -12056,157 +11854,39 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351608"
-      },
-      {
-        "id": 351607,
-        "text": "سناتور تد کروز گفت که هدف آمریکا در قبال جمهوری اسلامی باید «فروپاشی رژیم» باشد. او جمهوری اسلامی را حکومتی توصیف کرد که با مردم ایران «مستبدانه» رفتار کرده و «دشمنی سرسخت» با آمریکا داشته است.\nکروز در گفت‌وگو با مرضیه حسینی، خبرنگار ایران‌اینترنشنال، گفت هدف باید کنار زدن «دیوانه‌های تئوکراتی باشد که می‌خواهند آمریکایی‌ها را بکشند» و درباره هر توافقی که میلیاردها دلار در اختیار تهران قرار دهد، هشدار داد. او افزود قانونی که کنگره تصویب کرده، به دونالد ترامپ، رییس‌جمهور آمریکا، اختیار اعمال تحریم‌های بیشتر را می‌دهد و ترامپ درباره اینکه چطور و چه زمانی از این اختیار استفاده کند، تصمیم خواهد گرفت.\n@iranintltv",
-        "date": "2026-08-08T11:10:17+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351607"
-      },
-      {
-        "id": 351606,
-        "text": "🗣\nروایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - شنبه ۱۷ مرداد\n🔹\nمن تو شرکت برق تهران کار می‌کنم. امروز (۱۷ مرداد) ۵ بار برقش قطع شد. بعد مردم از ما می‌پرسن چرا برق شهر تهران قطع می‌شه. این شرکت برق خودش رو نمی‌تونه تأمین کنه، چطور برق شهر بزرگ ۱۲ میلیونی تهران رو تأمین کنه؟\n🔹\nامروز (۱۷ مرداد) رفتم سبد کالا بگیرم، بقال می‌گه نمی‌دم چون پولم رو هنوز ندادن. دست خالی برگشتیم.\n🔹\nتمام فروشگاه‌های زنجیره‌ای مانند کوروش، دیلی‌مارکت، رفاه، جانبو و دیگر فروشگاه‌ها را تحریم کنید، همشون وابسته به جمهوری اسلامی هستند.\n🔹\nدیگه ماهی دوبار قبض برق میاد. بدون خواندن کنتور، برآوردی هر کیلوواتی که بخوان می‌نویسن. بعد جالبه که کنتور نخونده جریمه می‌کنن، در صورتی که مصرف ما بسیار محدود و مشخصه.\n🔹\nدیشب زانوم آسیب دید. صبح رفتم بیمارستان، عکس گرفتن از زانوم و برام زانوبند و قرص گلوکوزامین نوشتن. رفتم که از داروخونه بخرم، گفت زانوبند ۱/۵ میلیون و قرص گلوکوزامین ۱/۲ میلیون. نتونستم بخرم، فقط قرص مسکن معمولی گرفتم.\n🔹\nتا سرنگونی جمهوری اسلامی، قهر و خشم ملی باید ادامه داشته باشه، به یاد جاویدنامگان وطن که ما ملت ایران بهشون بدهکاریم.\n🔹\nحق بیمهٔ اختیاری تأمین اجتماعی پنج میلیون و ۶۰۰ هزار تومان هستش، ولی یک ماه دیر بشه، از سه ماه مهلت قانونی، اعتبارش مسدود می‌شه. هیچ پوششی نداره، هیچ جا قبول نمی‌کنه، آزاد باید حساب کنی.\n🔹\nتو پمپ‌بنزین کارت رو وارد دستگاه کردم، دستگاه خطا داد. کارت رو که مجدد زدم، می‌بینم ۴ لیتر کسر کرده. پرسیدم چرا، می‌گه برای همه همین‌طوری شده.\n🔹\nبه خدا خسته شدیم از این همه گرونی، از این همه فشار روانی و اقتصادی و جنگ. افسردگی گرفتیم، اصلاً یادم نمیاد دیگه کی خندیدم. یه پسر جوون دارم، هر وقت نگاش می‌کنم جز غصه خوردن کاری از دستم برنمیاد.\n🔹\nبه ترامپ و نتانیاهو بگو به جمهوری اسلامی مهلت نده، می‌ره اسلحه و پهپاد از چین و روسیه می‌خره.\n🔹\nقبض آب و برق یک میلیونی شده چهار میلیون، کاش حقوق و دستمزدها هم ۴ برابر می‌شد.\n🔹\nمن یک جانباز جنگ صدام هستم. به علت بیماری جسمی و روانی باید ماهیانه بالغ بر دو میلیون داروی آزاد خرید کنم و الان دیگه گیرم نمیاد.",
-        "date": "2026-08-08T11:07:49+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351606"
-      },
-      {
-        "id": 351605,
-        "text": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد ایرانیان ایتالیا روز جمعه در حمایت از انقلاب ملی و شاهزاده رضا پهلوی در شهر تورین تجمع برگزار کردند.",
-        "date": "2026-08-08T10:59:01+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351605"
-      },
-      {
-        "id": 351604,
-        "text": "وزارت خارجه امارات متحده عربی حمله موشکی به یک نفتکش متعلق به شرکت ملی نفت ابوظبی هنگام عبور از تنگه هرمز را محکوم کرد و هدف قرار دادن کشتیرانی تجاری در این آبراه را «اقدامات دزدی دریایی از سوی سپاه پاسداران» خواند.\nوزارت خارجه امارات در بیانیه‌ای نوشت: «هدف قرار دادن کشتیرانی تجاری و استفاده از تنگه هرمز به‌عنوان ابزاری برای فشار یا باج‌گیری اقتصادی، اقدامات راهزنی دریایی از سوی سپاه پاسداران است.»\nدر این بیانیه آمده است چنین اقداماتی تهدیدی مستقیم برای ثبات منطقه و مردم آن و همچنین امنیت جهانی انرژی محسوب می‌شود.\nامارات همچنین از جمهوری اسلامی خواست حملات را متوقف کند، به توقف کامل اقدامات خصمانه پایبند باشد و تنگه هرمز را به‌طور کامل و بدون قید و شرط بازگشایی کند.\nhttps://iranintl.com/202608082257",
-        "date": "2026-08-08T10:50:46+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608082257",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608082257"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/351604"
-      },
-      {
-        "id": 351602,
-        "text": "ادنوک، شرکت ملی نفت ابوظبی، اعلام کرد یکی از کشتی‌های این شرکت در ساعات اولیه شنبه ۱۷ مرداد، هنگام عبور از تنگه هرمز، هدف موشک قرار گرفت.\nادنوک اعلام کرد این حمله هیچ مصدومی نداشته و وضعیت پس از حادثه تحت کنترل درآمده است.\nhttps://iranintl.com/202608087535",
-        "date": "2026-08-08T10:33:48+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608087535",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608087535"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/351602"
-      },
-      {
-        "id": 351601,
-        "text": "ویدیوهای رسیده به ایران‌اینترنشنال از برخورد و تلاش حامیان حکومت برای آزار زنان با پوشش اختیاری حکایت دارد؛ زنانی که در برخی موارد در برابر این فشارها واکنش نشان داده‌اند. روایت‌های مردمی از تشدید دوباره فشارها بر زنان بر سر پوشش و حجاب خبر می‌دهد.\nمحسن مهیمنی، عضو تحریریه ایران‌اینترنشنال، از تشدید فشارها بر زنان می‌گوید\n@iranintltv",
-        "date": "2026-08-08T10:31:27+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351601"
-      },
-      {
-        "id": 351600,
-        "text": "یکصد و شصت روز پس از آغاز جنگ آمریکا و جمهوری اسلامی و در میان بحران تنگه هرمز، رهبران عربستان سعودی، ترکیه و پاکستان یک پیمان دفاعی سه‌جانبه امضا کرده‌اند. این پیمان سه‌جانبه «توافق مکه» نام‌گذاری شد.\nجزییات بیشتر در گفت‌وگو با تروسکه صادقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-08T10:25:22+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351600"
-      },
-      {
-        "id": 351599,
-        "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال نشان داد که وعده غذایی او و دو عضو دیگر خانواده‌اش تنها یک تخم‌مرغ با کمی رُب بوده است و خطاب به حکومت گفت: «بی‌شرف‌ها، با ملت چه کرده‌اید؟»",
-        "date": "2026-08-08T10:04:54+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351599"
-      },
-      {
-        "id": 351598,
-        "text": "🔻\nخبرگزاری تسنیم خبر داده که کنفدراسیون فوتبال آسیا با درخواست ایران برای میزبانی همزمان استقلال و تراکتور در ورزشگاه بصره عراق مخالفت کرد.\n🔹\nفدراسیون فوتبال ایران پیش‌تر در پی درخواست دو باشگاه استقلال و تراکتور، ورزشگاه بصره را به‌عنوان میزبان دیدارهای آنها در لیگ نخبگان آسیا به AFC معرفی کرده بود، اما کنفدراسیون فوتبال آسیا اعلام کرد با توجه به حضور تیم نیرو هوایی عراق در بازی‌های آسیایی، امکان میزبانی سه تیم در یک ورزشگاه وجود ندارد.\n🔹\nآنطور که تسنیم نوشته، استقلال در واکنش به این تصمیم به AFC اعلام کرده است اگر تراکتور عمان را به‌عنوان میزبان بازی‌های خود انتخاب کند، این باشگاه بار دیگر درخواست میزبانی در ورزشگاه بصره را مطرح خواهد کرد. حالا باید دید AFC با درخواست جدید استقلال موافقت می‌کند یا خیر.\n@iranintltvsport",
-        "date": "2026-08-08T09:56:29+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351598"
-      },
-      {
-        "id": 351597,
-        "text": "«\n#تیتر_اول\nبا\n#نیوشا_صارمی\n»؛ شنبه تا چهارشنبه ساعت ۲۰:۰۰ تهران\nاز خبرهای فوری تا راستی‌آزمایی موضوعات بحث‌برانگیز در «\n#زیر_ذره‌بین\n»؛\nدر جریان بمانید!\n@iranintltv",
-        "date": "2026-08-08T09:54:49+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351597"
-      },
-      {
-        "id": 351596,
-        "text": "روزنامه جروزالم‌پست در گزارشی با استناد به شواهد موجود نوشته است که صادرات نفت ایران در پی ازسرگیری محاصره دریایی آمریکا متوقف شده است.\nمهدی مصلحی، کارشناس بازار نفت، گفت بر اساس داده‌های منتشرشده، طولانی‌ترین توقف فعالیت خارک رخ داده است.\n@iranintltv",
-        "date": "2026-08-08T09:41:28+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351596"
-      },
-      {
-        "id": 351595,
-        "text": "بنا بر اعلام وزارت دفاع هلند، این کشور در حال آماده‌سازی ناوچه فرماندهی برای ماموریت تحت رهبری بریتانیا و فرانسه در تنگه هرمز است.\nجزییات بیشتر در گفت‌وگو با ساجده شریفی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-08T09:39:05+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351595"
-      },
-      {
-        "id": 351594,
-        "text": "روزنامه فایننشال تایمز گزارش داد فعالیت صادرات نفت در جزیره خارک زیر محاصره دریایی آمریکا متوقف شده و این پایانه نفتی با یکی از طولانی‌ترین وقفه‌ها از زمان آغاز جنگ شش‌ماهه جمهوری اسلامی با آمریکا و اسرائیل روبه‌رو شده است.\nگروه «اتحاد علیه ایران هسته‌ای»، مستقر در واشینگتن که محموله‌های نفتی جمهوری اسلامی را رصد می‌کند، اعلام کرد از ۲۱ تیر تاکنون هیچ نفتکش حامل نفت خام ایران را مشاهده نکرده است که با موفقیت از خلیج فارس خارج شده باشد.\nبا وجود توقف فعالیت صادراتی در جزیره خارک، جمهوری اسلامی همچنان از محموله‌هایی درآمد کسب می‌کند که پیش‌تر و در دوره آتش‌بس از خلیج فارس خارج شده بودند و اکنون به خریداران در آسیا می‌رسند.\nبر اساس گزارش «اتحاد علیه ایران هسته‌ای»، ۲۶ نفتکش با پرچم جمهوری اسلامی به آب‌های نزدیک مالزی رسیده‌اند؛ جایی که نفت خام ایران معمولا پیش از تحویل به پالایشگاه‌های چین به کشتی‌های دیگر منتقل می‌شود.\nhttps://iranintl.com/202608088590",
-        "date": "2026-08-08T09:38:22+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608088590",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608088590"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/351594"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 49946,
+        "text": "Server:\nidyll.shmelproxy.top\nPort:\n443\nSecret:\nee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275\n@ProxyMTProto",
+        "date": "2026-08-09T06:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49946_0_51b83430.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49946"
+      },
+      {
+        "id": 49945,
+        "text": "Server:\n65.21.205.29\nPort:\n443\nSecret:\n3XnnAQIAAQAH8AMDhuJMOt0\n@ProxyMTProto",
+        "date": "2026-08-09T06:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49945_0_51b83430.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49945"
+      },
       {
         "id": 49944,
         "text": "Server:\nUnknown\nPort:\n7443\nSecret:\nAAAAAAAAAAAAAAAAAAAAABQ=\n@ProxyMTProto",
@@ -13676,36 +13356,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49844"
-      },
-      {
-        "id": 49843,
-        "text": "Server:\ndelbaz.wrenshire.co.uk\nPort:\n9870\nSecret:\neeNEgYdJvXrFGRMCIMJdCQ\n@ProxyMTProto",
-        "date": "2026-08-06T06:00:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_49843_0_4ccf1867.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49843"
-      },
-      {
-        "id": 49842,
-        "text": "Server:\nUnknown\nPort:\n8443\nSecret:\nee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275\n@ProxyMTProto",
-        "date": "2026-08-06T05:30:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_49842_0_4ccf1867.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49842"
       }
     ],
     "XpnTeam": [
@@ -21327,6 +20977,25 @@
     ],
     "crgaming7": [
       {
+        "id": 5772,
+        "text": "🔹\nفقد 3 ساعت تا تموم شدن چیکن بتل\n......\n⭐️\n| چیکن هلیکوپتر\n✅\n| چیکن 50 کایی\n✅\n| چیکن هوم\n✅\n| چیکن خورد از 10 کا تا هر چند کا که بخواید\n✅\n| قیمت اروزن‌\n🔥\nبرای تهیه به ادمین پیام بدید\n⬇️\n⬇️\n☑️\n@crgaming5",
+        "date": "2026-08-09T06:15:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "crgaming7_5772_0_b2837719.jpg"
+          },
+          {
+            "type": "image",
+            "file": "crgaming7_5772_1_715d5044.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/crgaming7/5772"
+      },
+      {
         "id": 5771,
         "text": "📣\n| 4 تا کد DNS جدید\n🔹\n| فیلترشکن شانس ایکسوت رایگان\n🎁\n| قرعه کشی انجام شد\n✅\n📹\nویدیو آموزشیش\n⬇️\n⬇️\nhttps://youtu.be/IQA1_KVESzE?si=KcdLxjXglvUgmoqk\n💵\n💵\n💵\n💵\n💵\n💵\n💵\n💵\n💵",
         "date": "2026-08-08T15:10:12+00:00",
@@ -22553,22 +22222,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/crgaming7/5662"
-      },
-      {
-        "id": 5661,
-        "text": "5 تا کد DNS جدید پینگ 24\n🤩\nبرای پابجی کالاف و فری فایر\n✅\nوایرگاد رایگان برای همه\n😇\n❤\n🔥\nویدیو آموزشیش\n👇\n👇\nhttps://youtu.be/iAADOorA1mA?si=sGl24nToQsKx3UkI\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨\n✨",
-        "date": "2026-07-09T09:59:03+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://youtu.be/iAADOorA1mA?si=sGl24nToQsKx3UkI",
-            "type": "youtube",
-            "display_text": "https://youtu.be/iAADOorA1mA?si=sGl24nToQsKx3UkI"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/crgaming7/5661"
       }
     ],
     "iranstop": [
@@ -25423,21 +25076,21 @@
       }
     ]
   },
-  "last_update": "2026-08-09T05:51:50.196825+00:00",
+  "last_update": "2026-08-09T06:58:32.454117+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1433,
-    "total_files": 1433,
-    "total_links": 422,
+    "total_media": 1357,
+    "total_files": 1357,
+    "total_links": 423,
     "files_by_type": {
-      "image": 1287,
-      "video": 134,
+      "image": 1214,
+      "video": 131,
       "audio": 12
     },
-    "referenced_files": 1433,
-    "existing_media_files": 1433,
-    "total_size_mb": 499.98,
-    "last_calculation": "2026-08-09T05:51:50.213871+00:00"
+    "referenced_files": 1357,
+    "existing_media_files": 1357,
+    "total_size_mb": 499.19,
+    "last_calculation": "2026-08-09T06:58:32.470512+00:00"
   }
 }
