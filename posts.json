@@ -4708,6 +4708,21 @@
     ],
     "withyashar": [
       {
+        "id": 20803,
+        "text": "گزارشهای رسانه های‌عربی حاکی از کشته شدن ۳ نفر در پی حمله حوثی ها به یک کشتی در تنگه باب المندب است\n@WarRoom",
+        "date": "2026-08-11T07:11:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20803_0_7dad96a6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20803"
+      },
+      {
         "id": 20802,
         "text": "نفت برای عبرو از ۹۰$ خیز برداشت\n@WarRoom",
         "date": "2026-08-11T06:58:23+00:00",
@@ -6361,21 +6376,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/20704"
-      },
-      {
-        "id": 20703,
-        "text": "‏حوثی‌ها اعلام کردند پالایشگاه آرامکو عربستان سعودی در جازان را هدف قرار داده‌اند.\n@WarRoom",
-        "date": "2026-08-09T07:10:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20703_0_de793f4f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20703"
       }
     ],
     "vahidonline": [
@@ -23357,7 +23357,7 @@
       }
     ]
   },
-  "last_update": "2026-08-11T07:06:30.198653+00:00",
+  "last_update": "2026-08-11T07:17:44.772226+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
@@ -23372,6 +23372,6 @@
     "referenced_files": 992,
     "existing_media_files": 992,
     "total_size_mb": 498.08,
-    "last_calculation": "2026-08-11T07:06:30.208246+00:00"
+    "last_calculation": "2026-08-11T07:17:44.807845+00:00"
   }
 }
