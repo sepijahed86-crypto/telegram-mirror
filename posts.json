@@ -5021,6 +5021,21 @@
     ],
     "withyashar": [
       {
+        "id": 20880,
+        "text": "خبرگزاری آناتولی به نقل از منابع دولتی پاکستان گزارش داد تفاهم‌نامه قرار است در\n۱۷ اوت\nمنقضی شود. به گفته یک منبع نزدیک به روند میانجیگری، دو طرف موافقت خود را با اصل تمدید مهلت به میانجی‌ها اعلام کرده‌اند، اما\nهنوز درباره مدت دقیق تمدید تصمیم نهایی گرفته نشده و تهران و واشنگتن در حال تبادل پیام برای تعیین بازه تمدید هستند.\n@WarRoom",
+        "date": "2026-08-12T11:32:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_20880_0_599462bc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/20880"
+      },
+      {
         "id": 20879,
         "text": "یک منبع ارشد ایرانی به رویترز گفت:\nهیچ بحثی برای تمدید آتش‌بس بین آمریکا و ایران وجود ندارد و در عوض، مذاکرات بر بازگشت احتمالی آمریکا به توافق‌نامه تفاهم (MOU) و یک جدول زمانی برای اجرای تعهدات متمرکز است.\n@WarRoom",
         "date": "2026-08-12T11:03:44+00:00",
@@ -6642,25 +6657,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/20777"
-      },
-      {
-        "id": 20776,
-        "text": "۷ فروند هواپیمای سوخت‌رسان KC-46A پگاسوس نیروی هوایی آمریکا از پایگاه‌های مبدأ خود در غرب ایالات متحده به پایگاه هوایی مک‌دیل در فلوریدا، در شرق آمریکا، منتقل شده‌اند؛ جابه‌جایی‌ای که می‌تواند نشانه‌ای از آماده‌سازی برای اعزام قریب‌الوقوع شماری از هواپیماهای پرمصرف (احتمالاً بمب‌افکن‌های بی-۵۲) به انگلستان و سپس خاورمیانه باشد.\n@WarRoom",
-        "date": "2026-08-10T18:51:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20776_0_7dad96a6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_20776_1_01027ffe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20776"
       }
     ],
     "vahidonline": [
@@ -9777,6 +9773,44 @@
     ],
     "IranintlTV": [
       {
+        "id": 352225,
+        "text": "آژانس بین‌المللی انرژی اعلام کرد تنش‌ها در تنگه هرمز و باب‌المندب کسری عرضه نفت در جهان را به روزانه یک میلیون و ۸۰۰ هزار بشکه رسانده است. در همین حال، گزارش شرکت‌های ردیابی نفتکش‌ها از کاهش صادرات نفت ایران به حدود ۵۰۰ هزار بشکه در روز در ماه جاری میلادی خبر می‌دهد.\nارزیابی آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال، از وضعیت عبور نفت‌کش‌ها و صادرات نفت ایران\n@iranintltv",
+        "date": "2026-08-12T11:26:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352225_0_e099bb6e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352225_1_f6e899cc.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352225"
+      },
+      {
+        "id": 352224,
+        "text": "موج گرمای شدید همچنان بخش‌های گسترده‌ای از اروپا را دربر گرفته است. در ایتالیا، دمای هوا در بسیاری از شهرها به ۴۰ درجه رسیده و وزارت بهداشت این کشور برای ۱۹ شهر، از جمله رم و ناپل، هشدار قرمز صادر کرده است.\nگفت‌وگو با صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-08-12T11:15:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352224_0_e099bb6e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352224_1_d8093798.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352224"
+      },
+      {
         "id": 352223,
         "text": "شرکت برق لیبی اعلام کرد حمله به پست برق جنوب شهر زاویه در چهارشنبه ۲۱ مرداد باعث آتش‌سوزی و قطع گسترده برق شده است. در پی این حمله، شرکت آمریکایی جنرال الکتریک فعالیت خود را در نیروگاه زاویه متوقف و تیم‌های فنی‌اش را خارج کرده است.\nاین حمله پس از حملات پهپادی حامل مواد منفجره به مخازن ذخیره سوخت در مجتمع نفتی نزدیک زاویه رخ داده است. تاکنون هیچ گروهی مسئولیت این حملات را بر عهده نگرفته است.\n@iranintltv",
         "date": "2026-08-12T11:03:43+00:00",
@@ -11048,35 +11082,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352123"
-      },
-      {
-        "id": 352122,
-        "text": "گیدئون سعار، وزیر خارجه اسرائیل، پس از گفت‌وگو با اد میلیبند، وزیر خارجه بریتانیا، در شبکه ایکس نوشت حکومت ایران از دستیابی به سلاح هسته‌ای دست نکشیده است.\nاو از تصمیم دولت بریتانیا برای قرار دادن سپاه پاسداران در فهرست سازمان‌های ممنوعه استقبال کرد و خواستار قرار گرفتن موسسه مالی قرض الحسن، وابسته به حزب‌الله، در این فهرست شد.\nوزیر خارجه اسرائیل اضافه کرد پیشرفت در اجرای طرح دونالد ترامپ برای غزه به خلع سلاح حماس و دیگر گروه‌های تروریستی و غیرنظامی‌سازی نوار غزه بستگی دارد.\nhttps://iranintl.com/202608110740",
-        "date": "2026-08-11T16:33:27+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608110740",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608110740"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/352122"
-      },
-      {
-        "id": 352121,
-        "text": "یک شهروند با ارسال ویدیویی به اییران‌اینترنشنال از قطعی مداوم آب در شهر گرگان می‌گوید. به گفته او قطع آب و برق هم در این شهر طبق جدول زمانی نیست.",
-        "date": "2026-08-11T16:30:15+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352121"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50055,
+        "text": "Server:\nardesvpn1.ru\nPort:\n8443\nSecret:\nee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275\n@ProxyMTProto",
+        "date": "2026-08-12T11:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50055_0_54e00192.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50055"
+      },
       {
         "id": 50054,
         "text": "Server:\nUnknown\nPort:\n443\nSecret:\needdff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169\n@ProxyMTProto",
@@ -12271,16 +12294,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49956"
-      },
-      {
-        "id": 49955,
-        "text": "Server:\niran-download.shentaichiacademy.co.uk.\nPort:\n443\nSecret:\needdffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169\n@ProxyMTProto",
-        "date": "2026-08-09T11:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49955"
       }
     ],
     "XpnTeam": [
@@ -17724,6 +17737,27 @@
     ],
     "yehirani": [
       {
+        "id": 19594,
+        "text": "🔴\nیه نفر توی استرالیا به هوش مصنوعی گفت توی یه باشگاه ورزشی براش جا بگیره.\nاما ابزار OpenClaw کل سیستم رزرو باشگاه رو هک کرد، یه نفر دیگه رو از لیست انتظار انداخت بیرون به جاش ایشون رو گذاشت توی سیستم.\nجالب اینجاست وقتی طرف فهمیده و به هوش مصنوعی گفته برگرد منو بردار و همون کسی که از لیست حذف کردی رو دوباره بزار هوش مصنوعی بهش گفته شرمنده نمیشه\n- AminiYt\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@YehIrani\n| حاج متی",
+        "date": "2026-08-12T11:31:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19594_0_c7d4fd9b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
+            "type": "telegram",
+            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/yehirani/19594"
+      },
+      {
         "id": 19593,
         "text": "🔴\nرضا فرشته رو یادتونه ؟  همونی که میرفت تو مینی‌چت و به ملت فحش ناموسی میداد، حتی بعضی اوقات کاکولد بازی درمی‌آورد و به خودش هم فحش میداد‌.  الان اومده طی حرکتی کاملا جدید عکس خودشو با ai گذاشته کنار عکس خامنه‌ای.\n🦘\nRoobet.com The #1 Crypto Casino & Sportsbook…",
         "date": "2026-08-12T10:16:09+00:00",
@@ -20097,31 +20131,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/yehirani/19477"
-      },
-      {
-        "id": 19476,
-        "text": "🔴\nباز شروع شد :\nتوی آمل گروهی از خانم‌های عرزشی به یه خانم که دامن پوشیده بود هجوم بردن و مجبورش کردن که شلوار بپوشه.\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@YehIrani\n| حاج متی",
-        "date": "2026-08-08T11:10:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19476_0_35bf8941.jpg"
-          },
-          {
-            "type": "video",
-            "file": "yehirani_19476_1_9fc3ccff.mp4"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
-            "type": "telegram",
-            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/yehirani/19476"
       }
     ],
     "crgaming7": [
@@ -22687,6 +22696,42 @@
     ],
     "BestProxyTel1": [
       {
+        "id": 12690,
+        "text": "➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\nhttps://t.me/proxy?server=168.119.120.104&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=jk.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=45.141.119.126&port=8443&secret=4126d43aa6bb16a0556cbbff1dfd33f5\nhttps://t.me/proxy?server=altaria.proxy.rlwy.net&port=45685&secret=ecd743394cf3502b1e31aae792c53684\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n➖\n🎖\n@BestProxyTel1",
+        "date": "2026-08-12T11:53:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "BestProxyTel1_12690_0_ece59d84.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/proxy?server=168.119.120.104&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=168.119.120.104&port=8443&secret=d..."
+          },
+          {
+            "url": "https://t.me/proxy?server=jk.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=jk.ir.ir.ir.meli-n12.info&port=844..."
+          },
+          {
+            "url": "https://t.me/proxy?server=45.141.119.126&port=8443&secret=4126d43aa6bb16a0556cbbff1dfd33f5",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=45.141.119.126&port=8443&secret=41..."
+          },
+          {
+            "url": "https://t.me/proxy?server=altaria.proxy.rlwy.net&port=45685&secret=ecd743394cf3502b1e31aae792c53684",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=altaria.proxy.rlwy.net&port=45685&..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/BestProxyTel1/12690"
+      },
+      {
         "id": 12689,
         "text": "🔴\nترامپ:\nمن به ایران اعتماد ندارم. من آخرین کسی هستم که به ایران اعتماد می‌کند. آن‌ها مدام به من دروغ گفتند\n.\nما در حال حاضر کنترل کامل تنگه هرمز را در اختیار داریم. آن‌ها کنترلی ندارند؛ ما کنترل کامل داریم. آنجا در اختیار ماست.\nو شاید زمانی آن‌ها دست به کاری بزنند و آن‌وقت نابود خواهند شد. اما فعلاً در موقعیت بسیار خوبی قرار داریم.\nما با کشوری سروکار داریم که ۵۰ سال قلدرِ خاورمیانه بوده است. اگر دقیق‌تر حساب کنید، در واقع ۵۱ سال می‌شود، مگر نه؟ ما چهار سال بود که می‌گفتیم ۴۷ سال؛ و حالا دیگر آن‌ها قلدرِ خاورمیانه نیستند.\n🔴\nترامپ درباره تغییر هواپیما در آنکارا:\nاین موضوع صرفاً به «سرویس مخفی» (تیم حفاظت) مربوط می‌شود. من فقط از تصمیم آن‌ها پیروی می‌کنم؛ بنابراین تابع نظر سرویس مخفی و ارتش هستم.\nآن‌ها می‌خواستند که من با پروازی دیگر و هواپیمایی متفاوت سفر کنم ــ که از نظر ایمنی تفاوتی نداشت ــ اما چون خواستار انجام این کار بودند، من هم پذیرفتم. من هر چه آن‌ها بگویند را انجام می‌دهم.\nگمان می‌کنم تهدیدی وجود داشت؛ البته من خیلی پیگیر جزئیات آن نشدم. من با تهدیدهای زیادی مواجه می‌شوم.\n🎖\n@BestProxyTel1",
         "date": "2026-08-12T05:34:12+00:00",
@@ -24021,34 +24066,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12481"
-      },
-      {
-        "id": 12478,
-        "text": "هرکیو میخوایید میتونید استاک کنید بزارم براتون؟؟",
-        "date": "2026-08-01T20:13:37+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/BestProxyTel1/12478"
       }
     ]
   },
-  "last_update": "2026-08-12T11:05:55.808033+00:00",
+  "last_update": "2026-08-12T11:55:35.191062+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1126,
-    "total_files": 1126,
-    "total_links": 432,
+    "total_media": 1130,
+    "total_files": 1130,
+    "total_links": 435,
     "files_by_type": {
-      "image": 981,
-      "video": 138,
+      "image": 984,
+      "video": 139,
       "audio": 7
     },
-    "referenced_files": 1126,
-    "existing_media_files": 1126,
-    "total_size_mb": 490.35,
-    "last_calculation": "2026-08-12T11:05:55.822036+00:00"
+    "referenced_files": 1130,
+    "existing_media_files": 1130,
+    "total_size_mb": 492.47,
+    "last_calculation": "2026-08-12T11:55:35.205019+00:00"
   }
 }
