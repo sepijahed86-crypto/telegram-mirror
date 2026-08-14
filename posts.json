@@ -2560,6 +2560,66 @@
     ],
     "whitedns": [
       {
+        "id": 1457,
+        "text": "🌎\nنسخه جدید WhiteVPN 1.3.0",
+        "date": "2026-08-14T04:15:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1457_0_8bb829ff.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1457"
+      },
+      {
+        "id": 1452,
+        "text": "",
+        "date": "2026-08-14T04:15:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1452_0_8bb829ff.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1452"
+      },
+      {
+        "id": 1451,
+        "text": "🌎\nپروژه WhiteVPN رو اوپن‌سورس کردیم و در گیتهاب میتونید بهش دسترسی داشته باشید.\nhttps://github.com/WhiteDNS/WhiteVPN\nهمراه با پابلیک شدن پروژه، نسخه ۱.۳.۰ هم ریلیز کردیم\n⛏\nدر این نسخه امکان\n• امکان routing برای سایت ها و آی‌پی های ایرانی به تنظیمات اضافه شده تا دیگه نیاز نباشه اتصال رو برای سایت های داخلی قطع کنید.\n• اشتراک گذاری WhiteVPN در شبکه اضافه شده.\n• حالا میتونید اپ پروکسی اپ در داخل اپ های دیگه مثل سایفون استفاده کنید.\n• تست سرعت به سابسکریپشن اضافه شده\nدانلود نسخه جدید از گیت‌هاب\nhttps://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.3.0",
+        "date": "2026-08-14T04:10:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1451_0_8bb829ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1451_1_fbfbd268.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteVPN",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteVPN"
+          },
+          {
+            "url": "https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.3.0",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.3.0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1451"
+      },
+      {
         "id": 1449,
         "text": "WhiteAesther V1.0.2\nدوستان سلام :\nما روی هسته Aether که حاصل زحمت دوست عزیزمون\nCluvexStudio\nهست یک کلاینت**\nآزمایشی ورژن بتا\n** درست کردیم . که اگر دوست دارید تست کنید و لطف کنید فیدبک بدید.\nپیشاپیش ممنونیم\n❤️\n❤️\n❤️\nاموزش :\n📖\n**راهنمای WhiteAesther**\n**۱ — نصب**\nفایل **arm64-v8a** رو بگیر (تقریباً همه گوشی‌های ۲۰۱۷ به بعد).\nمطمئن نیستی؟ **universal** همه‌جا کار می‌کنه، فقط حجمش بیشتره.\n**۲ — سه تا نکته اول**\n▪️\n**Traffic** → گزینه Coverage روی **Whole device** باشه\n⚠️\nحالت Proxy only خودش هیچی رو رد نمی‌کنه! به‌نظر می‌رسه وصل شده ولی عملاً هیچ ترافیکی از تونل نمی‌ره.\n▪️\n**Routes** → پروفایل روی **Adaptive**\n▪️\n**Settings** → اجازه اجرا در پس‌زمینه رو بده، وگرنه با خاموش شدن صفحه قطع می‌شه\n**۳ — اگه وصل نشد، به این ترتیب امتحان کن**\n**قدم ۱ — پروتکل**\nRoutes → Advanced → Preferred transport → **MASQUE over HTTP/2**\n📌\nروی **همراه اول** مدتیه QUIC (یعنی UDP) کاملاً بسته شده. یعنی H3 اصلاً وصل نمی‌شه و فقط H2 جواب می‌ده.\nاز نسخه ۱.۰.۲ اپ خودش این کار رو می‌کنه.\n**قدم ۲ — تیکه‌تیکه کردن TLS**\n⭐️\nTraffic → Advanced → **Split the TLS handshake** → روشن\nفیلترینگ معمولاً فقط تیکه اول بسته رو می‌خونه تا ببینه کجا وصل می‌شی. وقتی تیکه‌تیکه بفرستی، نمی‌تونه بخونه.\nاگه با H2 وصل می‌شی ولی کنده، **حتماً اینو امتحان کن**.\n**قدم ۳ — پروفایل**\nRoutes → Profile → **Strict network**\n(برای شبکه‌هایی که خیلی چیزها رو می‌بندن)\n**قدم ۴ — خاموش کردن IPv6**\nTraffic → Addresses → **IPv4 only**\nروی خیلی از شبکه‌های موبایل ایران IPv6 نیمه‌کاره‌ست.\n**قدم ۵ — مبهم‌سازی**\nTraffic → Advanced → Obfuscation → **Aggressive**\n💡\nاگه قدم ۲ مشکلت رو حل کرد، **Off** رو هم تست کن — شاید پدینگ اضافه فقط داشته سرعتت رو می‌گرفته.\n**قدم ۶ — اند‌پوینت دستی**\nRoutes → Endpoint → Specific address → دکمه **Find endpoints**\n⚠️\nگزینه Fall back automatically رو روشن نگه دار.\n**۴ — گزارش مشکل**\nSettings → Diagnostics & logs\n۱. Detail level روی **Verbose**\n۲. دوباره سعی کن وصل بشی\n۳. برگرد و **Send** رو بزن\nقبل از ارسال دقیقاً متنی که فرستاده می‌شه رو می‌بینی، و IP‌ها پیش‌فرض مخفی می‌شن. هیچی بدون اجازه‌ات از گوشیت بیرون نمی‌ره.\n**نکته:** اون خط خاکستری کوچیک زیر متن بزرگ توی صفحه اصلی، پیغام خود موتوره. برای فهمیدن مشکل همیشه اول اونو بخون.\nhttps://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/v1.0.3\n@whitedns",
         "date": "2026-08-13T08:29:01+00:00",
@@ -4579,95 +4639,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1310"
-      },
-      {
-        "id": 1309,
-        "text": "7 سرور اهدایی و فعال WhiteDNS داشته باشید برای زمان قطعی (کلیک کنید روش کپی میشه)\nServer #1 thx to Coreforge\n♥️\nLocation: Turkey\n🇹🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7nwn4e3ICAgdGh4IHRvIENvcmVmb3JnZSIsInNlcnZlciI6eyJkb21haW4iOiJ2LmFub255bW91cy5vYnNlcnZlciIsImVuY3J5cHRpb25fa2V5IjoiYjI3NTAzOTE5OWIxYzhjOSIsImVuY3J5cHRpb25fbWV0aG9kIjozfX19\nServer #2 thx to Araskhatare\n♥️\nLocation: Germany\n🇩🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6nwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI5ZGIxNjYwMmM4Yzc3NjcxOWJhZDE3ZWZjOWQxM2E0NCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #3 thx to Araskhatare\n♥️\nLocation: USA\n🇺🇸\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7rwn4e4ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6ImVkMGNlZjE2YjcxNTNiOGQ4MzVhMzI3ODYxNTk3YzY0IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #4 thx to Araskhatare\n♥️\nLocation: France\n🇫🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6vwn4e3ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImIuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiIyZjAyZTNiN2NiNTg3ZjM4M2U0MWM0MmU4ZWYzYWY2MSIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #5 thx to Araskhatare\n♥️\nLocation: UK\n🇬🇧\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6zwn4enICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImMuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJkYmYwMmYyYWVmZmQzM2QyNDY0M2ViODM4OGY2N2Y0ZCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #6 thx to Araskhatare\n♥️\nLocation: Ireland\n🇮🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh67wn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImkuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjY0MTVlYjhmOTBmMWQ0NjY1N2JjZTljYjc5MTg2NDY2IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #7 thx to Araskhatare\n♥️\nLocation: Sweden\n🇸🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7jwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InEuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjFkYjFiMWIyNGM2N2IxNzYwOTAzMmNjNDdhZmRhMzZlIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nآموزش استفاده از برنامه اندروید\n👇\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\nآموزش استفاده از برنامه ios\n👇\nhttps://www.youtube.com/watch?v=filwdiPKN90\nآموزش استفاده از برنامه ویندوز\n👇\nhttps://youtu.be/Mc--GlKw2wg\n@whitedns",
-        "date": "2026-07-25T13:34:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1309_0_edff540b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1309_1_54cfa895.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.youtube.com/watch?v=tz8cj7HzHVI",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=tz8cj7HzHVI"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=filwdiPKN90",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=filwdiPKN90"
-          },
-          {
-            "url": "https://youtu.be/Mc--GlKw2wg",
-            "type": "youtube",
-            "display_text": "https://youtu.be/Mc--GlKw2wg"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1309"
-      },
-      {
-        "id": 1308,
-        "text": "6 سرور اهدایی و فعال WhiteDNS داشته باشید برای زمان قطعی (کلیک کنید روش کپی میشه)\nServer #1 thx to Coreforge\n♥️\nLocation: Turkey\n🇹🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7nwn4e3ICAgdGh4IHRvIENvcmVmb3JnZSIsInNlcnZlciI6eyJkb21haW4iOiJ2LmFub255bW91cy5vYnNlcnZlciIsImVuY3J5cHRpb25fa2V5IjoiYjI3NTAzOTE5OWIxYzhjOSIsImVuY3J5cHRpb25fbWV0aG9kIjozfX19\nServer #2 thx to Araskhatare\n♥️\nLocation: Germany\n🇩🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6nwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI5ZGIxNjYwMmM4Yzc3NjcxOWJhZDE3ZWZjOWQxM2E0NCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #3 thx to Araskhatare\n♥️\nLocation: USA\n🇺🇸\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7rwn4e4ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6ImVkMGNlZjE2YjcxNTNiOGQ4MzVhMzI3ODYxNTk3YzY0IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #4 thx to Araskhatare\n♥️\nLocation: France\n🇫🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6vwn4e3ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImIuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiIyZjAyZTNiN2NiNTg3ZjM4M2U0MWM0MmU4ZWYzYWY2MSIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #5 thx to Araskhatare\n♥️\nLocation: UK\n🇬🇧\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6zwn4enICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImMuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJkYmYwMmYyYWVmZmQzM2QyNDY0M2ViODM4OGY2N2Y0ZCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #6 thx to Araskhatare\n♥️\nLocation: Ireland\n🇮🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh67wn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImkuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjY0MTVlYjhmOTBmMWQ0NjY1N2JjZTljYjc5MTg2NDY2IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nآموزش استفاده از برنامه اندروید\n👇\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\nآموزش استفاده از برنامه ios\n👇\nhttps://www.youtube.com/watch?v=filwdiPKN90\nآموزش استفاده از برنامه ویندوز\n👇\nhttps://youtu.be/Mc--GlKw2wg\n@whitedns",
-        "date": "2026-07-25T11:49:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1308_0_edff540b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1308_1_8a4020d1.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.youtube.com/watch?v=tz8cj7HzHVI",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=tz8cj7HzHVI"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=filwdiPKN90",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=filwdiPKN90"
-          },
-          {
-            "url": "https://youtu.be/Mc--GlKw2wg",
-            "type": "youtube",
-            "display_text": "https://youtu.be/Mc--GlKw2wg"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1308"
-      },
-      {
-        "id": 1307,
-        "text": "🍷\nآموزش وصل شدن به این روش شیر و خورشید در Mahsang دوستانی که بلد نیستند.\n1-اول به داخل mahsang برید\n2-سه خط سمت چپ رو بزنید\n3-قسمت تنظیمات سایفون رو پیدا کنید\n4-پروتوکل روی cdn fronting قرار بدید(دکمه ذخیره یا سیو رو بزنید حتما)\n5-برگرید صفحه اصلی گزینه F رو بزنید\n6-حالت فقط سایفون/only pisphon رو بزنید و دکمه کانکت و تمام\nحالا شما رایگان و با سرعت بدون نیاز به پیدا کردن ip به اینترنت آزاد متصل میشید\n🔛\nلینک دانلود نسخه جدید\n@xsfilterrnet\n👑",
-        "date": "2026-07-25T04:14:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1307_0_9fbf6d7c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "whitedns_1307_1_b2c39ef2.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/whitedns/1307"
       }
     ],
     "withyashar": [
@@ -9508,6 +9479,94 @@
     ],
     "IranintlTV": [
       {
+        "id": 352476,
+        "text": "سرخط خبرهای جمعه ۲۳ مرداد\n@iranintltv",
+        "date": "2026-08-14T04:18:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352476_0_fd5357d7.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352476_1_bac238d0.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352476"
+      },
+      {
+        "id": 352475,
+        "text": "آنتونی آلبانیزی، نخست‌وزیر استرالیا، در گفت‌وگوی تلفنی با دونالد ترامپ، رییس‌جمهوری آمریکا، دستیابی احتمالی جمهوری اسلامی به سلاح هسته‌ای را خطری بزرگ برای منطقه خواند. به گفته آلبانیزی، ترامپ نیز درباره روند جنگ و تحولات پیش رو ابراز اطمینان کرده است.\nآلبانیزی این تماس، که پنج‌شنبه‌شب به وقت شرق استرالیا انجام شد، را «صمیمانه و سازنده» توصیف کرد و گفت: «همچنان تاکید کردیم که نباید به جمهوری اسلامی اجازه داده شود به سلاح هسته‌ای دست یابد.»\nنخست‌وزیر استرالیا با اشاره به عملکرد تهران در جنگ، تاکید کرد جمهوری اسلامی افزون بر درگیری با آمریکا و اسرائیل، به تعدادی از کشورهای منطقه، از جمله امارات متحده عربی، حمله کرده است.\nدو رهبر همچنین درباره پیمان دفاعی آکوس میان استرالیا، آمریکا و بریتانیا و ائتلاف‌های اخیر کانبرا در منطقه اقیانوس آرام گفت‌وگو کردند.\nآلبانیزی در بخش دیگری از این تماس خواستار لغو تعرفه‌های ۱۲.۵ درصدی آمریکا بر کالاهای استرالیایی شد که از ماه ژوییه به اجرا درآمده است. به گفته نخست‌وزیر استرالیا، ترامپ پذیرفت این درخواست را بررسی کند.\nhttps://iranintl.com/202608140516",
+        "date": "2026-08-14T03:46:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352475_0_fd5357d7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_352475_1_2a056443.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608140516",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608140516"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/352475"
+      },
+      {
+        "id": 352474,
+        "text": "مقام‌های آمریکایی می‌گویند ایالات متحده توان ادامه نامحدود محاصره دریایی جمهوری اسلامی را دارد؛ هم‌زمان، تهران بازگشایی تنگه هرمز را به لغو تحریم‌ها و آزادسازی دارایی‌های مسدودشده خود مشروط کرده است. این تحولات در شرایطی رخ می‌دهد که مذاکرات متوقف مانده و تردد کشتی‌ها از تنگه هرمز همچنان کاهش یافته است.\nپیت هگست، وزیر جنگ آمریکا، پنج‌شنبه در سفر به پاناما گفت نیروی دریایی آمریکا با جابه‌جایی نوبتی شناورها می‌تواند محاصره ایران را برای مدت نامحدود ادامه دهد. به گزارش رویترز، این محاصره که پس از شکست توافق اولیه آتش‌بس از سر گرفته شد، صادرات نفت و درآمد ارزی تهران را تحت فشار قرار داده است.\nدر مقابل، مقام‌های جمهوری اسلامی اعلام کرده‌اند تنگه هرمز تا زمان پذیرش شروط تهران، از جمله لغو تحریم‌ها و آزادسازی دارایی‌های مسدودشده، بازگشایی نخواهد شد. هم‌زمان، آمارها از کاهش شدید تردد کشتی‌ها در این تنگه حکایت دارد و حمله به دو شناور شرکت ادنوک نیز نگرانی‌ها درباره امنیت کشتیرانی را افزایش داده است. کارشناسان هشدار می‌دهند ادامه این وضعیت می‌تواند عرضه جهانی نفت و رشد اقتصاد جهان را بیش از پیش تحت تاثیر قرار دهد.\nht",
+        "date": "2026-08-14T03:29:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352474_0_fd5357d7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_352474_1_c4664ace.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352474"
+      },
+      {
+        "id": 352473,
+        "text": "خبرگزاری فرانسه گزارش داد صنعت نفت کویت پس از شش ماه جنگ آمریکا و جمهوری اسلامی با کاهش شدید صادرات روبه‌رو شده و این کشور را با بزرگ‌ترین بحران اقتصادی خود از زمان حمله عراق در سال ۱۹۹۰ مواجه کرده است. مقام‌های کویتی هشدار می‌دهند ادامه اختلال در تنگه هرمز می‌تواند آسیب‌های اقتصادی را تشدید کند.\nبر اساس این گزارش، بیش از ۹۰ درصد درآمد دولت کویت به صادرات نفت وابسته است و این کشور، برخلاف عربستان سعودی و امارات متحده عربی، مسیر جایگزینی برای دور زدن تنگه هرمز ندارد. مدیرعامل شرکت نفت کویت شرایط کنونی را سخت‌ترین بحران صنعت نفت این کشور از زمان اشغال کویت در سال ۱۹۹۰ توصیف کرد.\nبه نوشته خبرگزاری فرانسه، تاسیسات انرژی و آب‌شیرین‌کن‌های کویت در ماه‌های اخیر بارها هدف حملات قرار گرفته‌اند و شرکت دولتی نفت نیز ناچار به اجرای برنامه‌های اضطراری شده است. آمارهای رسمی از کاهش ۴.۶ درصدی اقتصاد کویت و افت ۱۲.۵ درصدی تولید بخش نفت در سه‌ماهه نخست سال ۲۰۲۶ حکایت دارد. کارشناسان هشدار می‌دهند ادامه جنگ و محدودیت در تنگه هرمز، امنیت انرژی و اقتصاد کویت را بیش از پیش تهدید خواهد کرد.\nhttps://iranintl.com/202608146717",
+        "date": "2026-08-14T03:10:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352473_0_fd5357d7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_352473_1_22a65f5f.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608146717",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608146717"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/352473"
+      },
+      {
         "id": 352472,
         "text": "فرودگاه اینچئون کره جنوبی در نیمه نخست سال ۲۰۲۶ با جابه‌جایی ۳۸ میلیون و ۳۹۰ هزار مسافر بین‌المللی، برای نخستین بار به شلوغ‌ترین فرودگاه جهان از نظر تردد مسافران خارجی تبدیل شد. بر اساس گزارش‌ها، اختلال در فعالیت قطب‌های هوایی خاورمیانه در پی جنگ آمریکا و جمهوری اسلامی، بخشی از پروازهای ترانزیتی را به مسیرهای شرق آسیا منتقل کرده است.\nبر اساس آمار مقدماتی شورای بین‌المللی فرودگاه‌ها، شمار مسافران ترانزیتی اینچئون نسبت به مدت مشابه سال گذشته ۱۸.۱ درصد افزایش یافت و به چهار میلیون و ۲۴۰ هزار نفر رسید. همچنین تردد مسافران ترانزیتی اروپا از طریق این فرودگاه ۶۳.۲ درصد رشد کرد.\nفرودگاه هیترو لندن با ۳۷ میلیون و ۷۹۰ هزار مسافر بین‌المللی در رتبه دوم و فرودگاه چانگی سنگاپور با ۳۴ میلیون و ۵۳۰ هزار مسافر در جایگاه سوم قرار گرفتند.\nشرکت فرودگاه بین‌المللی اینچئون اعلام کرد کاهش نقش مراکز هوایی خاورمیانه، از جمله دبی، و افت ۱۶.۵ درصدی ظرفیت پروازها به این منطقه، هم‌زمان با افزایش ۷.۹ درصدی ترافیک هوایی آسیا و اقیانوسیه، به رشد جایگاه اینچئون کمک کرده است.\nhttps://iranintl.com/202608141532",
         "date": "2026-08-14T01:41:28+00:00",
@@ -10837,46 +10896,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/352367"
-      },
-      {
-        "id": 352366,
-        "text": "یک شهروند ویدیویی برای ایران اینترنشنال فرستاد و در آن با اشاره به قطع شبانه برق در سبزوار، گفت: «محمدرضا شاه پهلوی می‌گفت با نور شمع به دنبال من خواهید گشت»",
-        "date": "2026-08-13T08:59:01+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352366"
-      },
-      {
-        "id": 352365,
-        "text": "دایی جاویدنام طاها سلیمانی با انتشار ویدیویی در شبکه‌های اجتماعی اعلام کرد حکم پلمب فروشگاهش به‌دلیل نصب عکس خواهرزاده‌اش ابلاغ شده و داشتن این عکس می‌تواند برای او از شش ماه تا یک سال حبس به همراه داشته باشد.\nطاها سلیمانی ۱۸ دی در جریان اعتراضات در صادقیه تهران با شلیک نیروهای جمهوری اسلامی کشته شد.",
-        "date": "2026-08-13T08:34:08+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352365"
-      },
-      {
-        "id": 352364,
-        "text": "آمریکا در واکنش به اظهارات یسرائیل کاتز، وزیر دفاع اسرائیل، درباره ماندن ارتش این کشور در جنوب لبنان، اعلام کرد حضور نظامی دایمی اسرائیل در این منطقه با تعهدات پیشین این کشور و هدف دستیابی به صلح و امنیت پایدار سازگار نیست.\nبابک اسحاقی، خبرنگار ایران‌اینترنشنال، گفت ارزیابی‌ها در اسرائیل نشان می‌دهد که بعید است در آینده‌ای نزدیک، اسرائیل مناطقی را که در جنوب لبنان در اختیار دارد، رها کند.\n@iranintltv",
-        "date": "2026-08-13T08:29:24+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352364"
-      },
-      {
-        "id": 352363,
-        "text": "🔻\nدر رقابت‌های وزنه‌برداری نوجوانان آسیا در تاشکند، آناهیتا زارعی، ملی‌پوش دسته ۷۷ کیلوگرم ایران، در یک‌ضرب برنز گرفت و با کسب طلای دوضرب، به مدال طلای مجموع رسید و قهرمان آسیا شد.\n🔹\nنسیم قاسمی نیز در این دسته، مدال طلای یکضرب و ۲ نقره دوضرب و مجموع را کسب کرد.\n🔹\nهمچنین در مسابقات قهرمانی جوانان آسیا هستی صدیقی با مهار وزنه ۱۲۶ کیلوگرمی در دوضرب، مدال طلای این بخش را گرفت. هانیه شریفی نیز با رکورد مجموع ۲۱۱ کیلوگرم، مدال برنز را به دست آورد.\n@iranintltvsport",
-        "date": "2026-08-13T08:26:45+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352363"
       }
     ],
     "ProxyMTProto": [
@@ -17253,6 +17272,31 @@
     ],
     "yehirani": [
       {
+        "id": 19658,
+        "text": "🔴\nصداوسیما: مراسم تفاهم نامه وزارت خانه های بهداشت و امور خوارجه\nغلط املائی؟؟\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@yehirani\n| 𝐏𝐎𝐔𝐑𝐢",
+        "date": "2026-08-14T03:42:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19658_0_dd8272c8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_19658_1_f09432b3.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
+            "type": "telegram",
+            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/yehirani/19658"
+      },
+      {
         "id": 19657,
         "text": "خطاب به تویی که کسیو نداری بهت شب به خیر بگه :\nاز صمیم قلبم برات بهترین هارو آرزو میکنم قشنگم ، امیدوارم به هر چی میخوای برسی چون لایقشی\n💋\nخوب بخوابی عزیزم\n❤️\n🇮🇷\n@YehIrani\n| حاج متی",
         "date": "2026-08-13T21:20:40+00:00",
@@ -19582,31 +19626,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/yehirani/19551"
-      },
-      {
-        "id": 19550,
-        "text": "🔴\nپزشکیان: مجتبی کاملا سالمه، خیالتون راحت\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@YehIrani\n| حاج متی",
-        "date": "2026-08-10T17:36:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19550_0_a91f494f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "yehirani_19550_1_d842d703.mp4"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
-            "type": "telegram",
-            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/yehirani/19550"
       }
     ],
     "crgaming7": [
@@ -23258,21 +23277,21 @@
       }
     ]
   },
-  "last_update": "2026-08-14T02:10:37.050866+00:00",
+  "last_update": "2026-08-14T04:22:59.597677+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1012,
-    "total_files": 1012,
-    "total_links": 390,
+    "total_media": 1018,
+    "total_files": 1018,
+    "total_links": 388,
     "files_by_type": {
-      "image": 870,
-      "video": 131,
+      "image": 877,
+      "video": 130,
       "audio": 11
     },
-    "referenced_files": 1012,
-    "existing_media_files": 1012,
-    "total_size_mb": 499.41,
-    "last_calculation": "2026-08-14T02:10:37.062600+00:00"
+    "referenced_files": 1018,
+    "existing_media_files": 1018,
+    "total_size_mb": 493.59,
+    "last_calculation": "2026-08-14T04:22:59.609761+00:00"
   }
 }
