@@ -2560,6 +2560,66 @@
     ],
     "whitedns": [
       {
+        "id": 1464,
+        "text": "🌎\nانتشار نسخه ۱.۳.۱ اپلیکیشن WhiteVPN\nپست قبلی پاک شد. یک آپدیت کوچیک داشتیم به ورژن ۱.۳.۱\n😆\nاز این به بعد آپدیت هارو اتوماتیک از داخل اپ میتونید بگرید",
+        "date": "2026-08-14T05:28:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1464_0_8bb829ff.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1464"
+      },
+      {
+        "id": 1459,
+        "text": "",
+        "date": "2026-08-14T05:28:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1459_0_8bb829ff.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1459"
+      },
+      {
+        "id": 1458,
+        "text": "🌎\nپروژه WhiteVPN رو اوپن‌سورس کردیم و در گیتهاب میتونید بهش دسترسی داشته باشید.\nhttps://github.com/WhiteDNS/WhiteVPN\nهمراه با پابلیک شدن پروژه، نسخه ۱.\n۳\n.\n۱\nهم ریلیز کردیم\n⛏\nدر این نسخه امکان\n• آپدیت اتوماتیک اپ  بعد از یک ورژن جدید\n• امکان routing برای سایت ها و آی‌پی های ایرانی به تنظیمات اضافه شده تا دیگه نیاز نباشه اتصال رو برای سایت های داخلی قطع کنید.\n• اشتراک گذاری WhiteVPN در شبکه اضافه شده.\n• حالا میتونید اپ پروکسی اپ در داخل اپ های دیگه مثل سایفون استفاده کنید.\n• تست سرعت به سابسکریپشن اضافه شده\nدانلود نسخه جدید از گیت‌هاب\nhttps://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.3.1",
+        "date": "2026-08-14T05:25:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1458_0_8bb829ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1458_1_e44a2348.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteVPN",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteVPN"
+          },
+          {
+            "url": "https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.3.1",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.3.1"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1458"
+      },
+      {
         "id": 1457,
         "text": "🌎\nنسخه جدید WhiteVPN 1.3.0",
         "date": "2026-08-14T04:15:52+00:00",
@@ -4534,111 +4594,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1313"
-      },
-      {
-        "id": 1312,
-        "text": "سرور های اهدایی و فعال WhiteDNS پارت ۲ داشته باشید برای زمان قطعی (کلیک کنید روش کپی میشه)\nServer #11 thx to Araskhatare\n♥️\nLocation: Germany\n🇩🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6nwn4eqIDIgICB0aHggdG8gQXJhc2toYXRhcmUiLCJzZXJ2ZXIiOnsiZG9tYWluIjoiZGUuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjI0OWUzNDlhNDc2NjQyYTg4ZTQ2NDVmYTJiZjgwZjhjIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #12 thx to Araskhatare\n♥️\nLocation: Israel\n🇮🇱\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh67wn4exICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImlzLmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI2MmIyNjQ0NzU5MjU4OWE0NmQ1MzdlY2M5NDc3MzY2NiIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nآموزش استفاده از برنامه اندروید\n👇\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\nآموزش استفاده از برنامه ios\n👇\nhttps://www.youtube.com/watch?v=filwdiPKN90\nآموزش استفاده از برنامه ویندوز\n👇\nhttps://youtu.be/Mc--GlKw2wg\n@whitedns",
-        "date": "2026-07-25T20:07:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1312_0_edff540b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1312_1_d3ccb3a5.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.youtube.com/watch?v=tz8cj7HzHVI",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=tz8cj7HzHVI"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=filwdiPKN90",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=filwdiPKN90"
-          },
-          {
-            "url": "https://youtu.be/Mc--GlKw2wg",
-            "type": "youtube",
-            "display_text": "https://youtu.be/Mc--GlKw2wg"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1312"
-      },
-      {
-        "id": 1311,
-        "text": "10 سرور اهدایی و فعال WhiteDNS داشته باشید برای زمان قطعی (کلیک کنید روش کپی میشه)\nServer #1 thx to Coreforge\n♥️\nLocation: Turkey\n🇹🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7nwn4e3ICAgdGh4IHRvIENvcmVmb3JnZSIsInNlcnZlciI6eyJkb21haW4iOiJ2LmFub255bW91cy5vYnNlcnZlciIsImVuY3J5cHRpb25fa2V5IjoiYjI3NTAzOTE5OWIxYzhjOSIsImVuY3J5cHRpb25fbWV0aG9kIjozfX19\nServer #2 thx to Araskhatare\n♥️\nLocation: Germany\n🇩🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6nwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI5ZGIxNjYwMmM4Yzc3NjcxOWJhZDE3ZWZjOWQxM2E0NCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #3 thx to Araskhatare\n♥️\nLocation: USA\n🇺🇸\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7rwn4e4ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6ImVkMGNlZjE2YjcxNTNiOGQ4MzVhMzI3ODYxNTk3YzY0IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #4 thx to Araskhatare\n♥️\nLocation: France\n🇫🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6vwn4e3ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImIuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiIyZjAyZTNiN2NiNTg3ZjM4M2U0MWM0MmU4ZWYzYWY2MSIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #5 thx to Araskhatare\n♥️\nLocation: UK\n🇬🇧\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6zwn4enICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImMuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJkYmYwMmYyYWVmZmQzM2QyNDY0M2ViODM4OGY2N2Y0ZCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #6 thx to Araskhatare\n♥️\nLocation: Ireland\n🇮🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh67wn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImkuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjY0MTVlYjhmOTBmMWQ0NjY1N2JjZTljYjc5MTg2NDY2IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #7 thx to Araskhatare\n♥️\nLocation: Sweden\n🇸🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7jwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InEuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjFkYjFiMWIyNGM2N2IxNzYwOTAzMmNjNDdhZmRhMzZlIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #8 thx to Araskhatare\n♥️\nLocation: Spain\n🇪🇸\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6rwn4e4ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6Im4uYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjU4MTcyOTA4ZGFhNTAxZTk0MjUzNWU2NTY3NzkwM2ZkIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #9 thx to Araskhatare\n♥️\nLocation: Italy\n🇮🇹\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh67wn4e5ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6Imx5LmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJkMzM4NmM1MzkxZmRmOTJjMmNkODM3YmFkZTBhNGVjYyIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #10 thx to Araskhatare\n♥️\nLocation: Brazil\n🇧🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6fwn4e3ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImlsLmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJmNzk4MDAyYzlkMTkxMTg4M2MzOTE2YTQ4ZTkzNTVkMiIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nآموزش استفاده از برنامه اندروید\n👇\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\nآموزش استفاده از برنامه ios\n👇\nhttps://www.youtube.com/watch?v=filwdiPKN90\nآموزش استفاده از برنامه ویندوز\n👇\nhttps://youtu.be/Mc--GlKw2wg\n@whitedns",
-        "date": "2026-07-25T19:18:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1311_0_edff540b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1311_1_936f842d.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.youtube.com/watch?v=tz8cj7HzHVI",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=tz8cj7HzHVI"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=filwdiPKN90",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=filwdiPKN90"
-          },
-          {
-            "url": "https://youtu.be/Mc--GlKw2wg",
-            "type": "youtube",
-            "display_text": "https://youtu.be/Mc--GlKw2wg"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1311"
-      },
-      {
-        "id": 1310,
-        "text": "10 سرور اهدایی و فعال WhiteDNS داشته باشید برای زمان قطعی (کلیک کنید روش کپی میشه)\nServer #1 thx to Coreforge\n♥️\nLocation: Turkey\n🇹🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7nwn4e3ICAgdGh4IHRvIENvcmVmb3JnZSIsInNlcnZlciI6eyJkb21haW4iOiJ2LmFub255bW91cy5vYnNlcnZlciIsImVuY3J5cHRpb25fa2V5IjoiYjI3NTAzOTE5OWIxYzhjOSIsImVuY3J5cHRpb25fbWV0aG9kIjozfX19\nServer #2 thx to Araskhatare\n♥️\nLocation: Germany\n🇩🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6nwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI5ZGIxNjYwMmM4Yzc3NjcxOWJhZDE3ZWZjOWQxM2E0NCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #3 thx to Araskhatare\n♥️\nLocation: USA\n🇺🇸\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7rwn4e4ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6ImVkMGNlZjE2YjcxNTNiOGQ4MzVhMzI3ODYxNTk3YzY0IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #4 thx to Araskhatare\n♥️\nLocation: France\n🇫🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6vwn4e3ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImIuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiIyZjAyZTNiN2NiNTg3ZjM4M2U0MWM0MmU4ZWYzYWY2MSIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #5 thx to Araskhatare\n♥️\nLocation: UK\n🇬🇧\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6zwn4enICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImMuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJkYmYwMmYyYWVmZmQzM2QyNDY0M2ViODM4OGY2N2Y0ZCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #6 thx to Araskhatare\n♥️\nLocation: Ireland\n🇮🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh67wn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImkuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjY0MTVlYjhmOTBmMWQ0NjY1N2JjZTljYjc5MTg2NDY2IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #7 thx to Araskhatare\n♥️\nLocation: Sweden\n🇸🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7jwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InEuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjFkYjFiMWIyNGM2N2IxNzYwOTAzMmNjNDdhZmRhMzZlIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #8 thx to Araskhatare\n♥️\nLocation: Sweden\n🇸🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6rwn4e4ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6Im4uYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjU4MTcyOTA4ZGFhNTAxZTk0MjUzNWU2NTY3NzkwM2ZkIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #9 thx to Araskhatare\n♥️\nLocation: Italy\n🇮🇹\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh67wn4e5ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6Imx5LmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJkMzM4NmM1MzkxZmRmOTJjMmNkODM3YmFkZTBhNGVjYyIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #10 thx to Araskhatare\n♥️\nLocation: Brazil\n🇧🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6fwn4e3ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImlsLmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJmNzk4MDAyYzlkMTkxMTg4M2MzOTE2YTQ4ZTkzNTVkMiIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nآموزش استفاده از برنامه اندروید\n👇\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\nآموزش استفاده از برنامه ios\n👇\nhttps://www.youtube.com/watch?v=filwdiPKN90\nآموزش استفاده از برنامه ویندوز\n👇\nhttps://youtu.be/Mc--GlKw2wg\n@whitedns",
-        "date": "2026-07-25T19:13:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1310_0_edff540b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1310_1_7b1c6610.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.youtube.com/watch?v=tz8cj7HzHVI",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=tz8cj7HzHVI"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=filwdiPKN90",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=filwdiPKN90"
-          },
-          {
-            "url": "https://youtu.be/Mc--GlKw2wg",
-            "type": "youtube",
-            "display_text": "https://youtu.be/Mc--GlKw2wg"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1310"
       }
     ],
     "withyashar": [
@@ -9479,6 +9434,82 @@
     ],
     "IranintlTV": [
       {
+        "id": 352480,
+        "text": "در روزهایی که کلمبیا با پیامدهای یکی از مرگبارترین زمین‌لرزه‌های سال‌های اخیر درگیر است، هزاران امدادگر و داوطلب برای یافتن بازماندگان و کمک به آسیب‌دیدگان بسیج شده‌اند. در میان آن‌ها، بعضی قصه‌ها فراتر از یک عملیات امدادند و روایت سال‌ها فداکاری و امیدند.\nگزارش تهمینه رستمی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-08-14T05:31:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352480_0_fd5357d7.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352480_1_fda63589.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352480"
+      },
+      {
+        "id": 352479,
+        "text": "در روزهایی که کلمبیا با پیامدهای یکی از مرگبارترین زمین‌لرزه‌های سال‌های اخیر درگیر است، هزاران امدادگر و داوطلب برای یافتن بازماندگان و کمک به آسیب‌دیدگان بسیج شده‌اند. در میان آن‌ها، بعضی قصه‌ها فراتر از یک عملیات امدادند و روایت سال‌ها فداکاری و امیدند.\nگزارش تهمینه رستمی، حبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-08-14T05:31:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352479_0_fd5357d7.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352479_1_d4f6fa28.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352479"
+      },
+      {
+        "id": 352478,
+        "text": "مهدی صارمی‌فر، روزنامه‌نگار علم و تکنولوژی، با اشاره به گزارش خبرگزاری تسنیم، وابسته به سپاه پاسداران درباره رایزنی جمهوری‌اسلامی و روسیه برای گسترش همکاری در حوزه امنیت اطلاعات و هماهنگی این اقدامات در سازمان ملل، گفت جمهوری‌اسلامی و روسیه به‌دنبال پیشبرد مقرراتی هستند که اینترنت را از ساختار آزاد و بین‌المللی آن خارج کند و تحت کنترل حکومت‌ها درآورد.\n@iranintltv",
+        "date": "2026-08-14T05:27:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352478_0_fd5357d7.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352478_1_ed8baa86.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352478"
+      },
+      {
+        "id": 352477,
+        "text": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، گفت فشارهای داخلی و سیاسی بر جمهوری‌اسلامی افزایش یافته، به همین دلیل تلاش می‌کند مذاکرات را تا حد ممکن طولانی کند تا به توافقی برسد که بتواند آن را به‌عنوان «پیروزی» عرضه کند.\n@iranintltv",
+        "date": "2026-08-14T05:03:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352477_0_fd5357d7.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352477_1_2c300746.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352477"
+      },
+      {
         "id": 352476,
         "text": "سرخط خبرهای جمعه ۲۳ مرداد\n@iranintltv",
         "date": "2026-08-14T04:18:34+00:00",
@@ -9845,16 +9876,7 @@
         "id": 352461,
         "text": "آیا مجتبی زنده است؟\n… و چند پرسش کلیدی دیگر از مراد ویسی\nمراد ویسی، امشب مهمان «برنامه با کامبیز حسینی» بود و به پرسش‌های شما پاسخ داد. نسخهٔ کامل این برنامه را می‌توانید در یوتیوب و وب‌سایت ایران اینترنشنال ببینید.\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/iUsAKbJy-Ao\n@iranintltv",
         "date": "2026-08-13T23:06:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_352461_0_fd5357d7.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_352461_1_e7ce750e.mp4"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://youtu.be/iUsAKbJy-Ao",
@@ -9862,7 +9884,7 @@
             "display_text": "https://youtu.be/iUsAKbJy-Ao"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/352461"
       },
@@ -9870,14 +9892,9 @@
         "id": 352460,
         "text": "🎧\nنسخه صوتی برنامه با کامبیز حسینی | پرسش‌های شما؛ پاسخ‌های مراد ویسی\n@iranintlTV",
         "date": "2026-08-13T23:04:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_352460_0_fd5357d7.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352460"
       },
@@ -9885,18 +9902,9 @@
         "id": 352459,
         "text": "🔻\nباشگاه پرسپولیس با انتشار ویدیویی با حضور کریم باقری، یکی از محبوبترین ستاره‌های سرخ‌پوشان و عضو کادر فنی تیم، وعده رونمایی از پیراهن جدید خود برای فصل تازه لیگ برتر داد.\n@iranintltvsport",
         "date": "2026-08-13T23:01:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_352459_0_fd5357d7.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_352459_1_7dd021d8.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352459"
       },
@@ -9904,18 +9912,9 @@
         "id": 352458,
         "text": "یک رزمایش نظامی در آلمان به آزمونی جدی برای ارتش آمریکا در برابر جنگ پهپادی تبدیل شد. در این رزمایش، نیروهای اوکراینی با استفاده از پهپادهای شناسایی و تهاجمی توانستند در سناریویی شبیه‌سازی‌شده، بارها نیروها و خودروهای زرهی آمریکا را شناسایی و از میدان خارج کنند.\nگزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-08-13T22:40:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_352458_0_fd5357d7.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_352458_1_561dbb57.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352458"
       },
@@ -10850,55 +10849,54 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352371"
-      },
-      {
-        "id": 352370,
-        "text": "دولت آلمان با تصویب طرحی جدید، اختیارات عملیاتی و سایبری سرویس‌های اطلاعاتی این کشور را به‌طور چشمگیری گسترش می‌دهد. بنا بر این طرح که باید به تایید پارلمان برسد، سازمان اطلاعات خارجی آلمان از یک نهاد تحلیل اطلاعات به سازمانی با توان عملیاتی تبدیل می‌شود.\nاحمد صمدی، خبرنگار ایران‌اینترنشنال گزارش می‌دهد\n@iranintltv",
-        "date": "2026-08-13T09:33:43+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352370"
-      },
-      {
-        "id": 352369,
-        "text": "رای‌دهندگان حوزه کلاکتون در شرق انگلستان امروز در انتخابات میان‌دوره‌ای این حوزه شرکت می‌کنند؛ انتخاباتی که پس از استعفای داوطلبانه نایجل فاراژ، رهبر حزب اصلاح بریتانیا، از کرسی خود برگزار می‌شود.\nجزییات بیشتر با علی رشید، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-13T09:30:45+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352369"
-      },
-      {
-        "id": 352368,
-        "text": "یکی از مدیران جایگاه‌های سوخت در کرمان به ایران‌اینترنشنال گفت اجرای آزمایشی طرح فروش بنزین ۸۷ هزار تومانی به‌دلیل نگرانی از اعتراضات مردمی و پیامدهای آن متوقف شده است.\nلیلا سعادتی، عضو تحریریه ایران‌اینترنشنال، درباره واکنش شهروندان به فروش بنزین ۸۷ هزار تومانی می‌گوید\n@iranintltv",
-        "date": "2026-08-13T09:26:05+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352368"
-      },
-      {
-        "id": 352367,
-        "text": "محمدرضا کنعانی، مدیرکل حفاظت محیط زیست مازندران، گفت تراز آب دریای خزر به پایین‌ترین میزان خود در حدود ۲۰۰ سال اخیر رسیده و سالانه حدود ۱۰ تا ۲۰ سانتی‌متر کاهش می‌یابد.\nکنعانی گفت طی دو دهه گذشته دمای آب دریای خزر حدود یک‌ونیم درجه افزایش یافته و میزان تبخیر نیز ۱۰ تا ۱۵ درصد بیشتر شده و افزایش دما و تبخیر باعث منفی شدن بیلان آبی خزر شده است.\nاو هشدار داد ادامه کاهش تراز آب دریای خزر می‌تواند بر معیشت جوامع ساحلی، تاسیسات و زیرساخت‌های ساحلی و زیست‌بوم‌های وابسته به خزر، از جمله تالاب‌های ساحلی، تاثیر بگذارد.\nhttps://iranintl.com/202608133507",
-        "date": "2026-08-13T09:04:23+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608133507",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608133507"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/352367"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50109,
+        "text": "Server:\nUnknown\nPort:\n13443\nSecret:\neee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d\n@ProxyMTProto",
+        "date": "2026-08-14T05:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50109_0_1f30d0a2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50109"
+      },
+      {
+        "id": 50108,
+        "text": "Server:\ndownload.lv426.co.uk.\nPort:\n443\nSecret:\needdffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169\n@ProxyMTProto",
+        "date": "2026-08-14T05:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50108_0_1f30d0a2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50108"
+      },
+      {
+        "id": 50107,
+        "text": "Server:\nmtp.webvirt.cloud\nPort:\n443\nSecret:\nee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564\n@ProxyMTProto",
+        "date": "2026-08-14T04:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50107_0_1f30d0a2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50107"
+      },
       {
         "id": 50106,
         "text": "Server:\nsrv.medblock.fit\nPort:\n443\nSecret:\neeec4689270e8be04e90051b374792331e7372762e6d6564626c6f636b2e666974\n@ProxyMTProto",
@@ -11873,36 +11871,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50010"
-      },
-      {
-        "id": 50009,
-        "text": "Server:\nSaLam.BaCheha.miomio\nPort:\n7980\nSecret:\neeNEgYdJvXrFGRMCIMJdCQ\n@ProxyMTProto",
-        "date": "2026-08-11T05:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50009"
-      },
-      {
-        "id": 50008,
-        "text": "Server:\ns010.neo-trading.org\nPort:\n8443\nSecret:\nee2c46ee89b4f2c79c1d8325d13091e580647a656e2e7275\n@ProxyMTProto",
-        "date": "2026-08-11T04:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50008"
-      },
-      {
-        "id": 50007,
-        "text": "Server:\nUnknown\nPort:\n443\nSecret:\nddf0eeb0bd9adc4fd4a93994ee3b2a216b\n@ProxyMTProto",
-        "date": "2026-08-10T20:28:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50007"
       }
     ],
     "XpnTeam": [
@@ -23277,21 +23245,21 @@
       }
     ]
   },
-  "last_update": "2026-08-14T04:22:59.597677+00:00",
+  "last_update": "2026-08-14T05:59:08.922624+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1018,
-    "total_files": 1018,
-    "total_links": 388,
+    "total_media": 1020,
+    "total_files": 1020,
+    "total_links": 380,
     "files_by_type": {
-      "image": 877,
-      "video": 130,
+      "image": 878,
+      "video": 131,
       "audio": 11
     },
-    "referenced_files": 1018,
-    "existing_media_files": 1018,
-    "total_size_mb": 493.59,
-    "last_calculation": "2026-08-14T04:22:59.609761+00:00"
+    "referenced_files": 1020,
+    "existing_media_files": 1020,
+    "total_size_mb": 497.55,
+    "last_calculation": "2026-08-14T05:59:08.929328+00:00"
   }
 }
