@@ -2561,6 +2561,31 @@
     ],
     "whitedns": [
       {
+        "id": 1474,
+        "text": "🚀\nانتشار WhiteDNS Clean IP Finder 1.3.7\nنسخه جدید WhiteDNS Clean IP Finder با تمرکز روی افزایش سرعت پیدا کردن DNS Resolverهای سالم در Desktop و Android منتشر شد.\n⚡️\nمهم‌ترین تغییرات:\n• اجرای همزمان تست‌های DNS Transport و TXT Passthrough برای کاهش Timeout\n• اجرای Parallel بررسی‌های NXDOMAIN Hijack\n• اضافه شدن Fast Scan با حفظ بررسی‌های اصلی A Record، Recursion، EDNS و TXT Tunnel\n• حفظ Full Scan به‌عنوان حالت پیش‌فرض برای بررسی کامل\n• بهبود دریافت و Cache اطلاعات Reference DNS\n• اضافه شدن UDP/53 Only و TCP/53 Only در Android\n• گزارش دقیق‌تر DNS Poisoning، Injection و Hijack\n• بروزرسانی دیتابیس Iran & Global ASN شامل IPv4 و IPv6\n💻\nپشتیبانی از Windows، Linux، macOS و Termux\n📱\nنسخه Android شامل APKهای مختلف، Universal APK\n✅\nبرای آپدیت نیازی به تغییر تنظیمات قبلی نیست.\n📥\nدانلود WhiteDNS Clean IP Finder 1.3.7:\nhttps://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases/tag/v1.3.7\n⚡️\nWhiteDNS Clean IP Finder — اسکن سریع‌تر، تشخیص دقیق‌تر و دیتابیس به‌روزتر\n@whitedns",
+        "date": "2026-08-14T23:19:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1474_0_f5b8da26.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1474_1_09696b53.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases/tag/v1.3.7",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1474"
+      },
+      {
         "id": 1473,
         "text": "⏯️\nآموزش ساخت کانفیگ V2Ray با سرور رایگان!   توی این آموزش با استفاده از Wasmer یه سرور رایگان می‌سازیم و در نهایت بدون نیاز به خرید سرور، ۳ تا کانفیگ V2Ray برای مصرف شخصی دریافت می‌کنیم.\n⚡️\n⏯️\nتماشا در یوتیوب  https://youtu.be/EAjOhvuMw8Q",
         "date": "2026-08-14T18:23:44+00:00",
@@ -4606,31 +4631,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1323"
-      },
-      {
-        "id": 1322,
-        "text": "https://t.me/+FE3VusXUmuE4Yjhk  در گروه اختصاصی ما عضو شوید لطفا\n🤝\n@whitedns",
-        "date": "2026-07-26T08:33:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1322_0_87dc8eeb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1322_1_6184f0e0.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+FE3VusXUmuE4Yjhk",
-            "type": "telegram",
-            "display_text": "https://t.me/+FE3VusXUmuE4Yjhk"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1322"
       }
     ],
     "withyashar": [
@@ -9495,6 +9495,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 352612,
+        "text": "مسعود پزشکیان در دیدار هفته گذشته با دبیران احزاب سیاسی، از کاهش درآمدهای نفتی، افزایش هزینه واردات و خسارت واردشده به کارخانه‌ها خبر داد و گفت: نمی‌توانیم نفت بفروشیم. ویدیوهای این نشست به‌تازگی منتشر شد.\n@iranintltv",
+        "date": "2026-08-14T23:03:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352612_0_7d4cc388.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352612_1_c6eb8ea3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352612"
+      },
+      {
         "id": 352611,
         "text": "نوحه «بریم نجف» که بلاگرهای حامی حکومت برای تبلیغ سفر اربعین از آن استفاده می‌کردند، به موجی اعتراضی در شبکه‌های اجتماعی بدل شده است. کاربران با این نوحه، ویدیوهایی از سفر و غذارسانی به حیوانات منتشر کردند؛ حکومت در واکنش، صفحه یکی از بلاگرها را با دستور مقام قضایی مسدود کرد.\n@iranintltv",
         "date": "2026-08-14T22:32:12+00:00",
@@ -10780,16 +10799,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352511"
-      },
-      {
-        "id": 352510,
-        "text": "لادن از تهران: هنوز هم خیابان‌ها بوی خون می‌دهد؛ ما فقط نفس می‌کشیم، زندگی نمی‌کنیم\n@iranintltv",
-        "date": "2026-08-14T09:34:07+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352510"
       }
     ],
     "ProxyMTProto": [
@@ -12873,6 +12882,51 @@
     ],
     "putakk": [
       {
+        "id": 26569,
+        "text": "😂\n😂",
+        "date": "2026-08-14T22:59:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "putakk_26569_0_fa667811.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/putakk/26569"
+      },
+      {
+        "id": 26568,
+        "text": "Hajitoon kiri maste mese hamishe",
+        "date": "2026-08-14T22:59:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "putakk_26568_0_fa667811.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/putakk/26568"
+      },
+      {
+        "id": 26567,
+        "text": "",
+        "date": "2026-08-14T22:56:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "putakk_26567_0_fa667811.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/putakk/26567"
+      },
+      {
         "id": 26566,
         "text": "https://www.youtube.com/watch?v=a2eye0IYQkY&t=9s",
         "date": "2026-08-14T19:00:35+00:00",
@@ -14576,65 +14630,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/putakk/26464"
-      },
-      {
-        "id": 26463,
-        "text": "https://youtu.be/ag8p23Nm0pc",
-        "date": "2026-07-20T19:04:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "putakk_26463_0_f4db332c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "putakk_26463_1_1ad32c61.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://youtu.be/ag8p23Nm0pc",
-            "type": "youtube",
-            "display_text": "https://youtu.be/ag8p23Nm0pc"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/putakk/26463"
-      },
-      {
-        "id": 26462,
-        "text": "VARgentina بای بای",
-        "date": "2026-07-19T22:17:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "putakk_26462_0_70466068.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/putakk/26462"
-      },
-      {
-        "id": 26461,
-        "text": "",
-        "date": "2026-07-19T22:09:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "putakk_26461_0_70466068.jpg"
-          },
-          {
-            "type": "video",
-            "file": "putakk_26461_1_6a53e213.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/putakk/26461"
       }
     ],
     "SafeV2ray": [
@@ -20525,6 +20520,25 @@
     ],
     "iranstop": [
       {
+        "id": 3627,
+        "text": "🎁\nبالاترین نرخ پریمیوم ووچر در ریتزوبت\n🔥\n⚽️\nپرسپولیس\n⚽️\nشمس آذر\n🥇\nبا\nPremium Voucher\nحساب خودت رو سریع، راحت و امن شارژ کن\n✅\n🎰\nاستفاده از پریمیوم ووچر\n⬅️\nسریع ، امن و مطمئن برای شرطبندی مسابقات لیگ های معتبر در ریتزوبت.\n🎯\nدانلود اپلیکیشن بدون فیلتر اندروید\n🎯\nلینک ورود به ریتزوبت\n💎\nامکان شارژ حساب با کریپتو ، انواع ووچر و کارت بانکی.\n✅\na23\n🌍\nریتزوبت؛ همراه شب‌های فراموش‌نشدنی جام جهانی 2026\n🆔\n@RitzoBet_ir",
+        "date": "2026-08-14T23:13:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "iranstop_3627_0_3d87a77e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "iranstop_3627_1_823c14b9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/iranstop/3627"
+      },
+      {
         "id": 3626,
         "text": "🔴\nترامپ : بزودی اعلام میکنم تنگه هرمز مال ماست",
         "date": "2026-08-14T21:47:50+00:00",
@@ -21813,16 +21827,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/iranstop/3526"
-      },
-      {
-        "id": 3524,
-        "text": "لحظه اذان و اعدام شدن سه جوون ایرانی",
-        "date": "2026-07-28T00:57:15+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/iranstop/3524"
       }
     ],
     "BestProxyTel1": [
@@ -23027,21 +23031,21 @@
       }
     ]
   },
-  "last_update": "2026-08-14T22:56:29.112637+00:00",
+  "last_update": "2026-08-14T23:25:36.903301+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1002,
-    "total_files": 1002,
-    "total_links": 356,
+    "total_media": 1004,
+    "total_files": 1004,
+    "total_links": 355,
     "files_by_type": {
-      "image": 862,
+      "image": 864,
       "video": 126,
       "audio": 14
     },
-    "referenced_files": 1002,
-    "existing_media_files": 1002,
-    "total_size_mb": 496.29,
-    "last_calculation": "2026-08-14T22:56:29.124513+00:00"
+    "referenced_files": 1004,
+    "existing_media_files": 1004,
+    "total_size_mb": 496.81,
+    "last_calculation": "2026-08-14T23:25:36.912796+00:00"
   }
 }
