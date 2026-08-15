@@ -1492,6 +1492,21 @@
     ],
     "MediaMardom": [
       {
+        "id": 11234,
+        "text": "🔴\nتمسخر ایرانی‌ها توسط یک عراقی  یه عراقی با ماشینش اومده ایران، و همه با حسرت بهش نگاه میکنن و فیلم میگیرن. اونم میخنده و این ویدیو رو منتشر کرده و حالا در سطح جهان همه میگن ایرانیا ماشین ندیده ان.\n❤️\n• @MediaMardom",
+        "date": "2026-08-15T10:21:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11234_0_8c0d05ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/11234"
+      },
+      {
         "id": 11233,
         "text": "🔴\nتمسخر ایرانی‌ها توسط یک عراقی\nیه عراقی با ماشینش اومده ایران، و همه با حسرت بهش نگاه میکنن و فیلم میگیرن.\nاونم میخنده و این ویدیو رو منتشر کرده و حالا در سطح جهان همه میگن ایرانیا ماشین ندیده ان.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-15T09:50:18+00:00",
@@ -2591,19 +2606,34 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11127"
-      },
-      {
-        "id": 11126,
-        "text": "📲\nاپلیکیشن اندروید سایت ریتزوبت\n🔥\n🚀\nوقتی شرط ‌هاتون رو توی ریتزوبت ثبت کنین ، علاوه بر ضرایب بالا ، هفتگی با کد های هدیه کسب درآمد میکنید\n🤑\n♦️\nآموزش شارژ حساب با کریپتو\n♦️\nآموزش شارژ حساب  ریالی در ریتزوبت",
-        "date": "2026-08-11T16:18:50+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/11126"
       }
     ],
     "whitedns": [
+      {
+        "id": 1476,
+        "text": "WhiteAesther V1.0.2\nدوستان سلام :\nما روی هسته Aether که حاصل زحمت دوست عزیزمون\nCluvexStudio\nهست یک کلاینت**\nآزمایشی ورژن بتا\n** درست کردیم . که اگر دوست دارید تست کنید و لطف کنید فیدبک بدید.\nپیشاپیش ممنونیم\n❤️\n❤️\n❤️\nاموزش :\n📖\n**راهنمای WhiteAesther**\n**۱ — نصب**\nفایل **arm64-v8a** رو بگیر (تقریباً همه گوشی‌های ۲۰۱۷ به بعد).\nمطمئن نیستی؟ **universal** همه‌جا کار می‌کنه، فقط حجمش بیشتره.\n**۲ — سه تا نکته اول**\n▪️\n**Traffic** → گزینه Coverage روی **Whole device** باشه\n⚠️\nحالت Proxy only خودش هیچی رو رد نمی‌کنه! به‌نظر می‌رسه وصل شده ولی عملاً هیچ ترافیکی از تونل نمی‌ره.\n▪️\n**Routes** → پروفایل روی **Adaptive**\n▪️\n**Settings** → اجازه اجرا در پس‌زمینه رو بده، وگرنه با خاموش شدن صفحه قطع می‌شه\n**۳ — اگه وصل نشد، به این ترتیب امتحان کن**\n**قدم ۱ — پروتکل**\nRoutes → Advanced → Preferred transport → **MASQUE over HTTP/2**\n📌\nروی **همراه اول** مدتیه QUIC (یعنی UDP) کاملاً بسته شده. یعنی H3 اصلاً وصل نمی‌شه و فقط H2 جواب می‌ده.\nاز نسخه ۱.۰.۲ اپ خودش این کار رو می‌کنه.\n**قدم ۲ — تیکه‌تیکه کردن TLS**\n⭐️\nTraffic → Advanced → **Split the TLS handshake** → روشن\nفیلترینگ معمولاً فقط تیکه اول بسته رو می‌خونه تا ببینه کجا وصل می‌شی. وقتی تیکه‌تیکه بفرستی، نمی‌تونه بخونه.\nاگه با H2 وصل می‌شی ولی کنده، **حتماً اینو امتحان کن**.\n**قدم ۳ — پروفایل**\nRoutes → Profile → **Strict network**\n(برای شبکه‌هایی که خیلی چیزها رو می‌بندن)\n**قدم ۴ — خاموش کردن IPv6**\nTraffic → Addresses → **IPv4 only**\nروی خیلی از شبکه‌های موبایل ایران IPv6 نیمه‌کاره‌ست.\n**قدم ۵ — مبهم‌سازی**\nTraffic → Advanced → Obfuscation → **Aggressive**\n💡\nاگه قدم ۲ مشکلت رو حل کرد، **Off** رو هم تست کن — شاید پدینگ اضافه فقط داشته سرعتت رو می‌گرفته.\n**قدم ۶ — اند‌پوینت دستی**\nRoutes → Endpoint → Specific address → دکمه **Find endpoints**\n⚠️\nگزینه Fall back automatically رو روشن نگه دار.\n**۴ — گزارش مشکل**\nSettings → Diagnostics & logs\n۱. Detail level روی **Verbose**\n۲. دوباره سعی کن وصل بشی\n۳. برگرد و **Send** رو بزن\nقبل از ارسال دقیقاً متنی که فرستاده می‌شه رو می‌بینی، و IP‌ها پیش‌فرض مخفی می‌شن. هیچی بدون اجازه‌ات از گوشیت بیرون نمی‌ره.\n**نکته:** اون خط خاکستری کوچیک زیر متن بزرگ توی صفحه اصلی، پیغام خود موتوره. برای فهمیدن مشکل همیشه اول اونو بخون.\nhttps://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/v1.0.3\n@whitedns",
+        "date": "2026-08-15T10:00:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1476_0_f5b8da26.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1476_1_8cc7e96f.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/v1.0.3",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1476"
+      },
       {
         "id": 1474,
         "text": "🚀\nانتشار WhiteDNS Clean IP Finder 1.3.7\nنسخه جدید WhiteDNS Clean IP Finder با تمرکز روی افزایش سرعت پیدا کردن DNS Resolverهای سالم در Desktop و Android منتشر شد.\n⚡️\nمهم‌ترین تغییرات:\n• اجرای همزمان تست‌های DNS Transport و TXT Passthrough برای کاهش Timeout\n• اجرای Parallel بررسی‌های NXDOMAIN Hijack\n• اضافه شدن Fast Scan با حفظ بررسی‌های اصلی A Record، Recursion، EDNS و TXT Tunnel\n• حفظ Full Scan به‌عنوان حالت پیش‌فرض برای بررسی کامل\n• بهبود دریافت و Cache اطلاعات Reference DNS\n• اضافه شدن UDP/53 Only و TCP/53 Only در Android\n• گزارش دقیق‌تر DNS Poisoning، Injection و Hijack\n• بروزرسانی دیتابیس Iran & Global ASN شامل IPv4 و IPv6\n💻\nپشتیبانی از Windows، Linux، macOS و Termux\n📱\nنسخه Android شامل APKهای مختلف، Universal APK\n✅\nبرای آپدیت نیازی به تغییر تنظیمات قبلی نیست.\n📥\nدانلود WhiteDNS Clean IP Finder 1.3.7:\nhttps://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases/tag/v1.3.7\n⚡️\nWhiteDNS Clean IP Finder — اسکن سریع‌تر، تشخیص دقیق‌تر و دیتابیس به‌روزتر\n@whitedns",
@@ -4660,21 +4690,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1324"
-      },
-      {
-        "id": 1323,
-        "text": "دوستان عزیز، اونایی که Aether واسشون وصل نمیشه، یه زحمت کوچیک بکشید:\n📱\n✈️\nچند بار گوشی رو بگذارید روی حالت هواپیما و بردارید تا رنج IP‌تون عوض بشه.\n🔄\nاونایی هم که با وای‌فای و مودم متصلن، مودم رو ۱ تا ۲ دقیقه خاموش‌روشن کنن تا آی‌پیشون تغییر کنه.\n🔌\n⏳\nاینم یادتون نره که ما تو ایرانیم؛ سیستم DPI و محدودیت‌ها روی هر سیم‌کارت با اون یکی فرق داره، چه برسه به منطقه به منطقه و شهر به شهر!\n🇮🇷\n🚫\nاینجا خبری از اینترنت استیبلِ خارج نیست.\n📉\nاگه این کارا رو کردید و پروتکل‌های مختلف رو هم تست زدید و باز هم وصل نشد، یعنی اون کانفیگ کلاً روی خط و منطقه شما جواب نمیده.\n🛑\nیکی دو ساعت بعد دوباره امتحان کنید یا برید سراغ VPN‌های دیگه که با اپراتور و منطقه‌تون سازگارترن.\n🚀\n🌐",
-        "date": "2026-07-26T08:46:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1323_0_87dc8eeb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/whitedns/1323"
       }
     ],
     "withyashar": [
@@ -9539,6 +9554,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 352660,
+        "text": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد عصر جمعه ۲۳ مرداد در اطراف پالایشگاه شهر ری دود ناشی از آتش‌سوزی دیده شده است.",
+        "date": "2026-08-15T09:59:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352660_0_5e6f65ee.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352660_1_c058c361.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352660"
+      },
+      {
         "id": 352659,
         "text": "🔻\nدرحالی که گفته شده استقلال و پرسپولیس روزهای ۱۱ یا ۱۲ شهریور ۱۴۰۵، در جریان هفته پنجم لیگ برتر،‌ دربی پایتخت را برگزار می‌کنند، اما خبرگزاری آنا گزارش داده این بازی اگر در تهران برگزار شود، به دلیل مخالفت شورای تامین «شهر قدس» در استادیوم قلعه‌حسن‌خان، بدون تماشاگر خواهد بود.\n🔹\nبه نوشته این خبرگزاری، «شورای تامین شهر قدس به سازمان لیگ اعلام کرده است که در صورت برگزاری دربی در شهر قدس، این دیدار بایستی بدون حضور هواداران برگزار شود که این موضوع با مخالفت سازمان لیگ روبرو شده است.»\n🔹\nدر دو سال‌ گذشته و به دلیل بازسازی بی‌انتهای استادیوم آزادی، دربی تهران در اراک برگزار شده است. اما اکنون به نظر می‌رسد گزینه اراک از روی میز برداشته شده، به نوشته آنا، «سازمان لیگ قصد دارد دربی را در یکی از سه شهرِ مشهد، اصفهان و تبریز برگزار کند.»\n🔹\nباوجود اینکه بازسازی سکوها و سازه استادیوم آزادی در مراحل پایانی است، اما چند هفته پیش از شروع لیگ برتر، وزارت ورزش دولت جمهوری اسلامی، چمن استادیوم آزادی را به بهانه کاشت چمن هیبریدی، جمع‌آوری کرد. گفته شده آزادی حداقل در نیم‌فصل اول، در دسترس نخواهد بود.\n@iranintltvsport",
         "date": "2026-08-15T09:42:55+00:00",
@@ -9738,18 +9772,9 @@
         "id": 352649,
         "text": "لندن در پی اظهارات بنیامین نتانیاهو، نخست‌وزیر اسرائیل، درباره بریتانیا اعتراض خود را به اورشلیم ابلاغ کرد. نتانیاهو اخیرا بریتانیا را «جمهوری اسلامی بریتانیا» توصیف کرده بود. هم‌زمان، یوسی کوهن، رییس پیشین موساد، از بریتانیا خواست به‌جای مخالفت با اسرائیل، از این کشور حمایت کند.\nجزییات بیشتر با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-08-15T08:03:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_352649_0_7d4cc388.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_352649_1_4bb8f283.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352649"
       },
@@ -10818,19 +10843,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352559"
-      },
-      {
-        "id": 352558,
-        "text": "تراز آب خزر به پایین‌ترین سطح در ۲۰۰ سال اخیر رسیده و این دریا هر سال تا ۲۰ سانتی‌متر عقب می‌نشیند؛ بحرانی که زیست‌بوم، تالاب‌ها، بنادر و معیشت ساحل‌نشینان را تهدید می‌کند.\nآرین ریسباف گزارش می‌دهد.\n@iranintltv",
-        "date": "2026-08-14T15:27:35+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352558"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50151,
+        "text": "Server:\nUnknown\nPort:\n8443\nSecret:\neeNEgYdJvXrFGRMCIMJdCQ\n@ProxyMTProto",
+        "date": "2026-08-15T10:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50151_0_c6ce173a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50151"
+      },
       {
         "id": 50150,
         "text": "Server:\nUnknown\nPort:\n443\nSecret:\nee2c46ee89b4f2c79c1d8325d13091e580706574726f766963682e7275\n@ProxyMTProto",
@@ -11940,16 +11970,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50052"
-      },
-      {
-        "id": 50051,
-        "text": "Server:\nUnknown\nPort:\n2053\nSecret:\nee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275\n@ProxyMTProto",
-        "date": "2026-08-12T09:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50051"
       }
     ],
     "XpnTeam": [
@@ -23083,21 +23103,21 @@
       }
     ]
   },
-  "last_update": "2026-08-15T09:59:36.056450+00:00",
+  "last_update": "2026-08-15T10:25:31.050032+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1016,
-    "total_files": 1016,
-    "total_links": 353,
+    "total_media": 1019,
+    "total_files": 1019,
+    "total_links": 354,
     "files_by_type": {
-      "image": 885,
+      "image": 888,
       "video": 119,
       "audio": 12
     },
-    "referenced_files": 1016,
-    "existing_media_files": 1016,
-    "total_size_mb": 495.39,
-    "last_calculation": "2026-08-15T09:59:36.068475+00:00"
+    "referenced_files": 1019,
+    "existing_media_files": 1019,
+    "total_size_mb": 497.62,
+    "last_calculation": "2026-08-15T10:25:31.059285+00:00"
   }
 }
