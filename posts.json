@@ -1572,6 +1572,25 @@
     ],
     "MediaMardom": [
       {
+        "id": 11254,
+        "text": "🔴\nیه دختر ۱۷ ساله‌ از دوست پسرش حامله میشه و با حاملگی خارج‌رحمی و خونریزی شدید راهی اورژانس میشه\nپسره هم به‌محض اینکه میفهمه، غیبش میزنه، آخرش دختر مجبور میشه عمل کنه و یک لوله و تخمدانش رو از دست میده...\nقدر خودتون و سلامتیتون رو بدونید و توی رابطه‌هاتون خیلی مراقب باشید\n❤️\n•\n@MediaMardom",
+        "date": "2026-08-15T18:49:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11254_0_cbb2b6a6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "MediaMardom_11254_1_f2439531.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/11254"
+      },
+      {
         "id": 11253,
         "text": "🔴\nسوپر اپلیکیشن بله از تمام پلتفرم‌‌های دانلود ایرانی حذف شد\n❤️\n•\n@MediaMardom",
         "date": "2026-08-15T17:04:02+00:00",
@@ -2804,19 +2823,40 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11145"
-      },
-      {
-        "id": 11144,
-        "text": "📲\nاپلیکیشن اندروید سایت ریتزوبت\n🔥\n🚀\nوقتی شرط ‌هاتون رو توی ریتزوبت ثبت کنین ، علاوه بر ضرایب بالا ، هفتگی با کد های هدیه کسب درآمد میکنید\n🤑\n♦️\nآموزش شارژ حساب با کریپتو\n♦️\nآموزش شارژ حساب  ریالی در ریتزوبت",
-        "date": "2026-08-12T09:18:46+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/11144"
       }
     ],
     "whitedns": [
+      {
+        "id": 1491,
+        "text": "🍷\nدرود به همه رفقا...\nتمام\n#نکات\nواسه مشکل فیلتر شدن worker رو داخل این پست میگم:\n👽\n💻\nطبق آموزش هایی که قبلا دادم با اپلیکیشن pattng و همچنین v2rayn در ویندوز میتونید مشکل فیلترشدن ورکر رو حل کنید و کانفیگ های -1 رو مجدد متصل کنید.\nآموزش مروبطه:\n👇\nhttps://t.me/xsfilterrnet/3642\n📱\nداخل ios هم طبق تنظیمات یه ip تمیز پیدا کنید داخل کلاینت incy یا hiddify بزنید و فرگمنت رو روشن کنید متصل میشه.\nیه روش دیگه بعد از بالا اومدن پنل استفاده از کانفیگ های فرگمنت برای bpb هست که با مقادیر low (1-1) رو متصل کنید\n🔥\n🔗\nدر مورد لینک ساب های raw هم به گفته خود bpb:\nبچه‌ها اگر ساب Raw و کانفیگ TLS استفاده میکنید از این روش در v2rayNG/pattngاستفاده کنید، معلوم نیست تا کی کار کنه، اگر پایدار بود پنلو تغییر میدم.\nاین رو دو جا وارد کنید:\nhttps://8.8.8.8/dns-query\n۱. قسمت Remote DNS تنظیمات برنامه.\n۲. ویرایش کانفیگ قسمت echConfigList.\nبا Mux خاموش\nیه نکته دیگه از بچها اینترنت آزاد که جواب داده:\nبا ECH و استفاده از آدرس udp://1.1.1.1 میتونید فیلترینگ\npages.dev\nو\nworkers.dev\nرو دور بزنید.\n💓\nنکته ای هم که متین سنپای گفته:(همراه با ابزار جدید)\nhttps://t.me/MatinSenPaii/4960\n@xsfilterrnet\n👑",
+        "date": "2026-08-15T18:41:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1491_0_f5b8da26.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/xsfilterrnet/3642",
+            "type": "telegram",
+            "display_text": "https://t.me/xsfilterrnet/3642"
+          },
+          {
+            "url": "https://8.8.8.8/dns-query",
+            "type": "external",
+            "display_text": "https://8.8.8.8/dns-query"
+          },
+          {
+            "url": "https://t.me/MatinSenPaii/4960",
+            "type": "telegram",
+            "display_text": "https://t.me/MatinSenPaii/4960"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1491"
+      },
       {
         "id": 1489,
         "text": "💬\nچطوری فیلتر شدن BPB و Workers رو دور بزنید؟   میتونید با رفتن به منو تنطیمات، فعال کردن گزینه Amnezia Noise فیلترینگ ورکر رو دور بزنید و به کانفیگ های ساب BPB Warp Pro و باقی Wireguard ها وصل بشید.  این مشابه گزینه فرگمنت هست برای Warp pro و Wireguard داخل…",
@@ -4878,28 +4918,39 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1338"
-      },
+      }
+    ],
+    "withyashar": [
       {
-        "id": 1337,
-        "text": "دوستان سلام\n👋\n:\nحالا همیشه هم پست برنامه و توضیح نگذاریم، بعضی وقتها یکم حرف بزنیم با هم، اینجا همه با هم داریم کار را جلو می‌بریم\n🤝\n✨\nبرای اینکه یک پروژه درست بشه ساعت‌ها وقت و هزینه صرف میشه تا به دست تو برسه\n💸\n⏳\n، وقت و هزینه‌ای که میشد گذاشته نشه، زمانی که میشد در کنار دوست و خانواده بود و یا اصلاً رفت عشق و حال کرد\n😔\n💔\n. اغلب دولوپرهای این تیم کلاً نیازی به بدون اینجا ندارند، فقط احساس دین می‌کنند\n🙏\n.\nشما میتونی با لایک\n👍\nو دیس‌لایک\n👎\n، پروژه را تایید کنید یا ردش کنی و یا با قلب\n❤️\nحمایت کنی و ....\nخطاب به اون چند نفر :\nاینکه تو اینقدر بی‌شخصیت هستی که آیکن\n🤮\nمی‌گذاری این فقط یک چیز را می‌رسونه، تو لیاقت این را نداری که کوچکترین خدماتی حتی با دریافت هزینه بهت داده بشه\n🚫\n🛠️\n. تو همون کسی که اصلاً برات مهم نیست چی به مردمت می‌گذره، برات هیچی مهم نیست\n🤷‍♂️\n.\nمتاسفانه تو جرات نداری بیای توی گروه‌ها خودت را نشون بدی و بحث فنی کنی\n💻\n🛑\n، والا تکلیف مشخص میشه.\nیک تعداد زیادی از شماها که همراه ما هستند یکی از یکی خوب‌تر و مایه انرژی ما و بقیه هستید\n🔥\n⭐\n، دلیل اینکه ادامه می‌دیم شماها هستید، والا کار ما خیلی وقت هست که تمام شد\n🏁\n.\nارادتمند\n👋\nویسپر\n🎤\nتیم whitedns\n🛡️",
-        "date": "2026-07-28T04:55:10+00:00",
+        "id": 21023,
+        "text": "گزارش صدای ۳ انفجار/شلیک در‌ سیریک\n@WarRoom\n🚨\n🚨\n🚨",
+        "date": "2026-08-15T18:54:30+00:00",
         "media": [
           {
             "type": "image",
-            "file": "whitedns_1337_0_02aab076.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1337_1_fbfb627c.jpg"
+            "file": "withyashar_21023_0_d1eeffb7.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/whitedns/1337"
-      }
-    ],
-    "withyashar": [
+        "source": "https://t.me/withyashar/21023"
+      },
+      {
+        "id": 21022,
+        "text": "‏دونالد ترامپ در تروث‌سوشال ویدیویی را منتشر کرد که در آن بهنام طالب‌لو، مدیر ارشد برنامه ایران در بنیاد دفاع از دموکراسی‌ها، بر تاثیر محاصره دریایی آمریکا در کاهش صادرات نفت ایران تاکید کرده و می‌گوید محدود کردن حکومت ایران از نظر بودجه‌ای پس از پایان درگیری‌ها، در کنار محاصره، به آمریکا اجازه می‌دهد از دلار به‌عنوان یک سلاح استفاده کنند.\n@WarRoom",
+        "date": "2026-08-15T18:34:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21022_0_d1eeffb7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21022"
+      },
       {
         "id": 21021,
         "text": "",
@@ -6533,44 +6584,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/20923"
-      },
-      {
-        "id": 20922,
-        "text": "خواب بودم ، پیج روزدن\nدیر برگردوندم\n🙌🏾\n😂\ninstagram.com/yashar",
-        "date": "2026-08-13T14:00:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20922_0_2e907263.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_20922_1_26960e76.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20922"
-      },
-      {
-        "id": 20921,
-        "text": "نتانیاهو: شاید بتوانید بریتانیا را «جمهوری اسلامی بریتانیا» نامید\nیک نفر گفت که اولین جمهوری اسلامیِ دارای سلاح هسته‌ای، جمهوری اسلامی بریتانیا خواهد بود.\nما داریم مطمئن می‌شیم که یه مورد دیگه مثل این، یعنی ایران، نداشته باشیم\n@WarRoom",
-        "date": "2026-08-13T13:54:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_20921_0_2e907263.jpg"
-          },
-          {
-            "type": "video",
-            "file": "withyashar_20921_1_957c2ef4.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/20921"
       }
     ],
     "vahidonline": [
@@ -9699,6 +9712,92 @@
     ],
     "IranintlTV": [
       {
+        "id": 352720,
+        "text": "هم‌زمان با تشدید بحران معیشتی و افزایش قیمت‌ها در ایران، تصویر رسیده به ایران اینترنشنال از یکی از فروشگاه‌های زنجیره‌ای اتکا، وابسته به وزارت دفاع جمهوری اسلامی، نشان می‌دهد برنج پنج و ۱۰ کیلویی به صورت اقساط فروخته می‌شود.\nپیش از این هم گزارش‌های متعددی در ایران حاکی از این بود که شهروندان به دلیل قدرت خرید پایین مجبورند کالاها و مواد غذایی را به صورت اقساط خریداری کنند.\nhttps://iranintl.com/202608159388",
+        "date": "2026-08-15T19:04:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352720_0_5e6f65ee.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_352720_1_f3c1ad6d.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608159388",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608159388"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/352720"
+      },
+      {
+        "id": 352719,
+        "text": "ماجد محمد الانصاری، سخنگوی وزارت خارجه قطر، در شبکه ایکس نوشت: «به‌طور قاطع ادعاهای مطرح‌شده درباره بازداشت خلبانان ایرانی را تکذیب می‌کنیم و از انتشار این اظهارات گمراه‌کننده، به‌ویژه در این مقطع زمانی و در شرایطی که تلاش‌ها و اقدامات دیپلماتیک برای کاهش تنش در منطقه همچنان ادامه دارد، ابراز تعجب می‌کنیم.»\nسخنگوی وزارت خارجه قطر اضافه کرد پس از نقض حریم هوایی قطر از سوی خلبانان مورد اشاره، با آن‌ها تماس گرفته شد و مسیر هدف‌گیری نیز مورد بررسی و اطمینان قرار گرفت. پس از رعایت قواعد درگیری و برقراری تماس با آن‌ها بدون دریافت پاسخ، اقدامات لازم برای دفاع از سرزمین خود را مطابق الزامات قوانین بین‌المللی انجام دادیم.\nسخنگوی وزارت خارجه قطر افزود: «تیم‌های جست‌وجو و نجات ما وظیفه خود را برای جست‌وجوی پیکرهای خلبانان به‌طور کامل انجام دادند. دولت قطر همچنین با طرف ایرانی برای هماهنگی تحویل پیکر یکی از خلبانان که پیدا شده بود، تماس گرفت.»\nپیش‌تر فرمانده کمیته مفقودین ستاد کل نیروهای مسلح جمهوری اسلامی، اعلام کرده بود اعلام کرده بود سه خلبان ارتش در جریان حملات اسفندماه سقوط کرده بود، به اسارت قطر درآمده‌اند.\nh",
+        "date": "2026-08-15T18:56:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352719_0_5e6f65ee.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_352719_1_b6d9ff94.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352719"
+      },
+      {
+        "id": 352718,
+        "text": "نیروهای امنیتی مراکش روز شنبه ۲۴ مرداد مهاجرانی را که در تلاشی تازه قصد داشتند از شهر فنیدق مراکش به سبته، محدوده تحت حاکمیت اسپانیا، وارد شوند متفرق کردند. تدابیر امنیتی در مرز پس از انتشار پیام‌هایی با منشأ نامشخص در شبکه‌های اجتماعی که به عبور دسته‌جمعی در این روز فرامی‌خواند تشدید شده بود؛ دو هفته پس از آنکه بنا بر گزارش رویترز بیش از ۷۰ هزار مهاجر وارد این شهر شدند. رباط پیش‌تر هشدار داده بود سازمان‌دهندگان و شرکت‌کنندگان در این فراخوان را تحت پیگرد قانونی قرار می‌دهد.\n@iranintltv",
+        "date": "2026-08-15T18:45:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352718_0_5e6f65ee.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352718_1_ce3374e0.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352718"
+      },
+      {
+        "id": 352716,
+        "text": "🔻\nدر پایان هفته نخست لیگ برتر فوتبال ایران، مدعیان، همگی در این هفته پیروز بودند، اما استقلال به دلیل گل‌زده بیشتر صدرنشین لیگ شده است.\n🔹\nدر جدول اکنون شش تیم سه امتیازی، شش تیم یک امتیازی و شش تیم بدون امتیاز در جدول دیده می‌شوند.\n🔹\nاز سوی دیگر، فقط یک بازی گل نداشت؛ دیدار ذوب‌آهن و فولاد خوزستان.\n@iranintltvsport",
+        "date": "2026-08-15T18:38:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352716_0_5e6f65ee.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_352716_1_70444a14.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_352716_2_a22be4f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352716"
+      },
+      {
         "id": 352715,
         "text": "🎧\nنسخه صوتی تیتراول با نیوشا صارمی: پایان مهلت ۶۰روزه آتش‌بس؛واشینگتن در آستانه فشار اقتصادی بی‌سابقه علیه تهران\n@iranintlTV",
         "date": "2026-08-15T18:24:37+00:00",
@@ -10916,73 +11015,24 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/352618"
-      },
-      {
-        "id": 352617,
-        "text": "ترامپ در تروث سوشال تصاویری با عنوان «این دیگر نفتکش ماست» منتشر کرد. تصویر اول ترامپ را با پرچم آمریکا به همراه دو نظامی آمریکایی بر عرشه یک کشتی نشان می‌دهد که یک پرچم لگدمال‌شده جمهوری اسلامی بر کف آن افتاده است. همز‌مان دو مرد با لباس‌های سفید که یکی عمامه سیاه و دیگری چفیه بر سر دارد، در حال سقوط از عرشه این کشتی هستند.\nدقایقی بعد ترامپ تصویر مشابهی را با چند تفاوت در تروث سوشال منتشر کرد که در آن دو مرد در حال سقوط از کشتی، حذف شده‌اند.\nhttps://iranintl.com/202608156132",
-        "date": "2026-08-15T02:41:53+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608156132",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608156132"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/352617"
-      },
-      {
-        "id": 352616,
-        "text": "وزارت دادگستری آمریکا در دادخواستی تازه، تهدید موشکی منتسب به حکومت ایران را که ماه گذشته میلادی در ترکیه به تغییر مخفیانه هواپیمای دونالد ترامپ منجر شد، «تلاش برای ترور» توصیف کرد.\nجان ساور، وکیل کل دولت آمریکا، روز جمعه ۲۳ مرداد در درخواست اضطراری از دیوان عالی به این حادثه اشاره کرد. دولت ترامپ از دیوان عالی خواسته است حکم دادگاهی را که بخشی از عملیات ساخت تالار پذیرایی جدید کاخ سفید متوقف کرده، لغو کند.\nبه گزارش نشریه هیل، ساور در این دادخواست نوشت: «رییس‌جمهوری ترامپ اخیرا هدف شمار فزاینده‌ای از تلاش‌ها برای ترور قرار گرفته است.» او از جمله به «تهدید حمله موشکی به ایر فورس وان» در هشتم ژوئیه [۱۷ تیر ماه] اشاره کرد.\nواشینگتن‌پست پیش‌تر گزارش داده بود که ترامپ در ماه ژوئیه، به‌دلیل تهدیدی منتسب به حکومت ایران، مخفیانه و با استفاده از یک کامیون حمل غذای هواپیما از ایر فورس وان قدیمی به هواپیمایی دیگر منتقل شد.\nhttps://iranintl.com/202608157811",
-        "date": "2026-08-15T01:56:04+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608157811",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608157811"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/352616"
-      },
-      {
-        "id": 352615,
-        "text": "برایان شوارتز، خبرنگار وال‌استریت ژورنال، در پستی در ایکس به نقل از یک مقام ارشد کاخ سفید نوشت دونالد ترامپ، رییس‌جمهوری آمریکا، زمانی که گفت ایالات متحده پس از جنگ با ایران تنگه هرمز را قلمرو آمریکا اعلام خواهد کرد، شوخی می‌کرد. به گفته این مقام، ترامپ درباره چنین اقدامی با مشاورانش گفت‌وگو نکرده است.\nhttps://iranintl.com/202608155320",
-        "date": "2026-08-15T01:25:11+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608155320",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608155320"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/352615"
-      },
-      {
-        "id": 352614,
-        "text": "کینگزلی ویلسون، سخنگوی پنتاگون، جمعه گزارش‌ها درباره شرایط در ناو هواپیمابر یواس‌اس آبراهام لینکلن را رد کرد و گفت شمار اندکی از ملوانان خدمات درمانی مرتبط با سلامت روان دریافت کردند، هیچ‌کس جان خود را از دست نداد و در جریان ماموریت طولانی این ناو نیز هیچ وعده غذایی حذف نشد.\nویلسون در شبکه اجتماعی ایکس نوشت: «رسانه‌های اخبار جعلی می‌خواهند شما واقعیت‌ها درباره یواس‌اس لینکلن را نادیده بگیرید. شمار اندکی از موارد مرتبط با سلامت روان تحت درمان قرار گرفتند و هیچ‌کس جان خود را از دست نداد. زمانی که امکان تامین مجدد مواد غذایی تازه وجود نداشت، برنامه وعده‌های غذایی تغییر کرد، بدون اینکه حتی یک وعده غذایی حذف شود.»\nاو افزود: «زمانی که تهدید عملیاتی بیش از حد بالا بود، تماس با خانه محدود شد. ملوانان ما در یواس‌اس لینکلن قهرمانند، نه قربانی! حملات سطح پایین رسانه‌ها برای ارائه تصویری نادرست از ماموریت تاریخی آنها شرم‌آور است.»\nhttps://iranintl.com/202608151417",
-        "date": "2026-08-15T00:44:22+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608151417",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608151417"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/352614"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50170,
+        "text": "Server:\n135.181.74.154\nPort:\n443\nSecret:\n3XnnAQIAAQAH8AMDhuJMOt0\n@ProxyMTProto",
+        "date": "2026-08-15T19:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50170_0_86e2d984.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50170"
+      },
       {
         "id": 50169,
         "text": "Server:\nethereal11.arixo.shop\nPort:\n443\nSecret:\n7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A\n@ProxyMTProto",
@@ -12187,16 +12237,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50071"
-      },
-      {
-        "id": 50070,
-        "text": "Server:\niran.vanitydomain.co.uk.\nPort:\n8443\nSecret:\nEERighJJvXrFGRMCIMjdCQ\n@ProxyMTProto",
-        "date": "2026-08-12T19:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50070"
       }
     ],
     "XpnTeam": [
@@ -16036,6 +16076,21 @@
     ],
     "persian_asasins": [
       {
+        "id": 19146,
+        "text": "وقتی در کشوری زندگی میکنیم که حاکمانش عادل نیستند ما باید خودمان عدالت را اجرا کنیم .  دوباره برگشتیم برای فعالیت های میدانی اما این سری طوری متفاوت نه فقط مسجد و مکان دولتی و بنر و شعار بلکه این دفعه ضربه سخت به مسئولین نظام از جمله مسئولین دادسرا ، قاضیان…",
+        "date": "2026-08-15T18:47:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_19146_0_4497f90e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/19146"
+      },
+      {
         "id": 19145,
         "text": "وقتی در کشوری زندگی میکنیم که حاکمانش عادل نیستند ما باید خودمان عدالت را اجرا کنیم .  دوباره برگشتیم برای فعالیت های میدانی اما این سری طوری متفاوت نه فقط مسجد و مکان دولتی و بنر و شعار بلکه این دفعه ضربه سخت به مسئولین نظام از جمله مسئولین دادسرا ، قاضیان…",
         "date": "2026-08-15T18:21:13+00:00",
@@ -17406,19 +17461,43 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/persian_asasins/19035"
-      },
-      {
-        "id": 19034,
-        "text": "بنام خدا\nحسین ابن علی، خروج کرد به طلب حکومت\nرو مخ خلیفه بود و تشنه قدرت\nکشته شد به عدالت\nاموالش رفت به غارت\nناموسش رفت به اسارت\nتا بشود مایه عبرت آنانکه\nمی‌کنند گنده گوزی و جسارت\nو خداوند حافظ امیر مومنان است.\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
-        "date": "2026-07-31T19:17:38+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/19034"
       }
     ],
     "yehirani": [
+      {
+        "id": 19695,
+        "text": "🔴\nعده ای از عوامل\nمادرجنده\n:   شنیدیم دوباره میگین فراخوان نزدیکه، مادراتون رو فرستادین کلاس رقص؟ آخه باید بیان سر قبرتون برقصن!  البته مادر جاویدنام ها جنده‌ان، و یکی از چیزایی که جنده باید بلد باشه رقصیدنه، نیازی نیست کلاس برن.\n🇮🇷\n@YehIrani | حاج متی",
+        "date": "2026-08-15T19:00:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19695_0_7e4a103a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_19695_1_22ed5eb1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19695"
+      },
+      {
+        "id": 19694,
+        "text": "🔴\nامشب مراسم شبانه عر عر کنا 168 شبه شد و تقدیمش کردن به بچه های میناب\nمنبع\n🇮🇷\n@YehIrani\n| حاج متی",
+        "date": "2026-08-15T18:54:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19694_0_7e4a103a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19694"
+      },
       {
         "id": 19693,
         "text": "🔴\nطالبان : آمریکا گوه خوردیم ،دیگه نمی‌خوایم باهاتون بجنگیم ، تورو خدا بیا سفارتت باز کن\nمنبع\n🇮🇷\n@YehIrani\n| حاج متی",
@@ -19682,56 +19761,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/yehirani/19581"
-      },
-      {
-        "id": 19580,
-        "text": "جدا از خودشون حتی بچه هاشونم وحشتناکن این بچه در کمترین حالت ممکن ۴۰ سالشه.\n🦘\nRoobet.com The #1 Crypto Casino & Sportsbook  Join our Telegram for exclusive promo codes https://t.me/+Mv2beCnrwvBiNWRh\n🇮🇷\n@YehIrani | حاج متی",
-        "date": "2026-08-11T17:14:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19580_0_d49c38cd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_19580_1_75467e49.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_19580_2_b113d976.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
-            "type": "telegram",
-            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/yehirani/19580"
-      },
-      {
-        "id": 19579,
-        "text": "🔴\nعلی حسین قاضی زاده ( اینترنشنال ) :\nدارم نشانه هایی میبینم که قیام مردم به شدت نزدیکه\nمنبع\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@YehIrani\n| حاج متی",
-        "date": "2026-08-11T16:57:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19579_0_d49c38cd.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
-            "type": "telegram",
-            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/yehirani/19579"
       }
     ],
     "crgaming7": [
@@ -22218,6 +22247,40 @@
     ],
     "BestProxyTel1": [
       {
+        "id": 12737,
+        "text": "کانفیگ های جدید خدمتتون\n❤️‍🔥\nپینگ بگیرین\nvless://34de490f-9cb9-48e5-b5ff-c2cf3f2719c5@www.speedtest.net:443?path=%2FDYvipF9MT3L0VDOS&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=iran.novatunel.site&fp=qq&type=ws&allowInsecure=0&sni=iran.novatunel.site#@BestProxyTel1\nvless://34de490f-9cb9-48e5-b5ff-c2cf3f2719c5@tr.novatunel.site:8443?mode=auto&path=%2Fopigureo123456789&security=reality&encryption=mlkem768x25519plus.native.0rtt.HV70crOAZM3x5Zb_BZsEEiQR4GKqghS2WnK0DJG89AU&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=27GORXPt8-weugeqLwsNWY6BmWcRVBn7Tdp_VbexoRs&host=iran.novatunel.site&fp=chrome&spx=%2F813e8f59132d3ed&type=xhttp&sni=tapsi.ir&sid=69cf29294bfc#@BestProxyTel1\nvless://34de490f-9cb9-48e5-b5ff-c2cf3f2719c5@fbi.gov:443?path=%2FDYvipF9MT3L0VDOS&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=iran.novatunel.site&fp=qq&type=ws&allowInsecure=0&sni=iran.novatunel.site#@BestProxyTel1\nvless://34de490f-9cb9-48e5-b5ff-c2cf3f2719c5@openai.com:443?path=%2FDYvipF9MT3L0VDOS&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=iran.novatunel.site&fp=qq&type=ws&allowInsecure=0&sni=iran.novatunel.site#@BestProxyTel1\nvless://34de490f-9cb9-48e5-b5ff-c2cf3f2719c5@tr.novatunel.site:37991?mode=auto&path=%2Fwhqpsdchcbd123%40%23&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=7Qtq8EkARUqv7gjqwM5GCd6JXrkFdgssWAGfmHj8NBQ&host=iran.novatunel.site&fp=chrome&spx=%2F810d52e3b8a1c4c&type=xhttp&sni=nobat.ir&sid=dba81b86cd1c7f#@BestProxyTel1\n🎖\n@BestProxyTel1",
+        "date": "2026-08-15T18:45:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "BestProxyTel1_12737_0_c7d34d38.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/BestProxyTel1/12737"
+      },
+      {
+        "id": 12736,
+        "text": "🔴\nپست جدید اسرائیل به فارسی:\n😂\n😂\n😂\n😂\n😂\n🎖\n@BestProxyTel1",
+        "date": "2026-08-15T18:43:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "BestProxyTel1_12736_0_c7d34d38.jpg"
+          },
+          {
+            "type": "image",
+            "file": "BestProxyTel1_12736_1_1c90327e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/BestProxyTel1/12736"
+      },
+      {
         "id": 12735,
         "text": "🔹\nظاهرا هکرهای اسرائیلی سایت جانفدا رو هک کردن و اطلاعات کسایی که ثبت نام کرده بودن رو منتشر کردن\nفقط ۴.۷ میلیون نفر تو این سایت ثبت نام کرده بودن.\n🎖\n@BestProxyTel1",
         "date": "2026-08-15T17:24:16+00:00",
@@ -23395,44 +23458,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12566"
-      },
-      {
-        "id": 12565,
-        "text": "🔹\nمراد ویسی:\nجمهوری اسلامی دریای خزر رو فروخت رفت!\nدر تازه‌ترین قرارداد جمهوری اسلامی دریای خزر رو تقدیم روسیه کرده و یواشکی دارن میبرن مجلس و تصویبش کنن.\nسهم ایران فقط به ۱۱ درصد رسیده.\n🎖\n@BestProxyTel1",
-        "date": "2026-08-04T20:05:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/BestProxyTel1/12565"
-      },
-      {
-        "id": 12564,
-        "text": "اگه باز یه وقتی اوضاع خراب شد و مجبور شدید باز برخط بشید:)\nبله هم اومد تو اپ استور.\n🎖\n@BestProxyTel1",
-        "date": "2026-08-04T19:30:21+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/BestProxyTel1/12564"
       }
     ]
   },
-  "last_update": "2026-08-15T18:34:27.771066+00:00",
+  "last_update": "2026-08-15T19:04:33.333756+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1101,
-    "total_files": 1101,
-    "total_links": 342,
+    "total_media": 1113,
+    "total_files": 1113,
+    "total_links": 340,
     "files_by_type": {
-      "image": 970,
+      "image": 982,
       "video": 121,
       "audio": 10
     },
-    "referenced_files": 1101,
-    "existing_media_files": 1101,
-    "total_size_mb": 497.07,
-    "last_calculation": "2026-08-15T18:34:27.784205+00:00"
+    "referenced_files": 1113,
+    "existing_media_files": 1113,
+    "total_size_mb": 492.62,
+    "last_calculation": "2026-08-15T19:04:33.347146+00:00"
   }
 }
