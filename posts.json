@@ -2914,6 +2914,66 @@
     ],
     "whitedns": [
       {
+        "id": 1496,
+        "text": "🌐\nکلاینت WhiteAesther\n(دانلود همزمان برای اندروید و ویندوز / دسکتاپ)\nاگر به دنبال یک اتصال فوق‌العاده پایدار، سریع و امن با پروتکل نوین MASQUE H2 هستید، نرم‌افزار WhiteAesther در دو نسخه دسکتاپ و موبایل در دسترس شماست.\n✨\nقابلیت‌ها و ویژگی‌های کلیدی:\n🔹\nمبتنی بر پروتکل پرسرعت و مدرن MASQUE H2\n🔹\nاتصال سریع با یک کلیک (Zero-Config)\n🔹\nپایداری بالا و پینگ عالی مناسب وب‌گردی، گیمینگ و استریم\n🔹\nسیستم محافظت از کل ترافیک دستگاه (IPv4 + IPv6)\n🔹\nقابلیت Reconnect خودکار و Killswitch داخلی\n🔹\nرابط کاربری بسیار روان، تاریک (Dark Mode) و مدرن\n━━━━━━━━━━━━━━━━━━━━\n📥\nلینک‌های دانلود مستقیم آخرین نسخه از گیت‌هاب:\n📱\nدانلود نسخه اندروید (Android APK):\n🔗\nhttps://github.com/WhiteDNS/WhiteAestherMobile/releases/latest\n💻\nدانلود نسخه دسکتاپ (Windows / PC):\n🔗\nhttps://github.com/WhiteDNS/WhiteAesther/releases/latest\n━━━━━━━━━━━━━━━━━━━━\n💡\nپیشنهاد: این پست را برای دسترسی سریع به هر دو نسخه ذخیره (Save) یا پین کنید.\n🆔\n@whitedns",
+        "date": "2026-08-16T03:42:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1496_0_474fdadb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1496_1_8241fda5.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteAestherMobile/releases/latest",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteAestherMobile/releases/late..."
+          },
+          {
+            "url": "https://github.com/WhiteDNS/WhiteAesther/releases/latest",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteAesther/releases/latest"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1496"
+      },
+      {
+        "id": 1495,
+        "text": "🚀\nدسترسی آزاد و امن به اینترنت با WhiteVPN (نسخه موبایل و دسکتاپ)\nاگر به دنبال یک کلاینت یکپارچه، سبک و حرفه‌ای هستید، WhiteVPN با رابط کاربری مدرن در دسترس شماست!\n⚙️\nقدرت گرفته از هسته Mihomo:\nاین برنامه بر پایه هسته قدرتمند Mihomo (مشابه کلش و متا) توسعه یافته است که بالاترین سطح پایداری و سرعت را در دور زدن محدودیت‌ها برای شما فراهم می‌کند.\n⚠️\nتوجه مهم:\nاین اپلیکیشن کاملاً سورس‌باز (Open-Source) است و در Google Play یا App Store منتشر نشده است. تنها منبع رسمی برای دانلود، مخزن گیت‌هاب پروژه است.\n✨\nویژگی‌های کلیدی:\n🔹\nپشتیبانی همزمان از ویندوز، مک، لینوکس و اندروید\n🔹\nرابط کاربری ساده و اتصال تنها با یک کلیک\n🔹\nسیستم پراکسی جامع و تونلینگ کل سیستم (System-wide)\n🔹\nمدیریت پیشرفته سرورها و پایداری بالا در اتصالات\n━━━━━━━━━━━━━━━━━━━━\n📥\nدانلود مستقیم آخرین نسخه از گیت‌هاب (رسمی):\n📱\nنسخه اندروید (Mobile):\n🔗\nhttps://github.com/WhiteDNS/WhiteVPN/releases/latest\n💻\nنسخه دسکتاپ (Windows / macOS / Linux):\n🔗\nhttps://github.com/WhiteDNS/WhiteVPN-Desktop/releases/latest\n━━━━━━━━━━━━━━━━━━━━\n💡\nبرای دانلود، وارد لینک‌های بالا شده و از بخش \"Assets\" فایل متناسب با دستگاه خود (فایل apk برای اندروید و فایل‌های نصب برای ویندوز/مک) را دانلود کنید.\n🆔\n@whitedns",
+        "date": "2026-08-16T03:42:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1495_0_474fdadb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1495_1_d1caa900.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteVPN/releases/latest",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteVPN/releases/latest"
+          },
+          {
+            "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/latest",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/latest"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1495"
+      },
+      {
         "id": 1493,
         "text": "دوستان سلام :\nبرای حل این مشکل توی ورژن دسکتاپ و مبایل whitevpn لطفا ساب زیر را دستی وارد کنید\nhttps://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/mihomo.yaml\n@whitedns",
         "date": "2026-08-16T02:29:35+00:00",
@@ -4971,50 +5031,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1346"
-      },
-      {
-        "id": 1345,
-        "text": "🚀\nمعرفی پروژه CottenDNS\nhttps://github.com/WhiteDNS/CottenDNS\nنسخه پایدار CottenDNS با تمرکز بر اتصال بهتر و پایدارتر در شبکه‌های دارای فیلترینگ، اختلال DNS، پکت‌لاس و تأخیر بالا منتشر شد.\nدر معماری جدید، سرور به‌صورت پویا با تنظیمات هر کاربر هماهنگ می‌شود. یعنی کاربران می‌توانند بدون تغییر کانفیگ سرور، روش انتقال داده، نوع رمزنگاری، MTU، فشرده‌سازی و قابلیت‌های بازیابی بسته‌های ازدست‌رفته را متناسب با کیفیت اینترنت خود انتخاب کنند.\nمهم‌ترین قابلیت‌ها\n🔹\nسازگاری با شرایط مختلف شبکه\nاتصال می‌تواند از طریق UDP و TCP روی پورت 53 و همچنین DoT و DoH انجام شود. اگر یک مسیر مسدود یا دچار اختلال شود، کلاینت می‌تواند از مسیر جایگزین استفاده کند.\n🔹\nمقاومت بیشتر در برابر پکت‌لاس\nCottenDNS با استفاده از ارسال مجدد هوشمند بسته‌ها، Duplication و فناوری FEC تلاش می‌کند اطلاعات ازدست‌رفته را بازیابی کند. این قابلیت‌ها بر اساس وضعیت شبکه به‌صورت خودکار فعال یا غیرفعال می‌شوند تا سربار اضافی ایجاد نشود.\n🔹\nمدیریت هوشمند Resolverها\nResolverها از نظر سرعت، تأخیر، پکت‌لاس و سلامت بررسی می‌شوند. Resolverهای خراب به‌صورت خودکار کنار گذاشته شده و پس از بهبود دوباره وارد چرخه می‌شوند.\n🔹\nتنظیم خودکار MTU\nکلاینت اندازه مناسب بسته‌ها را برای آپلود و دانلود پیدا می‌کند تا احتمال شکسته‌شدن یا ازدست‌رفتن بسته‌ها کاهش پیدا کند.\n🔹\nمقابله با DNS Poisoning\nبا استفاده از روش‌هایی مانند Transaction ID تصادفی، EDNS Cookie، تغییر شکل درخواست‌های DNS و ارسال از چند دامنه مختلف، مقاومت اتصال در برابر پاسخ‌های جعلی و دست‌کاری‌شده افزایش یافته است.\n🔹\nانتقال داده با فرمت‌های مختلف DNS\nداده‌ها می‌توانند با رکوردهای TXT، CNAME، A، NULL و HTTPS/SVCB منتقل شوند. کلاینت می‌تواند بسته به محدودیت شبکه بین این روش‌ها جابه‌جا شود.\n🔹\nامنیت و رمزنگاری\nروش‌های AES-GCM، ChaCha20، XOR و الگوریتم‌های قابل تنظیم پشتیبانی می‌شوند. نوع رمزنگاری هر کلاینت به‌صورت امن و مستقل شناسایی می‌شود.\n🔹\nسازگاری با نسخه‌های قبلی\nکلاینت‌های جدید CottenDNS و کلاینت‌های قدیمی MasterDNS و StormDNS می‌توانند هم‌زمان به یک سرور متصل شوند. بنابراین کاربران قدیمی برای ادامه استفاده نیازی به تغییر فوری ندارند.\nدر مجموع، سرور CottenDNS امکانات مختلف را فراهم می‌کند و هر کلاینت بر اساس شرایط اینترنت خود، بهترین ترکیب اتصال را انتخاب می‌کند.\n❤️\nThanks to\n@masterdnsvpn\n@WhiteDNS",
-        "date": "2026-07-28T06:53:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1345_0_fb7d2731.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1345_1_0671aa37.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://github.com/WhiteDNS/CottenDNS",
-            "type": "github",
-            "display_text": "https://github.com/WhiteDNS/CottenDNS"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1345"
-      },
-      {
-        "id": 1344,
-        "text": "عضویت\nدر گروه whitedns\nدر گروه اختصاصی ما عضو شوید لطفا\n🤝\n@whitedns",
-        "date": "2026-07-28T06:04:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1344_0_fb7d2731.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1344_1_4534fd50.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/whitedns/1344"
       }
     ],
     "withyashar": [
@@ -23585,13 +23601,13 @@
       }
     ]
   },
-  "last_update": "2026-08-16T03:08:23.167808+00:00",
+  "last_update": "2026-08-16T03:49:27.039987+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
     "total_media": 1152,
     "total_files": 1152,
-    "total_links": 330,
+    "total_links": 333,
     "files_by_type": {
       "image": 1016,
       "video": 126,
@@ -23599,7 +23615,7 @@
     },
     "referenced_files": 1152,
     "existing_media_files": 1152,
-    "total_size_mb": 497.46,
-    "last_calculation": "2026-08-16T03:08:23.174853+00:00"
+    "total_size_mb": 497.52,
+    "last_calculation": "2026-08-16T03:49:27.047177+00:00"
   }
 }
