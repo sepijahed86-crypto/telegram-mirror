@@ -9492,6 +9492,50 @@
     ],
     "IranintlTV": [
       {
+        "id": 353014,
+        "text": "چند باب مغازه در اطراف میدان شهرداری گرگان شامگاه دوشنبه، ۲۶ مرداد، از حدود ساعت ۱۹:۱۵ دچار آتش‌سوزی شد و نیروهای آتش‌نشانی و امدادی برای اطفای حریق وارد عمل شدند. علت آتش‌سوزی و میزان خسارت هنوز مشخص نیست.\n@iranintltv",
+        "date": "2026-08-17T20:16:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353014_0_74ecb81f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353014_1_76486e37.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353014"
+      },
+      {
+        "id": 353013,
+        "text": "رهبر حزب محافظه‌کار کانادا در دیدار با ایرانیان ونکوور از عملکرد دولت فدرال انتقاد کرد و خواستار اخراج فوری افرادی شد که به صورت داوطلبانه با سپاه پاسداران همکاری می‌کنند.\nاو با تاکید بر اینکه سربازان وظیفه نباید هدف قرار بگیرند، گفت این سربازان وظیفه خود قربانی این نهاد «تروریستی» هستند.\nرهبر حزب محافظه‌کار کانادا همچنین از هماهنگی برای دیدار با شاهزاده رضا پهلوی و دعوت رسمی از او برای سفر به کانادا خبر داد.\nhttps://iranintl.com/202608172050",
+        "date": "2026-08-17T20:01:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353013_0_74ecb81f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353013_1_6f70ce39.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608172050",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608172050"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353013"
+      },
+      {
         "id": 353012,
         "text": "🎧\nنسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: ترامپ: تهران توافق مورد نظرم را نمی‌پذیرد!\n@iranintlTV",
         "date": "2026-08-17T19:55:25+00:00",
@@ -10697,29 +10741,39 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352913"
-      },
-      {
-        "id": 352912,
-        "text": "گروهی از ایرانیان ساکن آستین در ایالت تگزاس آمریکا روز یکشنبه ۲۵ مرداد با برگزاری تجمعی خواهان قطع مذاکره دولت ترامپ با جمهوری اسلامی شدند و اجرای اعدام معترضان در ایران را محکوم کردند.\n@iranintltv",
-        "date": "2026-08-17T06:58:59+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352912"
-      },
-      {
-        "id": 352911,
-        "text": "خانواده و نزدیکان سعید‌ تروند از جاوید‌نامان اعتراض‌های دی‌ماه در استان ایلام در سالروز تولد او در کنار مزارش گردهم آمدند و یاد او را گرامی داشتند. تروند که ۳۳ ساله و پیمانکار شرکت نفت بود در جریان اعتراضات ۱۸ دی‌ماه در آبادان با شلیک مستقیم نیروهای امنیتی کشته شد و در شهرستان مهران استان ایلام به خاک سپرده شد",
-        "date": "2026-08-17T06:58:06+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352911"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50239,
+        "text": "Server:\nedge2.medhata.org\nPort:\n2443\nSecret:\nee210a1476d9f3374fed48b19ccd3ad7b665646765322e6d6564686174612e6f7267\n@ProxyMTProto",
+        "date": "2026-08-17T20:28:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50239_0_ee151736.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50239"
+      },
+      {
+        "id": 50238,
+        "text": "Server:\nUnknown\nPort:\n8443\nSecret:\neeNEgYdJvXrFGRMCIMJdCQ\n@ProxyMTProto",
+        "date": "2026-08-17T20:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50238_0_ee151736.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50238"
+      },
       {
         "id": 50237,
         "text": "Server:\napi2.kvakzon.top\nPort:\n2443\nSecret:\neeb2a0e3b5fba31d961cba1437805cf950617069322e6b76616b7a6f6e2e746f70\n@ProxyMTProto",
@@ -11714,26 +11768,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50140"
-      },
-      {
-        "id": 50139,
-        "text": "Server:\nUnknown\nPort:\n2\n5565\nSecret:\nee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
-        "date": "2026-08-14T20:28:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50139"
-      },
-      {
-        "id": 50138,
-        "text": "Server:\nUnknown\nPort:\n4455\nSecret:\ndd104462821249bd7ac519130220c25d09\n@ProxyMTProto",
-        "date": "2026-08-14T20:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50138"
       }
     ],
     "XpnTeam": [
@@ -17095,6 +17129,29 @@
     ],
     "yehirani": [
       {
+        "id": 19765,
+        "text": "🔴\nشایع، رپر؛ این پست نوید محمد زاده که میگه از فلسطین حمایت میکنم رو لایک کرده\n@yehirani\n| 𝐏𝐎𝐔𝐑𝐢",
+        "date": "2026-08-17T20:17:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19765_0_579947c0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_19765_1_28def9e4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_19765_2_6f64a3fd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19765"
+      },
+      {
         "id": 19764,
         "text": "🔴\nسعید مدنی، جامعه‌شناس:\nچهار نفر در پرونده اعتراضات 18 و 19 دی‌ماه، تنها به اتهام پرتاب سنگ از پشت‌بام به سمت مأمورا اعدام شدن؛ این افراد نه امکان ملاقات و تماس داشتن و نه حتی وکیل تسخیری، و بدون حضور وکیل در دادگاه به اعدام محکوم شدن.\n🇮🇷\n@YehIrani\n| حاج متی",
         "date": "2026-08-17T19:01:10+00:00",
@@ -19072,31 +19129,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/yehirani/19645"
-      },
-      {
-        "id": 19644,
-        "text": "🔴\nسیاست آخوندهایی که تو اتاق فکر دولت‌های ایران از اول تا الان هستن:\nخودمون گرونش میکنیم\nخودمون کنسلش میکنیم\nاینطور محبوب تر هم میشیم\nبعدا هم 87 رو میگیم 60 تشکرهم میکنند.\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@YehIrani\n| حاج متی",
-        "date": "2026-08-13T14:14:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19644_0_d1b9e613.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_19644_1_4de3aa6a.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
-            "type": "telegram",
-            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/yehirani/19644"
       }
     ],
     "crgaming7": [
@@ -22881,21 +22913,21 @@
       }
     ]
   },
-  "last_update": "2026-08-17T19:59:05.975264+00:00",
+  "last_update": "2026-08-17T20:30:22.405080+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1046,
-    "total_files": 1046,
+    "total_media": 1053,
+    "total_files": 1053,
     "total_links": 301,
     "files_by_type": {
-      "image": 895,
-      "video": 139,
+      "image": 901,
+      "video": 140,
       "audio": 12
     },
-    "referenced_files": 1046,
-    "existing_media_files": 1046,
-    "total_size_mb": 495.29,
-    "last_calculation": "2026-08-17T19:59:05.987824+00:00"
+    "referenced_files": 1053,
+    "existing_media_files": 1053,
+    "total_size_mb": 495.91,
+    "last_calculation": "2026-08-17T20:30:22.417784+00:00"
   }
 }
