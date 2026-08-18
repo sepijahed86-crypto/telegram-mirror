@@ -4739,6 +4739,25 @@
     ],
     "withyashar": [
       {
+        "id": 21158,
+        "text": "ترامپ :\nمنطقه جدید متعلق به آمریکا, تنگه هرمز\n@WarRoom",
+        "date": "2026-08-18T11:34:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21158_0_449839bb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_21158_1_fd478597.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21158"
+      },
+      {
         "id": 21157,
         "text": "سخنگوی وزارت امور خارجه قطر: ما نمی‌دانیم چه انگیزه‌ای باعث شده است که ايران پس از گذشت 6 ماه، موضوع خلبان‌ها را مطرح کند.\n@WarRoom",
         "date": "2026-08-18T11:08:55+00:00",
@@ -6330,25 +6349,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21055"
-      },
-      {
-        "id": 21054,
-        "text": "‏کارزار انتخاباتی جدید نتانیاهو؛ «آنها می‌خواهند نتانیاهو شکست بخورد، اجازه ندهید پیروز شوند» مجتبی خامنه ای، زهران ممدانی ، اردوغان ، نعیم قاسم @WarRoom",
-        "date": "2026-08-16T16:13:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21054_0_08c80fa7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_21054_1_2fa34b4b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21054"
       }
     ],
     "vahidonline": [
@@ -9599,6 +9599,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 353095,
+        "text": "کاظم غریب‌آبادی، معاون حقوقی و بین‌الملل وزیر خارجه جمهوری اسلامی، در واکنش به انتشار تصویری از تنگه هرمز از سوی دونالد ترامپ، رییس‌جمهوری آمریکا، با عنوان «قلمرو جدید آمریکا» نوشت «توهم» ترامپ درباره تنگه هرمز به‌زودی اصلاح خواهد شد.\nغریب‌آبادی نوشت: «به‌زودی توهم ترامپ در خصوص تنگه هرمز یا اصلاح می‌شود یا توهمات این متوهم را اصلاح خواهیم کرد.»\nدونالد ترامپ تصویری در شبکه اجتماعی تروت سوشال منتشر کرد که نقشه تنگه هرمز و بخش‌هایی از ایران، خلیج فارس و دریای عمان را نشان می‌دهد.\nدر بالای این تصویر عبارت «قلمرو جدید آمریکا» نوشته شده و محدوده تنگه هرمز با یک دایره مشخص شده است.\nhttps://iranintl.com/202608183821",
+        "date": "2026-08-18T11:45:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353095_0_979aef2c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353095_1_620a59b9.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608183821",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608183821"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353095"
+      },
+      {
         "id": 353094,
         "text": "محمدباقر قالیباف، رییس مجلس، گفت دشمن در پی «آشوب، ترور و اقدامات تجزیه‌طلبانه» است و قصد دارد از نارضایتی‌های احتمالی درباره بنزین سوءاستفاده کند. او افزود حل این چالش می‌تواند دشمن را از «توطئه جدیدش» ناامید کند.",
         "date": "2026-08-18T11:24:51+00:00",
@@ -11001,19 +11026,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352995"
-      },
-      {
-        "id": 352994,
-        "text": "پیر پولی‌اور، رهبر حزب محافظه‌کار کانادا، در نشستی با ایرانیان در ونکوور، با انتقاد از عملکرد دولت فدرال، خواستار اخراج فوری عوامل وابسته به سپاه پاسداران از کانادا شد. او همچنین از هماهنگی برای دیدار با شاهزاده رضا پهلوی و دعوت رسمی از او برای سفر به کانادا خبر داد.\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-17T17:22:18+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352994"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50254,
+        "text": "Server:\nrelay.rknsosi.shop\nPort:\n443\nSecret:\nee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70\n@ProxyMTProto",
+        "date": "2026-08-18T11:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50254_0_ee151736.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50254"
+      },
       {
         "id": 50253,
         "text": "Server:\n135.181.74.154\nPort:\n443\nSecret:\n3XnnAQIAAQAH8AMDhuJMOt0\n@ProxyMTProto",
@@ -12098,16 +12128,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50155"
-      },
-      {
-        "id": 50154,
-        "text": "Server:\nrelay.rknsosi.shop\nPort:\n443\nSecret:\nee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70\n@ProxyMTProto",
-        "date": "2026-08-15T11:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50154"
       }
     ],
     "XpnTeam": [
@@ -17537,6 +17557,25 @@
     ],
     "yehirani": [
       {
+        "id": 19783,
+        "text": "🔴\nپست جدید ترامپ:\nتنگه هرمز قلمروی ایالات متحدست.\n🇮🇷\n@YehIrani\n| حاج متی",
+        "date": "2026-08-18T11:38:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19783_0_579947c0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_19783_1_456fd266.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19783"
+      },
+      {
         "id": 19782,
         "text": "🔴\nکامنت یه نفر زیر پست نوید محمدزاده.\nشیشه خالص زدی ، سرمه ام کشیدی، لهجه زنتم گرفتی، اسمتم بزار جمعه چون کلا تعطیلی.\n🇮🇷\n@YehIrani\n| حاج متی",
         "date": "2026-08-18T11:24:25+00:00",
@@ -19462,43 +19501,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/yehirani/19663"
-      },
-      {
-        "id": 19659,
-        "text": "🔴\nاین شما و این قوی‌ترین دختربچه جهان؛\nلوسی میلگریم دختر 9 ساله‌ای که تو نگاه اول خیلی ناز و گوگولی به نظر میاد، موفق شده رکوردهای زیر رو بزنه:\n- لیفت : وزنه‌ی 81.6 کیلوگرمی\n- اسکوات : 67.5 کیلوگرم\n-‌ پرس سینه : 33.5 کیلوگرم\nلوسی پاورلیفتینگ، کشتی، جوجیتسو و MMA کار میکنه\nو تو کشتی هم جدیدا داره پسرها رو زیر و رو می‌کنه...\nنکته جالب اینجاست که این بچه فقط 27 کیلوئه و کلا 127 سانته، یعنی چیزی حدود 3 برابر وزنش رو لیفت می‌کنه!\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@YehIrani\n| حاج متی",
-        "date": "2026-08-14T07:25:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19659_0_dd8272c8.jpg"
-          },
-          {
-            "type": "video",
-            "file": "yehirani_19659_1_8b041c3c.mp4"
-          },
-          {
-            "type": "video",
-            "file": "yehirani_19659_2_085cb573.mp4"
-          },
-          {
-            "type": "video",
-            "file": "yehirani_19659_3_325cf4fa.mp4"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_19659_4_d4ac4112.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
-            "type": "telegram",
-            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/yehirani/19659"
       }
     ],
     "crgaming7": [
@@ -23283,7 +23285,7 @@
       }
     ]
   },
-  "last_update": "2026-08-18T11:29:55.080588+00:00",
+  "last_update": "2026-08-18T11:59:03.549727+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
@@ -23291,13 +23293,13 @@
     "total_files": 1130,
     "total_links": 304,
     "files_by_type": {
-      "image": 967,
-      "video": 151,
+      "image": 970,
+      "video": 148,
       "audio": 12
     },
     "referenced_files": 1130,
     "existing_media_files": 1130,
-    "total_size_mb": 499.84,
-    "last_calculation": "2026-08-18T11:29:55.125612+00:00"
+    "total_size_mb": 485.38,
+    "last_calculation": "2026-08-18T11:59:03.592673+00:00"
   }
 }
