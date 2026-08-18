@@ -362,6 +362,61 @@
     ],
     "apkclub": [
       {
+        "id": 71988,
+        "text": "",
+        "date": "2026-08-18T19:00:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71988_0_1f600947.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/71988"
+      },
+      {
+        "id": 71987,
+        "text": "📢\nیه پیشنهاد ویژه برای همه دیوِ‌ها و تیم‌های کریپتویی!\nاگه از دیپلوی‌های مکرر و باگ‌های تکراری خسته شدین، WarpFix قراره زندگیتون رو متحول کنه.\n🤖\n✅\nWarpFix یه ابزار خودکار برای تعمیر پایپ‌لاین‌های CI/CD شماست. دیگه نیازی نیست ساعت‌ها پای ارورها بمونید — خودش خطاها رو شناسایی و رفع می‌کنه!\n---\n🎁\nیه پیشنهاد باورنکردنی برای ۱ ماه:\nاگه می‌خواید پرو نسخه‌اش رو رایگان تست کنید، کافیه این مراحل ساده رو انجام بدید:\n1️⃣\nوارد لینک زیر بشید:\n👉\nhttps://warpfix.org\n2️⃣\nیه اکانت ساده بسازید.\n3️⃣\nپلن Pro رو انتخاب کنید.\n4️⃣\nکد تخفیف رو وارد کنید:\nWARPFIX-PRO-1M\n✅\nکارت بانکی نمی‌خواد!\n✅\nهیچ هزینه‌ای نداره!\n✅\nفقط کافیه امتحانش کنید تا تفاوت رو حس کنید.\n---\n🔥\nاگر از WarpFix راضی بودید، حتماً به Rogue Nomad (تیم سازنده) اعتبار بدید و حمایت‌شون کنید.\n👨‍💻\nمخصوصاً به درد تیم‌های فنی، دولوپرها و ادمین‌های سرور می‌خوره.\n📌\nحتماً به دوستان دولوپر خودتون هم بگید تا این فرصت رو از دست ندن.\n---\n#WarpFix\n#DevOps\n#CI_CD\n#AutonomousRepair\n#CryptoDev\n#ProPlan\n#FreeTrial\n#RogueNomad\n#MJEKING\n@APKCLUB",
+        "date": "2026-08-18T17:29:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71987_0_1f600947.jpg"
+          },
+          {
+            "type": "image",
+            "file": "apkclub_71987_1_279228ab.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://warpfix.org",
+            "type": "external",
+            "display_text": "https://warpfix.org"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/apkclub/71987"
+      },
+      {
+        "id": 71986,
+        "text": "",
+        "date": "2026-08-18T17:29:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_71986_0_1f600947.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/71986"
+      },
+      {
         "id": 71985,
         "text": "👾\nتا ۳۱ آگوست، رایگان حرف بزن!\nیه خبر خفن براتون داریم\n🚀\nFish Audio اومده API مدل صوتی فوق‌پیشرفته‌اش S2.1 Pro رو کاملاً رایگان در اختیارتون گذاشته!\n✅\nبدون کارت بانکی\n✅\nبدون تریال الکی\n✅\nفقط بساز و لذت ببر\n---\n🚀\nچطور شروع کنیم؟\n1️⃣\nبرید تو سایتشون ثبت‌نام کنید:\n👉\nhttps://fish.audio/\n2️⃣\nیه API Key بگیرید.\n3️⃣\nبا SDK پایتون یا TypeScript کار کنید، یا حتی با curl مستقیم بزنید تو REST API.\n4️⃣\nشروع کنید به تولید صداهای باکیفیت!\n---\n💡\nنکته حرفه‌ای:\nاگه می‌خواید خروجی‌تون احساسی‌تر و طبیعی‌تر باشه، حتماً مستنداتشون رو چک کنید:\n📘\ndocs.fish.audio/developer-guidelines\n---\n😏\nراستی بدونین...\nمدل ElevenLabs v3 در مقابل این مدل هیچ غلطی نمی‌کنه!\n😎\nپس تا فرصت هست، برید و از این هدیه استفاده کنید. هرکی زودتر برسه، بیشتر استفاده می‌کنه!\n---\n#FishAudio\n#TTS\n#FreeAPI\n#TextToSpeech\n#AudioAI\n#Developer\n#RogueNomad\n#ElevenLabs\n#OpenSource\n#CodingLife\n#MJEKING\n@APKCLUB",
         "date": "2026-08-18T14:57:02+00:00",
@@ -1440,39 +1495,89 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/apkclub/71887"
-      },
-      {
-        "id": 71886,
-        "text": "💻\nClone App–Parallel Dual Space\n🔝\nV4.2.0\n⭐️\nنسخه مود برنامه اجرا هم‌زمان چند حساب کاربری\n🔖\nویژگی‌های برنامه:\n🔵\nپشتیبانی از بازی‌های آنلاین با امکان اجرای چند حساب کاربری\n🔵\nجداسازی کامل داده‌ها بین حساب‌ها\n🔵\nامکان قفل‌گذاری روی اپ‌های کلون‌شده\n🔵\nسازگاری کامل با اپ‌های اجتماعی محبوب مانند اینستاگرام\n📱\nبرای دانلود فایل بر روی\n(\nدانــلود\n) کلیک کنید.\n🌟\n@APKCLUB",
-        "date": "2026-08-12T14:05:02+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71886"
-      },
-      {
-        "id": 71885,
-        "text": "",
-        "date": "2026-08-12T13:57:01+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71885"
-      },
-      {
-        "id": 71884,
-        "text": "💻\nVideo & Music Downloader\n🔝\nV4.8.9\n⭐️\nدانلود ویدیو و موزیک از شبکه‌های اجتماعی\n🔖\nویژگی‌های برنامه:\n🔵\nدانلود سریع ویدیو و موسیقی از شبکه‌های اجتماعی\n🔵\nپشتیبانی از دانلود چندرشته‌ای برای افزایش سرعت دانلود\n🔵\nامکان انتخاب کیفیت و رزولیشن مختلف پیش از دانلود\n🔵\nمرورگر داخلی برای جستجو و یافتن محتوای مورد نظر\n📱\nبرای دانلود فایل بر روی\n(\nدانــلود\n) کلیک کنید.\n🌟\n@APKCLUB",
-        "date": "2026-08-12T12:31:58+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/apkclub/71884"
       }
     ],
     "MediaMardom": [
+      {
+        "id": 11333,
+        "text": "🔴\nهمشهری: ارز ترجیحی مواد اولیه دارو حذف شد؛ یک شرکت تولیدکننده مواد اولیه دارویی با استناد به نامه سازمان غذا و دارو از حذف ارز ترجیحی این محصولات خبر داده و احتمال افزایش قیمت داروها مطرح شده.\n❤️\n•\n@MediaMardom",
+        "date": "2026-08-18T19:03:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11333_0_3b25134d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/11333"
+      },
+      {
+        "id": 11332,
+        "text": "🔴\nترامپ عکس لیندزی گراهام با کلاه «MIGA» رو منتشر کرده و نوشته:\n«لیندزی چند هفته پیش خیلی خوشحال بود! فقط به کلاهش نگاه کنید!»\n❤️\n•\n@MediaMardom",
+        "date": "2026-08-18T18:09:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11332_0_3b25134d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "MediaMardom_11332_1_e56816fb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/11332"
+      },
+      {
+        "id": 11331,
+        "text": "🇩🇪\nآپ اندروید سایت جهانی Melbet\n💥\n🎁\nبونوس ورزشی هر چهارشنبه\n🔥\n💸\nواریز و برداشت متنوع\n💵\n⭕️\nبدون نیاز به فیلتر شکن\n⭕️\n🎁\nکد هدیه ثبت نام Melbet90\n✌️\n✔\nhttps://t.me/+x60dZGAgXTUxM2U0",
+        "date": "2026-08-18T18:09:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11331_0_3b25134d.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+x60dZGAgXTUxM2U0",
+            "type": "telegram",
+            "display_text": "https://t.me/+x60dZGAgXTUxM2U0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/MediaMardom/11331"
+      },
+      {
+        "id": 11330,
+        "text": "👀\nدنبال سایت معتبر برای شرطبندی می‌گردید\n⁉️\n🎲\nسایت بین المللی و معتبر Melbet\n👍\n😁\n😊\n🙂\n🥇\nواریز و برداشت ارزی و ریالی\n‼️\n🔥\nبونوس 100% اولین واریز\n‼️\n⚽️\nبونوس ورزشی هرچهارشنبه\n‼️\n🆗\nکازینو و انفجار با ضرایب جهانی\n‼️\n🎁\nکد هدیه ثبت نام :Melbet90\n🇩🇪\nدانلود اپلیکیشن MELBET\n👉\n🔗\nلینک وبسایت\n👉\n⭕️\nجهت استفاده از vpn از IP های آسیایی یا کانادا استفاده کنید.\n🇨🇦\n🇹🇷\nG27\n✔\nhttps://t.me/+x60dZGAgXTUxM2U0",
+        "date": "2026-08-18T18:09:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11330_0_3b25134d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "MediaMardom_11330_1_97ad86ab.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+x60dZGAgXTUxM2U0",
+            "type": "telegram",
+            "display_text": "https://t.me/+x60dZGAgXTUxM2U0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/MediaMardom/11330"
+      },
       {
         "id": 11329,
         "text": "🔴\nامروز چهلم خامنه‌ای با حضور همه پسرانش (به جز مجتبی) برگزار شد\n❤️\n•\n@MediaMardom",
@@ -2561,46 +2666,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11224"
-      },
-      {
-        "id": 11223,
-        "text": "🔴\nاختلاس جدید ۴۵ هزار میلیاردی انجام شده و معلوم نیست کار کیه\n❤️\n•\n@MediaMardom",
-        "date": "2026-08-14T19:16:49+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/11223"
-      },
-      {
-        "id": 11222,
-        "text": "رضاشاه: «من درک نمیکنم چرا مردم برای عرب‌ها عزاداری می‌کنند؟!»\n❤️\n•\n@MediaMardom",
-        "date": "2026-08-14T17:32:01+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/11222"
-      },
-      {
-        "id": 11221,
-        "text": "🔴\nتراز آب دریای خزر به تو بگایی ترین حالت ممکنه و به پایین ترین سطح خود در ۲۰۰ سال اخیر رسید\n❤️\n•\n@MediaMardom",
-        "date": "2026-08-14T17:12:31+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/11221"
-      },
-      {
-        "id": 11220,
-        "text": "🔴\nسایه ماه بر روی زمین\nخورشیدگرفتگی دیروز از فضا اینطوری دیده میشد\nمردم کشورهایی که داخل سایه قرار داشتن تونستن خورشید گرفتگی رو ببینن\nهر چقدر به مرکز سایه نزدیکتر بودی می‌تونستی خورشید گرفتگی رو کامل‌تر ببینی\nسایه ثابت نیست و در یک منحنی حرکت میکنه\n❤️\n•\n@MediaMardom",
-        "date": "2026-08-14T16:48:48+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/11220"
       }
     ],
     "whitedns": [
@@ -4750,6 +4815,44 @@
     ],
     "withyashar": [
       {
+        "id": 21175,
+        "text": "اورشلیم پست : پنتاگون از  ۳۰ دانشگاه خواسته بررسی کنند که با نهادهای علمی چین، روسیه و ایران چه نوع همکاری‌هایی دارند و آیا از طریق این همکاری‌ها ممکن است اطلاعات حساس پژوهشی آمریکا به خارج منتقل شود یا نه ،\nیک مقام آمریکایی گفت دانشگاه‌های هاروارد، ام‌آی‌تی و دانشگاه برکلی کالیفرنیا هم جزو این ۳۰ دانشگاه هستند\n@WarRoom",
+        "date": "2026-08-18T18:50:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21175_0_1657da4e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21175"
+      },
+      {
+        "id": 21173,
+        "text": "تصاویر ماهواره‌ای دیروز حداقل ۲۲ هواپیمای سوخت‌رسانی آمریکایی را در فرودگاه رامون و تقریباً ۱۹ هواپیمای دیگر را در پایگاه هوایی عوودا در جنوب اسرائیل نشان می‌دهد\nعلاوه بر این، حدود ۲۰ هواپیمای سوخت‌رسانی دیگر در فرودگاه بن گوریون وجود دارد که تعداد کل هواپیماهای مستقر در اسرائیل را به تقریباً ۶۰ فروند می‌رساند.\n@WarRoom",
+        "date": "2026-08-18T17:22:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21173_0_1657da4e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_21173_1_5411b7c6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_21173_2_bc471669.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21173"
+      },
+      {
         "id": 21172,
         "text": "روبرتو کارلوس : مسلمان شدم.\n@WarRoom",
         "date": "2026-08-18T16:44:11+00:00",
@@ -6338,39 +6441,62 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21072"
-      },
-      {
-        "id": 21071,
-        "text": "ترامپ در تروث‌ :بسیار خوشحالم که عربستان سعودی، ترکیه و پاکستان سرانجام و اخیراً توافق دفاعی مشترک مکه را امضا کرده‌اند. این نشان می‌دهد که خاورمیانه در حال متحد شدن است و کشورها سرانجام خواهند توانست به شکلی مؤثرتر و معنادارتر از خود دفاع کنند.به رهبران بزرگ این سه کشور تبریک می‌گویم. این یک گام نخست بزرگ، جسورانه و مهم است , واو!\n@WarRoom\nواکنش بی بی : فقط کسی توضیح بده دقیقاً قرار است از چه کسی در برابر چه کسی دفاع کنند!\n😂",
-        "date": "2026-08-16T21:12:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21071_0_08c80fa7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21071"
-      },
-      {
-        "id": 21070,
-        "text": "ترامپ در تروث به‌شدت از برنامه شنون بیم در فاکس‌نیوز انتقاد کرده و آن را هم‌سطح «بدترین بخش‌های سی‌ان‌ان» دانسته است. او می‌گوید این برنامه دائماً مهمان‌ها و نظرسنجی‌های منفی علیه دولتش انتخاب می‌کند و دستاوردهای دولتش را نادیده می‌گیرد. ترامپ همچنین از خوان ویلیامز و جسیکا تارلوف انتقاد کرده و پیش‌بینی کرده رتبه بینندگان برنامه شنون سقوط خواهد کرد. او در پایان تأکید کرده که خودش در دفتر بیضی مشغول ادامه کار برای «پیروزی‌ها و موفقیت‌های بیشتر» است\n@WarRoom",
-        "date": "2026-08-16T20:44:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21070_0_08c80fa7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21070"
       }
     ],
     "vahidonline": [
+      {
+        "id": 77944,
+        "text": "وزیر خارجه فرانسه: دو دپیلمات ایرانی اخراج می‌شوند\nژان نوئل بارو:\nمردم ایران، مردمی بزرگ، قربانی اصلی این دوره از تنش شدید در خاورمیانه‌اند؛ مردمی که میان سرکوب خونین اعتراضات ژانویه ۲۰۲۶ و بمباران‌ها در تنگنا گرفتار شده‌اند.\nدقیقاً به این دلیل که فرانسه در کنار مردم ایران ایستاده و از هنرمندان، دانشمندان و پژوهشگران آن حمایت می‌کند، دو دیپلمات فرانسوی در ۱۹ ژوئیه گذشته به‌طرزی رسوایی‌آمیز و عامدانه مورد حمله قرار گرفتند.\nمن اعلام کرده بودم که این اقدام غیرقابل‌تحمل پیامدهایی خواهد داشت. این کار انجام شده است. دو دیپلمات ایرانی در فرانسه در همین چند روز آینده اخراج خواهند شد.\njnbarrot\n📡\n@VahidOnline",
+        "date": "2026-08-18T18:49:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vahidonline_77944_0_7fb6be76.jpg"
+          },
+          {
+            "type": "image",
+            "file": "vahidonline_77944_1_bc0e14f5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vahidonline/77944"
+      },
+      {
+        "id": 77943,
+        "text": "قالیباف:\nآمریکایی‌ها فکر می‌کنند اگر فشار بیشتری بر ایران وارد کنند، می‌توانند امتیازهایی بگیرند که اصلاً جزو توافق نبود. بسنت و هگست واقعاً در حد و اندازه این کار نیستند. دیگر منتظر نباشید این دارودسته دلقک‌ها از کلاهشان خرگوش بیرون بیاورند؛ خودتان افتضاحی را که به بار آورده‌اید جمع کنید.\nmb_ghalibaf\n📡\n@VahidOnline",
+        "date": "2026-08-18T17:33:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vahidonline_77943_0_7fb6be76.jpg"
+          },
+          {
+            "type": "image",
+            "file": "vahidonline_77943_1_b0892dd1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vahidonline/77943"
+      },
+      {
+        "id": 77942,
+        "text": "",
+        "date": "2026-08-18T17:20:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vahidonline_77942_0_7fb6be76.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vahidonline/77942"
+      },
       {
         "id": 77941,
         "text": "سازمان ملی مدیریت شرایط اضطراری، بحران‌ها و بلایای امارات:\nسامانه‌های پدافند هوایی امارات متحده عربی یک تهدید موشکی را که این کشور را هدف قرار داده بود، شناسایی کردند. لطفاً در مکانی امن بمانید و هشدارها و به‌روزرسانی‌های منتشرشده از طریق کانال‌های رسمی را دنبال کنید.\nNCEMAUAE\nآپدیت:\nپایان وضعیت اضطراری\nپیامک جدیدی که برای شهروندان در دبی ارسال شده:\nاز همکاری شما سپاسگزاریم. به شما اطمینان می‌دهیم که وضعیت در حال حاضر امن است. می‌توانید فعالیت‌های عادی خود را از سر بگیرید، اما همچنان احتیاط کنید، اقدامات پیشگیرانه لازم را رعایت کنید و دستورالعمل‌های رسمی را دنبال کنید.\n-وزارت کشور [امارات]\n📡\n@VahidOnline",
@@ -8407,66 +8533,129 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vahidonline/77791"
-      },
-      {
-        "id": 77790,
-        "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در نشست روز یکشنبه کابینه، با رد صریح طرح ۱۵ ماده‌ای «شورای صلح» دونالد ترامپ برای غزه گفت: «اسرائیل طرح ۱۵ ماده‌ای را رد می‌کند. ارتش اسرائیل تا زمانی که حماس به‌طور کامل خلع سلاح نشود، هیچ‌گونه عقب‌نشینی انجام نخواهد داد.»\nاو با تاکید بر لزوم خلع سلاح واقعی حماس افزود: «منظور از خلع سلاح، شامل تمام تسلیحات سنگین، نیمه‌سنگین و سبک است؛ ما از یک خلع سلاح واقعی و نه فرضی صحبت می‌کنیم.»\nنتانیاهو همچنین با اشاره به رایزنی‌ها با طرف آمریکایی خاطرنشان کرد: «ما در حال گفتگو با آمریکایی‌ها هستیم. آن‌ها ایده‌هایی دارند که برخی از آن‌ها برای ما قابل قبول و برخی غیرقابل قبول است. امنیت اسرائیل قابل مذاکره نیست و ما قاطعانه بر سر منافع خود ایستاده‌ایم.»\nنخست‌وزیر اسرائیل در پایان تاکید کرد: «تا زمانی که من نخست‌وزیر هستم، هیچ کشور فلسطینی تشکیل نخواهد شد؛ نه در غزه و نه در کرانه باختری.»\n@\nVahidOOnLine\n📡\n@VahidOnline",
-        "date": "2026-08-09T15:05:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vahidonline_77790_0_d6b066d8.jpg"
-          },
-          {
-            "type": "video",
-            "file": "vahidonline_77790_1_10c4eb4c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vahidonline/77790"
-      },
-      {
-        "id": 77789,
-        "text": "داستان امروز منابع حکومتی درباره چرایی سرنوشت مداحی که ۶ ماه به بهانه \"دعوت به حجاب\" مزاحم یک \"دختر بلاگر\" شده بود:\nحمیدرضا رجب‌زاده حدود ۱۵ روز پیش ناپدید شده بود اما ۴ روز پیش ویدیویی از پیکر آسیب دیدهٔ این فرد در یک کانال ضدانقلاب منتشر و در فضای مجازی دست به دست شد.\nمرد گمشده مدتی قبل در فضای مجازی با خانم بلاگر جوانی آشنا شده و به او امر به معروف و نهی از منکر می‌کرده و می خواست حجابش را در پیج اینستاگرامی حفظ کند و به مسائل سیاسی نپردازد که در روز ناپدید شدن نیز این خانم بلاگر از او درخواست ملاقات حضوری داشته است.\nتحقیقات کارآگاهان نشان می‌دهد زن جوان با طراحی قبلی و با دعوت از مرد سرشناس به محله خلوتی زمینه حضور وی را فراهم کرده و پس از رسیدن مداح جوان به محل قرار با تعارف خوردنی مسموم ابتدا مقتول را بی هوش کرده سپس با همدستی 5 مرد او را به قتل رسانده اند.\nخانم بلاگر در بازجویی ها گفت : من با مقتول در فضای مجازی آشنا شدم  او مرتب به من تذکر حجاب می داد و می خواست درباره مسائل سیاسی حرفی نزنم و... من این موضوع را با دوست پسرم درمیان گذاشتم که او پیشنهاد داد مداح جوان را با بهانه ای به محله خلوتی  بکشانم تا او با دوستانش دست به قتل بزنند.\n...\nتحقیقات همچنین نشان داد این افراد پس از قتل، اقدام به فیلمبرداری از صحنه جنایت و جنایت بر میت کرده و فیلم تهیه‌شده را در ازای دریافت پول برای  شبکه‌ معاند منافقین ارسال کرده‌اند چون تصور می کردند برای این فیلم ها که در آن بسیجی ای کشته می شد پول خوبی می توانند دریافت کنند.\nبررسی‌های کارآگاهان در این مرحله نشان داد مقتول با ضربات متعدد چاقو به قتل رسیده و پس از مرگ، با آتش زدن جسد جنایت بر میت رخ داده است. متهمان همچنین درباره نحوه انتقال و سوزاندن جسد در بیابان‌های اطراف پرند توضیحاتی را در اختیار تیم تحقیق قرار داده‌اند.\nبراساس ادعای افراد بازداشتی، یکی از متهمان که به عنوان عامل اصلی جنایت معرفی شده، ضربات اصلی را به مقتول وارد کرده و پس از آن سایر افراد نیز در این جنایت مشارکت داشته‌اند؛ با این حال، متهم اصلی پرونده پس از ارتکاب قتل متواری شده و تلاش‌های پلیس برای دستگیری او ادامه دارد.\n@\nVahidHeadline\n📡\n@VahidOnline",
-        "date": "2026-08-09T14:53:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vahidonline_77789_0_d6b066d8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "vahidonline_77789_1_f9b7f262.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vahidonline/77789"
-      },
-      {
-        "id": 77788,
-        "text": "مقامات حکومت ایران در عین اعلام پیشرفت در مذاکرات ایران و عمان درباره تعیین مسیر کشتی‌ها در تنگه هرمز روز شنبه، ۱۷ مردادماه، شرط‌های تازه و گسترده‌ای را برای باز شدن این آبراه مطرح کردند.\nمحمدباقر ذوالقدر، دبیر شورای عالی امنیت ملی، روز شنبه گفت تا زمانی که آمریکا به گفتۀ او «رفتارش را تصحیح نکند، تنگه هرمز باز نخواهد شد» و تأکید کرد این شورا «چه در جنگ و چه در مذاکره» از این موضع کوتاه نخواهد آمد.\nاو شش شرط را برای بازگشایی تنگه مطرح کرد که از جمله شامل پایان جنگ و حملات آمریکا به ایران و متحدان جمهوری اسلامی در لبنان، فلسطین، یمن و عراق، رفع محاصره دریایی، خروج نیروهای نظامی آمریکا از پیرامون ایران، پرداخت کامل خسارت‌های جنگ، لغو تحریم‌ها و آزادسازی دارایی‌های مسدودشده ایران است. ذوالقدر همچنین خواستار پایان تهدیدهای آمریکا علیه ایران شد.\nساعاتی پیش از آن نیز سخنگوی سپاه پاسداران اعلام کرده بود که بازگشایی تنگه هرمز اساساً «ارتباطی به مذاکرات ایران و عمان ندارد» و تنها در صورتی انجام خواهد شد که آمریکا «شرایط ایران» را به‌طور کامل بپذیرد.\n@\nVahidHeadline\nشرایط شورای امنیت ملی ایران با یادداشت تفاهم با آمریکا چه تفاوتی دارد؟\nانتشار شش شرط ایران برای بازگشایی تنگه هرمز، چشم‌انداز بازگشایی این تنگه در کوتاه‌مدت را در ابهام بیشتری فرو برد.\nمحمدباقر ذوالقدر، دبیر شورای عالی امنیت ملی، گفت که این شورا چه در جنگ و چه در مذاکره «هرگز کوتاه نخواهد آمد.»\nشورای عالی امنیت ملی ایران زبان صریح‌تری در مقایسه با تفاهمنامه با آمریکا به کار بسته است.\nدر یک مقایسه سریع با یادداشت تفاهم، ایران این بار به شکلی صریح خواستار پرداخت «بی‌کم و کاست خسارت‌های دو جنگ» شده است، موضوعی که در نص یادداشت تفاهم‌ دیده نمی‌شد.\nپذیرش آمریکا تقریبا ناممکن است چرا که آن کشور را در موضع «متجاوز» قرار می‌دهد و به زبان سیاسی هم به «شکست» تعبیر می‌شود. در عین حال، پرداخت غرامت، تبعات حقوقی دیگری هم به‌عنوان آغازگر جنگ و همچنین اقدامات غیرقانونی بین‌المللی دارد.\nاین در حالی است که دونالد ترامپ گفته بود که خسارات حملات ایران را از پول‌های بلوکه شده ایران می‌گیرد. این موضع آمریکا عملا نفی ششمین شرط ایران برای آزادسازی تمامی‌ دارایی‌هایی‌هایش است.\nشرط دوم ایران هم اگرچه به بند نخست یادداشت تفاهم می‌ماند، با یک تفاوت بنیادین. در تفاهمنامه دو کشور تنها از پایان دائمی تخاصم در ایران و لبنان نام برده شده بود. این بار اما جمهوری اسلامی خواستار پایان دائمی جنگ در «فلسطین، یمن و عراق» هم شده است.\nبه نظر می‌رسد شش شرط ایران نه موضوع مذاکره که موضع این کشور است.\nپیش از این، اگرچه مقام‌های ایران اعلام کرده بودند که توافق با عمان به معنای بازگشایی تنگه هرمز نیست اما رئیس‌جمهور و مقام‌های وزارت خارجه تا حدی این موضوع را به بازگشت آمریکا به تفاهمنامه و تعهد عدم نقض آن مشروط کرده بودند.\nحالا به نظر می‌رسد شورای عالی امنیت ملی مطالبات را افزایش داده است، اقدامی که حتی اگر با هدف فشار بر آمریکا و امتیازگیری در مذاکرات باشد، مخاطرات خود را دارد و مشخص نیست که واکنش آمریکا چه خواهد بود.\n@\nVahidHeadline\n📡\n@VahidOnline",
-        "date": "2026-08-09T14:32:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vahidonline_77788_0_d6b066d8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "vahidonline_77788_1_0e742c99.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vahidonline/77788"
       }
     ],
     "configraygan": [
+      {
+        "id": 7990,
+        "text": "vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiT…",
+        "date": "2026-08-18T18:01:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7990_0_40cbb99b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/configraygan/7990"
+      },
+      {
+        "id": 7989,
+        "text": "vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-61\nvless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%8D%81%20-%20%40configraygan-62\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#%F0%9F%8D%81%20-%20%40configraygan-63\nvless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#%F0%9F%8D%81%20-%20%40configraygan-64\nvless://3b037295-b93f-4ed1-b3ee-0efb8bc2f093@104.171.137.185:2200?path=%2Fv1&security=&encryption=none&type=ws#%F0%9F%8D%81%20-%20%40configraygan-65\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#%F0%9F%8D%81%20-%20%40configraygan-66\nss://YWVzLTI1Ni1nY206UGNPRTUybHlHTzZNRlJtNi9tNWhmdUMzTnBOb2NrRHZjbk5ZZ3ExOE5pND0@\n79.175.134.49:39880#%F0%9F%8D%81%20-%20%40configraygan-67\nvless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&host=node.badrangteb.ir&type=ws#%F0%9F%8D%81%20-%20%40configraygan-68\nvless://XpnTeam-5@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8D%81%20-%20%40configraygan-69\nvless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&host=node.badrangteb.ir&type=ws#%F0%9F%8D%81%20-%20%40configraygan-70\nvless://e15b0798-45e6-4a02-8385-80dc4b0faa70@222.167.211.96:443?security=reality&encryption=none&pbk=S9oBz3oVyOuJw_3wXR1YGLbL7YUY9uyE96sE-YioSBE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=littlechoice.whit3.net&sid=e43c750c515a4185#%F0%9F%8D%81%20-%20%40configraygan-71\nvless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8D%81%20-%20%40configraygan-72\nvless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8D%81%20-%20%40configraygan-73\nvless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8D%81%20-%20%40configraygan-74\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-75\nvless://969bcce0-de8a-4b02-8cf8-d00d2d2ca7a5@93.152.217.41:40443?security=reality&encryption=none&pbk=VG-FwQBMFzPcemJ_JqtkbO-2WKLmQp2h0CmAj-DfLkA&headerType=none&fp=firefox&type=tcp&sni=deepl.com&sid=5b97#%F0%9F%8D%81%20-%20%40configraygan-76\nvless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?security=reality&encryption=none&pbk=8zJkTehTmhmgKWUIj-CyJP4gtMjNxLgBxPjHC1wwW3A&headerType=none&fp=firefox&spx=%2F&type=tcp#%F0%9F%8D%81%20-%20%40configraygan-77",
+        "date": "2026-08-18T18:00:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7989_0_40cbb99b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/configraygan/7989"
+      },
+      {
+        "id": 7988,
+        "text": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRnFEVkdXdkJvd0V3R3Ra@20.87.211.186:443#%F0%9F%8D%81%20-%20%40configraygan-46\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=firefox&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-47\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40TOOTFFARANGI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=firefox&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-48\nvmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoi8J+NgSAtIEBjb25maWdyYXlnYW4tNDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=firefox&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-50\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=firefox&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-51\nvless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#%F0%9F%8D%81%20-%20%40configraygan-52\nvless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=%2FGOrbEh%23TELEGRAM-ICV2RAY%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%8D%81%20-%20%40configraygan-53\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-54\nvless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%8D%81%20-%20%40configraygan-55\nss://YWVzLTI1Ni1nY206UGNPRTUybHlHTzZNRlJtNi9tNWhmdUMzTnBOb2NrRHZjbk5ZZ3ExOE5pND0@\n79.175.134.49:39880#%F0%9F%8D%81%20-%20%40configraygan-56\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=firefox&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-57\nss://YWVzLTI1Ni1nY206UGNPRTUybHlHTzZNRlJtNi9tNWhmdUMzTnBOb2NrRHZjbk5ZZ3ExOE5pND0@\n79.175.134.49:39880#%F0%9F%8D%81%20-%20%40configraygan-58\nvless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8D%81%20-%20%40configraygan-59\nvless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?security=reality&encryption=none&pbk=8zJkTehTmhmgKWUIj-CyJP4gtMjNxLgBxPjHC1wwW3A&headerType=none&fp=firefox&spx=%2Fb46a29a208a37d1&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=61#%F0%9F%8D%81%20-%20%40configraygan-60",
+        "date": "2026-08-18T18:00:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7988_0_40cbb99b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/configraygan/7988"
+      },
+      {
+        "id": 7987,
+        "text": "vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%F0%9F%8D%81%20-%20%40configraygan-31\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40TOOTFFARANGI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-32\ntrojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8D%81%20-%20%40configraygan-33\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%F0%9F%8D%81%20-%20%40configraygan-34\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40TOOTFFARANGI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=firefox&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-35\nvless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#%F0%9F%8D%81%20-%20%40configraygan-36\nvless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.12:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#%F0%9F%8D%81%20-%20%40configraygan-37\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%F0%9F%8D%81%20-%20%40configraygan-38\nvless://b3080310-95cf-43e3-ad7a-0149af448182@185.110.188.161:8433?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%F0%9F%8D%81%20-%20%40configraygan-39\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=firefox&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-40\nvless://139aa859-0297-4235-82fb-41678653978e@205.172.59.52:33843?mode=gun&security=reality&encryption=none&pbk=RA9NH_qGC2s6M4qRsEcTal72R407pHOo6xL5d9FhTQ0&fp=firefox&spx=%2F8yi2hg5esvood42&type=grpc&serviceName=grpc&sni=timeline.www.cloudflare.com&sid=316dda#%F0%9F%8D%81%20-%20%40configraygan-41\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40TOOTFFARANGI_TOOTFFARANGI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-42\nvless://b91abe1a-80ca-417b-998b-2b542661c16f@57.131.42.58:8008?mode=packet-up&path=%2Fapi%2Fv1%2Fstream&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#%F0%9F%8D%81%20-%20%40configraygan-43\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRnFEVkdXdkJvd0V3R3Ra@20.87.211.186:443#%F0%9F%8D%81%20-%20%40configraygan-44\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-45",
+        "date": "2026-08-18T18:00:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7987_0_40cbb99b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/configraygan/7987"
+      },
+      {
+        "id": 7986,
+        "text": "vless://052f290d-0939-3046-b6d7-6ca39ddc458f@69.46.46.31:443?path=%2Fws%2F052f290d-0939-3046-b6d7-6ca39ddc458f&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-abc0.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-abc0.up.railway.app#%F0%9F%8D%81%20-%20%40configraygan-17\nvless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@31.76.119.117:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.orpheous.ru&sid=9e4eced6e98ed4d4#%F0%9F%8D%81%20-%20%40configraygan-18\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=firefox&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-19\nvless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%8D%81%20-%20%40configraygan-20\nvless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%81%20-%20%40configraygan-21\nvmess://eyJhZGQiOiI2OC4xODMuMjA5LjE4MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNTEyMTE1NC1jZWQ2LTQ2MGQtYTlmZC01ODkyMDI3YWI0YTAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3JhcGhxbCIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoi8J+NgSAtIEBjb25maWdyYXlnYW4tMjIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=\nvless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40mehrosaboran%3Fed%3D2560&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#%F0%9F%8D%81%20-%20%40configraygan-23\nvless://06d44c57-8e1a-41f4-b9c4-65d35869e078@147.45.50.24:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#%F0%9F%8D%81%20-%20%40configraygan-24\nvless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.157:443?path=%2FGOrbEh%23%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%8D%81%20-%20%40configraygan-25\nvless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%8D%81%20-%20%40configraygan-26\ntrojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8D%81%20-%20%40configraygan-27\nss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#%F0%9F%8D%81%20-%20%40configraygan-28\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#%F0%9F%8D%81%20-%20%40configraygan-29\nvless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%81%20-%20%40configraygan-30",
+        "date": "2026-08-18T18:00:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7986_0_40cbb99b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/configraygan/7986"
+      },
+      {
+        "id": 7985,
+        "text": "vless://af325624-e28d-44fd-a8a7-058a439d128f@5.129.194.34:4100?path=%2Fv1&security=&encryption=none&type=ws#%F0%9F%8D%81%20-%20%40configraygan-1\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%F0%9F%8D%81%20-%20%40configraygan-2\nvless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%81%20-%20%40configraygan-3\nvless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%81%20-%20%40configraygan-4\nvless://c1943f8a-11c6-402d-a439-dc0be226d916@77.110.99.144:443?security=reality&encryption=none&pbk=jArfQhwueyEcn5c5OkbtFavMJbiLM9aWH3Xbxnu6EEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%F0%9F%8D%81%20-%20%40configraygan-5\nvless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%81%20-%20%40configraygan-6\nvless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%81%20-%20%40configraygan-7\nvless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%2F%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%81%20-%20%40configraygan-8\nvless://338dfec6-68bb-d132-9fa4-e679786c5a62@69.46.46.32:443?path=%2Fws%2F338dfec6-68bb-d132-9fa4-e679786c5a62&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-2199.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-2199.up.railway.app#%F0%9F%8D%81%20-%20%40configraygan-9\nvless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=musiclovers85_musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%81%20-%20%40configraygan-10\nvless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?security=reality&encryption=none&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&headerType=none&fp=firefox&spx=%2Fd1391238c7e6e89&type=tcp&sni=shop-eu-de.amd.com&sid=09#%F0%9F%8D%81%20-%20%40configraygan-11\nvless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%81%20-%20%40configraygan-12\nvless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%81%20-%20%40configraygan-13\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%F0%9F%8D%81%20-%20%40configraygan-14\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%F0%9F%8D%81%20-%20%40configraygan-15\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#%F0%9F%8D%81%20-%20%40configraygan-16",
+        "date": "2026-08-18T18:00:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7985_0_40cbb99b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/configraygan/7985"
+      },
+      {
+        "id": 7984,
+        "text": "vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=%2F&type=xhttp&sni=www.google.com&sid=44#configraygan_19\ntrojan://BEwWAh0ftF@185.126.236.186:19684?path=%2F&security=none&host=amp-api-edge.apps.apple.com&type=httpupgrade#configraygan_20\nvless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol3.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pol3.freeinternat.com&sid=ff776ff77be48b88#configraygan_21\nvless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@164.37.104.234:443?security=reality&encryption=none&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb1.murhost.network&sid=84f9881951050a30#configraygan_22\nvless://b91abe1a-80ca-417b-998b-2b542661c16f@57.131.42.58:8008?mode=packet-up&path=%2Fapi%2Fv1%2Fstream%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#configraygan_23",
+        "date": "2026-08-18T17:56:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7984_0_40cbb99b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/configraygan/7984"
+      },
+      {
+        "id": 7983,
+        "text": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#configraygan_1\nvless://d171491a-9995-46ce-8719-f64463ca3a45@104.26.0.7:443?path=%2Fdownload.php&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#configraygan_2\nsocks://Og@185.63.113.164:1085#configraygan_3\nvless://423b1d79-08c4-403f-9d5e-c541f791b55f@83.143.112.146:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#configraygan_4\nvless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#configraygan_5\nvless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#configraygan_6\nsocks://Og@5.160.134.17:10808#configraygan_7\nvless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#configraygan_8\nvless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#configraygan_9\nvless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?path=%2F11030%2Fapi1&security=tls&encryption=none&insecure=0&host=onisni.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=onisni.irandoc.info#configraygan_10\nvless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#configraygan_11\nvless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#configraygan_12\nvless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@164.37.104.234:443?security=reality&encryption=none&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=gb1.murhost.network&sid=84f9881951050a30#configraygan_13\nsocks://Og@144.91.121.61:1088#configraygan_14\nvless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#configraygan_15\nvless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#configraygan_16\nvless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?path=%2Fdownload.php%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=amphetamine.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=amphetamine.adaspoloandco.com#configraygan_17\nvless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.19:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#configraygan_18",
+        "date": "2026-08-18T17:56:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "configraygan_7983_0_40cbb99b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/configraygan/7983"
+      },
       {
         "id": 7982,
         "text": "vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=&encryption=none&headerType=none&type=tcp#configraygan_19\nvless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.117:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#configraygan_20\nvless://1f5f2b12-7b91-4ddf-928b-d7362cf1aa43@164.90.185.67:59653?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#configraygan_21\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#configraygan_22\nvless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#configraygan_23\nvless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#configraygan_24\nvless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&encryption=none&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=3.oncloudnineservicestreang.com&sid=1991780b928b292d#configraygan_25\nvless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#configraygan_26",
@@ -9510,89 +9699,320 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/configraygan/7886"
-      },
-      {
-        "id": 7883,
-        "text": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecu…",
-        "date": "2026-07-26T18:44:07+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7883"
-      },
-      {
-        "id": 7881,
-        "text": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecu…",
-        "date": "2026-07-26T18:40:29+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7881"
-      },
-      {
-        "id": 7880,
-        "text": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecu…",
-        "date": "2026-07-26T18:38:39+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7880"
-      },
-      {
-        "id": 7879,
-        "text": "یه اشی براتون پختم ، یه وجب روش روغن باشه ، اماده اید؟",
-        "date": "2026-07-26T18:38:07+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7879"
-      },
-      {
-        "id": 7878,
-        "text": "یه اشی براتون پختم ، یه وجب روش روغن باشه ، اماده اید؟",
-        "date": "2026-07-26T18:38:07+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7878"
-      },
-      {
-        "id": 7877,
-        "text": "یه اشی براتون پختم ، یه وجب روش روغن باشه ، اماده اید؟",
-        "date": "2026-07-26T18:38:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7877"
-      },
-      {
-        "id": 7876,
-        "text": "vless://35495e54-3b92-4835-9f51-6cba41bacb5e@3.122.11.15:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#configraygan_1  vless://e2047d88-9aa0-4e47-9218-12c0859913db@77.233.214.166:40443?security=reality&encryption=none&pbk=tSS…",
-        "date": "2026-07-25T20:33:21+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7876"
-      },
-      {
-        "id": 7875,
-        "text": "vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#configraygan_39\nvless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#configraygan_40",
-        "date": "2026-07-25T20:31:30+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/configraygan/7875"
       }
     ],
     "IranintlTV": [
+      {
+        "id": 353158,
+        "text": "🔻\nفوتبال ۳۶۰ خبر داده که در فاصله ۱۶ روز بعد از انتخاب نیلوفر اردلان به عنوان سرمربی جدید تیم زنان پرسپولیس، او پیش از آنکه تمرینات پیش‌فصل سرخ‌پوشان آغاز شود، از سمتش برکنار شد.\n🔹\nآنطور که فوتبال ۳۶۰ نوشته، اردلان که پیشتر قراردادش با ایستا البرز را به صورت یک‌طرفه فسخ کرده بود، به دلیل عدم جلب رضایت مدیران این باشگاه و اختلاف با مسئولان پرسپولیس در زمینه تقویت تیم، خیلی زود از جمع سرخپوشان جدا شد.\n🔹\nشادی رضایی و مریم آزمون، ۲ گزینه احتمالی هدایت پرسپولیس در فصل جدید لیگ برتر زنان هستند.\n@iranintltvsport",
+        "date": "2026-08-18T19:05:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353158_0_979aef2c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353158_1_ab319920.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353158"
+      },
+      {
+        "id": 353157,
+        "text": "🔻\nتیم فوتبال تراکتور در هفته دوم لیگ برتر با نتیجه ۲-۰ سپاهان را در اصفهان شکست داد. هر دو گل این بازی را امیرحسین حسین‌زاده در دقایق ۸۳ و ۴+۹۰ روی اشتباهات عجیب حسین حسینی دروازه‌بان سپاهان به ثمر رساند.\n🔹\nتیم تحت هدایت جواد نکونام با این پیروزی ۶ امتیازی شد و به دلیل تفاضل گل کمتر نسبت به استقلال فعلا در رده دوم جدول لیگ برتر قرار گرفت.\n@iranintltvsport",
+        "date": "2026-08-18T18:48:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353157_0_979aef2c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353157_1_1319b7e2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353157"
+      },
+      {
+        "id": 353156,
+        "text": "یسرائیل کاتز، وزیر دفاع اسرائیل، در شبکه ایکس نوشت: «سیاست اسرائیل در غزه، همان‌طور که بنیامین نتانیاهو، نخست‌وزیر، برای ارتش این کشور روشن کرده است، مشخص است؛ رفع تهدیدها، کشتن تروریست‌ها و انتقام از هر کسی که در کشتار هفتم اکتبر مشارکت داشت.»\nکاتز با اشاره به حمله ۲۶ مرداد ارتش اسرائیل به نیروهای حماس افزود: «ارتش ما دوشنبه با کشتن افراد تروریست حماس بر همین اساس عمل کرد و با قدرت به این اقدام ادامه خواهد داد تا از نیروهای خود محافظت کند و آرامش را در شهرک‌های جنوب اسرائیل تضمین کند.»\nhttps://iranintl.com/202608189183",
+        "date": "2026-08-18T18:42:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353156_0_979aef2c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353156_1_6785963b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608189183",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608189183"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353156"
+      },
+      {
+        "id": 353154,
+        "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
+        "date": "2026-08-18T18:34:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353154_0_979aef2c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353154_1_b76ecd2e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353154"
+      },
+      {
+        "id": 353153,
+        "text": "ژان نوئل بارو، وزیر خارجه فرانسه، سه‌شنبه ۲۷ مرداد در شبکه ایکس نوشت: «مردم ایران، مردمی بزرگ، قربانیان اصلی این دوره از تنش شدید در خاورمیانه هستند و میان سرکوب خونین اعتراضات دی‌ماه و بمباران‌ها گرفتار شده‌اند.»\nبارو افزود: «دقیقا به این دلیل که فرانسه در کنار مردم ایران ایستاده و از هنرمندان، دانشمندان و پژوهشگران ایرانی حمایت می‌کند، دو دیپلمات فرانسوی ۲۸ تیر عامدانه مورد تعرض قرار گرفتند.»\nاو اضافه کرد: «اعلام کرده بودم که این اقدام غیرقابل تحمل پیامدهایی در پی خواهد داشت. دو دیپلمات جمهوری اسلامی در فرانسه طی روزهای آینده اخراج خواهند شد.»\nhttps://iranintl.com/202608181404",
+        "date": "2026-08-18T18:31:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353153_0_979aef2c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353153_1_1c101c39.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608181404",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608181404"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353153"
+      },
+      {
+        "id": 353152,
+        "text": "مهدی مهدوی‌آزاد در برنامه «چشم‌انداز» گفت ادعاهای حکومت درباره کاهش کسری بنزین با واقعیت همخوانی ندارد و وضعیت مصرف و تولید بنزین در ایران بحرانی‌تر از آن چیزی است که مقام‌های رسمی اعلام می‌کنند. او افزود حتی در صورت کاهش تنش با جهان، جمهوری اسلامی برای جبران ناترازی سوخت چاره‌ای جز افزایش قیمت بنزین ندارد.\n@iranintltv",
+        "date": "2026-08-18T18:08:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353152_0_979aef2c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353152_1_aa385f63.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353152"
+      },
+      {
+        "id": 353151,
+        "text": "یک جوان ۱۹ ساله با ارسال ویدیویی به ایران اینترنشنال از فشار معیشتی به جامعه و شرایط سخت کار روایت می‌کند و می‌گوید به خاطر فشارهای زندگی سنش شبیه ۳۰ ساله‌ها به نظر می‌آید.",
+        "date": "2026-08-18T17:59:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353151_0_979aef2c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353151"
+      },
+      {
+        "id": 353150,
+        "text": "🔻\nتیم فوتبال استقلال در هفته دوم لیگ برتر با نتیجه ۱-۰ نساجی مازندران را شکست داد تا با این پیروزی ۶ امتیازی شود. تک گل استقلال را در این بازی محمدرضا آزادی در دقیقه ۸۳ به ثمر رساند.\n🔹\nآزادی تنها دو دقیقه بعد از ورودش به زمین بازی به عنوان بازیکن تعویضی، موفق شد دروازه نساجی را باز کند.\n🔹\nاستقلال در نیمه اول موقعیت‌های زیادی داشت که جعفرپور دروازه‌بان نساجی مانع باز شدن دروازه قائمشهری‌ها شد.\n🔹\nدر دیگر بازی هفته دوم، پیکان و گل‌گهر به مصاف هم رفتند که آن بازی با تساوی بدون گل دو تیم به پایان رسید.\n@iranintltvsport",
+        "date": "2026-08-18T17:55:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353150_0_979aef2c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353150_1_5e5a4ba6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353150"
+      },
+      {
+        "id": 353149,
+        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، سه‌شنبه ۲۷ مرداد تصویری از لیندزی گراهام، سناتور فقید جمهوری‌خواه، در شبکه تروث‌سوشال منتشر کرد و نوشت: «به کلاه دقت کنید».در این تصویر، گراهام کلاهی بر سر دارد که روی آن نوشته شده است: «ایران را دوباره باشکوه کنیم.»\nترامپ همزمان در پستی دیگر در تروت سوشال نوشت: «هیچ مذاکره یا گفت‌وگویی با جمهوری اسلامی در جریان نیست و هیچ مذاکره یا گفت‌وگویی نیز برنامه‌ریزی نشده است.»\nhttps://iranintl.com/202608188225",
+        "date": "2026-08-18T17:54:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353149_0_979aef2c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353149_1_16b84fee.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608188225",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608188225"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353149"
+      },
+      {
+        "id": 353148,
+        "text": "🔻\nمهدی تارتار، سرمربی پرسپولیس، پیش از دیدار برابر استقلال خوزستان درباره سبک بازی تیمش گفت: «تلاش می‌کنم بازی مالکانه را از تیم گواردیولا الگوبرداری کنم. بازی‌های منسجم و دفاعی را از دیگو سیمئونه و ضربات ایستگاهی را از آرتتا یاد می‌گیرم و تلاش می‌کنم پرس‌ها و بازپس‌گیری توپ را از یورگن کلوپ بیاموزم.»\n🔹\nاو ادامه داد: «فلسفه باید با توجه به موجودی ایجاد شود. الان تیم من به گونه‌ای است که می‌توانم پرس کلوپ، بازی مالکانه گواردیولا و ضربات ایستگاهی آرتتا را به صورت ترکیبی استفاده کنم.»\n🔹\nتارتار گفت: «دیدار فردا مقابل استقلال خوزستان یکی از فینال‌های ماست و باید تمام بازی‌ها را به چشم فینال ببینیم. به مصاف تیمی می‌رویم که بسیار منظم بازی می‌کند و کادر فنی بسیار خوبی دارد. امیر خلیفه‌اصل یکی از مربیان اخلاق‌مدار و باکیفیت ماست و شناخت خوبی از تیمش دارد، اما با توجه به هدفی که برای خودمان ترسیم کرده‌ایم، محکوم به پیروزی هستیم.»\n🔹\nجزییات بیشتر را\nاینجا\nبخوانید\n@iranintltvsport",
+        "date": "2026-08-18T17:39:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353148_0_979aef2c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353148_1_bf4ae5c7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353148"
+      },
+      {
+        "id": 353147,
+        "text": "محمدباقر قالیباف، رییس مجلس، در شبکه ایکس نوشت آمریکایی‌ها فکر می‌کنند با افزایش فشار بر جمهوری اسلامی می‌توانند امتیازهایی بگیرند که هرگز بخشی از توافق نبوده است.\nاو افزود: «بسنت و هگست در حد و اندازه این کار نیستند. دست از انتظار برای معجزه این گروه دلقک‌ها بردارید و خرابکاری‌ای را که خودتان به بار آورده‌اید، جمع کنید.»\nhttps://iranintl.com/202608186136",
+        "date": "2026-08-18T17:34:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353147_0_979aef2c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353147_1_92d6d90c.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608186136",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608186136"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353147"
+      },
+      {
+        "id": 353146,
+        "text": "نجات بهرامی، تحلیلگر سیاسی، به ایران‌اینترنشنال گفت جمهوری اسلامی می‌خواهد منطقه را به زور وارد جنگ کند؛ چون نمی‌خواهد ترامپ با حفظ آرامش در منطقه، وضعیت را تا انتخابات نوامبر پیش ببرد و بعد از پیروزی، با دست بازتری به مقابله با جمهوری اسلامی برگردد.\n@iranintltv",
+        "date": "2026-08-18T17:34:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353146_0_979aef2c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353146_1_c919d918.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353146"
+      },
+      {
+        "id": 353145,
+        "text": "حجت‌الله عبدالملکی، وزیر تعاون، کار و رفاه اجتماعی در دولت سیزدهم، در مراسمی به مناسبت چهلمین روز دفن علی خامنه‌ای، دیکتاتور کشته شده ایران، در شهر کوهسار گفت گرانی‌های ماه‌های اخیر «مطلقا هیچ ربطی» به جنگ ندارد.\n@iranintltv",
+        "date": "2026-08-18T17:22:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353145_0_979aef2c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353145_1_4633ce5e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353145"
+      },
+      {
+        "id": 353144,
+        "text": "نچیروان بارزانی، رییس اقلیم کردستان عراق، از طریق دیدار با مقام‌های جمهوری اسلامی، از جمله دو دیدار با اسماعیل قاآنی، فرمانده نیروی قدس سپاه، در ارتباط میان تهران و واشینگتن نقش دارد. جرد کوشنر، فرستاده ویژه آمریکا به خاورمیانه، نیز گفته تماس‌های آمریکا با بخش‌های مختلف جمهوری اسلامی اکنون گسترده‌تر از همیشه است.\nگفت‌وگو با سمیرا قرایی و تروسکه صادقی، خبرنگاران ایران‌اینترنشنال، و مسعود کاظمی، روزنامه‌نگار\n@iranintltv",
+        "date": "2026-08-18T17:18:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353144_0_979aef2c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353144_1_15b49e5b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353144"
+      },
+      {
+        "id": 353143,
+        "text": "واشینگتن‌پست در گزارشی اعلام کرد پنتاگون در حال ارزیابی کاهش احتمالی حضور نظامی آمریکا در خلیج فارس است؛ اقدامی که می‌تواند نشانه‌ای اولیه از تغییر حضور آمریکا در منطقه در پی جنگ ایران باشد.\nاین روزنامه به نقل از هشت نفر از مقام‌ها و افراد مطلع نوشت پنتاگون در حال بررسی حضور نظامی آمریکا در خاورمیانه است.\nدو فرد مطلع از این روند نیز به واشینگتن‌پست گفتند پایگاه‌های بزرگ نظامی آمریکا در خلیج فارس طی ماه‌های گذشته در حملات ایران به‌شدت آسیب دیده‌اند و خسارت واردشده به این تاسیسات، فرصتی کم‌سابقه برای پنتاگون فراهم کرده است تا حضور نظامی آمریکا در منطقه را بازنگری کند.\nدر این گزارش آمده است وزارت دفاع آمریکا پیش‌تر نیز نشان داده بود که ممکن است پایگاه‌های نظامی خود را به شکل پیش از درگیری بازسازی نکند.\nhttps://iranintl.com/202608185538",
+        "date": "2026-08-18T17:13:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353143_0_979aef2c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353143_1_c02ed44c.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608185538",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608185538"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353143"
+      },
       {
         "id": 353142,
         "text": "🔻\nرودری، هافبک اسپانیایی منچسترسیتی، با عقد قراردادی چهارساله و به ارزش ۶۰ میلیون یورو به‌علاوه ۱۶.۵ میلیون یورو پاداش به بارسلونا پیوست.\n🔹\nاین ستاره اسپانیایی در سال ۲۰۲۴ موفق به کسب توپ طلا شد و پس از لوتار ماتئوس در سال ۱۹۹۰، نخستین هافبکی لقب گرفت که این جایزه را از آن خود کرده است.\n🔹\nرودری در دوران حضورش در منچسترسیتی ۲۹۸ بازی انجام داد و ۲۸ گل و ۳۰ پاس گل به ثبت رساند. او همچنین همراه سیتی چهار قهرمانی لیگ برتر و یک قهرمانی لیگ قهرمانان اروپا را تجربه کرد.\n@iranintltvsport",
@@ -9679,18 +10099,9 @@
         "id": 353138,
         "text": "فریدون\nدر این برنامه علیرضا کیانی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان\n@iranintltv",
         "date": "2026-08-18T16:49:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353138_0_979aef2c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_353138_1_8a0d554d.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353138"
       },
@@ -9698,18 +10109,9 @@
         "id": 353137,
         "text": "تیتر اول با نیوشا صارمی، سه‌شنبه ۲۷ مرداد\n@iranintltv",
         "date": "2026-08-18T16:34:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353137_0_979aef2c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_353137_1_6a92eff2.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353137"
       },
@@ -9717,16 +10119,7 @@
         "id": 353136,
         "text": "عبدالناصر همتی، رییس بانک مرکزی، سه‌شنبه ۲۷ مرداد به خبرگزاری دانشجو گفت: فشار از ابتدا وجود داشته و موضوع جدیدی نیست؛ آن‌ها می‌گویند فشار را حداکثری می‌کنند و ما نیز با مقاومت حداکثری پاسخ می‌دهیم.\nهمتی افزود: «تهدیدهای رییس‌جمهور آمریکا موضوع تازه‌ای نیست؛ او هر روز در اظهارات و پیام‌های خود تهدید می‌کند، اما ما برنامه‌های خودمان را دنبال می‌کنیم.»\nرییس بانک مرکزی جمهوری اسلامی گفت: «آن‌ها در عمل خواهند دید که این تهدیدها خللی در مسیر ما ایجاد نخواهد کرد.»\nhttps://iranintl.com/202608186808",
         "date": "2026-08-18T16:26:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353136_0_979aef2c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_353136_1_10a8cba7.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608186808",
@@ -9734,7 +10127,7 @@
             "display_text": "https://iranintl.com/202608186808"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/353136"
       },
@@ -9742,18 +10135,9 @@
         "id": 353135,
         "text": "دولت آلمان برای مقابله با تهدیدهای پهپادی، یک مرکز پژوهشی جدید در ایالت زاکسن-آنهالت راه‌اندازی کرد. این مرکز بر شناسایی و ردیابی پهپادها تمرکز خواهد داشت. وزیر کشور آلمان نیز تهدیدهای پهپادی را بخشی از «جنگ سایه قرن بیست‌ویکم» توصیف کرد و گفت برلین به‌دنبال تقویت توان دفاعی خود در برابر حملات ترکیبی و هیبریدی است.\nگزارش علی حسن‌پور، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-08-18T16:15:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353135_0_979aef2c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_353135_1_564dba9e.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353135"
       },
@@ -9761,16 +10145,7 @@
         "id": 353134,
         "text": "ارتش اسرائیل سه‌شنبه ۲۷ مرداد اعلام کرد در حمله هوایی در نزدیکی بندر شهر غزه، فرماندهان حماس را که در حال برنامه‌ریزی برای حمله به نیروهای اسرائیلی مستقر در نوار غزه بودند، هدف قرار داده است.\nارتش اسرائیل افزود این افراد در یک حمله هوایی دقیق و با هدف «رفع تهدید» هدف قرار گرفتند.\nهمزمان، رسانه‌های فلسطینی گزارش دادند این حمله به یک کافه اصابت کرد و شش نفر کشته و ۱۰ نفر زخمی شدند.\nhttps://iranintl.com/202608188674",
         "date": "2026-08-18T16:13:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353134_0_979aef2c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_353134_1_d3b85097.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608188674",
@@ -9778,7 +10153,7 @@
             "display_text": "https://iranintl.com/202608188674"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/353134"
       },
@@ -9786,18 +10161,9 @@
         "id": 353133,
         "text": "ویدیوی منتشرشده در شبکه‌های اجتماعی نشان می‌دهد که ۲۷ مرداد، زادروز جاویدنام عسل منصوری کنار آرامگاهش گرامی داشته شد. عسل منصوری، روانشناس کودک و فعال حقوق کودکان بود که جمعه ۱۹ دی‌ماه برای اعتراض به خیابان رفت و بر اثر شلیک مستقیم ماموران به قلبش کشته شد.",
         "date": "2026-08-18T15:59:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353133_0_979aef2c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_353133_1_e18a80bb.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353133"
       },
@@ -9805,14 +10171,9 @@
         "id": 353132,
         "text": "🎧\nنسخه صوتی اخبار شبانگاهی | سه‌شنبه ۲۷ مرداد\n@iranintlTV",
         "date": "2026-08-18T15:59:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353132_0_979aef2c.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353132"
       },
@@ -9820,18 +10181,9 @@
         "id": 353131,
         "text": "همزمان با تداوم تنش‌ها در تنگه هرمز، داده‌های تازه کپلر نشان می‌دهد دوشنبه ۲۶ مرداد، تنها شش کشتی تجاری از تنگه هرمز عبور کرده‌اند؛ رقمی کمتر از میانگین ۱۰ روزه ۱۱ کشتی. کپلر اعلام کرده است در میان این کشتی‌ها، هیچ نفتکش غول‌پیکر حامل نفت خام یا نفتکش ال‌ان‌جی ثبت نشده است.\nمرضیه حسینی، خبرنگار ایران‌اینترنشنال، از آخرین گزارش‌ها درباره تردد کشتی‌ها در تنگه هرمز می‌گوید\n@iranintltv",
         "date": "2026-08-18T15:57:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353131_0_979aef2c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_353131_1_ff529d3d.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353131"
       },
@@ -10666,225 +11018,69 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353057"
-      },
-      {
-        "id": 353056,
-        "text": "مستند داستانی دادگاه تاریخ\nفیلمی از جمشید برزگر\nپنج‌شنبه ۲۹ مرداد، ساعت ۲۰:۰۰ به وقت تهران\nتکرار: جمعه ۳۰ مرداد، ساعت ۱۱:۰۰ به‌وقت تهران\nاز ایران‌اینترنشنال\n@iranintltv\n@iranintltv",
-        "date": "2026-08-18T06:00:32+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353056"
-      },
-      {
-        "id": 353055,
-        "text": "امیر گیتی، عضو تحریریه ایران‌اینترنشنال، با اشاره به پایان بی‌نتیجه مهلت ۶۰ روزه تعیین‌شده در یادداشت تفاهم اسلام‌آباد و مخالفت دونالد ترامپ با تمدید آن، گفت رییس‌جمهوری آمریکا در شرایط کنونی ادامه فشار اقتصادی بر جمهوری‌اسلامی را به ازسرگیری حملات نظامی ترجیح می‌دهد، اما در صورت اقدام نظامی از سوی حکومت ایران، گزینه حمله را همچنان روی میز نگه داشته است.\n@iranintltv",
-        "date": "2026-08-18T05:49:39+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353055"
-      },
-      {
-        "id": 353054,
-        "text": "سرخط خبرهای سه‌شنبه ۲۷ مرداد\n@iranintltv",
-        "date": "2026-08-18T04:25:54+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353054"
-      },
-      {
-        "id": 353053,
-        "text": "قانون‌گذاران دموکرات و جمهوری‌خواه در مجلس سنای آمریکا از دستور دونالد ترامپ، رییس‌جمهوری آمریکا، برای کاهش رزمایش‌های مشترک با کره جنوبی انتقاد کردند.\nسناتور جک رید، ارشدترین عضو دموکرات کمیته نیروهای مسلح سنا، این اقدام را «بی‌منطق و شتاب‌زده» خواند.\nسناتور مارک کلی، عضو دموکرات کمیته نیروهای مسلح سنا، نیز کاهش ابعاد رزمایش‌ها را «کوته‌بینانه و اشتباه» توصیف کرد.\nسناتور اندی کیم، عضو دموکرات کمیته روابط خارجی سنا، گفت پیوند زدن رزمایش‌ها به خودداری سئول از مشارکت در جنگ ایران، نشان‌دهنده نگرشی نگران‌کننده نسبت به یکی از شرکای کلیدی آمریکا است.\nسناتور تام تیلیس، عضو جمهوری‌خواه سنا، نیز گفت این تصمیم می‌تواند هزاران نیروی کره شمالی را برای کمک به روسیه در جنگ اوکراین آزاد کند.\nhttps://iranintl.com/202608181039",
-        "date": "2026-08-18T03:54:32+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608181039",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608181039"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353053"
-      },
-      {
-        "id": 353052,
-        "text": "مرکز عملیات تجارت دریایی بریتانیا اعلام کرد گزارشی درباره وقوع یک حادثه در تنگه هرمز دریافت کرده است. بر اساس این گزارش، یک شناور هنگام خروج از تنگه هرمز با یک پرتابه ناشناس هدف قرار گرفت.\nhttps://iranintl.com/202608180853",
-        "date": "2026-08-18T03:37:23+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608180853",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608180853"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353052"
-      },
-      {
-        "id": 353051,
-        "text": "خبرگزاری رویترز گزارش داد تردد کشتی‌ها از تنگه هرمز با وجود افزایش اندک نسبت به آخر هفته، همچنان در سطحی بسیار پایین باقی مانده و هم‌زمان با بن‌بست در مذاکرات میان آمریکا و جمهوری اسلامی، روز دوشنبه تنها شش کشتی حامل کالا از این آبراه عبور کرده‌اند.\nبر اساس داده‌های رهگیری کشتی‌های شرکت کپلر، سه فروند از این کشتی‌ها وارد خلیج شدند و سه فروند از آن خارج شدند. این رقم در حالی ثبت شده که میانگین تردد در ۱۰ روز گذشته ۱۱ کشتی بوده است. روز شنبه سه کشتی و روز یکشنبه تنها دو کشتی از تنگه هرمز عبور کردند.\nرویترز نوشت در این مدت هیچ نفتکش بسیار بزرگ حامل نفت خام یا کشتی حامل گاز طبیعی مایع از تنگه عبور نکرد. این خبرگزاری افزود احتمال دارد برخی شناورها با سامانه‌های شناسایی خاموش از این مسیر گذشته باشند و در آمار ثبت نشده باشند. داده‌ها همچنین نشان می‌دهد یک کشتی بسیار بزرگ حمل گاز بدون محموله از مسیر ایران وارد تنگه شده است.\nhttps://iranintl.com/202608182280",
-        "date": "2026-08-18T03:31:38+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608182280",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608182280"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353051"
-      },
-      {
-        "id": 353050,
-        "text": "سایت نور‌نیوز، نزدیک به شورای عالی امنیت ملی جمهوری اسلامی، از تصویب کلیات طرح موسوم به «مقابله با نفوذ سرویس‌های اطلاعاتی و دولت‌ها یا نهادهای بیگانه» انتقاد کرد و نوشت مضمون و ابعاد آن «به‌قدری پراشکال، مبهم و گاه تعجب‌برانگیز است» که این پرسش را ایجاد می‌کند نویسنده طرح چه هدفی داشته است.\nنور‌نیوز نوشت اگر پس از هر جنگ و بحران، حکومت به‌جای بازسازی نهادهای حفاظتی و رفع کاستی‌های آنها، جامعه و نخبگان را در جایگاه متهم قرار دهد، امنیت واقعی از میان می‌رود و تنها نمایشی از مقابله با نفوذ باقی می‌ماند.\nاین سایت تاکید کرد نفوذ واقعی از مسیر اختلال در تصمیم‌گیری، ضعف حفاظت اطلاعات، ناهماهنگی دستگاه‌ها و حفره‌های سایبری رخ می‌دهد، نه از طریق استادان دانشگاه، روزنامه‌نگاران، هنرمندان یا پژوهشگران. نور‌نیوز هشدار داد این طرح، اگر با همین رویکرد ادامه یابد، ممکن است خود به تهدیدی برای امنیت ملی تبدیل شود و از نظر کارشناسی نیز با ضعف‌های جدی روبه‌رو است.\nhttps://iranintl.com/202608180065",
-        "date": "2026-08-18T03:09:34+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608180065",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608180065"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353050"
-      },
-      {
-        "id": 353049,
-        "text": "خبرگزاری رویترز به نقل از سه مقام ایرانی گزارش داد با وجود موضع‌گیری‌های قدرت‌نمایانه جمهوری اسلامی پس از نزدیک به شش ماه جنگ و بسته ماندن تنگه هرمز، رهبران جمهوری اسلامی با فشار فزاینده داخلی روبه‌رو هستند؛ فشاری که به گفته این منابع می‌تواند به ناآرامی‌های سراسری منجر شود.\nبرای تهیه این گزارش، رویترز با سه مقام ایرانی، دو فرد مطلع از محافل سیاسی، یک مقام پیشین جمهوری اسلامی و ۱۲ شهروند ایرانی گفت‌وگو کرده است. این افراد به دلیل نگرانی از اقدامات تلافی‌جویانه یا نداشتن مجوز گفت‌وگو با رسانه‌ها، خواستند هویتشان فاش نشود.\nبه نوشته رویترز، دو فرد مطلع و یک مقام پیشین جمهوری اسلامی گفتند برای رهبران جمهوری اسلامی، تهدید اصلی تنها فشار اقتصادی نیست، بلکه احتمال شعله‌ور شدن دوباره ناآرامی‌های سراسری در پی تشدید مشکلات معیشتی است.\nرویترز همچنین به نقل از یک مقام پیشین اصلاح‌طلب نوشت انتصاب حسین طائب به فرماندهی بسیج، یکی از روشن‌ترین نشانه‌های افزایش نگرانی حکومت از بازگشت ناآرامی‌های سراسری به شمار می‌رود.\nhttps://iranintl.com/202608180856",
-        "date": "2026-08-18T02:20:09+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608180856",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608180856"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353049"
-      },
-      {
-        "id": 353048,
-        "text": "یک سخنگوی وزارت خارجه آمریکا به شبکه اسکای‌نیوز عربی گفت حزب‌الله تنها مسئول ادامه حضور اسرائیل در لبنان است.\nاو افزود حزب‌الله، که مورد حمایت تهران است، بزرگ‌ترین تهدید برای امنیت و ثبات لبنان، مانع اصلی بهبود اقتصادی این کشور و تنها نقطه منفی در وجهه بین‌المللی لبنان به شمار می‌رود.\nاین سخنگو تاکید کرد حزب‌الله باید خلع سلاح و منحل شود و گفت این اقدام، بخش جدایی‌ناپذیر برنامه آزمایشی خروج اسرائیل از برخی مناطق جنوب لبنان است.\nاو افزود این برنامه، که هدف آن خروج مرحله‌ای نیروهای اسرائیلی از مناطقی است که تحت کنترل نیروهای دولتی لبنان قرار می‌گیرند، همچنان تنها مسیر عملی برای دستیابی به صلح و امنیت به شمار می‌رود.\nبه گفته این مقام آمریکایی، در صورت اجرای موفق مراحل اولیه، این برنامه گسترش خواهد یافت.\nhttps://iranintl.com/202608183488",
-        "date": "2026-08-18T02:10:25+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608183488",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608183488"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353048"
-      },
-      {
-        "id": 353047,
-        "text": "دادگاه فدرال کانادا در حکم نهایی خود درخواست سلمان سامانی، معاون و سخنگوی پیشین وزارت کشور جمهوری اسلامی در زمان سرکوب اعتراضات سراسری آبان ۱۳۹۸، برای توقف روند اخراجش از این کشور را رد کرد. بر این اساس، اداره مرزبانی کانادا موظف است حکم اخراج او را اجرا کند.\nسامانی پس از استعفا از سمت خود با ویزای توریستی وارد کانادا شده بود. این در حالی است که بر اساس قوانین کانادا، مقام‌های ارشد حکومت‌های ناقض حقوق بشر حق حضور در این کشور را ندارند.\nسامانی در درخواست خود مدعی شده بود در صورت بازگشت به ایران با «خطر شکنجه، اعدام یا خودکشی» روبه‌رو خواهد شد.\nبر اساس حکم دادگاه، قاضی این ادعا را رد و اعلام کرد سامانی در مصاحبه‌های خود از عملکرد وزارت کشور در آبان ۱۳۹۸ دفاع کرده و هیچ مدرکی وجود ندارد که نشان دهد حکومت ایران او را «خائن» می‌داند.\nقاضی همچنین تاکید کرد منافع عمومی کانادا در جلوگیری از تبدیل شدن این کشور به «پناهگاه امن سرکوبگران»، بر ادعاهای سامانی ارجحیت دارد.\nhttps://iranintl.com/202608186653",
-        "date": "2026-08-18T01:58:19+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608186653",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608186653"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353047"
-      },
-      {
-        "id": 353046,
-        "text": "ارتش یمن اعلام کرد که طی ۲۴ ساعت گذشته، ۱۳۳ عملیات نظامی را علیه توانمندی‌ها و نیروهای شبه‌نظامیان حوثی، گروه نیابتی جمهوری اسلامی، انجام داده است.\nhttps://iranintl.com/202608182475",
-        "date": "2026-08-18T01:10:37+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608182475",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608182475"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353046"
-      },
-      {
-        "id": 353045,
-        "text": "بر اساس نظرسنجی رویترز/ایپسوس، دونالد ترامپ، رییس‌جمهوری آمریکا، با کاهش محبوبیت به پایین‌ترین سطح دوران ریاست‌جمهوری کنونی خود رسیده است.\nخبرگزاری رویترز گزارش داد در این نظرسنجی چهارروزه، ۳۳ درصد از پاسخ‌دهندگان عملکرد ترامپ در کاخ سفید را تایید و ۶۴ درصد آن را رد کردند.\nرویترز نوشت محبوبیت ترامپ که در نظرسنجی اوایل ماه جاری ۳۵ درصد بود، اکنون به پایین‌ترین سطح دوره کنونی ریاست‌جمهوری او رسیده است. این رقم همچنین با پایین‌ترین میزان محبوبیت او در دوره نخست ریاست‌جمهوری‌اش، در دسامبر ۲۰۱۷، برابری می‌کند.\nhttps://iranintl.com/202608184061",
-        "date": "2026-08-18T01:04:51+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608184061",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608184061"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353045"
-      },
-      {
-        "id": 353044,
-        "text": "دونالد ترامپ گزارش‌ها درباره وجود یک کانال ارتباطی غیررسمی و مستقیم با مقام‌های سپاه پاسداران را تایید کرد. در حالی که سپاه هرگونه گفت‌وگو با آمریکا را رد کرده، سخنگوی ریاست اقلیم کردستان عراق نیز در گفت‌وگو با ایران‌اینترنشنال از تبادل پیام میان دو طرف خبر داد. ترامپ همچنین گفت تهران باید «پرچم سفید تسلیم» را بالا ببرد.\nهم‌زمان، یک مقام ارشد جمهوری اسلامی به رویترز گفت اگر دیپلماسی با آمریکا شکست بخورد، تهران تنش‌ها در تنگه هرمز و منطقه را تشدید خواهد کرد.\nگفت‌وگو با بابک اسحاقی، تروسکه صادقی و سمیرا قرایی، خبرنگاران ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-17T23:44:32+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353044"
-      },
-      {
-        "id": 353043,
-        "text": "شبکه همبستگی برای حقوق بشر در ایران در سی‌وهشتمین سالگرد اعدام‌های تابستان ۱۳۶۷ اعلام کرد الگوی سرکوب جمهوری اسلامی همچنان ادامه دارد و موج کنونی اعدام‌ها، سرکوب اعتراضات و صدور احکام اعدام را امتداد همان سیاست «حکومت از طریق وحشت» دانست.\nدر این بیانیه، سرکوب اعتراضات سال‌های اخیر، احکام اعدام و روند رسیدگی در دادگاه‌های انقلاب به‌عنوان ادامه سیاست‌های دهه ۶۰ توصیف شده و بر ضرورت پاسخ‌گویی آمران و عاملان اعدام‌های تابستان ۱۳۶۷ و سرکوب‌های کنونی در دادگاه‌های بین‌المللی تاکید شده است.\nامضاکنندگان همچنین خواستار روشن شدن حقیقت درباره گورهای جمعی، پایان فشار بر خانواده‌های دادخواه و اجرای عدالت شدند و تاکید کردند هیچ مصلحت سیاسی، اقتصادی یا دیپلماتیک نباید مانع پیگرد عاملان جنایت علیه بشریت شود.\nدر پایان این بیانیه، شماری از تشکل‌ها و نهادهای حقوق بشری و سیاسی ایرانی بر ادامه تلاش برای مستندسازی این اعدام‌ها و پیگیری دادخواهی در مجامع بین‌المللی تاکید کردند.\nhttps://iranintl.com/202608171670",
-        "date": "2026-08-17T23:43:57+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608171670",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608171670"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353043"
-      },
-      {
-        "id": 353042,
-        "text": "مایک جانسون، رییس مجلس نمایندگان آمریکا، گفت معتقد است ایالات متحده در مسیر حل‌وفصل جنگ با جمهوری اسلامی قرار دارد.\nبه گزارش شبکه ای‌بی‌سی نیوز، جانسون افزود: «درگیری با جمهوری اسلامی، به‌طور طبیعی باعث افزایش قیمت بنزین شده و این وضعیت طولانی شده است.»\nاو اضافه کرد: «معتقدم در نهایت ائتلافی از کشورها، شامل متحدان عضو ناتو و کشورهای عرب منطقه، شکل خواهد گرفت. همه کشورهای جهان ذی‌نفع هستند که تنگه هرمز برای تجارت باز بماند. بنابراین، معتقدم وارد مرحله‌ای خواهیم شد که بتوانیم این وضعیت را آرام کنیم.»\nجانسون گفت: «این موضوع باعث خواهد شد قیمت بنزین پایین بماند و قیمت مواد غذایی نیز کاهش یابد.»\nhttps://iranintl.com/202608179460",
-        "date": "2026-08-17T23:23:34+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608179460",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608179460"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353042"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50269,
+        "text": "Server:\nadmin.valmira.co.uk\nPort:\n25565\nSecret:\nee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d\n@ProxyMTProto",
+        "date": "2026-08-18T19:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50269_0_fb87cbea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50269"
+      },
+      {
+        "id": 50268,
+        "text": "Server:\nt.meow-network.com\nPort:\n443\nSecret:\nee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d\n@ProxyMTProto",
+        "date": "2026-08-18T18:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50268_0_fb87cbea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50268"
+      },
+      {
+        "id": 50267,
+        "text": "Server:\nUnknown\nPort:\n8443\nSecret:\neeNEgYdJvXrFGRMCIMJdCQ\n@ProxyMTProto",
+        "date": "2026-08-18T18:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50267_0_fb87cbea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50267"
+      },
+      {
+        "id": 50266,
+        "text": "Server:\nstarstg.neverspy.tech\nPort:\n443\nSecret:\neee19ef78b188ec248d8187c787a46ccca737461727374672e6e657665727370792e74656368\n@ProxyMTProto",
+        "date": "2026-08-18T17:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50266_0_fb87cbea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50266"
+      },
       {
         "id": 50265,
         "text": "Server:\nUnknown\nPort:\n4455\nSecret:\ndd104462821249bd7ac519130220c25d09\n@ProxyMTProto",
@@ -11999,49 +12195,39 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50170"
-      },
-      {
-        "id": 50169,
-        "text": "Server:\nethereal11.arixo.shop\nPort:\n443\nSecret:\n7swu3Hfi5LRpqEMTgICO8f1ldGhlcmVhbDExLmFyaXhvLnNob3A\n@ProxyMTProto",
-        "date": "2026-08-15T18:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50169"
-      },
-      {
-        "id": 50168,
-        "text": "Server:\nUnknown\nPort:\n443\nSecret:\n7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==\n@ProxyMTProto",
-        "date": "2026-08-15T18:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50168"
-      },
-      {
-        "id": 50167,
-        "text": "Server:\nlab.nowabst.net\nPort:\n853\nSecret:\neeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d\n@ProxyMTProto",
-        "date": "2026-08-15T17:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50167"
-      },
-      {
-        "id": 50166,
-        "text": "Server:\nUnknown\nPort:\n443\nSecret:\neef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
-        "date": "2026-08-15T17:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50166"
       }
     ],
     "XpnTeam": [
+      {
+        "id": 8121,
+        "text": "@XpnTeam-130.npvt",
+        "date": "2026-08-18T18:53:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "XpnTeam_8121_0_291e21f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/XpnTeam/8121"
+      },
+      {
+        "id": 8120,
+        "text": "🔐\nTraffic\n: UN/\nLimited\n♾\nTime : nA\n⏰\n⚠️\nLocation :\n🌐\nApp\n⬇️\n:\nNapesterNet\n❓\n|- آموزش :\nفایل رو دانلود کنید و روش ضربه بزنید ، برنامه نپستر رو انتخاب و سپس وارد اپلیکیشن شید انتخاب کنید سرورو،بعدشم‌روشن‌کنید..\n🤩\n›\n@XpnTeam",
+        "date": "2026-08-18T18:43:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "XpnTeam_8120_0_291e21f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/XpnTeam/8120"
+      },
       {
         "id": 8119,
         "text": "🔴\nفروش سرورهای نامحدود XPN دوباره باز شد\n🟢\n🚬\nاین بار... قبل از خرید، کیفیت را خودت قضاوت کن\n.\n👍\nاول تست رایگان بگیر...\nاگر از سرعت، پایداری و کیفیت راضی بودی\n🔸\n◀️\nبعد با خیال راحت خرید کن.\n▶️\n💻\nپشتیبانی واقعی تا آخرین روز اشتراک\n🔻\nهزاران کاربر XPN، کیفیت را انتخاب کرده‌اند...\n🔻\nدریافت تست رایگان و خرید:\n➡️\n@XpnAdmin\n⭐️",
@@ -13050,26 +13236,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/XpnTeam/8016"
-      },
-      {
-        "id": 8015,
-        "text": "🔐\nTraffic\n: UN/\nLimited\n♾\nTime : nA\n⏰\n⚠️\nLocation :\n🌐\nApp\n⬇️\n:\nNapesterNet\n❓\n|- آموزش :\nفایل رو دانلود کنید و روش ضربه بزنید ، برنامه نپستر رو انتخاب و سپس وارد اپلیکیشن شید انتخاب کنید سرورو،بعدشم‌روشن‌کنید..\n🤩\n›\n@XpnTeam",
-        "date": "2026-07-29T10:16:12+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/XpnTeam/8015"
-      },
-      {
-        "id": 8014,
-        "text": "@XpnTeam-92.npvt",
-        "date": "2026-07-28T20:06:36+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/XpnTeam/8014"
       }
     ],
     "putakk": [
@@ -15921,6 +16087,25 @@
     ],
     "persian_asasins": [
       {
+        "id": 19168,
+        "text": "Good night\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
+        "date": "2026-08-18T18:58:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_19168_0_1911fbb5.jpg"
+          },
+          {
+            "type": "video",
+            "file": "persian_asasins_19168_1_64e8ccff.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/19168"
+      },
+      {
         "id": 19167,
         "text": "ارزشیا خودتون خجالت نمیکشید اینطوری حکومت داره میرینه دهن مادرتون و عقلتون رو با یک پفک نمکی یه اندازه در نظر میگیره ᴊᴏɪɴ ᴜs @persian_asasins | پرشین اساسین",
         "date": "2026-08-18T15:00:50+00:00",
@@ -17472,19 +17657,39 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/persian_asasins/19058"
-      },
-      {
-        "id": 19057,
-        "text": "حدس بزنید اینی که داره صحبت میکنه کیه و چقدر باهاش موافقید. از نظرم ده از ده بود ‌. ᴊᴏɪɴ ᴜs @persian_asasins | پرشین اساسین",
-        "date": "2026-08-03T10:46:09+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/19057"
       }
     ],
     "yehirani": [
+      {
+        "id": 19796,
+        "text": "🔴\nحسین جنتی در واکنش\nبه این موضوع\n:\nاین محتوا به اقتباس از سکانس سریال گیم آف ترونز قسمت هودور ساخته شده و به هیچ وجه قصد تمسخر کسی رو نداریم بلکه به یاد جوانان پر پر شده وطنمون ساختیم\nیک جریان خارج نشین به قصد تشویش مردم و شکستن اتحادمون کلیپ رو تقطیع کرده تا جریان سازی کند اما تیرشان مثل همیشه به سنگ خورد\nبه امید روزهای خوب و شاد برای مردم و ایران عزیزمون\n﻿\n🇮🇷\n@YehIrani\n| حاج متی",
+        "date": "2026-08-18T18:50:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19796_0_8d8f7d9f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19796"
+      },
+      {
+        "id": 19795,
+        "text": "فوری از وزارت دفاع امارات :\nایران 2 موشک بالستیک به سمت ما شلیک کرد که جفتشون رهگیری شدن و تو دریا سقوط کردن!\n🇮🇷\n@YehIrani\n| هیچ",
+        "date": "2026-08-18T17:23:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19795_0_8d8f7d9f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19795"
+      },
       {
         "id": 19794,
         "text": "🔴\nمجری صداسیما:\nرهبر شهید فقط ۱ پله از معصوم پایین تر بود.\n🇮🇷\n@YehIrani\n| حاج متی",
@@ -19370,52 +19575,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/yehirani/19675"
-      },
-      {
-        "id": 19674,
-        "text": "🔴\nقیمت ارزون ترین و کصشر ترین پراید صفر از 1 میلیارد شروع میشه :\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n@YehIrani\n| حاج متی",
-        "date": "2026-08-15T07:17:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19674_0_2a4f8de8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_19674_1_cbeeb694.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
-            "type": "telegram",
-            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/yehirani/19674"
-      },
-      {
-        "id": 19673,
-        "text": "خطاب به تویی که کسی بهت شب بخیر نگفته:\nیه خواب با کیفیت و جنس اصل ترک رو برات ارزو میکنم. او امیدوارم ک ارزو هات خاطره شن برات\n❤️\n💋\nعمو دارک ازت میخواد ک بری مسواکتو بزنی و بخوابی\n😄\n❤️\n🦘\nRoobet.com\nThe #1 Crypto Casino & Sportsbook\nJoin our Telegram for exclusive promo codes\nhttps://t.me/+Mv2beCnrwvBiNWRh\n🌞\n@YehIrani\n| Dark",
-        "date": "2026-08-14T21:00:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19673_0_2a4f8de8.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+Mv2beCnrwvBiNWRh",
-            "type": "telegram",
-            "display_text": "https://t.me/+Mv2beCnrwvBiNWRh"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/yehirani/19673"
       }
     ],
     "crgaming7": [
@@ -23208,21 +23367,21 @@
       }
     ]
   },
-  "last_update": "2026-08-18T17:07:29.274392+00:00",
+  "last_update": "2026-08-18T19:06:37.952774+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1128,
-    "total_files": 1128,
-    "total_links": 292,
+    "total_media": 1168,
+    "total_files": 1168,
+    "total_links": 287,
     "files_by_type": {
-      "image": 973,
+      "image": 1013,
       "video": 145,
       "audio": 10
     },
-    "referenced_files": 1128,
-    "existing_media_files": 1128,
-    "total_size_mb": 497.4,
-    "last_calculation": "2026-08-18T17:07:29.324916+00:00"
+    "referenced_files": 1168,
+    "existing_media_files": 1168,
+    "total_size_mb": 495.76,
+    "last_calculation": "2026-08-18T19:06:38.008830+00:00"
   }
 }
