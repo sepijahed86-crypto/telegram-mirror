@@ -4834,6 +4834,25 @@
     ],
     "withyashar": [
       {
+        "id": 21192,
+        "text": "",
+        "date": "2026-08-18T23:09:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21192_0_1657da4e.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_21192_1_89793b13.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21192"
+      },
+      {
         "id": 21191,
         "text": "",
         "date": "2026-08-18T22:56:53+00:00",
@@ -6461,21 +6480,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21088"
-      },
-      {
-        "id": 21087,
-        "text": "ترامپ به فاکس نیوز:\nممکن است در انتخابات اسرائیل از شخص خاصی حمایت کنم\n@WarRoom",
-        "date": "2026-08-17T11:15:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21087_0_08c80fa7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21087"
       }
     ],
     "vahidonline": [
@@ -23442,21 +23446,21 @@
       }
     ]
   },
-  "last_update": "2026-08-18T22:58:49.089530+00:00",
+  "last_update": "2026-08-18T23:34:59.257177+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1634,
-    "total_media": 1178,
-    "total_files": 1178,
+    "total_media": 1179,
+    "total_files": 1179,
     "total_links": 291,
     "files_by_type": {
       "image": 1013,
       "video": 149,
-      "audio": 16
+      "audio": 17
     },
-    "referenced_files": 1178,
-    "existing_media_files": 1178,
-    "total_size_mb": 496.49,
-    "last_calculation": "2026-08-18T22:58:49.104246+00:00"
+    "referenced_files": 1179,
+    "existing_media_files": 1179,
+    "total_size_mb": 496.9,
+    "last_calculation": "2026-08-18T23:34:59.271214+00:00"
   }
 }
