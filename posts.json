@@ -2513,6 +2513,61 @@
     ],
     "whitedns": [
       {
+        "id": 1541,
+        "text": "WhiteVPN v1.6.0 منتشر شد\n🔥",
+        "date": "2026-08-20T05:56:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1541_0_8537c3c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1541"
+      },
+      {
+        "id": 1536,
+        "text": "",
+        "date": "2026-08-20T05:55:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1536_0_8537c3c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1536"
+      },
+      {
+        "id": 1535,
+        "text": "WhiteVPN v1.6.0 منتشر شد\n🚀\nیکی از بزرگ‌ترین به‌روزرسانی‌های WhiteVPN آماده است؛ با امکاناتی که اتصال‌ها را قدرتمندتر، انعطاف‌پذیرتر و قابل‌کنترل‌تر می‌کند:\n📺\nپشتیبانی کامل از Android TV\n🔗\nزنجیره کردن دو اتصال برای امنیت و انعطاف بیشتر\n🛡\nپشتیبانی از\nAmneziaWG v3\nو تنظیمات پیشرفته WireGuard\n📥\nوارد کردن مستقیم لینک‌های\nHysteria2\nو\nWireGuard\n⚡\nتست اتصال‌ها از تمام سابسکریپشن‌ها\n🌐\nبهبود سازگاری، پایداری و رابط فارسی\nاگر از WhiteVPN استفاده می‌کنید، همین حالا به نسخه\n۱.۶.۰\nبه‌روزرسانی کنید.\nاین نسخه با کمک بازخوردهای شما ساخته شده است. اگر مشکلی دیدید یا پیشنهادی داشتید، حتماً در گروه با ما در میان بگذارید.\n🤍\nWhiteVPN v1.6.0 — دو مسیر، یک اتصال قدرتمندتر.\n📥\nGithub Release\nhttps://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.6.0",
+        "date": "2026-08-20T05:36:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1535_0_8537c3c2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1535_1_60814272.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.6.0",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.6.0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1535"
+      },
+      {
         "id": 1534,
         "text": "از این به بعد کانفیگ های بیشتری داخل ساب ما خواهد بود.\nهر ۳۰ دقیقه بیشتر از ۲۲۰هزار کانفیگ جدید تست میشن و خروجی اونها بین ۲۰۰۰ تا ۳۰۰۰ کانفیگ با کیفیت و سریع خواهد بود.\nتعداد کانفیگ های حاظر: ۳۳۵۳\nتیم WhiteDNS",
         "date": "2026-08-20T04:19:28+00:00",
@@ -4582,61 +4637,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1388"
-      },
-      {
-        "id": 1387,
-        "text": "🚀\nآپدیت WhiteVPN 1.2.0\n✍️\nتمرکز این نسخه فقط روی اتصال\nسریع‌تر و پایدارتر بوده است.\nامکانات و بهبودهای جدید:\n•  شروع اتصال سریع‌تر\n•  انتخاب هوشمند بهترین سرور\n•  جابه‌جایی خودکار در صورت اختلال سرور\n•  کاهش خطا و نیاز به چندبار زدن دکمه اتصال\n•  بهبود Real Delay Test\n•  رفع مشکل متوقف‌شدن اتصال در مرحله شروع\nهیچ تنظیم خاصی لازم نیست؛ فقط برنامه را به‌روزرسانی کنید.\n@WhiteDNS",
-        "date": "2026-08-03T04:12:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1387_0_25e59eed.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1387_1_eda9fe7d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/whitedns/1387"
-      },
-      {
-        "id": 1386,
-        "text": "⛏\nاگر در اتصال به WhiteVPN مشکل خوردید مراحل زیر را اجرا کنید\n۱. به صفحه تنظیات برید\n۲. از گرینه حریم خصوصی DNS گرینه DOH را انتخاب کنید\n۳. مقدار زیر را جاگزین کنید\nhttps://doh.whitedns.workers.dev/dns-query",
-        "date": "2026-08-02T14:16:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1386_0_2f516063.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://doh.whitedns.workers.dev/dns-query",
-            "type": "external",
-            "display_text": "https://doh.whitedns.workers.dev/dns-query"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1386"
-      },
-      {
-        "id": 1381,
-        "text": "",
-        "date": "2026-08-02T14:12:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1381_0_2f516063.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/whitedns/1381"
       }
     ],
     "withyashar": [
@@ -9588,6 +9588,44 @@
     ],
     "IranintlTV": [
       {
+        "id": 353359,
+        "text": "🔻\nمازیار زارع، سرمربی تیم فوتبال ملوان همراه با بازیکنان و هواداران تیم، پس از کامبک ۱۰ نفره در بازی با ذوب‌آهن، به شادی و پایکوبی ویژه‌ای در استادیوم سیروس قایقران انزلی پرداختند.\n🔹\nسرمربی ملوان در نشست خبری پس از بازی درباره نقش هواداران در این پیروزی گفت: «همیشه گفته‌ام قدرت واقعی ملوان با حضور تماشاگران چند برابر می‌شود. امروز هم وقتی یک گل عقب افتادیم و چند موقعیت را از دست دادیم، کاملاً احساس کردم که هواداران چگونه به تیم روحیه می‌دهند. فوتبال بدون تماشاگر معنا ندارد. این برد را به تمام کسانی تقدیم می‌کنم که امروز در ورزشگاه حضور داشتند و سنگ تمام گذاشتند.»\n🔹\nملوان در بازی با ذوب‌آهن در هفته دوم لیگ برتر ابتدا با یک گل عقب افتاد و سپس در نیمه دوم، دو گل به ثمر رساند و پیروز شد.\n@iranintltvsport",
+        "date": "2026-08-20T06:02:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353359_0_9c82ff9a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353359_1_2376f40e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353359"
+      },
+      {
+        "id": 353358,
+        "text": "امیر حمیدی، متخصص امنیت ملی، با اشاره به اظهارات دونالد ترامپ مبنی بر اینکه در شرایط فعلی نیازی به مذاکره فوری با جمهوری‌اسلامی نمی‌بیند، گفت واشینگتن می‌خواهد با محدود کردن درآمدهای نفتی، دشوار کردن دسترسی به شبکه مالی بین‌المللی و هدف قرار دادن شبکه‌های واسطه، انتخاب‌های تهران را محدود کند.\nاو افزود مذاکره همچنان می‌تواند یکی از نتایج این فشار باشد، اما آمریکا نمی‌خواهد برای کشاندن جمهوری‌اسلامی به میز مذاکره امتیاز بدهد و زمان دیگر به نفع جمهوری‌اسلامی کار نمی‌کند.\n@iranintltv",
+        "date": "2026-08-20T05:54:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353358_0_9c82ff9a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353358_1_00a1a938.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353358"
+      },
+      {
         "id": 353357,
         "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، اعلام کرد واشینگتن عملیاتی گسترده را برای تشدید فشار و انزوای اقتصادی جمهوری‌اسلامی آغاز می‌کند. او همچنین به کشورهایی که به حکومت ایران «راه نجات» بدهند، درباره پیامدهای سنگین اقتصادی هشدار داد.\nگفت‌وگو با امیر گیتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-08-20T05:03:32+00:00",
@@ -10960,29 +10998,39 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/353257"
-      },
-      {
-        "id": 353256,
-        "text": "ملیکا کیا دربندسری، خواهر جاویدنام امیر کیا دربندسری، از جان‌باختگان انقلاب ملی ایرانیان، روز سه‌شنبه ۲۷ دی‌ماه درگذشت.\nاو پس از کشته شدن برادرش تحت فشارهای روحی شدید بود. امیر کیا دربندسری، جوان ۲۹ ساله، شامگاه ۱۸ دی‌ماه در اعتراضات شهرری با شلیک گلوله مجروح شد و بامداد ۱۹ دی‌ماه در بیمارستان جان باخت.\nفرنوش فرجی، عضو تحریریه ایران‌اینترنشنال، درباره وضعیت خانواده‌های جاویدنامان انقلاب ملی پس از کشته شدن عزیزانشان به دست جمهوری‌اسلامی و فشارها علیه این خانواده‌ها توضیح می‌دهد\n@iranintltv",
-        "date": "2026-08-19T11:08:59+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353256"
-      },
-      {
-        "id": 353255,
-        "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به یادداشت حسین طائب درباره نقش رسانه‌ها گفت این نوشته نشان‌دهنده آگاهی جمهوری‌اسلامی از ابعاد نارضایتی عمومی و هراس حکومت از شکل‌گیری جنبش‌های اجتماعی و موج تازه اعتصاب‌ها و اعتراض‌های خیابانی است.\n@iranintltv",
-        "date": "2026-08-19T11:06:25+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353255"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50310,
+        "text": "Server:\nnowin.injast.co.im.\nPort:\n8443\nSecret:\neeNEgYdJvXrFGRMCIMJdCQ\n@ProxyMTProto",
+        "date": "2026-08-20T06:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50310_0_1bdc73d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50310"
+      },
+      {
+        "id": 50309,
+        "text": "Server:\nproxtstar.live\nPort:\n443\nSecret:\nee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275\n@ProxyMTProto",
+        "date": "2026-08-20T05:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50309_0_1bdc73d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50309"
+      },
       {
         "id": 50308,
         "text": "Server:\nhaji.biabala.co.uk\nPort:\n443\nSecret:\nee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d\n@ProxyMTProto",
@@ -11972,26 +12020,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50211"
-      },
-      {
-        "id": 50210,
-        "text": "Server:\nmc-ssh.t-proxyru.info.\nPort:\n25565\nSecret:\nee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
-        "date": "2026-08-17T06:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50210"
-      },
-      {
-        "id": 50209,
-        "text": "Server:\nproxtstar.live\nPort:\n443\nSecret:\nee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275\n@ProxyMTProto",
-        "date": "2026-08-17T05:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50209"
       }
     ],
     "XpnTeam": [
@@ -17441,6 +17469,59 @@
     ],
     "yehirani": [
       {
+        "id": 19824,
+        "text": "😂\n😂\n😂\n🇮🇷\n@YehIrani\n| حاج متی",
+        "date": "2026-08-20T06:00:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19824_0_72b74d79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_19824_1_1a65a966.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19824"
+      },
+      {
+        "id": 19823,
+        "text": "🔴\nدقایقی پیش کنکور رشته پر متقاضی تجربی شروع شد.\nپیرترین داوطلب این آزمون ۸۵ ساله و از استان کرمانشاهه و جوون ترین داوطلب، یک دختر و یک پسر متولد سال ۱۳۹۳ و ۱۲ ساله هستند.\n🇮🇷\n@YehIrani\n| حاج متی",
+        "date": "2026-08-20T05:49:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19823_0_72b74d79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19823"
+      },
+      {
+        "id": 19822,
+        "text": "🔴\nشهبازی مجری تلویزیون :\nنوید محمدزاده یه پست گذاشت زامبی ها ریختن سرش\nفحش و ناسزا و تهدید و انفالو که چی ؟ حق نداری با این زامبی ها اختلاف نظر داشته باشی\nاین وضعیت زامبی هاست\n🇮🇷\n@YehIrani\n| حاج متی",
+        "date": "2026-08-20T05:27:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19822_0_72b74d79.jpg"
+          },
+          {
+            "type": "video",
+            "file": "yehirani_19822_1_4f4ca18e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19822"
+      },
+      {
         "id": 19821,
         "text": "خب بچها متی بتون شب بخیر نگفته\nامشب با شب بخیر من بخابین\nشبتون بخیر\n🙂\n❤️\n@YehIrani\n|AvA",
         "date": "2026-08-19T22:31:02+00:00",
@@ -19254,71 +19335,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/yehirani/19711"
-      },
-      {
-        "id": 19710,
-        "text": "🔴\nیادتونه تو اعتراضات یه راننده یهو عصبی شد از وسط مامورا رد شد این فرد بوده به اسم شهرام صادقی که اعدام شده.\nماشین رو میبره آتیش میزنه بلکه شناسایی نشه ولی بازم گیر میکنه تو اون حرکت یه مامور 3ماه میره تو کما چند تا مامور دست وپا میشکنه ازشون یه مامور هم میمیره.\n🇮🇷\n@YehIrani\n| حاج متی",
-        "date": "2026-08-16T05:44:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19710_0_7e4a103a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_19710_1_0e23c40d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/19710"
-      },
-      {
-        "id": 19709,
-        "text": "🔴\nاحمد آریایی‌نژاد، نماینده مجلس:\nمهسا امینی به درک واصل شد و 8 ماه تبعات اغتشاش برای مملکت داشت!\n🇮🇷\n@YehIrani\n| حاج متی",
-        "date": "2026-08-16T05:08:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19709_0_7e4a103a.jpg"
-          },
-          {
-            "type": "video",
-            "file": "yehirani_19709_1_7a3edd8f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/19709"
-      },
-      {
-        "id": 19707,
-        "text": "🔴\nمثل اینکه رامین جان بار اولش نیست که از این کارا (درخواست نود و سکس) میکنه و چند وقت پیش هم رفته بود پیوی یه مدل اونلی‌فنز ایرانی به اسم آماندا و عکس سالارشو براش فرستاد که حاج خانم نامردی نکرد و تمام عکس و فیلماشو انداخت کف اینترنت.\n🇮🇷\n@YehIrani\n| حاج متی",
-        "date": "2026-08-16T04:41:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19707_0_7e4a103a.jpg"
-          },
-          {
-            "type": "video",
-            "file": "yehirani_19707_1_0fcf5362.mp4"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_19707_2_445020e2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_19707_3_6a74cd15.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/19707"
       }
     ],
     "crgaming7": [
@@ -22934,21 +22950,21 @@
       }
     ]
   },
-  "last_update": "2026-08-20T05:12:04.319546+00:00",
+  "last_update": "2026-08-20T06:03:10.991686+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1635,
-    "total_media": 1070,
-    "total_files": 1070,
+    "total_media": 1073,
+    "total_files": 1073,
     "total_links": 291,
     "files_by_type": {
-      "image": 902,
-      "video": 155,
+      "image": 904,
+      "video": 156,
       "audio": 13
     },
-    "referenced_files": 1070,
-    "existing_media_files": 1070,
-    "total_size_mb": 489.69,
-    "last_calculation": "2026-08-20T05:12:04.332682+00:00"
+    "referenced_files": 1073,
+    "existing_media_files": 1073,
+    "total_size_mb": 496.19,
+    "last_calculation": "2026-08-20T06:03:11.004641+00:00"
   }
 }
