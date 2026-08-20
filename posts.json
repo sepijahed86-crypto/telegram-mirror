@@ -1460,6 +1460,21 @@
     ],
     "MediaMardom": [
       {
+        "id": 11370,
+        "text": "🔴\nمعاون عراقچی: جنگ نظامی رو باختن، جنگ اقتصادی هم میبازن\n❤️\n•\n@MediaMardom",
+        "date": "2026-08-20T12:53:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11370_0_597b35e7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/11370"
+      },
+      {
         "id": 11369,
         "text": "🔴\nسوالای کنکور خیلی سخت بود و داوطلبا ریدن به خودشون\n❤️\n•\n@MediaMardom",
         "date": "2026-08-20T12:03:56+00:00",
@@ -2540,16 +2555,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11259"
-      },
-      {
-        "id": 11258,
-        "text": "🔴\nصداسیما:\n۴۵ هزار میلیارد تومن ارز ترجیحی معادل ۱.۵ میلیون دلار گم شده مشخص هم نیست کی دزدیده.\n❤️\n•\n@MediaMardom",
-        "date": "2026-08-15T19:52:09+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/11258"
       }
     ],
     "whitedns": [
@@ -22600,21 +22605,21 @@
       }
     ]
   },
-  "last_update": "2026-08-20T12:50:56.651664+00:00",
+  "last_update": "2026-08-20T12:58:27.459173+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1635,
-    "total_media": 1002,
-    "total_files": 1002,
+    "total_media": 1003,
+    "total_files": 1003,
     "total_links": 290,
     "files_by_type": {
-      "image": 849,
+      "image": 850,
       "video": 140,
       "audio": 13
     },
-    "referenced_files": 1002,
-    "existing_media_files": 1002,
+    "referenced_files": 1003,
+    "existing_media_files": 1003,
     "total_size_mb": 498.82,
-    "last_calculation": "2026-08-20T12:50:56.663369+00:00"
+    "last_calculation": "2026-08-20T12:58:27.466477+00:00"
   }
 }
