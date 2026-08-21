@@ -2551,6 +2551,35 @@
     ],
     "whitedns": [
       {
+        "id": 1550,
+        "text": "دوستان عزیز\nلینک ساب رو باید بعد از کلیک کردن روی دکمه Raw مشابه به عکسی که گذاشتیم کپی کنید.\nلینک\nصحیح WhiteDNS Sub\nhttps://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/mihomo.yaml",
+        "date": "2026-08-21T01:56:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1550_0_d8a127b7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1550_1_a06e1d42.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1550_2_c3da831e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/mihomo.yaml",
+            "type": "external",
+            "display_text": "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1550"
+      },
+      {
         "id": 1548,
         "text": "🚀\nCoreForge Build آپدیت جدید منتشر شد\nhttps://testflight.apple.com/join/DRkT6zny\nاین نسخه یکی از بزرگ‌ترین آپدیت‌های CoreForge تا امروز محسوب میشه.\nاز Build 90 تا Build 100 طی حدود ۲۰ روز:\n• 214 Commit\n• بیش از 411 فایل تغییر کرده\n• بیش از 86,000 خط کد جدید اضافه شده\n• چند Engine و Protocol جدید از پایه اضافه شده\n• بخش بزرگی از سیستم Connection، Routing، Failover و Config Management بازطراحی شده\n###\n🧩\nپروتکل‌ها و Engineهای جدید\n🔹\nOpenVPN\n* پشتیبانی مستقیم از فایل‌های .ovpn\n* UDP و TCP\n* AES-GCM / AEAD\n* AES-CBC برای بعضی سرویس‌های قدیمی‌تر\n* TLS-Crypt\n* Multi-Remote / Multi-Address\n* Username / Password\n* Client Certificate\n* OpenVPN Subscription\n* پشتیبانی بهتر از ProtonVPN، VPNGate، SoftEther و کانفیگ‌های مشابه\n🔹\nTailscale\n* اتصال مستقیم به Tailnet\n* انتخاب Exit Node\n* MagicDNS\n* مدیریت Account داخل CoreForge\n* امکان اتصال به Exit Node حتی بدون انتخاب Config معمولی\n🔹\nCloudflare WARP / MASQUE\n* WARP به‌عنوان یک Outbound واقعی\n* MASQUE روی HTTP/2 و HTTP/3\n* امکان استفاده داخل Chain\n* WARP Endpoint Scanner برای پیدا کردن Endpoint بهتر\n* تست Endpoint با handshake واقعی MASQUE، نه فقط TCP Ping\n🔹\nmKCP\n* پشتیبانی از mKCP مربوط به Xray\n* همه Header Typeهای اصلی\n* قابل استفاده با VLESS و Trojan\n🔹\nECH\nEncrypted ClientHello حالا به صورت واقعی داخل CoreForge اجرا میشه و برای بعضی Transportها از جمله Hysteria2 هم اضافه شده.\n###\n⚡\nLoad Balancer و Failover\nLoad Balancer فقط اسم نیست و حالا Connectionها واقعاً بین Nodeهای انتخاب‌شده مدیریت میشن.\nهمچنین:\n* Config فعال داخل برنامه نمایش داده میشه\n* Exit IP بعد از تغییر Node آپدیت میشه\n* Dead Server Detection سریع‌تر شده\n* Backup Node از قبل آماده نگه داشته میشه\n* اگر Config فعلی از کار بیفته، CoreForge می‌تونه بدون Disconnect کامل به Backup منتقل بشه\n* Backup Pool بعد از Failover دوباره پر میشه\n###\n🌐\nRouting\nسیستم Routing هم تغییر زیادی کرده:\n* Routing Profile شبیه Shadowrocket\n* Rule Actions\n* Iran Direct Preset\n* Iran 2026 Rules\n* category-ir\n* Import کردن Routing Rules از فایل\n* Fragment به‌عنوان Routing Target\n###\n📂\nConfigs و Subscriptionها\nمدیریت Configها تقریباً کامل بازطراحی شده:\n* Swipe برای Ping / Edit / Share / Delete\n* Drag & Drop برای مرتب کردن Sectionها\n* Groupهای Local\n* Bulk Actions\n* forge:// Chain Links\n* Tap-to-Ping-and-Connect\n* Import QR Code از داخل عکس\n* Subscription Folder\n* Rename / Reorder / Export\n* Auto Update جداگانه برای هر Subscription\n* Plan Status\n* تقویم شمسی\nمشکل فایل‌های OpenVPN بزرگ هم برطرف شده؛ برای مثال اگر یک فایل شامل ده‌ها یا صدها Profile باشه، دیگه همه‌ی اون‌ها به‌عنوان یک Config خراب Import نمیشن و Profileها جدا میشن.\n###\n🔧\nFixهای مهم\nدر این نسخه تعداد زیادی Bug مهم هم برطرف شده، از جمله:\n* Crash روی تعداد زیاد Config\n* مشکل Import بعضی لینک‌های VMessAEAD\n* مشکل gRPC پشت Cloudflare\n* مشکل XHTTP که Connect می‌شد ولی Traffic عبور نمی‌کرد\n* مشکل REALITY و extra\n* اصلاح UUIDهای VLESS\n* Lag شدید Config List\n* Writeهای اضافی Keychain\n* آپدیت نشدن Connection Details بعد از Failover\n* UDP برای VMess، Shadowsocks و SOCKS\n* UDP Associate برای Trojan\n* gRPC MultiMode\n* pinnedPeerCertSha256\n* PattNG Fragment / Cipher Suite / Unsafe Fingerprint\n###\n📱\niPad و UI\n* پشتیبانی بهتر از Stage Manager\n* Split View\n* Resizable Window\n* تغییرات Liquid Glass\n* اصلاح Light Mode\n* بهبود Tab Bar و Headerها\n---\n⚠️\nنکته مهم درباره Build\nاین نسخه تغییرات خیلی زیادی داشته و طبیعتاً\n۱۰۰٪ تضمین نمی‌کنیم که تمام قابلیت‌های جدید روی تمام Serverها، ISPها و Configها بدون مشکل کار کنند.\nبعضی قابلیت‌ها هنوز در مرحله‌ی تست واقعی توسط کاربران هستن و ممکنه روی یک Server عالی کار کنن ولی روی Server یا Network دیگه Fail بشن.\nبه‌خصوص قابلیت‌های جدیدی مثل:\nTailscale / WARP / OpenVPN / ECH / Chainهای پیچیده / بعضی حالت‌های VLESS و REALITY\nهنوز نیاز به تست گسترده روی Serverها و اینترنت‌های مختلف دارن.\nپس اگر چیزی Connect نشد یا Connect شد ولی Traffic نداشت، حتماً گزارش کنید و در صورت امکان Config، Log و نوع اینترنت رو هم بفرستید.\nBuild بیشتر از اینکه «نسخه نهایی بدون باگ» باشه، یک جهش بزرگ برای CoreForge ـه و Feedback شما مستقیم روی Fixهای نسخه‌های بعدی تأثیر می‌ذاره.\n🛠️\nCoreForge Build\n⚒️",
         "date": "2026-08-20T11:37:22+00:00",
@@ -4674,27 +4703,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1397"
-      },
-      {
-        "id": 1395,
-        "text": "دوستان عزیز،\nدر حال حاضر تنها مسیر درآمدزایی و تأمین هزینه‌های تیم WhiteDNS، کانال یوتیوب ماست.\n❤️\nبرای حمایت از ادامه فعالیت‌ها و توسعه سرویس‌ها، می‌تونید کانال ما رو سابسکرایب کنید و ویدیوها رو تماشا کنید. همین حمایت ساده، کمک بزرگی به ادامه مسیر ما می‌کنه.\n🔗\nhttps://www.youtube.com/@WhiteDNS\nممنون از همراهی همیشگی شما\nتیم\n@WhiteDNS",
-        "date": "2026-08-03T07:09:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1395_0_25e59eed.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.youtube.com/@WhiteDNS",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/@WhiteDNS"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1395"
       }
     ],
     "withyashar": [
@@ -9599,6 +9607,81 @@
     ],
     "IranintlTV": [
       {
+        "id": 353491,
+        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، با امضای یک یادداشت اجرایی، نهادهای فدرال را مامور کرد زمینه افزایش پرتاب‌های فضایی تجاری را فراهم کنند. کاخ سفید قصد دارد تا سال ۲۰۳۰ ظرفیت دست‌کم هزار پرتاب و عملیات بازگشت فضاپیما به جو را در سال ایجاد کند.\nبراساس گزارش رویترز، آمریکا در سال ۲۰۲۵ میلادی ۱۷۸ پرتاب فضایی انجام داد و اسپیس‌ایکس متعلق به ایلان ماسک، با ۱۷۰ پرتاب، سهم غالب را در اختیار داشت.\nبراساس دستور ترامپ، نهادهای دولتی باید مکان‌های مناسب برای پایگاه‌های جدید را شناسایی، صدور مجوزها را تسریع و همکاری با شرکت‌های خصوصی را گسترش دهند.\nبخش دیگری از برنامه فضایی دولت آمریکا، بازگشت فضانوردان به ماه تا سال ۲۰۲۸ و استقرار اجزای اولیه یک پایگاه در ماه تا سال ۲۰۳۰ را هدف‌گذاری کرده است. ناسا همچنین مامور شده حمل‌ونقل تجاری به ماه و ماموریت‌های رباتیک بخش خصوصی به مریخ را تسهیل و راه‌های تجاری اعزام انسان به مریخ را بررسی کند.\nhttps://iranintl.com/202608216996",
+        "date": "2026-08-21T02:18:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353491_0_45f8f751.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353491_1_f635856f.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608216996",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608216996"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353491"
+      },
+      {
+        "id": 353490,
+        "text": "مارک تیسن، ستون‌نویس واشینگتن‌پست، هشدار داد جمهوری اسلامی ممکن است پیش از انتخابات میان‌دوره‌ای نوامبر آمریکا با حمله به زیرساخت‌های انرژی منطقه یا نیروهای آمریکایی، در پی افزایش هزینه‌های سیاسی جنگ برای دونالد ترامپ باشد.\nتیسن نوشت جمهوری اسلامی با وجود خسارت‌های گسترده در عملیات نظامی آمریکا، همچنان توان تهدید تاسیسات انرژی کشورهای حاشیه خلیج فارس، پایگاه‌های آمریکا و کشتی‌های عبوری از تنگه هرمز را دارد.\nاو سه سناریو را مطرح کرد: حمله به زیرساخت‌های انرژی برای افزایش قیمت نفت، هدف قرار دادن نیروهای آمریکایی برای واداشتن ترامپ به واکنش نظامی، یا تلاش برای حمله‌ای «تروریستی» در آمریکا یا یکی از کشورهای متحد آن.\nتیسن احتمال داد تهران با چنین اقدامی در پی افزایش شانس دموکرات‌ها برای کنترل کنگره و کاهش یا توقف بودجه جنگ باشد. او در پایان از دولت ترامپ خواست منتظر اقدام جمهوری اسلامی نماند و حمله‌ای «نهایی و قاطع» علیه رهبران جمهوری اسلامی، زیرساخت‌های اقتصادی و انرژی و تاسیسات هسته‌ای ایران انجام دهد.\nhttps://iranintl.com/202608218007",
+        "date": "2026-08-21T02:00:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353490_0_45f8f751.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353490_1_9c469cab.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608218007",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608218007"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353490"
+      },
+      {
+        "id": 353489,
+        "text": "مارک دوبوویتز، مدیر اجرایی بنیاد دفاع از دموکراسی‌ها، در یادداشتی که نیویورک‌پست منتشر کرده، نوشت جمهوری اسلامی ممکن است در آستانه انتخابات اسرائیل و انتخابات میان‌دوره‌ای آمریکا، بحرانی نظامی ایجاد کند تا بر نتیجه سیاسی هر دو انتخابات اثر بگذارد.\nدوبوویتز نوشت: «تهران می‌تواند مستقیما به اسرائیل حمله کند یا از طریق یکی از نیروهای نیابتی «تروریستی» خود، یک تشدید جدی درگیری را ایجاد کند؛ با این محاسبه که بنیامین نتانیاهو، نخست‌وزیر اسرائیل، چند روز مانده به انتخابات، گزینه چندانی جز پاسخ شدید نخواهد داشت.»\nاو افزود چنین حمله‌ای می‌تواند با موشک‌های بالستیک یا به دست یکی از نیروهای نیابتی جمهوری اسلامی انجام شود و تلفات گسترده‌ای در اسرائیل بر جای بگذارد.\nدوبوویتز نوشت پاسخ قدرتمند اسرائیل می‌تواند به تشدید درگیری در منطقه، افزایش قیمت نفت و بنزین و پیامدهای سیاسی و اقتصادی برای دونالد ترامپ، رییس‌جمهوری آمریکا، و جمهوری‌خواهان در آستانه انتخابات میان‌دوره‌ای منجر شود.\nhttps://iranintl.com/202608212759",
+        "date": "2026-08-21T01:55:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353489_0_45f8f751.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353489_1_a9db4825.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608212759",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608212759"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353489"
+      },
+      {
         "id": 353488,
         "text": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، در ایکس نوشت: «اگر قطع تجارت امارات متحده عربی با جمهوری اسلامی ادامه پیدا کند و شریان حیاتی تامین ارز خارجی ایران که بر دبی متکی است مختل شود، حکومت برای جایگزین کردن دسترسی ازدست‌رفته به ارزهای معتبر، بیشتر به صرافی‌های ترکیه و شبکه‌های انتقال نقدی به دست پیک‌ها متکی خواهد شد.»\nملکی نوشت: «این دقیقا همان مسیری است که وزارت خزانه‌داری آمریکا به‌تازگی هدف قرار داده است.»\nمقام سابق وزارت خزانه‌داری آمریکا نوشت: «تحریم‌های پنج‌شنبه آمریکا علیه جمهوری اسلامی نشان می‌دهد واشینگتن از هم‌اکنون این جابه‌جایی را زیر نظر دارد و پیش از آنکه تغییر مسیر ایران به‌طور کامل عملی شود، علیه بخش مرتبط با ترکیه اقدام می‌کند و منتظر تحقق کامل این تغییر نمی‌ماند.»\nمیعاد ملکی نوشت: «با محدودتر شدن کانال‌های خلیج فارس، باید انتظار اقدامات بیشتری با تمرکز بر ترکیه را داشت.»\nhttps://iranintl.com/202608208791",
         "date": "2026-08-21T00:59:22+00:00",
@@ -10846,36 +10929,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/353392"
-      },
-      {
-        "id": 353391,
-        "text": "ویدیوی منتشرشده در شبکه‌های اجتماعی، برخاستن ستونی از دود غلیظ را در حوالی پالایشگاه تهران در جنوب پایتخت در روز پنج‌شنبه ۲۹ مرداد، نشان می‌دهد.\nروابط عمومی پالایشگاه نفت تهران اعلام کرد دو تانکر حامل نفت سفید در محوطه بارگیری پالایشگاه دچار آتش‌سوزی شدند که حریق با حضور نیروهای آتش‌نشانی مهار شد.\nشروین تبریزی، سخنگوی اورژانس تهران، نیز گفت بر اساس گزارش‌های اولیه، تاکنون یک نفر در این حادثه مصدوم شده و مصدومیت او «مورد خاصی» نبوده است.\n@iranintltv",
-        "date": "2026-08-20T10:10:51+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353391"
-      },
-      {
-        "id": 353390,
-        "text": "عبدالرحمن داوود، روزنامه‌نگار در سوریه، در گفت‌وگو با ایران‌اینترنشنال از افزایش تنش‌ها پس از حمله اسرائیل به پایگاه ابوظهور خبر داد و گفت نگرانی اسرائیل از گسترش حضور نظامی ترکیه در سوریه به یکی از محورهای اصلی تنش در این کشور تبدیل شده است.\nاو افزود با وجود محکومیت حملات اسرائیل از سوی دمشق، مقام‌های سوری همچنان امکان مذاکره با اسرائیل برای جلوگیری از تشدید تنش را منتفی نمی‌دانند.\n@iranintltv",
-        "date": "2026-08-20T10:06:51+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353390"
-      },
-      {
-        "id": 353389,
-        "text": "مخاطبان با ارسال ویدیوهایی یاد فرحناز اسپد، روزنامه‌نگار و مجری ایران‌اینترنشنال را گرامی داشتند. یکی از آنها گفت: «رفتن او در شرایطی که مردم ایران هر روز با رنجی تازه مواجه می‌شوند، زخمی بر پیکر ملت بود.»\nفرحناز اسپد پس از تحمل یک دوره بیماری سخت چشم از جهان فروبست.",
-        "date": "2026-08-20T09:59:53+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353389"
       }
     ],
     "ProxyMTProto": [
@@ -22503,21 +22556,21 @@
       }
     ]
   },
-  "last_update": "2026-08-21T01:29:07.922882+00:00",
+  "last_update": "2026-08-21T02:54:46.159683+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1635,
-    "total_media": 974,
-    "total_files": 974,
-    "total_links": 295,
+    "total_media": 982,
+    "total_files": 982,
+    "total_links": 298,
     "files_by_type": {
-      "image": 833,
+      "image": 841,
       "video": 130,
       "audio": 11
     },
-    "referenced_files": 974,
-    "existing_media_files": 974,
-    "total_size_mb": 499.44,
-    "last_calculation": "2026-08-21T01:29:07.935089+00:00"
+    "referenced_files": 982,
+    "existing_media_files": 982,
+    "total_size_mb": 499.74,
+    "last_calculation": "2026-08-21T02:54:46.172749+00:00"
   }
 }
