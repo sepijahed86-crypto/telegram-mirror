@@ -9607,6 +9607,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 353495,
+        "text": "سرخط خبرهای جمعه ۳۰ مرداد\n@iranintltv",
+        "date": "2026-08-21T04:16:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353495_0_45f8f751.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353495_1_c6510200.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353495"
+      },
+      {
         "id": 353494,
         "text": "رویترز بر اساس داده‌های شرکت رهگیری دریایی کپلر گزارش داد که عبور کشتی‌ها از تنگه هرمز، به‌عنوان یک گلوگاه دریایی، روز پنج‌شنبه نسبت به روز قبل کاهش یافت.\nبر اساس این گزارش، داده‌های اولیه کشتیرانی نشان داد که این کاهش در حالی رخ داده است که نگرانی‌ها درباره خطرات کشتیرانی در خاورمیانه افزایش یافته و مذاکرات صلح میان آمریکا و جمهوری اسلامی همچنان در بلاتکلیفی قرار دارد.\nداده‌های کپلر نشان داد شمار کشتی‌های حامل کالا در روز پنج‌شنبه به هفت فروند رسید که نصف تعداد روز چهارشنبه بود. از این تعداد، چهار کشتی وارد و سه کشتی از آبراهی خارج شدند که پیش از جنگ، نزدیک به یک‌پنجم محموله‌های جهانی نفت خام و گاز طبیعی مایع‌شده از آن عبور می‌کرد.\nرویترز نوشت که هیچ نفتکش بسیار بزرگ حامل نفت خام یا نفتکش حامل گاز طبیعی مایع‌شده در میان این کشتی‌ها نبود، اما داده‌ها نشان دادند یک کشتی بسیار بزرگ حامل گاز که پروپان و بوتان حمل می‌کرد، از مسیر ایران از تنگه هرمز خارج شد.\nhttps://iranintl.com/202608210067",
         "date": "2026-08-21T03:36:00+00:00",
@@ -10952,19 +10971,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353396"
-      },
-      {
-        "id": 353395,
-        "text": "ولودیمیر زلنسکی، رییس‌جمهور اوکراین، اعلام کرد روسیه در حمله گسترده شبانه، چندین منطقه این کشور را با موشک‌های بالستیک، کروز و پهپاد هدف قرار داد. به گفته زلنسکی، در حملات به کی‌یف ۱۳ نفر کشته و ۴۰ نفر زخمی شدند.\nگزارش احمد صمدی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-20T10:39:20+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353395"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50340,
+        "text": "Server:\nbeam.whitelist.cyou\nPort:\n443\nSecret:\nee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75\n@ProxyMTProto",
+        "date": "2026-08-21T04:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50340_0_95383e74.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50340"
+      },
       {
         "id": 50339,
         "text": "Server:\napi2.medhata.org\nPort:\n2443\nSecret:\nee9d072ce3c5b43f6b422bb1e7fe983cc4617069322e6d6564686174612e6f7267\n@ProxyMTProto",
@@ -11974,16 +11998,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50241"
-      },
-      {
-        "id": 50240,
-        "text": "Server:\nUnknown\nPort:\n443\nSecret:\nee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75\n@ProxyMTProto",
-        "date": "2026-08-18T04:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50240"
       }
     ],
     "XpnTeam": [
@@ -22589,21 +22603,21 @@
       }
     ]
   },
-  "last_update": "2026-08-21T03:53:13.988031+00:00",
+  "last_update": "2026-08-21T04:39:27.308455+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1635,
-    "total_media": 988,
-    "total_files": 988,
+    "total_media": 991,
+    "total_files": 991,
     "total_links": 299,
     "files_by_type": {
-      "image": 848,
-      "video": 129,
+      "image": 850,
+      "video": 130,
       "audio": 11
     },
-    "referenced_files": 988,
-    "existing_media_files": 988,
-    "total_size_mb": 486.7,
-    "last_calculation": "2026-08-21T03:53:13.997070+00:00"
+    "referenced_files": 991,
+    "existing_media_files": 991,
+    "total_size_mb": 487.67,
+    "last_calculation": "2026-08-21T04:39:27.315599+00:00"
   }
 }
