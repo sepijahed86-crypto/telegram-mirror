@@ -4781,6 +4781,21 @@
     ],
     "withyashar": [
       {
+        "id": 21327,
+        "text": "یاشار : کتاب اوستا ، یسنا ۴۳.۱ آمده:\n«اُشتا اَهمایی یَهمایی اُشتا کَهمایچیت»\n«خوشبختی نصیب کسی می‌شود که برای دیگران خوشبختی بخواهد.»\n@WarRoom",
+        "date": "2026-08-22T07:39:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21327_0_f9a4e265.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21327"
+      },
+      {
         "id": 21326,
         "text": "تابناک : گویا راه حل چهارمی برای بنزین پیدا کردن!\nکیفیتو انقدر پایین آوردن که مردم از ترس خراب شدن ماشینشون دیگه بنزین نزنن… دولت با همین ترفند ساده، مصرف رو کنترل کرد.\n@WarRoom",
         "date": "2026-08-22T06:55:25+00:00",
@@ -6420,21 +6435,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21225"
-      },
-      {
-        "id": 21224,
-        "text": "ترامپ: در حال حاضر با ايران مذاکره نمی‌کنیم، زیرا مذاکره با آن‌ها اتلاف وقت است.\n@WarRoom",
-        "date": "2026-08-19T19:38:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21224_0_a6ceaf48.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21224"
       }
     ],
     "vahidonline": [
@@ -9677,6 +9677,107 @@
     ],
     "IranintlTV": [
       {
+        "id": 353648,
+        "text": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد ایرانیان آلمان روز جمعه در مقابل کنسولگری جمهوری اسلامی در مونیخ تجمع کرده تا با اعدام و سرکوب در ایران مخالفت کنند.",
+        "date": "2026-08-22T08:00:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353648_0_76a8efba.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353648_1_eacac19e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353648"
+      },
+      {
+        "id": 353647,
+        "text": "محمدرضا عارف، معاون اول رییس دولت جمهوری اسلامی، با تاکید بر ضرورت آنچه «اصلاح الگوی مصرف انرژی» خواند، گفت: «باید مردم را توجیه کنیم تا بدانند که اکنون بخشی از درآمدهای کشور صرف تامین بنزین می‌شود و این موضوع هزینه و فشارهایی را به بخش‌های دیگر تحمیل می‌کند.»\nعارف شنبه ۳۱ مرداد در «همایش ملی صنعت، معدن و خدمات سبز» با اشاره به تفاوت مصرف سوخت میان گروه‌های درآمدی گفت میزان مصرف دهک دهم، ثروتمندترین دهک جامعه، حدود ۲۳ تا ۲۴ برابر دهک اول است.\nعارف در ادامه، مخالفت با گران شدن بنزین را به واکنش اقشار کم‌درآمد به تغییر سیاست‌های مرتبط با مصرف انرژی مرتبط دانست و گفت: «وقتی قرار است اصلاحی در این زمینه انجام شود، اتفاقا بخش‌هایی از اقشار آسیب‌پذیر و کسانی که به هر حال در زندگی با مشکلاتی روبه‌رو هستند، تحریک می‌شوند که بگویند بنزین نباید گران شود.»\nhttps://iranintl.com/202608227400",
+        "date": "2026-08-22T07:59:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353647_0_76a8efba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353647_1_2f3c012d.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608227400",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608227400"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353647"
+      },
+      {
+        "id": 353646,
+        "text": "رویترز گزارش داد شماری از کشورهای عضو ناتو در حال بررسی گزینه‌هایی برای حمایت از آزادی کشتیرانی در تنگه هرمز هستند؛ با این حال، این اقدام در چارچوب ماموریت رسمی ناتو انجام نخواهد شد.\nبنا بر این گزارش، جمعی از فرماندهان نظامی در نشستی مجازی، راه‌های مشارکت احتمالی در این طرح را بررسی کرده‌اند.\nگفت‌وگو با ساجده شریفی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-08-22T07:57:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353646_0_76a8efba.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353646_1_ad6e6324.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353646"
+      },
+      {
+        "id": 353645,
+        "text": "هم‌زمان با افزایش انتقادات از سیاست‌های ناکارآمد حکومت ایران در حوزه محیط زیست، محمدرضا عارف، معاون اول رییس دولت جمهوری اسلامی، در همایش «صنعت، معدن و خدمات سبز» گفت حاکمیت به‌تنهایی نمی‌تواند پاسخگوی مسائل محیط زیست باشد.\nاو افزود: «حفاظت از محیط زیست، مسئولیتی مشترک میان حاکمیت، صنعت و مردم است.»\n@iranintltv",
+        "date": "2026-08-22T07:42:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353645_0_76a8efba.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353645_1_2378cfc8.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353645"
+      },
+      {
+        "id": 353644,
+        "text": "احمد علوی، اقتصاددان و استاد دانشگاه، گفت جمهوری‌اسلامی به دلیل فساد، کمبود منابع، شکاف‌های داخلی و سقوط اعتماد اجتماعی در «تله بی‌تصمیمی» گرفتار شده است. او افزود افزایش قیمت‌ها می‌تواند اعتراضات عمومی را تشدید و سرکوب آن‌ها، ریزش نیروها و شکاف درون حکومت را عمیق‌تر کند.\n@iranintltv",
+        "date": "2026-08-22T07:38:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353644_0_76a8efba.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353644_1_9ade2667.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353644"
+      },
+      {
         "id": 353643,
         "text": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد ایرانیان آلمان روز جمعه در دوسلدورف تجمع حمایت از انقلاب ملی و علیه اعدام‌ها برگزار کردند.",
         "date": "2026-08-22T07:34:19+00:00",
@@ -9739,10 +9840,6 @@
         "date": "2026-08-22T07:10:10+00:00",
         "media": [
           {
-            "type": "image",
-            "file": "IranintlTV_353640_0_76a8efba.jpg"
-          },
-          {
             "type": "video",
             "file": "IranintlTV_353640_1_f94730dd.mp4"
           }
@@ -9756,18 +9853,9 @@
         "id": 353639,
         "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال با اشاره به شرایط بد معیشتی و نداشتن قدرت خرید گوشت قرمز، می‌گوید که به این نتیجه رسیده که کله مرغ مصرف کند.",
         "date": "2026-08-22T07:02:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353639_0_76a8efba.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_353639_1_9d0de16c.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353639"
       },
@@ -10904,77 +10992,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353549"
-      },
-      {
-        "id": 353548,
-        "text": "بهروز شمسی‌فر، امام جمعه خرم‌آباد، در خطبه‌های نماز جمعه این شهر گفت: «کسی که با بدحجابی و بی‌حجابی در جامعه حضور پیدا کند، نقش سرباز دشمن را ایفا می‌کند، باید از خواب غفلت بیدار شود و به‌جای کمک به دشمن در صفوف مسلمین و برداران و خواهران خود در مقابل دشمن قرار بگیرند.»\nاو ادامه داد: «دشمن در حوزه حجاب و عفاف برنامه‌ریزی کرده است، بعضی از زنان و دختران غافل در دام دشمن افتاده‌اند.»\nشمسی‌فر اضافه کرد: «شاید کسی نخواست از خواب غفلت بیدار شود، مردم تا کی باید این وضعیت را تحمل کنند؟ هر روز دارد بدتر می‌شود، از بدحجابی دارد، می‌گذرد و به برهنگی دارد کشیده می‌شود، این کشور قانون دارد، کسی که قانون را قبول ندارد، موظف است که به قانون پایبند شود، نمی‌شود کسی قانون را که باب میلش نیست زیر پا بگذارد.»\nhttps://iranintl.com/202608214232",
-        "date": "2026-08-21T12:31:41+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608214232",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608214232"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353548"
-      },
-      {
-        "id": 353547,
-        "text": "🎧\nنسخه صوتی اخبار نیم‌روزی | جمعه ۳۰ مرداد\n@iranintlTV",
-        "date": "2026-08-21T12:18:14+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353547"
-      },
-      {
-        "id": 353546,
-        "text": "مسعود پزشکیان، رییس دولت جمهوری اسلامی، در مجمع عمومی «انجمن اسلامی جامعه پزشکی ایران»، گفت: «جدا از بحث محدودیت‌های مالی و محاصره دریایی دشمن که کار صادرات و واردات ما را با مشکل مواجه کرده است، چه کسی گفته دولت باید بنزین ۱۳۰ هزار تومانی بخرد و بعد آن را ۱۵۰۰ تومان بفروشد؟»\nاو ادامه داد: «این در شرایطی است که برای افزایش اعتبار کالابرگ، رفع تعهدات مالی گندم‌کاران، بیمه‌ها، معیشت کارگران، بازنشستگان و کارمندان با محدودیت مواجه می‌شویم.»\nپزشکیان اضافه کرد: «دولت با محدودیت‌های مالی مواجه است، وقتی شعار می‌دهیم، باید سختی آن را هم بپذیریم.»\nhttps://iranintl.com/202608214159",
-        "date": "2026-08-21T12:09:18+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608214159",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608214159"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353546"
-      },
-      {
-        "id": 353545,
-        "text": "مسعود پزشکیان، رییس دولت جمهوری اسلامی، جمعه ۳۰ مرداد خواستار پایان دادن به جنگ شد و گفت: «بهتر است امروز که در قدرت و عزت هستیم و تمام دنیا به پیروزی ما اذعان دارند، جنگ را پایان دهیم.»\nپزشکیان در سخنرانی در «مجمع عمومی انجمن اسلامی جامعه پزشکی ایران» گفت: «انتقاد از مشکلات تورم و مسائل ناشی از جنگ با شعارهای برخی همخوانی ندارد. وقتی شعار می‌دهیم، باید سختی آن را هم بپذیریم.»\nاو درباره آمادگی نیروهای مسلح جمهوری اسلامی نیز گفت: «امروز باور ما این است که تمام فرماندهان و نیروهای مسلح ما با تمام وجود و گرفتن جان خود در کف دست، برای دفاع از کشور آمادگی کامل دارند.»\nhttps://iranintl.com/202608214227",
-        "date": "2026-08-21T12:00:44+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608214227",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608214227"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353545"
-      },
-      {
-        "id": 353544,
-        "text": "🔻\nتیم ملی والیبال زنان ایران در نخستین دیدار خود در بیست‌وسومین دوره قهرمانی آسیا، تایوان را ۳ بر یک شکست داد. ایران پس از واگذاری ست نخست، در سه ست پیاپی به برتری رسید. الهه پورصالح با ۲۵ امتیاز، امتیازآورترین بازیکن ایران بود.\n🔹\nارزیابی سعیده فتحی، روزنامه‌نگار ورزشی، از عملکرد تیم ملی والیبال زنان ایران مقابل تایوان\n@iranintltvsport",
-        "date": "2026-08-21T11:53:58+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353544"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50379,
+        "text": "Server:\nirancell-mci-rightell-adsl.visalawyer.co.uk.\nPort:\n443\nSecret:\needdffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169\n@ProxyMTProto",
+        "date": "2026-08-22T08:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50379_0_9653c13f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50379"
+      },
       {
         "id": 50378,
         "text": "Server:\nkostyanchekloh.lol\nPort:\n443\nSecret:\nee3f72634c46d320aaa30d8bb2682e9b49617669746f2e7275\n@ProxyMTProto",
@@ -12049,16 +12084,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50280"
-      },
-      {
-        "id": 50279,
-        "text": "Server:\nproxy.lodkirmm.ru\nPort:\n8443\nSecret:\nee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275\n@ProxyMTProto",
-        "date": "2026-08-19T07:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50279"
       }
     ],
     "XpnTeam": [
@@ -13074,6 +13099,130 @@
       }
     ],
     "putakk": [
+      {
+        "id": 26647,
+        "text": "",
+        "date": "2026-08-22T08:01:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "putakk_26647_0_2061bf73.jpg"
+          },
+          {
+            "type": "video",
+            "file": "putakk_26647_1_d20ff0f3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/putakk/26647"
+      },
+      {
+        "id": 26646,
+        "text": "غار حرا برا ما ادم شده",
+        "date": "2026-08-22T08:00:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "putakk_26646_0_2061bf73.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/putakk/26646"
+      },
+      {
+        "id": 26645,
+        "text": "حروم زاده دروغ گو\nسگ پیر",
+        "date": "2026-08-22T07:59:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "putakk_26645_0_2061bf73.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/putakk/26645"
+      },
+      {
+        "id": 26644,
+        "text": "همه پست ها نیمس دیگه پاک‌میشه\nمینا نامداری کس مادرت جنده\nبرو خایه اخوند بخور\nکسکش",
+        "date": "2026-08-22T07:59:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "putakk_26644_0_2061bf73.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/putakk/26644"
+      },
+      {
+        "id": 26643,
+        "text": "هی می‌خوام خفه باشم یهو بیام بگام\nاصلا دخترا دیسم می کنن نمی تونم جواب ندم\n😂",
+        "date": "2026-08-22T07:57:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "putakk_26643_0_2061bf73.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/putakk/26643"
+      },
+      {
+        "id": 26642,
+        "text": "در این حد بگم هرچی میگه دروغه کس شر محض\nشانس اوردی من ادم حرو زاده ای نیستم ۴ تا چیز ازت پخش کنم همین الان ایران بگیرنت بگا بری",
+        "date": "2026-08-22T07:57:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "putakk_26642_0_2061bf73.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/putakk/26642"
+      },
+      {
+        "id": 26641,
+        "text": "امشب خیلی مستم وویس نرم بهتره فردا به مینا کاتوزیان هم رسیدگی می کنم",
+        "date": "2026-08-22T07:55:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "putakk_26641_0_2061bf73.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/putakk/26641"
+      },
+      {
+        "id": 26640,
+        "text": "امشب خیلی مستم\nوویس نرم بهتره فردا به مینا کاتوزیان هم رسیدگی می کنم",
+        "date": "2026-08-22T07:54:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "putakk_26640_0_2061bf73.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/putakk/26640"
+      },
       {
         "id": 26639,
         "text": "",
@@ -14657,144 +14806,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/putakk/26514"
-      },
-      {
-        "id": 26513,
-        "text": "واقعا یه چی میگم",
-        "date": "2026-07-28T21:03:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "putakk_26513_0_c9d057c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/putakk/26513"
-      },
-      {
-        "id": 26512,
-        "text": "فرزند ایران و جان فدای میهن\nجاویدنام ابوالفضل سپاهی ، ۲۷ ساله ، ششم مرداد ، اصفهان عزیز\nفرزند ایران و جان فدای میهن\nجاویدنام امیرحسین صفری، ۲۷ ساله ، ششم مرداد ، اصفهان عزیز\n🖤",
-        "date": "2026-07-28T08:05:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "putakk_26512_0_c9d057c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/putakk/26512"
-      },
-      {
-        "id": 26511,
-        "text": "هزاران سال اگر باران ببارد،نشوید خون ناحق را از این خاک.",
-        "date": "2026-07-28T07:08:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "putakk_26511_0_c9d057c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/putakk/26511"
-      },
-      {
-        "id": 26510,
-        "text": "همه دارن کِل میکشن،داد می کشن، دست میزنن و سوت می کشن که صدای\nاذان\nنیاد…\nما از شما بیزاریم",
-        "date": "2026-07-28T06:55:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "putakk_26510_0_c9d057c1.jpg"
-          },
-          {
-            "type": "video",
-            "file": "putakk_26510_1_264f3d55.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/putakk/26510"
-      },
-      {
-        "id": 26509,
-        "text": "⏺\nواکنش مارک لوین\nبه اعدام و سرکوب مردم در اصفهان\n:\nبا این نازی‌ها مذاکره نکنید. مردم رو مسلح کنید.",
-        "date": "2026-07-28T06:35:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "putakk_26509_0_c9d057c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "putakk_26509_1_6974e69d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/putakk/26509"
-      },
-      {
-        "id": 26508,
-        "text": "لعنت به خودتون به اسلامتون و اذان صبحتون!",
-        "date": "2026-07-28T05:57:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "putakk_26508_0_c9d057c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/putakk/26508"
-      },
-      {
-        "id": 26507,
-        "text": "Big Shaggy x Putak - WE WILL ROCK Out Now\n🔥\ninstagram\n😍\nYouTube\n🎥",
-        "date": "2026-07-27T18:07:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "putakk_26507_0_c9b37b8f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/putakk/26507"
-      },
-      {
-        "id": 26506,
-        "text": "https://www.youtube.com/watch?v=A8QLLcCPhFE",
-        "date": "2026-07-27T16:37:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "putakk_26506_0_c9b37b8f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "putakk_26506_1_98242b88.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.youtube.com/watch?v=A8QLLcCPhFE",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=A8QLLcCPhFE"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/putakk/26506"
       }
     ],
     "SafeV2ray": [
@@ -22641,21 +22652,21 @@
       }
     ]
   },
-  "last_update": "2026-08-22T07:37:55.631273+00:00",
+  "last_update": "2026-08-22T08:02:11.376050+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1636,
-    "total_media": 985,
-    "total_files": 985,
-    "total_links": 307,
+    "total_media": 991,
+    "total_files": 991,
+    "total_links": 304,
     "files_by_type": {
-      "image": 841,
-      "video": 138,
+      "image": 844,
+      "video": 141,
       "audio": 6
     },
-    "referenced_files": 985,
-    "existing_media_files": 985,
-    "total_size_mb": 498.69,
-    "last_calculation": "2026-08-22T07:37:55.642947+00:00"
+    "referenced_files": 991,
+    "existing_media_files": 991,
+    "total_size_mb": 496.68,
+    "last_calculation": "2026-08-22T08:02:11.414136+00:00"
   }
 }
