@@ -9841,6 +9841,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 353714,
+        "text": "گیدئون سعار، وزیر خارجه اسرائیل، در گفت‌وگو با کانال ۱۲ این کشور گفت که این کشور به دنبال تشدید تنش با ترکیه نیست، اما استقرار پایگاه‌های نظامی ترکیه در سوریه را نخواهد پذیرفت.\nسعار ادامه داد: «اسرائیل حفظ وضعیت موجود را دنبال می‌کند و راه‌حل دیپلماتیک را ترجیح می‌دهد.»\nوزیر خارجه اسرائیل با اشاره به نفوذ جمهوری اسلامی در لبنان و غزه، گفت: «ما نمی‌خواهیم همان وضعیت با ترکیه و سوریه تکرار شود.»\nhttps://iranintl.com/202608228965",
+        "date": "2026-08-22T17:21:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353714_0_127e46ee.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353714_1_49af9eec.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608228965",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608228965"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353714"
+      },
+      {
         "id": 353713,
         "text": "🔻\nلیگ فوتبال آمریکا لیونل مسی را به دلیل سیلی زدن به پشت سر کویین سالیوان، بازیکن فیلادلفیا یونیون، در جریان تساوی ۲ بر ۲ این تیم مقابل اینتر میامی جریمه کرد. مبلغ جریمه مسی اعلام نشده است.\n🔹\nمسی ۳۹ ساله در دقایق پایانی مسابقه با دست به پشت سر سالیوان زد. این اتفاق زمانی رخ داد که مسی اعتراض داشت سالیوان پس از بازی کردن توپ با آرنج به او ضربه زده است. سالیوان با عصبانیت به حرکت مسی واکنش نشان داد، اما داور به‌سرعت مداخله کرد.\n🔹\nام‌ال‌اس تایید کرد که مسی جریمه شده است، اما مبلغ این جریمه را اعلام نکرد.\n🔹\nمسی گل دوم اینترمیامی را در ورزشگاه سوبارو پارک به ثمر رساند و برای نخستین بار از زمان درگذشت پدرش گلزنی کرد.\n🔹\nمسی تنها بازیکن اینترمیامی نبود که با سالیوان درگیر شد. لیگ فوتبال آمریکا ایان فری را نیز جریمه کرد. فری پس از آنکه در پی برخورد دو بازیکن، سالیوان در محوطه جریمه تعادلش را از دست داد، گردن او را گرفت.\n🔹\nاین مسابقه پرتنش با دو کارت قرمز به پایان رسید. یانیک برایت از اینتر میامی و کاوان، برادر سالیوان، در وقت‌های تلف‌شده اخراج شدند. اما محرومیت کاوان پس از بررسی صحنه لغو شد.\n@iranintltvsport",
         "date": "2026-08-22T16:55:32+00:00",
@@ -11101,19 +11126,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353612"
-      },
-      {
-        "id": 353611,
-        "text": "🔻\nتیم فوتبال پرسپولیس در هفته دوم لیگ برتر، استقلال خوزستان را در استادیوم قلعه‌حسن‌خان با نتیجه ۴ بر یک شکست داد و بالاتر از استقلال، صدرنشین شد.\n🔹\nتوضیحات مزدک میرزایی، ایران اینترنشنال در برنامه هت‌تریک\n@iranintltvsport",
-        "date": "2026-08-21T20:26:49+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353611"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50397,
+        "text": "Server:\nUnknown\nPort:\n443\nSecret:\neef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
+        "date": "2026-08-22T17:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50397_0_1ed6f470.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50397"
+      },
       {
         "id": 50396,
         "text": "Server:\nmax.kimt.click\nPort:\n443\nSecret:\nee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b\n@ProxyMTProto",
@@ -12278,16 +12308,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50298"
-      },
-      {
-        "id": 50297,
-        "text": "Server:\nUnknown\nPort:\n8443\nSecret:\neeNEgYdJvXrFGRMCIMJdCQ\n@ProxyMTProto",
-        "date": "2026-08-19T16:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50297"
       }
     ],
     "XpnTeam": [
@@ -22969,21 +22989,21 @@
       }
     ]
   },
-  "last_update": "2026-08-22T16:58:24.921786+00:00",
+  "last_update": "2026-08-22T17:26:15.189866+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1636,
-    "total_media": 1073,
-    "total_files": 1073,
-    "total_links": 292,
+    "total_media": 1076,
+    "total_files": 1076,
+    "total_links": 293,
     "files_by_type": {
-      "image": 923,
+      "image": 926,
       "video": 143,
       "audio": 7
     },
-    "referenced_files": 1073,
-    "existing_media_files": 1073,
-    "total_size_mb": 495.9,
-    "last_calculation": "2026-08-22T16:58:24.934651+00:00"
+    "referenced_files": 1076,
+    "existing_media_files": 1076,
+    "total_size_mb": 495.98,
+    "last_calculation": "2026-08-22T17:26:15.202623+00:00"
   }
 }
