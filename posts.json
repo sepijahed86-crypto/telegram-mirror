@@ -5045,6 +5045,25 @@
     ],
     "withyashar": [
       {
+        "id": 21365,
+        "text": "وضعیت من وقتی یه شب دیگه هم باز نزد !\n@WarRoom",
+        "date": "2026-08-22T23:48:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21365_0_8409da53.jpg"
+          },
+          {
+            "type": "video",
+            "file": "withyashar_21365_1_fa39bcb9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21365"
+      },
+      {
         "id": 21364,
         "text": "ترامپ فعلا داره با کانادا کل کل میکنه. توی کانادا همه از دستش کلافه شدن، دیوانه باعث شده وضع خراب بشه و همه چی گرون شده بیش از حد",
         "date": "2026-08-22T22:51:02+00:00",
@@ -6680,21 +6699,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21264"
-      },
-      {
-        "id": 21263,
-        "text": "ارسالی تایید نشده : یاشار همین الان اهواز صدای شلیک موشک میومد قشنگ ی دودی توی هوا معلوم بود ولی دوربین گوشی اینقدر قوی نیست که بتونه دود رو بگیره\n@WarRoom",
-        "date": "2026-08-20T20:12:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21263_0_a55ae5a5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21263"
       }
     ],
     "vahidonline": [
@@ -23064,21 +23068,21 @@
       }
     ]
   },
-  "last_update": "2026-08-22T23:23:41.355696+00:00",
+  "last_update": "2026-08-22T23:50:46.912908+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1636,
-    "total_media": 1104,
-    "total_files": 1104,
+    "total_media": 1105,
+    "total_files": 1105,
     "total_links": 283,
     "files_by_type": {
       "image": 954,
-      "video": 142,
+      "video": 143,
       "audio": 8
     },
-    "referenced_files": 1104,
-    "existing_media_files": 1104,
-    "total_size_mb": 496.23,
-    "last_calculation": "2026-08-22T23:23:41.369079+00:00"
+    "referenced_files": 1105,
+    "existing_media_files": 1105,
+    "total_size_mb": 498.99,
+    "last_calculation": "2026-08-22T23:50:46.922279+00:00"
   }
 }
