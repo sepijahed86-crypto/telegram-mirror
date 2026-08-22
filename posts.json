@@ -4896,6 +4896,21 @@
     ],
     "withyashar": [
       {
+        "id": 21332,
+        "text": "روزنامه معاریو: آلون بن داوید، خبرنگار مسائل نظامی این روزنامه، مدعی است که مقامات ارشد ارتش دفاعی اسرائیل  معتقدند که نخست‌وزیر نتانیاهو در تلاش است تا تنش‌ها را در غزه افزایش دهد تا انتخابات اکتبر را به تعویق بیندازد.مقامات ارتش اسرائیل گفته‌اند که نمی‌خواهند وارد یک جنگ جدید و غیرضروری شوند\n@WarRoom",
+        "date": "2026-08-22T12:38:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21332_0_f9a4e265.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21332"
+      },
+      {
         "id": 21331,
         "text": "امروز صبح انتقال سه تانک از کمربندی یزد بسمت جنوب کشور\n@WarRoom",
         "date": "2026-08-22T09:23:36+00:00",
@@ -6527,21 +6542,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21231"
-      },
-      {
-        "id": 21230,
-        "text": "بامداد نیک و خجسته ، پیج اینستاگرام رو برگرگردوندم ، خواب بودم\ninstagram.com/yashar\nپیج دوم پشتیبان :\ninstagram.com/yasharmotores",
-        "date": "2026-08-20T04:22:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21230_0_a6ceaf48.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21230"
       }
     ],
     "vahidonline": [
@@ -9966,18 +9966,9 @@
         "id": 353674,
         "text": "بر اساس نظرسنجی صفحه اینستاگرام ایران‌اینترنشنال، ۹۲ درصد از شرکت‌کنندگان می‌گویند به دلیل فقر، ناامنی و آینده‌ای نامعلوم، تمایلی به ازدواج یا فرزندآوری ندارند. در این نظرسنجی بیش از ۱۰ هزار نفر شرکت کردند.\nجزییات بیشتر در گفت‌وگو با محسن مهیمنی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-08-22T12:04:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353674_0_127e46ee.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_353674_1_1c29a9f0.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353674"
       },
@@ -16039,6 +16030,25 @@
     ],
     "persian_asasins": [
       {
+        "id": 19187,
+        "text": "بهترین\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
+        "date": "2026-08-22T12:44:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_19187_0_059e1f99.jpg"
+          },
+          {
+            "type": "video",
+            "file": "persian_asasins_19187_1_cdad46d3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/19187"
+      },
+      {
         "id": 19186,
         "text": "روزنامه‌نگار آلمانی از رضا پهلوی می‌پرسدآیا شما مأمور اسرائیل هستید؟\nرضا پهلوی: نه اما پدربزرگم زمانی که شما یهودیان را در کوره‌ها می‌سوزاندید، به آنها پناه داد.\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
         "date": "2026-08-22T12:15:39+00:00",
@@ -17287,16 +17297,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/persian_asasins/19076"
-      },
-      {
-        "id": 19075,
-        "text": "صالح بعد صالح\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
-        "date": "2026-08-08T19:22:41+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/19075"
       }
     ],
     "yehirani": [
@@ -22826,7 +22826,7 @@
       }
     ]
   },
-  "last_update": "2026-08-22T12:37:59.243339+00:00",
+  "last_update": "2026-08-22T12:52:00.897719+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1636,
@@ -22840,7 +22840,7 @@
     },
     "referenced_files": 1038,
     "existing_media_files": 1038,
-    "total_size_mb": 497.26,
-    "last_calculation": "2026-08-22T12:37:59.286685+00:00"
+    "total_size_mb": 497.59,
+    "last_calculation": "2026-08-22T12:52:00.906522+00:00"
   }
 }
