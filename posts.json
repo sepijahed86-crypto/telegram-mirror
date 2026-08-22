@@ -9751,6 +9751,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 353632,
+        "text": "سرخط خبرهای شنبه ۳۱ مرداد\n@iranintltv",
+        "date": "2026-08-22T04:25:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353632_0_76a8efba.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353632_1_0af18b1d.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353632"
+      },
+      {
         "id": 353631,
         "text": "جمعه در پی اصابت چند پهپاد روسی به یک مرکز خرید در شهر کریفی‌ریه، زادگاه زلنسکی در مرکز اوکراین، دست‌کم ۱۶ نفر کشته و بیش از ۱۳۰ نفر مجروح شدند. زلنسکی تاکید کرد کشورش به این اقدام «وحشیانه» پاسخ خواهد داد.\nاولکساندر هانژا، فرماندار منطقه، گفت ۲۲ کودک در میان مجروحان حمله مرگبار به کریفی‌ریه هستند.\nهانژا گفت: «۲۹ نفر، از جمله پنج کودک، در وضعیت وخیم قرار دارند.» او تصویری منتشر کرد که دود سیاه در حال برخاستن از یک ساختمان بزرگ صنعتی را نشان می‌داد.\nهانژا در تازه‌ترین به‌روزرسانی در ساعات اولیه شنبه گفت بر اساس ارزیابی اولیه، ۹ نفر، از جمله دو کودک، مفقود محسوب می‌شوند و امدادگران همچنان در حال آواربرداری از مرکز خرید هستند.\nزلنسکی این حمله را «کاملا بدخواهانه و نفرت‌انگیز» خواند و گفت دومین پهپاد روسی نیم ساعت پس از پهپاد اول به مرکز خرید اصابت کرد. او گفت حمله دوم «تلاشی عمدی» برای هدف قرار دادن نیروهای امدادی بود.\nhttps://iranintl.com/202608229610",
         "date": "2026-08-22T04:08:02+00:00",
@@ -10315,18 +10334,9 @@
         "id": 353606,
         "text": "آمارهای تازه از سقوط شدید صادرات نفت جمهوری اسلامی حکایت دارد. به گزارش موسسه کپلر، بارگیری نفت ایران در ماه جاری به ۲۸۷ هزار بشکه رسیده، در حالی که این رقم در اسفند و فروردین روزانه حدود دو میلیون بشکه بود.\nهمایون فلک‌شاهی، کارشناس بازار نفت و انرژی در موسسه کپلر، گفت با ادامه محاصره دریایی، درآمد نفتی جمهوری اسلامی به‌تدریج به صفر نزدیک می‌شود. او افزود نفتی که پیش‌تر از محدوده محاصره خارج شده، طی حدود چهار ماه آینده در چین تخلیه و تسویه خواهد شد و پس از آن، درآمد نفتی جمهوری اسلامی عملا به صفر خواهد رسید.\n@iranintltv",
         "date": "2026-08-21T20:10:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353606_0_76a8efba.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_353606_1_1e3927ea.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353606"
       },
@@ -11221,19 +11231,39 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353532"
-      },
-      {
-        "id": 353531,
-        "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به اظهارات محمدباقر قالیباف درباره پیامدهای فقر و گرسنگی، گفت سخنان رییس مجلس نشان‌دهنده نگرانی جدی حکومت از پیامدهای جنگ اقتصادی است.\nکاظمیان تاکید می‌کند که قالیباف از یک سو اقتصاد را پایه امنیت می‌داند و می‌گوید توان نظامی به‌تنهایی ضامن بقای نظام نیست، اما از سوی دیگر با تکرار ادبیات «مقاومت» و رجزخوانی علیه آمریکا، همان سیاست‌هایی را که به گفته او ریشه بحران اقتصادی است، دوباره تایید می‌کند.\n@iranintltv",
-        "date": "2026-08-21T09:53:38+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353531"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50373,
+        "text": "Server:\nUnknown\nPort:\n4455\nSecret:\ndd104462821249bd7ac519130220c25d09\n@ProxyMTProto",
+        "date": "2026-08-22T05:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50373_0_9653c13f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50373"
+      },
+      {
+        "id": 50372,
+        "text": "Server:\nbeam.whitelist.cyou\nPort:\n443\nSecret:\nee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75\n@ProxyMTProto",
+        "date": "2026-08-22T04:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50372_0_9653c13f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50372"
+      },
       {
         "id": 50371,
         "text": "Server:\nad1.arixo.shop\nPort:\n443\nSecret:\neee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70\n@ProxyMTProto",
@@ -12263,26 +12293,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50274"
-      },
-      {
-        "id": 50273,
-        "text": "Server:\nbeam.whitelist.cyou\nPort:\n443\nSecret:\nee96671dab2ecd8b178da5371b6081550b6265616d2e77686974656c6973742e63796f75\n@ProxyMTProto",
-        "date": "2026-08-19T04:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50273"
-      },
-      {
-        "id": 50272,
-        "text": "Server:\nidyll.shmelproxy.top\nPort:\n443\nSecret:\nee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275\n@ProxyMTProto",
-        "date": "2026-08-18T20:28:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50272"
       }
     ],
     "XpnTeam": [
@@ -17368,6 +17378,48 @@
     ],
     "yehirani": [
       {
+        "id": 19889,
+        "text": "بله درست میبینی مینا نامداریه.\n🇮🇷\n@YehIrani\n| حاج متی",
+        "date": "2026-08-22T05:01:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19889_0_906289b6.jpg"
+          },
+          {
+            "type": "video",
+            "file": "yehirani_19889_1_864c9a2f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19889"
+      },
+      {
+        "id": 19887,
+        "text": "🔴\nمینا نامداری (بلاگر) کامبک زد ایران :\n🇮🇷\n@YehIrani\n| حاج متی",
+        "date": "2026-08-22T04:41:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19887_0_906289b6.jpg"
+          },
+          {
+            "type": "video",
+            "file": "yehirani_19887_1_3acaea3e.mp4"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_19887_2_d930462b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19887"
+      },
+      {
         "id": 19886,
         "text": "خطاب به تویی که کسیو نداری بهت شب به خیر بگه :\nخوب بخوابی فرشته کوچولو شبت به خیر\n💋\n❤️\n@YehIrani | حاج متی",
         "date": "2026-08-22T01:03:55+00:00",
@@ -19228,44 +19280,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/yehirani/19771"
-      },
-      {
-        "id": 19770,
-        "text": "🔴\nآیسان اسلامی :\nبر خلاف نوید محمدزاده بنده عاشق یهود و اسرائیل و نتانیاهوام\n🇮🇷\n@YehIrani\n| حاج متی",
-        "date": "2026-08-18T07:12:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19770_0_579947c0.jpg"
-          },
-          {
-            "type": "video",
-            "file": "yehirani_19770_1_dc8c18c6.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/19770"
-      },
-      {
-        "id": 19769,
-        "text": "امام زمان توییتر ترکوند اینسری\n🇮🇷\n@YehIrani\n| حاج متی",
-        "date": "2026-08-18T05:31:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19769_0_579947c0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_19769_1_4001d288.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/19769"
       }
     ],
     "crgaming7": [
@@ -21627,12 +21641,7 @@
         "id": 12782,
         "text": "https://t.me/proxy?server=most.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=biaberim.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=neshane-rah.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=saadi.masnavi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=seems.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=goodman.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=borj-pooshak-brj.aseman.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=sdfree.mahanam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d\nhttps://t.me/proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ\n🎖\n@BestProxyTel1",
         "date": "2026-08-21T23:47:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12782_0_c24e91b4.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://t.me/proxy?server=most.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
@@ -21685,7 +21694,7 @@
             "display_text": "https://t.me/proxy?server=uptime.speed-benz.co.uk&port=8443&..."
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/BestProxyTel1/12782"
       },
@@ -22886,21 +22895,21 @@
       }
     ]
   },
-  "last_update": "2026-08-22T04:11:22.726805+00:00",
+  "last_update": "2026-08-22T05:06:54.333354+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1636,
-    "total_media": 1040,
-    "total_files": 1040,
+    "total_media": 1042,
+    "total_files": 1042,
     "total_links": 307,
     "files_by_type": {
-      "image": 892,
-      "video": 142,
+      "image": 893,
+      "video": 143,
       "audio": 6
     },
-    "referenced_files": 1040,
-    "existing_media_files": 1040,
-    "total_size_mb": 495.31,
-    "last_calculation": "2026-08-22T04:11:22.760721+00:00"
+    "referenced_files": 1042,
+    "existing_media_files": 1042,
+    "total_size_mb": 497.33,
+    "last_calculation": "2026-08-22T05:06:54.346163+00:00"
   }
 }
