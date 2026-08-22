@@ -4946,6 +4946,25 @@
     ],
     "withyashar": [
       {
+        "id": 21337,
+        "text": "اورشلیم پست گزارش داده است که\nاسکات بسنت، وزیر خزانه‌داری آمریکا، قرار است روز دوشنبه ۲۴ اوت در یک نشست خبری جزئیات برنامه جدید دولت ترامپ برای تشدید فشار اقتصادی بر ایران را اعلام کند\n. این نشست ساعت ۲ بعدازظهر به وقت شرق آمریکا برگزار می‌شود که با توجه به اختلاف زمانی فعلی\n، برابر با ۹:۳۰ شب دوشنبه به وقت تهران است.\nبسنت پیش‌تر صراحتاً گفت:\n«ما این رژیم را فرو خواهیم ریخت.»\n@WarRoom",
+        "date": "2026-08-22T15:37:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21337_0_f9a4e265.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_21337_1_7c4ff960.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21337"
+      },
+      {
         "id": 21336,
         "text": "اکسیوس به نقل از مقامات آمریکایی: حدود 40 تانکر نفت شب جمعه از تنگه هرمز، به سمت مسیر عمان و مسیر آمریکایی، عبور کردند. این میزان معادل حدود 16 میلیون بشکه نفت است. @WarRoom",
         "date": "2026-08-22T14:50:29+00:00",
@@ -6569,21 +6588,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21236"
-      },
-      {
-        "id": 21235,
-        "text": "بیتکوین در حال پرواز است و با قدرت از مرز ۷۱،۰۰۰ دلار هم عبور کرد.\n@WarRoom",
-        "date": "2026-08-20T08:15:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21235_0_a6ceaf48.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21235"
       }
     ],
     "vahidonline": [
@@ -22899,21 +22903,21 @@
       }
     ]
   },
-  "last_update": "2026-08-22T15:30:50.690337+00:00",
+  "last_update": "2026-08-22T15:52:29.227748+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1636,
-    "total_media": 1059,
-    "total_files": 1059,
+    "total_media": 1060,
+    "total_files": 1060,
     "total_links": 291,
     "files_by_type": {
-      "image": 910,
+      "image": 911,
       "video": 142,
       "audio": 7
     },
-    "referenced_files": 1059,
-    "existing_media_files": 1059,
-    "total_size_mb": 497.08,
-    "last_calculation": "2026-08-22T15:30:50.730540+00:00"
+    "referenced_files": 1060,
+    "existing_media_files": 1060,
+    "total_size_mb": 497.14,
+    "last_calculation": "2026-08-22T15:52:29.276897+00:00"
   }
 }
