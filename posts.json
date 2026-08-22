@@ -20322,6 +20322,21 @@
     ],
     "iranstop": [
       {
+        "id": 3650,
+        "text": "لطفاااا فیک نیوز پخش نکنیدددددددد\nخبرای دقیق رو اینجا پوشش میده براتون :\n@khabark",
+        "date": "2026-08-22T01:08:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "iranstop_3650_0_eca6d0fd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/iranstop/3650"
+      },
+      {
         "id": 3649,
         "text": "",
         "date": "2026-08-21T18:38:01+00:00",
@@ -21529,16 +21544,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/iranstop/3546"
-      },
-      {
-        "id": 3545,
-        "text": "طلوع ماه بر فراز رصدخانه کاسین خرم‌آباد؛ پنجم مرداد ماه ۱۴۰۵",
-        "date": "2026-07-31T09:49:51+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/iranstop/3545"
       }
     ],
     "BestProxyTel1": [
@@ -22805,21 +22810,21 @@
       }
     ]
   },
-  "last_update": "2026-08-22T01:06:15.288743+00:00",
+  "last_update": "2026-08-22T01:28:39.175179+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1635,
-    "total_media": 1028,
-    "total_files": 1028,
+    "total_media": 1029,
+    "total_files": 1029,
     "total_links": 304,
     "files_by_type": {
-      "image": 881,
+      "image": 882,
       "video": 141,
       "audio": 6
     },
-    "referenced_files": 1028,
-    "existing_media_files": 1028,
-    "total_size_mb": 487.75,
-    "last_calculation": "2026-08-22T01:06:15.300962+00:00"
+    "referenced_files": 1029,
+    "existing_media_files": 1029,
+    "total_size_mb": 487.76,
+    "last_calculation": "2026-08-22T01:28:39.184909+00:00"
   }
 }
