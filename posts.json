@@ -2646,6 +2646,31 @@
     ],
     "whitedns": [
       {
+        "id": 1576,
+        "text": "🚀\nبالاخره ‎CottenRouter‎ منتشر شد!\nچیزی که خیلی‌هاتون بارها درخواست کرده بودید، بالاخره آماده شد.\n🔥\nاگه روی یک ‎VPS‎ چند ‎DNS Tunnel‎ دارید، دیگه لازم نیست برای ‎Port 53‎ بین سرویس‌ها درگیر باشید.\n‎CottenRouter‎ امکان اجرای چند ‎Tunnel‎ روی\nیک ‎IP‎ و یک ‎Port 53‎\nرو فراهم می‌کنه و هر ‎Domain‎ رو به ‎Backend‎ مربوط به خودش هدایت می‌کنه.\n⚡️\nپشتیبانی از:\n‎CottenDNS‎\n‎MasterDnsVPN‎\n‎StormDNS‎\n‎thefeed‎\n‎SlipGate‎\n🛠\nامکانات:\n• ‎UDP / TCP‎\n• ‎Multi-Domain‎ و ‎Multi-Backend‎\n• ‎Port 53‎ بین چند ‎Tunnel‎\n• ‎DoT‎، ‎DoH‎ و ‎HTTPS‎ بر اساس ‎SNI‎\n• ‎TUI‎ و ‎Control Deck‎ برای مدیریت و مانیتورینگ\n• نصب مستقیم روی ‎Linux‎\n• پشتیبانی از ‎Docker‎\n• ‎AMD64‎ و ‎ARM64‎\n🛡\nبدون دستکاری ترافیک ‎Tunnel‎\n‎CottenRouter‎ چیزی به پکت ها و تانل اضافه نمیکنه\nبنابراین قابلیت‌هایی مثل ‎ARQ‎، ‎FEC‎، ‎Compression‎، ‎MTU Discovery‎، ‎Record Channels‎، ‎SOCKS‎ و ‎TCP Forwarding‎ بدون تغییر باقی می‌مونن.\n🔥\nخلاصه:\nیک ‎IP‎ + یک ‎Port 53‎ + چند ‎DNS Tunnel‎\n🔗\n‎GitHub‎:\nhttps://github.com/TaJirax/CottenRouter",
+        "date": "2026-08-23T11:43:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1576_0_573875a7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1576_1_89c79dba.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/TaJirax/CottenRouter",
+            "type": "github",
+            "display_text": "https://github.com/TaJirax/CottenRouter"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1576"
+      },
+      {
         "id": 1574,
         "text": "White DNS\npinned a photo",
         "date": "2026-08-23T09:57:50+00:00",
@@ -4792,34 +4817,24 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1421"
-      },
-      {
-        "id": 1420,
-        "text": "⏯️\nآموزش فیلترشکن رایگان و امن با استفاده از متد های MITM و Serverless\nمشاهده در یوتیوب\nhttps://youtu.be/VYfQePhgEUU",
-        "date": "2026-08-07T08:23:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1420_0_88304f3d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "whitedns_1420_1_9c4119e1.mp4"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://youtu.be/VYfQePhgEUU",
-            "type": "youtube",
-            "display_text": "https://youtu.be/VYfQePhgEUU"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1420"
       }
     ],
     "withyashar": [
+      {
+        "id": 21383,
+        "text": "یاشار داش دلار تو بازار من الان 210 چنج کردم",
+        "date": "2026-08-23T11:41:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21383_0_8409da53.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21383"
+      },
       {
         "id": 21382,
         "text": "‏دونالد ترامپ در‌تروث با انتشار ویدیویی جنجالی از سخنرانی خود، به انتقاد شدید از تلاش‌های حزب دمکرات برای محدود کردن اختیارات نظامی رئیس‌جمهور آمریکا پرداخت.\n‏او در این اظهارات طعنه‌آمیز گفت : اگر علی خامنه‌ای در حملات کشته نمی‌شد، دمکرات‌ها احتمالاً او را برای ریاست‌جمهوری سال ۲۰۲۸، سنای میشیگان یا حتی مدیریت کمیته ملی دمکرات‌ها (DNC) نامزد می‌کردند!\n@WarRoom",
@@ -6452,21 +6467,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21282"
-      },
-      {
-        "id": 21281,
-        "text": "بیتکوین 77,000$ را شکست و در چند روز 15000$ گران شد @WarRoom",
-        "date": "2026-08-21T09:02:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21281_0_a55ae5a5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21281"
       }
     ],
     "vahidonline": [
@@ -9681,6 +9681,63 @@
     ],
     "IranintlTV": [
       {
+        "id": 353821,
+        "text": "در ادامه روند نزولی ارزش پول ملی در ایران قیمت دلار آمریکا یک‌شنبه اول شهریور به ۲۰۰ هزار تومان رسید.\nهمزمان پوند بریتانیا از ۲۷۲ هزار تومان عبور کرد و یورو نیز به مرز ۲۳۴ هزار تومان رسید.\nقیمت هر سکه طلای طرح جدید، موسوم به «امامی» نیز از ۲۱۸ میلیون تومان فراتر رفت.",
+        "date": "2026-08-23T11:34:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353821_0_3b66fd4f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353821_1_73f87f16.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353821"
+      },
+      {
+        "id": 353820,
+        "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در یکشنبه یکم شهریور می‌گوید بستنی میهن در عرض یک هفته کوچک‌تر و گران‌تر شده است.",
+        "date": "2026-08-23T11:29:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353820_0_3b66fd4f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353820_1_e73bd5f9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353820"
+      },
+      {
+        "id": 353819,
+        "text": "شماری از مخاطبان ایران‌اینترنشنال در واکنش به تشدید فشارهای اقتصادی آمریکا علیه جمهوری‌اسلامی گفتند تحریم‌ها لزوما به تغییر رفتار جمهوری‌اسلامی منجر نخواهد شد.\nبرخی از مخاطبان معتقدند جمهوری‌اسلامی طی سال‌ها توانسته هزینه تحریم‌ها و کسری بودجه را به جامعه منتقل کند و هم‌زمان از راه‌های مختلف تحریم‌ها را دور بزند.\nجزئیات بیشتر در گفت‌وگو با مهدی تاجیک، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-08-23T11:25:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353819_0_3b66fd4f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353819_1_cd9b176c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353819"
+      },
+      {
         "id": 353818,
         "text": "محمدرضا عارف، معاون اول رییس دولت جمهوری اسلامی، درباره افزایش قیمت بنزین گفت: «امیدوارم نظام هر تصمیمی می‌گیرد، خبر خوبی باشد. ممکن است به‌دلیل اینکه کار رسانه‌ای کمتر می‌کنیم، [مردم] توجیه نباشند. بنای ما بر این است که پس از توجیه مردم که این تصمیم به نفع شما است، این کار را انجام دهیم.»\nعارف گفت: «اگر احساس کنیم مردم مخالف هستند یا آمادگی ندارند، قطعا این کار را نخواهیم کرد.»\nمعاون اول پزشکیان گفت: «ملاحضات زمان جنگ را می‌کنیم و برای همین اصلاحات گام به گام است و هر گام با نظر مردم اگر موفق بود، گام بعدی را برمی‌داریم.»\nhttps://iranintl.com/202608231069",
         "date": "2026-08-23T11:24:35+00:00",
@@ -10929,45 +10986,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353721"
-      },
-      {
-        "id": 353720,
-        "text": "حسینعلی حاجی‌دلیگانی، نایب‌رییس کمیسیون اصل نود مجلس شورای اسلامی، گفت جمهوری اسلامی باید کاری کند که امارات «تا سالیان سال» همه امکاناتش را در اختیار ایران قرار دهد. او افزود غرامت خسارت‌هایی که به گفته او امارات وارد کرده، «شاید به قیمت این باشد که کل سرزمینش را سال‌ها در اختیار ما قرار دهد».\n@iranintltv",
-        "date": "2026-08-22T17:49:12+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353720"
-      },
-      {
-        "id": 353719,
-        "text": "حسن همتی‌فر، دادستان مشهد، گفت: «در کنار اقدامات فرهنگی، باید برخوردی بازدارنده با افرادی که عامدانه نسبت به ترویج برهنگی و بی‌عفتی اقدام می‌کنند، صورت گیرد تا مظاهر فساد از سطح شهر برچیده شود.»\nبه گزارش خبرگزاری میزان، همتی‌فر گفته شعب ویژه‌ای در دادسرای مشهد برای رسیدگی سریع و دقیق به این پرونده‌ها اختصاص یافته است.\nاو افزود: «در چارچوب قانون از آمران به معروف و ناهیان از منکر حمایت قضایی خواهد شد و هیچ فردی حق تعرض به آنان را ندارد.»\nدادستان مشهد همچنین اضافه کرد: «مطابق مصوبات شورای عالی انقلاب فرهنگی، مسئولین دستگاه‌های اجرایی و خدماتی موظف به انجام وظایف خود در حوزه عفاف و حجاب هستند و هرگونه اهمال در این زمینه، مصداق ترک فعل محسوب شده و با متخلفین برخورد قانونی صورت خواهد گرفت.»\nhttps://iranintl.com/202608220924",
-        "date": "2026-08-22T17:46:36+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608220924",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608220924"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353719"
-      },
-      {
-        "id": 353718,
-        "text": "هم‌زمان با افزایش نگرانی‌ها درباره کیفیت بنزین در ایران، سخنگوی کمیسیون انرژی مجلس جمهوری اسلامی گفت حدود نیم درصد متانول به بنزین اضافه می‌شود و مدعی شد این میزان به خودروها آسیبی نمی‌زند. در همین حال، معاون اول وزیر نفت جمهوری اسلامی تایید کرد که در ایران بنزین غیراستاندارد تولید می‌شود.\nعطا حسینیان، روزنامه‌نگار اقتصادی و کارشناس انرژی، گفت استفاده از متانول در بنزین در کشورهای مختلف رایج است، اما میزان آن بر اساس کیفیت سوخت و استاندارد خودروها تعیین می‌شود. او افزود با توجه به کیفیت پایین بنزین و خودروهای تولید داخل، متانول موجود در بنزین ایران می‌تواند به سیستم سوخت‌رسانی و موتور خودروها آسیب جدی وارد کند.\n@iranintltv",
-        "date": "2026-08-22T17:41:38+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353718"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50419,
+        "text": "Server:\nUnknown\nPort:\n443\nSecret:\neefdf6175e50069c01bd22d786534aa2b2766b2e636f6d\n@ProxyMTProto",
+        "date": "2026-08-23T11:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50419_0_1ed6f470.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50419"
+      },
       {
         "id": 50418,
         "text": "Server:\niran.yhge.co.uk.\nPort:\n443\nSecret:\needdffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169\n@ProxyMTProto",
@@ -12012,19 +12048,28 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50320"
-      },
-      {
-        "id": 50319,
-        "text": "Server:\nUnknown\nPort:\n443\nSecret:\neeb8f5ea85920054511cbb1c19f1baf3553265383964642e73776966742d63646e2e6e6574\n@ProxyMTProto",
-        "date": "2026-08-20T10:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50319"
       }
     ],
     "XpnTeam": [
+      {
+        "id": 8146,
+        "text": "🚬\nاتصال خوب، اتفاقی نیست؛ انتخابه!\n✔️\nسرورهای نامحدود + تانل پایدار Xpn\nبرای وقتی که سرعت، پایداری و کیفیت برات مهمه.\n🔼\nنامحدود |\n⚡️\nسرعت بالا |\n🛡\nIP ثابت و پایدار\n🌍\nلوکیشن‌های متنوع و قدرتمند\n🎮\nبازی |\n🎬\nاستریم |\n🛜\nوب‌گردی\n📞\nتماس |\n🤖\nهوش مصنوعی\n➕\nاول تست کن، بعد با خیال راحت بخر!\nپشتیبانی واقعی تا آخرین روز اشتراک\n⌛\n📩\nخرید و دریافت تست\n:\n🧑‍💻\n@XpnAdmin\n🌐",
+        "date": "2026-08-23T11:41:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "XpnTeam_8146_0_2ce7ab29.jpg"
+          },
+          {
+            "type": "image",
+            "file": "XpnTeam_8146_1_f4aa99eb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/XpnTeam/8146"
+      },
       {
         "id": 8145,
         "text": "@XpnTeam-139.npvt",
@@ -13029,16 +13074,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/XpnTeam/8040"
-      },
-      {
-        "id": 8039,
-        "text": "🔐\nTraffic\n: UN/\nLimited\n♾\nTime : nA\n⏰\n⚠️\nLocation :\n🌐\nApp\n⬇️\n:\nNapesterNet\n❓\n|- آموزش :\nفایل رو دانلود کنید و روش ضربه بزنید ، برنامه نپستر رو انتخاب و سپس وارد اپلیکیشن شید انتخاب کنید سرورو،بعدشم‌روشن‌کنید..\n🤩\n›\n@XpnTeam",
-        "date": "2026-08-02T08:52:52+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/XpnTeam/8039"
       }
     ],
     "putakk": [
@@ -14749,6 +14784,21 @@
     ],
     "SafeV2ray": [
       {
+        "id": 1544,
+        "text": "یه زمانی دلار شد ۲۰ هزار تومن، گفتیم گرونه...\nشد ۵۰ هزار، گفتیم دیگه بیشتر از این نمی‌شه...\nشد ۱۰۰ هزار، گفتیم شاید همین‌جا متوقف بشه...\nو امروز، ۲۰۰ هزار تومن.\nدردش فقط گرون شدن دلار نیست؛\nدردش اینه که چیزهایی که یه روز برامون «رویا» بودن،\nکم‌کم دارن تبدیل می‌شن به چیزهایی که حتی جرئت آرزو کردنشون رو هم نداریم.\nهرچی دلار بالاتر رفت،\nانگار یه تکه از امیدمون هم پایین‌تر رفت.\nتلخه...\nوقتی می‌بینی چیزی که برای بقیه فقط یه عدده،\nبرای تو می‌تونه فاصله‌ی بین «می‌خوام» و «نمی‌تونم» باشه.\nشاید غم‌انگیزترین قسمت ماجرا اینه که\nدیگه از گرونی تعجب نمی‌کنیم...\nفقط هر روز منتظریم ببینیم\nفردا کدوم آرزومون دیگه دست‌نیافتنی‌تر شده.",
+        "date": "2026-08-23T11:29:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "SafeV2ray_1544_0_1765c358.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/SafeV2ray/1544"
+      },
+      {
         "id": 1541,
         "text": "https://t.me/addlist/8KjbtT_iKTpiMjQy",
         "date": "2026-08-18T09:45:04+00:00",
@@ -15827,16 +15877,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/SafeV2ray/1436"
-      },
-      {
-        "id": 1435,
-        "text": "🚀\nارائه تمامی خدمات تلگرام با قیمت‌های فوق‌العاده رقابتی\n💎\nتلگرام پرمیوم |\n🪙\nاستارز تلگرام |\n✅\nشماره مجازی کشورهای مختلف |\n💝\nگیفت های تلگرام\n🧸\n🎁\nبا دعوت از دوستانت از طریق سیستم دعوت ربات، امتیاز جمع کن و شماره مجازی رایگان یا گیفت‌\n🧸\n💝\nدریافت کن\n🤖\n@HubNumbBot\n📣\nChannel :\n@HubNumber\n👩‍💻\nSupport :\n@HubNumberSupport",
-        "date": "2026-07-18T18:19:35+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/SafeV2ray/1435"
       }
     ],
     "persian_asasins": [
@@ -17220,6 +17260,70 @@
       }
     ],
     "yehirani": [
+      {
+        "id": 19941,
+        "text": "🔴\nتبریک قلعههههه بعدی گوشت کیلو دو تومن\n.\n@YehIrani\n| عمو عزی",
+        "date": "2026-08-23T11:50:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19941_0_69028771.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19941"
+      },
+      {
+        "id": 19940,
+        "text": "🔴\nعاقبت :\nتو پیام‌رسان های داخلی کمپینی راه افتاده که میگن مغازه هایی که توشون افراد بی حجاب کار کنه رو خرید نمی‌کنیم و تحریم میکنیم.\n🇮🇷\n@YehIrani\n| حاج متی",
+        "date": "2026-08-23T11:45:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19940_0_69028771.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_19940_1_29049cb6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19940"
+      },
+      {
+        "id": 19939,
+        "text": "🔴\nدیجی کالا قیمت دلار دید خایه کرد و تصمیم گرفت از دسترس خارج شه\n🇮🇷\n@YehIrani\n| حاج متی",
+        "date": "2026-08-23T11:29:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19939_0_69028771.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19939"
+      },
+      {
+        "id": 19938,
+        "text": "برخط شدن در کمین است",
+        "date": "2026-08-23T11:26:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_19938_0_69028771.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/19938"
+      },
       {
         "id": 19937,
         "text": "🔴\nتبریک رسما  دلار دویست تومان چند ماه پیش:\nدلار میشه صد تومن اوووو بچه ای بابا گول رسانه نخور\n@YehIrani | عمو عزی",
@@ -19031,86 +19135,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/yehirani/19820"
-      },
-      {
-        "id": 19819,
-        "text": "🔴\nآخوند عابدینی:\nمردم باید هرچه سریعتر ده هزار گوسفند برای سلامتی رهبر نذر کنن، عجله کنید چون فوریه.\nاگه گوسفندی درکار باشه، خایه هاشم بهت نمیرسه\n@yehirani\n| 𝐏𝐎𝐔𝐑𝐢",
-        "date": "2026-08-19T19:45:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19819_0_72b74d79.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_19819_1_c024c6ad.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/19819"
-      },
-      {
-        "id": 19818,
-        "text": "🔴\nداریوش اقبالی(خواننده):\nما نه آخوند میخوایم نه شاه، دوباره میرید یکی رو میزارید اون بالا به اسم شاه هیچجوری نمیتونید بیاریدش پایین، اپوزیسون خارج شکست خورده.!\n@yehirani\n| 𝐏𝐎𝐔𝐑𝐢",
-        "date": "2026-08-19T19:30:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19818_0_72b74d79.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_19818_1_37c806f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/19818"
-      },
-      {
-        "id": 19817,
-        "text": "🔴\nاین چرخه ادامه دارد :\nترامپ: شاید باز با ایران مذاکره کنیم\n🇮🇷\n@YehIrani\n| حاج متی",
-        "date": "2026-08-19T19:03:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19817_0_72b74d79.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_19817_1_3dc0ed60.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/19817"
-      },
-      {
-        "id": 19815,
-        "text": "🔴\nیه معدن طلا تو کامرون ریزش کرد؛\nکلی از مردم زیر خاک موندن و تا الان 107 نفر فوت شدن...\n@yehirani\n| 𝐏𝐎𝐔𝐑𝐢",
-        "date": "2026-08-19T12:21:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19815_0_8d8f7d9f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "yehirani_19815_1_192c21b2.mp4"
-          },
-          {
-            "type": "video",
-            "file": "yehirani_19815_2_e921cf5e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/19815"
       }
     ],
     "crgaming7": [
@@ -22671,21 +22695,21 @@
       }
     ]
   },
-  "last_update": "2026-08-23T11:26:04.703808+00:00",
+  "last_update": "2026-08-23T11:52:04.234128+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1636,
-    "total_media": 1028,
-    "total_files": 1028,
-    "total_links": 277,
+    "total_media": 1034,
+    "total_files": 1034,
+    "total_links": 276,
     "files_by_type": {
-      "image": 884,
-      "video": 137,
+      "image": 891,
+      "video": 136,
       "audio": 7
     },
-    "referenced_files": 1028,
-    "existing_media_files": 1028,
-    "total_size_mb": 493.06,
-    "last_calculation": "2026-08-23T11:26:04.739879+00:00"
+    "referenced_files": 1034,
+    "existing_media_files": 1034,
+    "total_size_mb": 493.5,
+    "last_calculation": "2026-08-23T11:52:04.274170+00:00"
   }
 }
