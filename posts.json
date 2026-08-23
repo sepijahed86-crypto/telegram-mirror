@@ -5083,6 +5083,21 @@
     ],
     "withyashar": [
       {
+        "id": 21408,
+        "text": "گزارش های‌ زیاد از صدای انفجار بندر عباس\n@WarRoom\n🚨\n🚨\n🚨",
+        "date": "2026-08-23T20:27:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21408_0_6aff4fc6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21408"
+      },
+      {
         "id": 21407,
         "text": "مایک پنس: ترامپ و اسرائیل دوباره برای «تمام کردن کار» وارد عمل می‌شوند\nبه گزارش سی‌ان‌ان : مایک پنس، معاون سابق رئیس‌جمهور آمریکا مدعی است:\n«بسیار زود و پیش از آنکه دیر شود زمانش فرا می‌رسد که رئیس‌جمهور و متحد ما اسرائیل مجبور شوند وارد شوند و کار را تمام کنند.»\nآمریکا باید نیروها و تجهیزات نظامی خود را در منطقه حفظ کند تا برای اقدام احتمالی آینده آماده باشد.\n@WarRoom",
         "date": "2026-08-23T20:22:30+00:00",
@@ -6706,25 +6721,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21304"
-      },
-      {
-        "id": 21303,
-        "text": "",
-        "date": "2026-08-21T20:46:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21303_0_f9a4e265.jpg"
-          },
-          {
-            "type": "video",
-            "file": "withyashar_21303_1_34b59ba7.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21303"
       }
     ],
     "vahidonline": [
@@ -11292,6 +11288,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 50437,
+        "text": "Server:\nUnknown\nPort:\n443\nSecret:\neef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169\n@ProxyMTProto",
+        "date": "2026-08-23T20:28:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50437_0_5f6d4495.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50437"
+      },
+      {
         "id": 50436,
         "text": "Server:\nUnknown\nPort:\n443\nSecret:\neef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
         "date": "2026-08-23T20:00:00+00:00",
@@ -12425,16 +12436,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50338"
-      },
-      {
-        "id": 50337,
-        "text": "Server:\nhub.savelyev.click\nPort:\n443\nSecret:\nee609a2ad7e277c6eb2dd39767e12777b86875622e736176656c7965762e636c69636b\n@ProxyMTProto",
-        "date": "2026-08-20T19:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50337"
       }
     ],
     "XpnTeam": [
@@ -23082,7 +23083,7 @@
       }
     ]
   },
-  "last_update": "2026-08-23T20:25:59.323229+00:00",
+  "last_update": "2026-08-23T20:55:35.516302+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1637,
@@ -23090,13 +23091,13 @@
     "total_files": 1122,
     "total_links": 269,
     "files_by_type": {
-      "image": 970,
-      "video": 143,
+      "image": 971,
+      "video": 142,
       "audio": 9
     },
     "referenced_files": 1122,
     "existing_media_files": 1122,
-    "total_size_mb": 493.5,
-    "last_calculation": "2026-08-23T20:25:59.337518+00:00"
+    "total_size_mb": 492.34,
+    "last_calculation": "2026-08-23T20:55:35.529756+00:00"
   }
 }
