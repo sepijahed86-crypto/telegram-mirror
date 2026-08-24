@@ -5278,6 +5278,36 @@
     ],
     "withyashar": [
       {
+        "id": 21472,
+        "text": "‏شاهزاده رضا پهلوی با بازنشر تصویری از دیدار خود با زلنسکی، سی‌وپنجمین سالگرد استقلال اوکراین را به مردم این کشور تبریک گفت و نوشت: «در این روز مهم، مردم ایران در مبارزه مردم اوکراین علیه تجاوز و اشغال، شانه‌به‌شانه آنها ایستاده‌اند. همبستگی شما با مردم ایران در مبارزه آنها برای آزادی هرگز فراموش نخواهد شد. ما همیشه دوستان خود را به یاد خواهیم داشت.»\n@WarRoom",
+        "date": "2026-08-24T23:49:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21472_0_c3a851e8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21472"
+      },
+      {
+        "id": 21471,
+        "text": "‏آسوشیتدپرس گزارش داد که دولت دونالد ترامپ در حال آماده شدن برای لغو روادید تجاری و گردشگری حداکثر ۲۰۰ هزار تبعه خارجی است که برای دریافت پناهندگی در آمریکا درخواست داده‌اند یا در حال حاضر به دنبال دریافت وضعیت پناهندگی هستند.\n@WarRoom",
+        "date": "2026-08-24T23:37:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21471_0_c3a851e8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21471"
+      },
+      {
         "id": 21470,
         "text": "کارلوس آ. خیمنز نماینده فلوریدا در مجلس نمایندگان آمریکا : اردوغان همچنان فعالانه از تروریست‌های خشن حماس که خون آمریکایی‌ها بر دستانشان است، حمایت می‌کند\n@WarRoom",
         "date": "2026-08-24T23:33:41+00:00",
@@ -6898,40 +6928,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21367"
-      },
-      {
-        "id": 21366,
-        "text": "روزنامه تلگراف بریتانیا : هکرهای ایرانی یک حمله سایبری بی‌سابقه به یک نیروگاه در بریتانیا انجام دادند که منجر به از کار افتادن آن به مدت ۴ روز شد.\n@WarRoom",
-        "date": "2026-08-23T07:34:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21366_0_8409da53.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21366"
-      },
-      {
-        "id": 21365,
-        "text": "وضعیت من وقتی یه شب دیگه هم باز نزد !\n@WarRoom",
-        "date": "2026-08-22T23:48:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21365_0_8409da53.jpg"
-          },
-          {
-            "type": "video",
-            "file": "withyashar_21365_1_fa39bcb9.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21365"
       }
     ],
     "vahidonline": [
@@ -23825,21 +23821,21 @@
       }
     ]
   },
-  "last_update": "2026-08-24T23:37:34.465673+00:00",
+  "last_update": "2026-08-24T23:53:33.878395+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1637,
-    "total_media": 1269,
-    "total_files": 1269,
+    "total_media": 1268,
+    "total_files": 1268,
     "total_links": 280,
     "files_by_type": {
       "image": 1117,
-      "video": 146,
+      "video": 145,
       "audio": 6
     },
-    "referenced_files": 1269,
-    "existing_media_files": 1269,
-    "total_size_mb": 499.62,
-    "last_calculation": "2026-08-24T23:37:34.481366+00:00"
+    "referenced_files": 1268,
+    "existing_media_files": 1268,
+    "total_size_mb": 496.86,
+    "last_calculation": "2026-08-24T23:53:33.893751+00:00"
   }
 }
