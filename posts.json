@@ -5661,6 +5661,25 @@
     ],
     "withyashar": [
       {
+        "id": 21537,
+        "text": "همکنون فردی در بالای پل طبیعت میخواد خودشو … آتشنشانی در حال مقابله و کمک است\n@WarRoom",
+        "date": "2026-08-26T12:52:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21537_0_07ac1ec6.jpg"
+          },
+          {
+            "type": "video",
+            "file": "withyashar_21537_1_12a21576.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21537"
+      },
+      {
         "id": 21536,
         "text": "Voice message",
         "date": "2026-08-26T12:41:16+00:00",
@@ -7300,25 +7319,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21437"
-      },
-      {
-        "id": 21436,
-        "text": "ترامپ در تروث : ایران کاملاً فروپاشیده !!!\n@WarRoom",
-        "date": "2026-08-24T12:44:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21436_0_6aff4fc6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_21436_1_5f5bc520.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21436"
       }
     ],
     "vahidonline": [
@@ -10439,6 +10439,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 354313,
+        "text": "بر اساس اطلاعات رسیده به ایران‌اینترنشنال، محمد ابراهیمی معروف به «گلممد»، ۲۷ ساله و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، بر اساس حکم دادگاه تجدیدنظر به ۱۵ سال حبس تعزیری محکوم شده است.\nابراهیمی، فارغ‌التحصیل رشته نقاشی از دانشگاه علم و فرهنگ، اوایل بهمن‌ماه ۱۴۰۴ در تهران بازداشت شد. بر اساس این اطلاعات، نیروهای وزارت اطلاعات نیمه‌شب به خانه او یورش برده و بازداشتش کردند.\nابراهیمی پیش‌تر از سوی شعبه ۲۶ دادگاه انقلاب تهران به ریاست ایمان افشاری، با اتهام‌هایی از جمله «لیدری اعتراضات»، «اجتماع و تبانی» و «تشویش اذهان عمومی» به ۲۰ سال حبس محکوم شده بود. پس از تجدیدنظرخواهی، حکم او به ۱۵ سال حبس تعزیری کاهش یافت.\nhttps://iranintl.com/202608263488",
+        "date": "2026-08-26T12:56:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_354313_0_45049a14.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_354313_1_07fb9220.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608263488",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608263488"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/354313"
+      },
+      {
         "id": 354312,
         "text": "برداشت از ذخایر راهبردی سوخت در ایران به مرحله «هشدار قرمز» رسیده است. با ادامه روند کنونی، ممکن است موجودی کشور ظرف چند هفته پایان یابد. این موضوع میان دولت مسعود پزشکیان و سپاه پاسداران اختلاف ایجاد کرده است.\nمنابع مطلع چهارشنبه چهارم شهریور به ایران‌اینترنشنال گفتند استفاده از ذخایری که برای مقابله با کمبودهای شدید و شرایط بحرانی نگهداری می‌شوند، در هفته‌های اخیر به میزانی رسیده است که کارشناسان درون حکومت درباره پیامدهای ادامه آن هشدار داده‌اند.\nبر اساس این اطلاعات، در صورت ادامه برداشت با آهنگ کنونی، ذخایر باقی‌مانده سوخت ممکن است طی چند هفته آینده تمام شود؛ وضعیتی که توان دولت برای جبران اختلال در تولید یا واردات و جلوگیری از توقف گسترده عرضه را محدود خواهد کرد.\nهم‌زمان، افزایش برداشت از ذخایر راهبردی به اختلاف میان دولت جمهوری اسلامی و سپاه پاسداران انقلاب اسلامی انجامیده است.\nمقام‌های سپاه پاسداران با استفاده نامحدود از این منابع مخالفت کرده‌اند، اما مقام‌های دولتی می‌خواهند برای باز نگه داشتن جایگاه‌ها و جلوگیری از تشدید نگرانی‌های عمومی درباره کمبود و افزایش قیمت، برداشت از ذخایر ادامه یابد.\nht",
         "date": "2026-08-26T12:49:26+00:00",
@@ -10577,18 +10602,9 @@
         "id": 354305,
         "text": "🔻\nهیات‌رییسه فدراسیون فوتبال پس از بررسی عملکرد تیم فوتبال ایران و برنامه‌های آینده، با ادامه حضور امیر قلعه‌نویی روی نیمکت این تیم تا پایان جام ملت‌های آسیا ۲۰۲۷ موافقت کرد.\n🔹\nارزیابی مزدک میرزایی، ایران‌اینترنشنال، از تمدید قرارداد امیر قلعه‌نویی\n@iranintltvsport",
         "date": "2026-08-26T11:40:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_354305_0_45049a14.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_354305_1_fb95d931.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/354305"
       },
@@ -10596,14 +10612,9 @@
         "id": 354304,
         "text": "🎧\nنسخه صوتی اخبار نیمروزی | چهارشنبه ۴ شهریور\n@iranintlTV",
         "date": "2026-08-26T11:38:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_354304_0_45049a14.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/354304"
       },
@@ -11686,19 +11697,24 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/354213"
-      },
-      {
-        "id": 354212,
-        "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
-        "date": "2026-08-25T18:34:38+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/354212"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50522,
+        "text": "Server:\n65.21.222.229\nPort:\n443\nSecret:\n3XnnAQIAAQAH8AMDhuJMOt0\n@ProxyMTProto",
+        "date": "2026-08-26T13:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50522_0_dc6f3769.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50522"
+      },
       {
         "id": 50521,
         "text": "Server:\nrelay.rknsosi.shop\nPort:\n443\nSecret:\nee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70\n@ProxyMTProto",
@@ -13183,21 +13199,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50422"
-      },
-      {
-        "id": 50421,
-        "text": "Server:\nrelay.rknsosi.shop\nPort:\n443\nSecret:\nee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70\n@ProxyMTProto",
-        "date": "2026-08-23T12:30:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_50421_0_1ed6f470.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50421"
       }
     ],
     "XpnTeam": [
@@ -23083,14 +23084,9 @@
         "id": 12846,
         "text": "‏اگر تحمل بی حجابی رو ندارید وانمود کنید ندیدید!\n‏همون کاری که برای فقر و گرونی انجام میدید!\n🎖\n@BestProxyTel1",
         "date": "2026-08-26T12:30:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12846_0_f981ebae.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12846"
       },
@@ -24296,22 +24292,22 @@
       }
     ]
   },
-  "last_update": "2026-08-26T12:50:22.324624+00:00",
+  "last_update": "2026-08-26T13:02:23.016528+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1637,
-    "total_media": 1365,
-    "total_files": 1365,
-    "total_links": 280,
+    "total_media": 1363,
+    "total_files": 1363,
+    "total_links": 281,
     "files_by_type": {
-      "image": 1222,
+      "image": 1220,
       "video": 133,
       "document": 1,
       "audio": 9
     },
-    "referenced_files": 1365,
-    "existing_media_files": 1365,
-    "total_size_mb": 499.56,
-    "last_calculation": "2026-08-26T12:50:22.371996+00:00"
+    "referenced_files": 1363,
+    "existing_media_files": 1363,
+    "total_size_mb": 497.87,
+    "last_calculation": "2026-08-26T13:02:23.068630+00:00"
   }
 }
