@@ -3394,6 +3394,21 @@
     ],
     "whitedns": [
       {
+        "id": 1608,
+        "text": "\"exit chain \"\n🚪\n⚠️\nراهنمای استفاده از\n#exit_chain\nدر اپ whitevpn# اندروید\n🤖\nساب را وارد کن - برو تنظیمات - برو زنجیره اتصال - برو افزونه بعد - اشتراکی که وارد کردی را از اون بالا انتخاب کن - یک تست اتصال بگیر - یکی از کانفیگ ها را انتخاب کن - وصل شو - تمام\n✅\nراهنمای استفاده از\n#exit_chain\nدر اپ whiteaesther# اندروید\n📱\nبرو route - گزینه exit chain را روشن کن - یا ساب و یا کانفیگ را وارد کن - برگرد صفحه اول و وصل شو - تمام\n✅",
+        "date": "2026-08-26T06:49:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1608_0_8997d418.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1608"
+      },
+      {
         "id": 1607,
         "text": "مهم\n⚠️\n⚠️\n⚠️\n⚠️\n⚠️\nدوستان :\nپست  را با دقت مطالعه کنید\nhttps://t.me/whitedns/1568\nاین کانفیگ های برای قابلیت \"exit chain\" توی اپ whiteaester و whitevpn هست - که ip شما را ثابت میکنه و یک لایه امنیت بیشتر به شما میده چون TLS هست\nچون خیلی از دوستان کانفیگ نداشتن و یا نگران امنیتشون بودند ما این امکان را فراهم کردیم .\nاین کانفیگ ها برای استفاده مستقیم در اپ هایی مثل v2rayng و غیره نیست، اگر قصد استفاده مستقیم دارید لطفاً درخواست ارسال نفرمایید\nتشکر\n@whitedns",
         "date": "2026-08-26T06:07:35+00:00",
@@ -5596,30 +5611,39 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1449"
-      },
-      {
-        "id": 1448,
-        "text": "دوستان عزیز،\nدر حال حاضر تنها مسیر درآمدزایی و تأمین هزینه‌های تیم WhiteDNS، کانال یوتیوب ماست.\n❤️\nبرای حمایت از ادامه فعالیت‌ها و توسعه سرویس‌ها، می‌تونید کانال ما رو سابسکرایب کنید و ویدیوها رو تماشا کنید. همین حمایت ساده، کمک بزرگی به ادامه مسیر ما می‌کنه.\n🔗\nhttps://www.youtube.com/@WhiteDNS\nممنون از همراهی همیشگی شما\nتیم\n@WhiteDNS",
-        "date": "2026-08-13T08:03:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1448_0_21cf7dbc.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.youtube.com/@WhiteDNS",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/@WhiteDNS"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1448"
       }
     ],
     "withyashar": [
+      {
+        "id": 21521,
+        "text": "کارولین لویت به نقل از\nبسنت: رهبران ایران در برابر فشار اقتصادی ترامپ «دچار وحشت شده‌اند» او وعده داد «تمام راه‌های حیاتی اقتصادی» ایران را قطع کند.\n﻿\n@WarRoom",
+        "date": "2026-08-26T06:45:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21521_0_07ac1ec6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21521"
+      },
+      {
+        "id": 21520,
+        "text": "آکسیوس\n:\nانتظار می‌رود سیاست افزایش فشار اقتصادی علیه ایران تا بعد از انتخابات میان‌دوره‌ای در آبان ادامه یابد\n@WarRoom",
+        "date": "2026-08-26T06:26:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21520_0_07ac1ec6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21520"
+      },
       {
         "id": 21519,
         "text": "معاون اول پزشکیان : هنوز مسائل مهمی در حال مذاکره هستند ولی ما در صداقت و تعهد طرف مقابل به وعده‌هایش تردید داریم.\n@WarRoom",
@@ -7257,40 +7281,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21419"
-      },
-      {
-        "id": 21418,
-        "text": "سازمان تجارت دریای بریتانیا: گزارشی از حادثه‌ای در ۶۳ مایل دریایی غرب ینبع، عربستان سعودی دریافت کرده است.\nمسئول امنیتی شرکت گزارش داد که یک تانکر توسط یک پرتابه ناشناخته مورد اصابت قرار گرفته و باعث آتش‌سوزی در عرشه اصلی کشتی شده است.\n@WarRoom",
-        "date": "2026-08-24T07:50:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21418_0_6aff4fc6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_21418_1_4a7a8e25.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21418"
-      },
-      {
-        "id": 21417,
-        "text": "نرخ دلار ۲۰۱،۶۰۰ تومان (رکورد تاریخی)\nدلار کف بازار  ۲۰۵-۲۱۰ هزار تومان\nتتر  ۱۹۹،۹۹۰ تومان(رکورد تاریخی)\nبیتکوین ۷۷،۳۷۹ $\nانس جهانی طلا ۴.۶۳۶ $\nنفت برنت ۹۱.۰۲$\n@WarRoom",
-        "date": "2026-08-24T07:45:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21417_0_6aff4fc6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21417"
       }
     ],
     "vahidonline": [
@@ -12040,6 +12030,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 50509,
+        "text": "Server:\napi2.kvakzon.top\nPort:\n443\nSecret:\neef6cce71eb4d775d3d908fef1301395b5617069322e6b76616b7a6f6e2e746f70\n@ProxyMTProto",
+        "date": "2026-08-26T06:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50509_0_dc6f3769.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50509"
+      },
+      {
         "id": 50508,
         "text": "Server:\nsupport.nettoyou2.co.uk\nPort:\n443\nSecret:\neef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169\n@ProxyMTProto",
         "date": "2026-08-26T06:00:00+00:00",
@@ -13523,21 +13528,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50409"
-      },
-      {
-        "id": 50408,
-        "text": "Server:\nsupport.nettoyou2.co.uk\nPort:\n443\nSecret:\neef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169\n@ProxyMTProto",
-        "date": "2026-08-23T06:00:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_50408_0_1ed6f470.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50408"
       }
     ],
     "XpnTeam": [
@@ -19139,6 +19129,21 @@
     ],
     "yehirani": [
       {
+        "id": 20047,
+        "text": "صداسیما:\nآمریکا هیچ غلطی نمی تواند بکند\nهمچنین صداسیما:\nتمام گرانی و بدبختی های ما تقصیر آمریکا است\n@YehIrani\n| عمو عزی",
+        "date": "2026-08-26T06:20:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_20047_0_5750f711.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/20047"
+      },
+      {
         "id": 20046,
         "text": "🔴\nآیفون 17 پرومکس 2 ترابایت:\n1,000,000,000 تومن ناقابل.\n@YehIrani\n| عمو عزی",
         "date": "2026-08-26T05:07:48+00:00",
@@ -20884,25 +20889,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/yehirani/19933"
-      },
-      {
-        "id": 19932,
-        "text": "🔴\nرئیس مجلس حرومزاده مادر به خطا عراق :\nما به قالیباف گفتیم اسم خلیج ، خلیج عربیه ، اونم گفت شما برای خودتون یه اسم دارید و ماهم یه اسم\nمن بهش گفتم پدرانمون بهمون خلیج عربی رو آموختن ، اونم گفت هرکی یه اسم صداش میکنه!\nآخرشم به دیدار رئیس جمهور که رفت ، رئیس جمهور بهش گفت که بهتره اسمشو بزاریم خلیج اسلامی که کسی ناراحت نشه!\n@YehIrani\n| عمو عزی",
-        "date": "2026-08-23T10:36:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_19932_0_69028771.jpg"
-          },
-          {
-            "type": "video",
-            "file": "yehirani_19932_1_918190f6.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/19932"
       }
     ],
     "crgaming7": [
@@ -24568,22 +24554,22 @@
       }
     ]
   },
-  "last_update": "2026-08-26T06:18:38.653551+00:00",
+  "last_update": "2026-08-26T06:59:20.414299+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1637,
-    "total_media": 1407,
-    "total_files": 1407,
-    "total_links": 294,
+    "total_media": 1405,
+    "total_files": 1405,
+    "total_links": 293,
     "files_by_type": {
-      "image": 1255,
-      "video": 144,
+      "image": 1254,
+      "video": 143,
       "document": 1,
       "audio": 7
     },
-    "referenced_files": 1407,
-    "existing_media_files": 1407,
-    "total_size_mb": 498.05,
-    "last_calculation": "2026-08-26T06:18:38.670146+00:00"
+    "referenced_files": 1405,
+    "existing_media_files": 1405,
+    "total_size_mb": 492.04,
+    "last_calculation": "2026-08-26T06:59:20.431537+00:00"
   }
 }
