@@ -2882,6 +2882,27 @@
     ],
     "whitedns": [
       {
+        "id": 1720,
+        "text": "🔥\nدرود دوستان عزیز :\nبا توجه به رای گیری که شد و نظر دوستان عزیز\nمقدار حجم روزانه کانفیگ های ربات به\n4 گیگ\nتغییر کرد\n❤️\nاگر از این خدمت استفبال شود احتمالا به زودی سرورهای بیشتر با لوکیشن های بیشتر در اختیار شما عزیران قرار خواهد گرفت که هر چه بیشتر امکان دسترسی رایگان شما فراهم شود .\nبازم تاکید میکنیم که این کانفیگ ها فقط و فقط برای استفاده در قابلیت \" exit chain \" در برنامه های whiteaesther و whitevpn است . متاسفانه هنوز یک تعداد زیادی پیام دریافت میکنیم که دوستان میگن چرا این کانفیگ های توی v2rayng , hiddify و .......... کار نمیکنه\n.\n⚠️\nلطفا تمام مطالب پست زیر را با دقت کامل بخونید\nhttps://t.me/whitedns/1608\nلازم به ذکر کرد در صورت مشاهده هر گونه سواستفاده از این کانفیگ ها لطفا به ادمین ها گزارش دهید\nدرصورتی که مشاهده شود که کانفیگ ها توسط افراد سودجو  در حال فروش به دیگران است این خدمت به طور کل حذف خواهد شد - پس خواهشمندیم خودتون در حفظ این امکان کوشا باشید\nربات :\n@WhiteDnsChainbot\nارادتمند\nتیم وایت\n@whitedns",
+        "date": "2026-09-05T06:15:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1720_0_199d49d9.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/whitedns/1608",
+            "type": "telegram",
+            "display_text": "https://t.me/whitedns/1608"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1720"
+      },
+      {
         "id": 1718,
         "text": "📦\nWhiteDNS Tools — Downloads\n━━━━━━━━━━━━━━━━━━\n📱\nWhiteAesther\n• Mobile:\nhttps://github.com/WhiteDNS/WhiteAestherMobile/releases\n• Desktop:\nhttps://github.com/WhiteDNS/WhiteAesther/releases\n━━━━━━━━━━━━━━━━━━\n🛡\nWhiteVPN\n• Mobile:\nhttps://github.com/WhiteDNS/WhiteVPN/releases\n• Desktop:\nhttps://github.com/WhiteDNS/WhiteVPN-Desktop/releases\n━━━━━━━━━━━━━━━━━━\n🌐\nWhiteDNS — مناسب دوران قطعی\n• Android:\nhttps://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/1.6.0\n• Desktop:\nhttps://github.com/WhiteDNS/WhiteDNS-Desktop/releases\n━━━━━━━━━━━━━━━━━━\n🔎\nWhiteDNS Clean IP + Resolver Finder\n• Desktop & Mobile:\nhttps://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases\n━━━━━━━━━━━━━━━━━━\n🍎\nCoreForge VPN + DNS — iOS\n• TestFlight:\nhttps://testflight.apple.com/join/DRkT6zny\n━━━━━━━━━━━━━━━━━━\n🎓\nآموزش‌ها\n🔗\nآموزش Exit Chain برای WhiteAesther و WhiteVPN\nhttps://youtu.be/yx-jFqv9pYM\n🛡\nآموزش کامل WhiteVPN\nhttps://www.youtube.com/watch?v=tm0ls3r4ppw\n📱\nآموزش کامل WhiteAesther\nhttps://www.youtube.com/watch?v=cRfqxbDY1Dg&t=1s\n🌐\nآموزش کامل WhiteDNS\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\n🍎\nآموزش کامل CoreForge\nhttps://www.youtube.com/watch?v=filwdiPKN90\n🔎\nآموزش کامل اسکنر WhiteDNS\nhttps://www.youtube.com/watch?v=N5hKuWXp37w\n━━━━━━━━━━━━━━━━━━\n@whitedns\n·:¨༺\n@BlueKnight_Net\n༻¨:·",
         "date": "2026-09-04T17:25:54+00:00",
@@ -5026,34 +5047,261 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1550"
-      },
-      {
-        "id": 1548,
-        "text": "🚀\nCoreForge Build آپدیت جدید منتشر شد\nhttps://testflight.apple.com/join/DRkT6zny\nاین نسخه یکی از بزرگ‌ترین آپدیت‌های CoreForge تا امروز محسوب میشه.\nاز Build 90 تا Build 100 طی حدود ۲۰ روز:\n• 214 Commit\n• بیش از 411 فایل تغییر کرده\n• بیش از 86,000 خط کد جدید اضافه شده\n• چند Engine و Protocol جدید از پایه اضافه شده\n• بخش بزرگی از سیستم Connection، Routing، Failover و Config Management بازطراحی شده\n###\n🧩\nپروتکل‌ها و Engineهای جدید\n🔹\nOpenVPN\n* پشتیبانی مستقیم از فایل‌های .ovpn\n* UDP و TCP\n* AES-GCM / AEAD\n* AES-CBC برای بعضی سرویس‌های قدیمی‌تر\n* TLS-Crypt\n* Multi-Remote / Multi-Address\n* Username / Password\n* Client Certificate\n* OpenVPN Subscription\n* پشتیبانی بهتر از ProtonVPN، VPNGate، SoftEther و کانفیگ‌های مشابه\n🔹\nTailscale\n* اتصال مستقیم به Tailnet\n* انتخاب Exit Node\n* MagicDNS\n* مدیریت Account داخل CoreForge\n* امکان اتصال به Exit Node حتی بدون انتخاب Config معمولی\n🔹\nCloudflare WARP / MASQUE\n* WARP به‌عنوان یک Outbound واقعی\n* MASQUE روی HTTP/2 و HTTP/3\n* امکان استفاده داخل Chain\n* WARP Endpoint Scanner برای پیدا کردن Endpoint بهتر\n* تست Endpoint با handshake واقعی MASQUE، نه فقط TCP Ping\n🔹\nmKCP\n* پشتیبانی از mKCP مربوط به Xray\n* همه Header Typeهای اصلی\n* قابل استفاده با VLESS و Trojan\n🔹\nECH\nEncrypted ClientHello حالا به صورت واقعی داخل CoreForge اجرا میشه و برای بعضی Transportها از جمله Hysteria2 هم اضافه شده.\n###\n⚡\nLoad Balancer و Failover\nLoad Balancer فقط اسم نیست و حالا Connectionها واقعاً بین Nodeهای انتخاب‌شده مدیریت میشن.\nهمچنین:\n* Config فعال داخل برنامه نمایش داده میشه\n* Exit IP بعد از تغییر Node آپدیت میشه\n* Dead Server Detection سریع‌تر شده\n* Backup Node از قبل آماده نگه داشته میشه\n* اگر Config فعلی از کار بیفته، CoreForge می‌تونه بدون Disconnect کامل به Backup منتقل بشه\n* Backup Pool بعد از Failover دوباره پر میشه\n###\n🌐\nRouting\nسیستم Routing هم تغییر زیادی کرده:\n* Routing Profile شبیه Shadowrocket\n* Rule Actions\n* Iran Direct Preset\n* Iran 2026 Rules\n* category-ir\n* Import کردن Routing Rules از فایل\n* Fragment به‌عنوان Routing Target\n###\n📂\nConfigs و Subscriptionها\nمدیریت Configها تقریباً کامل بازطراحی شده:\n* Swipe برای Ping / Edit / Share / Delete\n* Drag & Drop برای مرتب کردن Sectionها\n* Groupهای Local\n* Bulk Actions\n* forge:// Chain Links\n* Tap-to-Ping-and-Connect\n* Import QR Code از داخل عکس\n* Subscription Folder\n* Rename / Reorder / Export\n* Auto Update جداگانه برای هر Subscription\n* Plan Status\n* تقویم شمسی\nمشکل فایل‌های OpenVPN بزرگ هم برطرف شده؛ برای مثال اگر یک فایل شامل ده‌ها یا صدها Profile باشه، دیگه همه‌ی اون‌ها به‌عنوان یک Config خراب Import نمیشن و Profileها جدا میشن.\n###\n🔧\nFixهای مهم\nدر این نسخه تعداد زیادی Bug مهم هم برطرف شده، از جمله:\n* Crash روی تعداد زیاد Config\n* مشکل Import بعضی لینک‌های VMessAEAD\n* مشکل gRPC پشت Cloudflare\n* مشکل XHTTP که Connect می‌شد ولی Traffic عبور نمی‌کرد\n* مشکل REALITY و extra\n* اصلاح UUIDهای VLESS\n* Lag شدید Config List\n* Writeهای اضافی Keychain\n* آپدیت نشدن Connection Details بعد از Failover\n* UDP برای VMess، Shadowsocks و SOCKS\n* UDP Associate برای Trojan\n* gRPC MultiMode\n* pinnedPeerCertSha256\n* PattNG Fragment / Cipher Suite / Unsafe Fingerprint\n###\n📱\niPad و UI\n* پشتیبانی بهتر از Stage Manager\n* Split View\n* Resizable Window\n* تغییرات Liquid Glass\n* اصلاح Light Mode\n* بهبود Tab Bar و Headerها\n---\n⚠️\nنکته مهم درباره Build\nاین نسخه تغییرات خیلی زیادی داشته و طبیعتاً\n۱۰۰٪ تضمین نمی‌کنیم که تمام قابلیت‌های جدید روی تمام Serverها، ISPها و Configها بدون مشکل کار کنند.\nبعضی قابلیت‌ها هنوز در مرحله‌ی تست واقعی توسط کاربران هستن و ممکنه روی یک Server عالی کار کنن ولی روی Server یا Network دیگه Fail بشن.\nبه‌خصوص قابلیت‌های جدیدی مثل:\nTailscale / WARP / OpenVPN / ECH / Chainهای پیچیده / بعضی حالت‌های VLESS و REALITY\nهنوز نیاز به تست گسترده روی Serverها و اینترنت‌های مختلف دارن.\nپس اگر چیزی Connect نشد یا Connect شد ولی Traffic نداشت، حتماً گزارش کنید و در صورت امکان Config، Log و نوع اینترنت رو هم بفرستید.\nBuild بیشتر از اینکه «نسخه نهایی بدون باگ» باشه، یک جهش بزرگ برای CoreForge ـه و Feedback شما مستقیم روی Fixهای نسخه‌های بعدی تأثیر می‌ذاره.\n🛠️\nCoreForge Build\n⚒️",
-        "date": "2026-08-20T11:37:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1548_0_8537c3c2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1548_1_ba086573.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://testflight.apple.com/join/DRkT6zny",
-            "type": "external",
-            "display_text": "https://testflight.apple.com/join/DRkT6zny"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1548"
       }
     ],
     "withyashar": [
+      {
+        "id": 22331,
+        "text": "گزارش صدای انفجار جدید جزیره خارگ\n@WarRoom\n🚨\n🚨\n🚨\n🚨\n🚨",
+        "date": "2026-09-05T06:54:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22331_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22331"
+      },
+      {
+        "id": 22330,
+        "text": "طبق گزارش منابع محلی به صدا و سیما رژیم:\nنفتکش هدف قرار گرفته‌شده در جزیره خارک، یک نفتکش کوچک بوده است.\nبر اساس این گزارش، این حادثه تلفات جانی نداشته است.\n@WarRoom",
+        "date": "2026-09-05T06:50:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22330_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22330"
+      },
+      {
+        "id": 22329,
+        "text": "نیم ساعت پیش فکر کردیم بوشهرو زدن خارگ ۴۵ کیلومتر فاصله داره صدای سه انفجارش تا اینجا رسید",
+        "date": "2026-09-05T06:46:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22329_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22329"
+      },
+      {
+        "id": 22328,
+        "text": "کوه صفه اصفهان\n💨\n@WarRoom\n🚨\n🚨\n🚨\n🚨",
+        "date": "2026-09-05T06:43:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22328_0_bd354c3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_22328_1_6faaabd6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22328"
+      },
+      {
+        "id": 22327,
+        "text": "۵ صدای انفجار جزیره خارگ\n@WarRoom\n🚨\n🚨\n🚨\n🚨\n🚨",
+        "date": "2026-09-05T06:39:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22327_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22327"
+      },
+      {
+        "id": 22326,
+        "text": "انفجار کوه صفه ، اصفهان\n🚨\n🚨\n🚨\n🚨\n@WarRoom",
+        "date": "2026-09-05T06:36:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22326_0_bd354c3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_22326_1_49d1eb27.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22326"
+      },
+      {
+        "id": 22325,
+        "text": "🚨\n🚨\n🚨\n🚨\n🚨\n🚨\n🚨",
+        "date": "2026-09-05T06:36:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22325_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22325"
+      },
+      {
+        "id": 22324,
+        "text": "نفتکش ایرانی در جزیره خارک هدف حمله موشکی آمریکا قرار گرفت\nبنابر گزارش منابع محلی به خبرگزاری دانشجو، یک نفتکش ایرانی در جزیره خارک هدف موشک نیروهای آمریکایی قرار گرفته است.\n@WarRoom\n🚨\n🚨\n🚨\n🚨\n🚨",
+        "date": "2026-09-05T06:31:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22324_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22324"
+      },
+      {
+        "id": 22323,
+        "text": "‏اسباب بازیهای بجا مانده از کودکان بیگناه علی الطاهر!\n@WarRoom",
+        "date": "2026-09-05T06:07:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22323_0_bd354c3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_22323_1_a8c2e1c6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22323"
+      },
+      {
+        "id": 22322,
+        "text": "نیویورک‌تایمز: ایران فعلاً حاضر به پذیرش شروط آمریکا نیست\nطبق یک ارزیابی جدید اطلاعاتی آمریکا، ایران بعد از ماه‌ها درگیری نسبت به توانایی خودش برای حمله به پایگاه‌های آمریکا در منطقه اعتماد بیشتری پیدا کرده و فعلاً فشار واشنگتن رو برای توافق کافی نمی‌بینه.\nبرآورد آمریکا اینه که ایران احتمالاً تا انتخابات میان‌دوره‌ای نوامبر حاضر به پذیرش شروط واشنگتن نمیشه و ممکنه درگیری رو چند ماه دیگه هم ادامه بده.\n@WarRoom",
+        "date": "2026-09-05T06:05:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22322_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22322"
+      },
+      {
+        "id": 22321,
+        "text": "گزارش های  زیاد : جنگنده ها از مهر اباد بلند شدن\nسلام صبح بخیر الان جنگده از بالاسرمون رد شد تو جاده آزادگان فتح هستم تهران\nسلام داداش\nهمین الان شهریار جنگنده از بالاسرمون رد شد\nهنوزم صداش هست تو آسمون\n@WarRoom",
+        "date": "2026-09-05T05:44:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22321_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22321"
+      },
+      {
+        "id": 22320,
+        "text": "نیویورک‌پست\n:\nذخایر سوخت ایران، تحت تأثیر تحریم‌های شدید و محاصره اقتصادی آمریکا، ممکن است تنها برای حدود\nدو ماه دیگر\nپاسخگوی نیاز داخلی کشور باشد. بر اساس این گزارش، کاهش شدید واردات و دشوار شدن تأمین سوخت از خارج، ایران را با سه گزینه روبه‌رو می‌کند:\n۱.سهمیه‌بندی شدید بنزین، ۲.افزایش قیمت بنزین یا ۳.ایجاد بازار چندنرخی سوخت\n.\n@WarRoom",
+        "date": "2026-09-05T05:34:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22320_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22320"
+      },
+      {
+        "id": 22319,
+        "text": "در ارزان‌ترین حالت محاسبه لیست ساده ترین لوازم‌التحریر «کلاس اول» نشان می‌دهد امسال یک خانواده ایرانی برای تهیه حداقل وسایل موردنیاز دانش‌آموز خود باید دست‌کم ۱.۴ میلیون تومان هزینه کند.\n@WarRoom",
+        "date": "2026-09-05T05:27:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22319_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22319"
+      },
+      {
+        "id": 22318,
+        "text": "‏خبرگزاری سعودی الحدث : نیروی دریایی یمن دو قایق حوثی‌ها را که قصد داشتند الفجره و بندر المخا را هدف قرار دهند، منهدم کردند\n@WarRoom",
+        "date": "2026-09-05T05:22:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22318_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22318"
+      },
+      {
+        "id": 22317,
+        "text": "‏علی مجتبی روزبهانی، سفیر جمهوری اسلامی در ترکمنستان: تهران و عشق‌آباد درباره چارچوب حقوقی دریای خزر در حال رایزنی هستند و مشورت‌های دوجانبه مسئولان و نهادهای دولتی مرتبط ادامه دارد.\n@WarRoom",
+        "date": "2026-09-05T05:20:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22317_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22317"
+      },
+      {
+        "id": 22316,
+        "text": "نیویورک‌تایمز:\nمقام‌های آمریکایی می‌گویند حدود\n۵۰ نفر از اعضای ستاد مشترک ارتش آمریکا\nدر چارچوب تحقیقات درباره افشای اطلاعات محرمانه مربوط به جنگ ایران، تحت آزمایش دروغ‌سنج قرار گرفته‌اند. محور تحقیقات، شناسایی عاملان افشای اطلاعات درباره\nکاهش ذخایر مهمات حیاتی آمریکا، از جمله موشک‌های دوربرد و موشک‌های رهگیر پاتریوت\nاست.\n@WarRoom",
+        "date": "2026-09-05T05:14:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_22316_0_bd354c3e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/22316"
+      },
       {
         "id": 22315,
         "text": "نتانیاهو: جمهوری اسلامی ضعیف‌تر از همیشه است و سقوط آن در دسترس قرار دارد؛ این حکومت برای بقای خود می‌جنگد\n@WaRoom",
@@ -6443,274 +6691,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/22229"
-      },
-      {
-        "id": 22228,
-        "text": "ارتش اسرائیل : عملیات پاکسازی دو تونل زیرزمینی حزب‌الله در ارتفاعات علی‌الطاهر در جنوب لبنان به پایان رسیده و اکنون در حال خنثی‌سازی این زیرساخت‌ها هستیم\n@WarRoom",
-        "date": "2026-09-03T19:52:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22228_0_29469c65.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22228"
-      },
-      {
-        "id": 22227,
-        "text": "سنتکام : از دیروز فقط یک دشت کردیم ، مجبورش کردیم دور بزنه برگرده\nفرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد که نیروهای آمریکایی\nمسیر ۸۷ فروند کشتی تجاری را تغییر داده‌اند\n، ۳ فروند را غیرفعال کرده‌اند و ۲ فروند را بازرسی کرده‌اند تا از رعایت مقررات پس از تشدید محاصره بنادر ایران اطمینان حاصل کنند.\n@WarRoom",
-        "date": "2026-09-03T19:51:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22227_0_29469c65.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22227"
-      },
-      {
-        "id": 22226,
-        "text": "اتاق جنگ با یاشار : گزارشهای زیادی دارم از شلیک کوتاه پدافند شرق و همچنین بعد از مدتی پدافند غرب تهران . فکر کنم بی‌بی پهپادهای شناسایی را برای رصد تحرکات تهران اعزام کرده است. مسأله ای که خود رژیم نیز بارها به حضور پهپادهای شناسایی آمریکایی/اسرائیلی در آسمان پایتخت اعتراف کرده است\n@WarRoom",
-        "date": "2026-09-03T19:46:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22226_0_29469c65.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22226"
-      },
-      {
-        "id": 22225,
-        "text": "‏ کانال ۱۴ اسرائیل : پاکستان و قطر طی دو هفته گذشته دو بار از ترامپ خواسته‌اند بخشی از دارایی‌های مسدودشده ایران را برای کمک به کاهش تنش آزاد کند، اما ترامپ هر دو درخواست را رد کرده است\n@WarRoom",
-        "date": "2026-09-03T19:31:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22225_0_29469c65.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22225"
-      },
-      {
-        "id": 22224,
-        "text": "جی دی ونس : اگر به ترکیه، آذربایجان، قطر، امارات متحده عربی و عربستان سعودی نگاه کنید و به طور کلی به سراسر جهان بنگرید، در واقع شاهد تعداد زیادی از کشورها هستیم که گاهی اوقات حاضر به بیان علنی این موضوع نیستند، اما در پشت پرده کارهای بسیار خوبی انجام می‌دهند تا به ما کمک کنند تا اطمینان حاصل کنیم که ایرانیان به دلیل شلیک به کشتی‌های تجاری، مجازات شوند.\n@WarRoom",
-        "date": "2026-09-03T19:00:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22224_0_29469c65.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22224"
-      },
-      {
-        "id": 22223,
-        "text": "جی دی ونس: ما می‌توانیم منطقه را ترک کنیم، اما کشورهای عربی حاشیه خلیج‌فارس به ما می‌گویند این بدترین اتفاق ممکن است, با وجود اختلافات سیاسی ما با چین، آنها مایل به همکاری با ما برای اعمال فشار بر ایرانی‌ها هستند\n@WarRoom",
-        "date": "2026-09-03T18:54:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22223_0_29469c65.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22223"
-      },
-      {
-        "id": 22222,
-        "text": "",
-        "date": "2026-09-03T18:49:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22222_0_29469c65.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_22222_1_2ba74109.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22222"
-      },
-      {
-        "id": 22221,
-        "text": "😂\n😂\n😂\n😂\n🙌🏾",
-        "date": "2026-09-03T18:49:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22221_0_29469c65.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_22221_1_3f6a1bc8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22221"
-      },
-      {
-        "id": 22220,
-        "text": "نه قزه، نه لبنان، جانم فدای ایران.\nعراق، سوریه، لبنان، فدای ایران.\nشلیک به قلب دشمنان\n@WarRoom",
-        "date": "2026-09-03T18:47:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22220_0_29469c65.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22220"
-      },
-      {
-        "id": 22219,
-        "text": "",
-        "date": "2026-09-03T18:42:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22219_0_29469c65.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_22219_1_d3c5c6b3.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22219"
-      },
-      {
-        "id": 22218,
-        "text": "جی دی\nونس: ما تا زمانی که ایران از شلیک به کشتی‌ها دست نکشد، با آن مذاکره نخواهیم کرد\n@WarRoom",
-        "date": "2026-09-03T18:41:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22218_0_29469c65.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22218"
-      },
-      {
-        "id": 22217,
-        "text": "",
-        "date": "2026-09-03T18:36:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22217_0_29469c65.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_22217_1_ae6a41f3.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22217"
-      },
-      {
-        "id": 22216,
-        "text": "",
-        "date": "2026-09-03T18:33:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22216_0_29469c65.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_22216_1_01e7ee3f.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22216"
-      },
-      {
-        "id": 22215,
-        "text": "",
-        "date": "2026-09-03T18:32:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22215_0_29469c65.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_22215_1_65f37da0.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22215"
-      },
-      {
-        "id": 22214,
-        "text": "",
-        "date": "2026-09-03T18:29:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22214_0_29469c65.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "withyashar_22214_1_efc4e862.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22214"
-      },
-      {
-        "id": 22213,
-        "text": "کانال ۱۴ اسرائیل : ارتش اسرائیل با غلبه بر هشدارهای صریح تهران، شبکه استراتژیک زیرزمینی حزب‌الله در رشته کوه علی الطاهر را با موفقیت پاکسازی کرد. تمام تروریست‌های حزب‌الله و مربیان سپاه پاسداران از بین رفته یا مجبور به فرار شده‌اند.\nتخریب این دژ اکنون در حال انجام است.\n@WarRoom\n🚨\n🚨\n🚨\n🚨\n🚨",
-        "date": "2026-09-03T18:26:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_22213_0_29469c65.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/22213"
       }
     ],
     "vahidonline": [
@@ -9825,6 +9805,162 @@
     ],
     "IranintlTV": [
       {
+        "id": 355812,
+        "text": "🗣\nروایت شما: در آستانه سال تحصیلی جدید در سایه سرکوب سیاسی و تنش‌های نظامی - شنبه ۱۴ شهریور\n🔹\nمن یک نوجوون ایرانیم، با این اوضاع نه امیدی به زندگی مونده، نه به درس و مدرسه... حتی دیگه نمی‌دونم به چی ایمان داشته باشم؛ امیدوارم دوباره امید به زندگی‌هامون برگرده\n🔹\nوالدین، امنیت بچه‌ها خط قرمز ماست. اگر مدرسه امن نیست، نفرستید. یک سال درس دادن در خانه یا نرفتن به مدرسه، چیزی از آینده بچه‌ها کم نمی‌کند؛ جانشان مهم‌تر است\n🔹\nمن یک دانش‌آموز ۱۴ ساله‌ام که امسال شهریه مدرسه دولتی‌ام نسبت به سال قبل ۴ برابر شده. من پارسال ۸۰۰ تومان شهریه دادم، اما امسال ۴ میلیون تومان\n🔹\nمن یک دانش‌آموز هستم که تکلیف مدرسه‌ام معلوم نیست و نمی‌دانیم در نهایت قراره کلاس‌ها حضوری باشه یا مجازی. چطور در این وضعیت می‌شه درس خوند وقتی حتی مشخص نیست با چه مدل آموزشی روبه‌رو هستیم؟\n🔹\nمن یک دانش‌آموز پایه دهم هستم، وقتی دانش‌آموزهای کشورهای خارجی رو می‌بینیم که این‌همه خرید برای مدرسه انجام می‌دن و خوشحالن، واقعاً حسودیم می‌شه\n🔹\nهر روز یک داستان جدید رو داریم زندگی می‌کنیم که خسته‌تر می‌شیم. ثبت‌نام مدرسه پسرم با هزینه اعلام‌شده مدرسه دولتی برایم مقدور نیست. اجاره خونه هم هنوز نتونستم پرداخت کنم، چون هر چی درآمد داریم برای خوراک بچه‌ها هزینه می‌شه\n🔹\nمن یک دانش‌آموز بیچاره‌ام که نمونه دولتی قبول شدم؛ برای شهریه ۲۰ میلیون تومان گرفتن، برای روپوش مدرسه ۴ میلیون تومان و برای کتاب ۶۰۰ هزار تومان. هزینه سرویس رو هم هنوز اعلام نکردن\n🔹\nهزینه روپوش مدرسه بچه آن‌قدر گران شده که ما نمی‌توانیم پرداخت کنیم. بچه‌ام میوه می‌خواهد، اما نمی‌توانم برایش بخرم. اما خوشحالم، چون اگر خوشحال نباشم، اعدامم می‌کنند تروریست‌های سپاهی\n🔹\nهموطن‌های عزیزم، وزیر آموزش و پرورش گفته هیچ‌کس حق نداره در مدارس دولتی پول بگیره و اگر مدیری این کار رو کنه اخراجه. گزارش بدین\n🔹\nدقت کردین مجلس مجازیه، ولی مدارس حضوری است\n🔹\nدلیل و هدف باقی‌مانده فرقه تبهکار از بازگشایی مدارس و دانشگاه‌ها، ایجاد سپر انسانی و هم خالی کردن آخرین ته‌مانده جیب والدین به بهانه ثبت‌نام است\n🔹\nتنها دغدغه وزیر آموزش و پرورش، بازگشایی مدارس از ۱ مهر هست، نه حقوق ۲۰ میلیونی معلم! من معلم چطور با این حقوق، هزینه ایاب‌وذهاب به مدارس حاشیه شهر را بدم؟\n🔹\nمن یه دانش‌آموز ۱۶ ساله‌ام، به‌قدری وسایل گرون شدن که واقعاً هیچ‌چیزی نمی‌شه برای مدارس تهیه کرد",
+        "date": "2026-09-05T06:46:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_355812_0_9f6a9666.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/355812"
+      },
+      {
+        "id": 355811,
+        "text": "مهدی چمران، رییس شورای شهر تهران، خواستار پیش‌دستی برای برهم زدن «آرایش جنگی دشمن» شد و گفت بازدارندگی تنها به دفاع منفعلانه محدود نمی‌شود و «حمله بازدارنده» نیز می‌تواند بخشی از دفاع باشد.\nچمران گفت: «این اقدام نوعی دفاع و بخشی از راهبرد بازدارندگی است؛ بازدارندگی تنها دفاع منفعلانه نیست و گاهی حمله بازدارنده نیز بخشی از دفاع محسوب می‌شود.»\nاو همچنین بر ایجاد پناهگاه‌های عمومی تاکید کرد و گفت ساختمان‌ها باید فضای ایمنی برای حفاظت از ساکنان داشته باشند.\nچمران افزود پارکینگ‌های طبقاتی نیز باید به‌گونه‌ای طراحی شوند که در شرایط اضطراری امکان استفاده از آنها به‌عنوان پناهگاه وجود داشته باشد.\nhttps://iranintl.com/202609056050",
+        "date": "2026-09-05T06:44:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_355811_0_9f6a9666.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_355811_1_f6aaf0a3.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202609056050",
+            "type": "external",
+            "display_text": "https://iranintl.com/202609056050"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/355811"
+      },
+      {
+        "id": 355810,
+        "text": "خبرگزاری دانشجو صبح شنبه ۱۴ شهریور به نقل از منابع محلی گزارش داد که یک نفتکش جمهوری اسلامی در جزیره خارک هدف حمله قرار گرفته است. این خبرگزاری نوشت که ارتش آمریکا این نفتکش را با موشک هدف قرار داده است.\nبه گفته دانشجو، نفتکشی که هدف قرار گرفت، یک نفتکش کوچک بوده و این حادثه خسارت جانی نداشته است.\nتا زمان نگارش این گزارش، منبع دیگری این خبر را تایید نکرده است.\nhttps://iranintl.com/202609056334",
+        "date": "2026-09-05T06:42:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_355810_0_9f6a9666.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_355810_1_4aae7b28.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202609056334",
+            "type": "external",
+            "display_text": "https://iranintl.com/202609056334"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/355810"
+      },
+      {
+        "id": 355809,
+        "text": "علی‌رضا نامور حقیقی، تحلیلگر سیاسی، با اشاره به تلاش آمریکا، بریتانیا، فرانسه و آلمان برای ارجاع دوباره پرونده هسته‌ای جمهوری اسلامی به شورای امنیت سازمان ملل گفت این اقدام بیشتر جنبه سیاسی و نمادین دارد و از نظر عملی، اقدام تازه‌ای فراتر از قطعنامه‌ها و تحریم‌های موجود به همراه نخواهد داشت.\n@iranintltv",
+        "date": "2026-09-05T06:25:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_355809_0_9f6a9666.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_355809_1_b9fab29d.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/355809"
+      },
+      {
+        "id": 355808,
+        "text": "🎧\nنسخه صوتی اخبار بامدادی | شنبه ۱۴ شهریور\n@iranintlTV",
+        "date": "2026-09-05T05:36:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_355808_0_9f6a9666.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/355808"
+      },
+      {
+        "id": 355807,
+        "text": "جنگ پهپادی روسیه و اوکراین در دریای سیاه، چهره کشتی‌های عبوری از تنگه بسفر را هم تغییر داده است. نفتکش‌ها و کشتی‌های باری با تور، مخازن آب و حتی لاستیک تلاش می‌کنند از خود در برابر حملات پهپادهای دریایی محافظت کنند.\nهمزمان با افزایش حملات به کشتی‌ها و زیرساخت‌های بندری، آنکارا بار دیگر وارد رایزنی با روسیه و اوکراین شده تا امنیت کشتیرانی در دریای سیاه تامین شود.\nگزارش فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-09-05T05:31:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_355807_0_9f6a9666.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_355807_1_42478384.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/355807"
+      },
+      {
+        "id": 355806,
+        "text": "ماموران امنیتی جمهوری اسلامی نهم شهریور به سوی جوانان جویای کار معترض به روند استخدام در پالایشگاه لیشتر گچساران و شرکت نیشکر دعبل خزاعی در اهواز تیراندازی کردند. معترضان به تبعیض و نحوه استخدام نیرو اعتراض داشتند.\nگفت‌وگو با روزبه بوالهری، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-09-05T05:21:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_355806_0_9f6a9666.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_355806_1_1f31d178.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/355806"
+      },
+      {
+        "id": 355805,
+        "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به احتمال حمله آمریکا به سایت هسته‌ای «کوه کلنگ‌» گفت تاثیر چنین حمله‌ای به شیوه اجرای آن بستگی دارد و برای نابودی تجهیزات زیر کوه ممکن است به شمار زیادی بمب سنگرشکن یا استفاده از نیروهای ویژه نیاز باشد.\n@iranintltv",
+        "date": "2026-09-05T05:04:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_355805_0_9f6a9666.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_355805_1_b84e3dbd.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/355805"
+      },
+      {
         "id": 355804,
         "text": "نیویورک‌تایمز به نقل از مقام‌های آگاه گزارش داد بازرسان دولت آمریکا حدود ۵۰ نفر از اعضای ستاد مشترک نیروهای مسلح این کشور را در ارتباط با درز اطلاعات به خبرنگاران، از جمله در ارتباط با ذخایر مهمات حیاتی آمریکا در جنگ ایران، تحت آزمایش دروغ‌سنجی قرار دادند.\nبر اساس این گزارش، بازرسان از افسران نظامی و کارکنان غیرنظامی پرسیدند که آیا اطلاعات طبقه‌بندی‌شده، از جمله اطلاعات مربوط به کاهش ذخایر مهمات آمریکا، را در اختیار خبرنگاران قرار داده‌اند یا خیر.\nاین آزمایش‌ها در ماه اوت و پس از انتشار گزارش‌هایی درباره کمبود مهمات کلیدی، از جمله موشک‌های دوربرد و موشک‌های رهگیر پاتریوت، انجام شد.\nنیویورک‌تایمز گزارش داد انجام آزمایش‌های گسترده پلی‌گراف در چنین ابعادی در میان مقام‌های ارشد نظامی آمریکا بی‌سابقه بوده است.\nشان پارنل، سخنگوی پنتاگون، گفت این وزارتخانه درباره مسائل داخلی مربوط به کارکنان یا تحقیقات اظهارنظر نمی‌کند، اما «تمام موارد درز اطلاعات طبقه‌بندی‌شده مرتبط با امنیت ملی را بسیار جدی می‌گیرد و بر همین اساس درباره آنها تحقیق می‌کند.»\nhttps://iranintl.com/202609051658",
         "date": "2026-09-05T04:12:55+00:00",
@@ -10255,18 +10391,9 @@
         "id": 355784,
         "text": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، گفت اتحادیه اروپا با انتشار بیانیه اخیر خود، ریسک همکاری شرکت‌های اروپایی با جمهوری اسلامی را افزایش داده و این اقدام می‌تواند به کاهش تعاملات تجاری با تهران منجر شود.\nاو افزود فشار وزارت خزانه‌داری آمریکا بر مسیرهای مالی جمهوری اسلامی، به‌ویژه از طریق امارات و ترکیه، می‌تواند تاثیر بیشتری نسبت به فشار بر چین داشته باشد. به گفته ملکی، چین در صورت افزایش فشارهای آمریکا، سابقه کاهش همکاری اقتصادی با جمهوری اسلامی را دارد و نشانه‌هایی نیز از همراهی پکن با این فشارها دیده می‌شود.\n@iranintltv",
         "date": "2026-09-04T20:58:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_355784_0_11e8f70b.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_355784_1_826b7a82.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/355784"
       },
@@ -10274,18 +10401,9 @@
         "id": 355783,
         "text": "وزارت دفاع رومانی روز جمعه ۱۳ شهریور ویدیویی منتشر کرد و گفت این تصاویر خنثی‌سازی قطعه انفجاری یک پهپاد را نشان می‌دهد که در دریای سیاه شناور بود. بر پایه اعلام این وزارتخانه، یک تیم خنثی‌سازی مواد منفجره سوار بر شناور گارد ساحلی به حدود پنج مایل دریایی شرق مدخل شاخه سولینا رفت تا جسم شناور مشکوکی را بررسی کند. این جسم در همان محل و به‌شکل ایمن خنثی شد. رومانی، بلغارستان و ترکیه، سه عضو ناتو در دریای سیاه، تاکنون بیش از ۱۵۰ مین سرگردان در مسیرهای تجاری را خنثی کرده‌اند و در ژوئیه توافق کردند نیروی مشترک مین‌روبی خود را به ماموریت حفاظت از زیرساخت‌های حیاتی هم گسترش دهند.\n@iranintltv",
         "date": "2026-09-04T20:45:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_355783_0_11e8f70b.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_355783_1_30be766e.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/355783"
       },
@@ -10293,18 +10411,9 @@
         "id": 355781,
         "text": "تحقیقات برنامه ۲۴ و بررسی تصاویر تازه از بنادر جنوبی ایران نشان می‌دهد هم‌زمان با ادامه محاصره دریایی آمریکا، فعالیت در بندر شهید رجایی و بندر امام خمینی به‌شدت کاهش یافته و نگرانی‌ها درباره وضعیت تجارت دریایی جمهوری اسلامی افزایش پیدا کرده است.\nفرزین ندیمی، تحلیلگر امور دفاعی و امنیتی، گفت بندر شهید رجایی که حدود ۸۵ درصد تجارت کانتینری ایران از طریق آن انجام می‌شود، بیشترین آسیب را دیده و ترافیک کانتینری در آن تقریبا به‌طور کامل متوقف شده است. او افزود با وجود ادامه ورود کشتی‌های حامل مواد غذایی و کالاهای بشردوستانه به بندر خمینی، افزایش هزینه‌های بیمه و محدودیت‌های ناشی از محاصره دریایی، تردد کشتی‌های تجاری به بنادر ایران را به‌شدت کاهش داده است.\n@iranintltv",
         "date": "2026-09-04T20:31:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_355781_0_11e8f70b.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_355781_1_20c65abe.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/355781"
       },
@@ -10312,14 +10421,9 @@
         "id": 355780,
         "text": "🎧\nنسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: اسکله‌های خالی بنادر ایران پس از «خصم اقتصادی» آمریکا\n@iranintlTV",
         "date": "2026-09-04T20:02:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_355780_0_11e8f70b.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/355780"
       },
@@ -10327,18 +10431,9 @@
         "id": 355778,
         "text": "دونالد ترامپ، رییس جمهوری ایالات متحده طی سخنانی در کاخ سفید گفت: «کاری که ما انجام داده‌ایم فوق‌العاده است. ما کنترل ونزوئلا را در اختیار گرفتیم و کنترل ایران را هم در اختیار گرفته‌ایم و حالا چند روز است که هیچ تیراندازی‌ای صورت نگرفته است.»\nترامپ اضافه کرد: «فعالیت راداری ایران متوقف شده است. آن‌ها رادار داشتند. ما یک بار آن را از بین برده بودیم و حالا برای بار دوم آن را از بین بردیم.»\nاو درباره تنگه هرمز گفت کشتی‌های زیادی در حال عبور از این تنگه هستند و نفت زیادی از آن خارج می‌شود. ترامپ افزود هیچ مین دریایی در تنگه باقی نمانده است، زیرا نیروهای آمریکایی مین‌های ایران را با مین‌روب‌ها از بین برده‌اند.\nرییس‌جمهوری آمریکا گفت: «ما کار بزرگی انجام می‌دهیم. ما ایران را از داشتن سلاح هسته‌ای بازداشتیم.»\niranintl.com/202609048052",
         "date": "2026-09-04T19:31:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_355778_0_11e8f70b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_355778_1_08d726bd.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/355778"
       },
@@ -10346,16 +10441,7 @@
         "id": 355777,
         "text": "فروغ از رشت: قبلاً آدم آرامی بودم، اما حالا با کوچک‌ترین اتفاقی از کوره درمی‌روم\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/DAW2ckMY-ds\n@iranintltv",
         "date": "2026-09-04T19:06:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_355777_0_11e8f70b.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_355777_1_41b75e83.mp4"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://youtu.be/DAW2ckMY-ds",
@@ -10363,7 +10449,7 @@
             "display_text": "https://youtu.be/DAW2ckMY-ds"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/355777"
       },
@@ -10371,16 +10457,7 @@
         "id": 355776,
         "text": "دونالد ترامپ، رییس جمهوری آمریکا، شامگاه جمعه در کاخ سفید گفت: «جایگزین‌های زیادی برای تنگه هرمز در حال ایجاد شدن است. تنگه هرمز دیگر آن چیزی نیست که قبلا بود. ایران در نهایت، اگر عاقل نشود، با تنگه هرمزی روبه‌رو خواهد شد که دیگر چندان ضروری نیست.»\nترامپ اضافه کرد: «اکنون در سراسر خاورمیانه خطوط لوله‌ای در حال ساخت هستند تا دیگر نیازی به عبور از تنگه هرمز نباشد.»\nhttps://iranintl.com/202609045921",
         "date": "2026-09-04T19:04:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_355776_0_11e8f70b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_355776_1_18fcd1af.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202609045921",
@@ -10388,7 +10465,7 @@
             "display_text": "https://iranintl.com/202609045921"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/355776"
       },
@@ -11177,95 +11254,54 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/355702"
-      },
-      {
-        "id": 355701,
-        "text": "🔻\nتسنیم خبر داده که کوپال ناظمی در پی انتخاب موعود بنیادی‌فرد برای قضاوت دربی ۱۰۷، از پذیرش قضاوت در هفته پنجم لیگ برتر خودداری کرد.\n🔹\nبراساس گزارش تسنیم، ناظمی که با توجه به عملکردش در مسابقات و تست‌های داوری پیش‌فصل انتظار داشت قضاوت دیدار استقلال و پرسپولیس به او سپرده شود، پس از انتخاب بنیادی‌فرد برای این مسابقه ناراحت شد و حاضر نشد در هفته پنجم لیگ برتر قضاوت کند.\n🔹\nبنیادی‌فرد در حالی برای چهارمین بار قضاوت دربی پایتخت را برعهده گرفت که با توجه به حضور بیژن حیدری، امیر عرب‌براقی، حسن اکرمی، مرتضی منصوریان و وحید کاظمی در مسابقات مقدماتی زیر ۲۰ سال آسیا، تنها کوپال ناظمی و بنیادی‌فرد گزینه‌های اصلی قضاوت این مسابقه بودند. با وجود اینکه ابتدا به نظر می‌رسید شانس ناظمی بیشتر باشد، کمیته داوران در نهایت بنیادی‌فرد را انتخاب کرد.\n🔹\nطبق اعلام کمیته داوران، قرار بود ناظمی دیدار ملوان بندرانزلی و نساجی مازندران را در هفته پنجم قضاوت کند، اما او اعلام کرد قصد ندارد در این هفته داوری کند و در نهایت امیر ایار به عنوان داور این مسابقه انتخاب شد.\n🔹\nبه نوشته تسنیم، احتمال دارد ناظمی به دلیل شرایط ایجادشده در هفته ششم نیز حاضر به قضاوت نشود. با این حال، پیگیری‌های این رسانه نشان می‌دهد یکی از دیدارهای حساس هفته ششم به ناظمی سپرده شده و باید دید این داور در نهایت قضاوت آن مسابقه را خواهد پذیرفت یا خیر.\n🔹\nدربی ۱۰۷ روز چهارشنبه ۱۱ شهریور در ورزشگاه نقش جهان اصفهان برگزار شد و با تساوی یک - یک به پایان رسید.\n@iranintltvsport",
-        "date": "2026-09-04T10:01:36+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/355701"
-      },
-      {
-        "id": 355700,
-        "text": "رضا طالبی، روزنامه‌نگار، با اشاره به حمله به سیریک گفت بر اساس اطلاعات موجود، چهار موشک به محل و یک موشک به دکلی در فاصله حدود ۱۰۰ تا ۱۵۰ متری آن اصابت کرده است. او با اشاره به دقت بالای این نوع موشک، احتمال اشتباه در مختصات یا به‌روز نبودن بانک اطلاعاتی اهداف را مطرح کرد.\nاو همچنین با اشاره به هشدار دبیرکل سازمان ملل درباره رعایت قوانین بشردوستانه گفت در حملات باید اصول تناسب و تفکیک میان اهداف نظامی و غیرنظامی رعایت شود و افزود نبود سامانه هشدار مرکزی در ایران، امکان هشدار به مردم هنگام حملات را محدود می‌کند.\n@iranintltv",
-        "date": "2026-09-04T09:53:10+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/355700"
-      },
-      {
-        "id": 355699,
-        "text": "روح‌الله رحیم‌پور، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به سخنان دونالد ترامپ درباره رصد فضایی تاسیسات هسته‌ای جمهوری اسلامی گفت این پیام به تهران منتقل می‌شود که فعالیت‌های سایت‌های هسته‌ای زیر نظر آمریکاست و جمهوری اسلامی نمی‌تواند در فاصله میان مذاکرات و جنگ، بدون رصد شدن به بازسازی آنها بپردازد.\nاو افزود اگر جمهوری اسلامی از اقدامات ساختمانی فراتر برود و برای بازسازی برنامه غنی‌سازی خود اقدام کند، از نگاه آمریکا و اسرائیل خط قرمز شکسته خواهد شد و در صورت تایید چنین اقدامی، احتمال حمله نظامی دوباره به برنامه هسته‌ای جمهوری اسلامی بسیار بالا خواهد بود.\n@iranintltv",
-        "date": "2026-09-04T09:40:56+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/355699"
-      },
-      {
-        "id": 355698,
-        "text": "علیرضا رییسی، معاون بهداشت وزارت بهداشت، با هشدار درباره روند افزایشی «کووید-۱۹» و عبور موارد مثبت از آستانه هشدار پایین، بر تشدید مراقبت‌های بهداشتی و آمادگی برای مقابله با موج پیش‌روی عفونت‌های حاد تنفسی تاکید کرد.\nرییسی در نامه‌ای به معاونان بهداشت دانشگاه‌ها و دانشکده‌های علوم پزشکی سراسر کشور، با اشاره به رصد و پایش مستمر گردش ویروس‌های عامل بیماری‌های حاد تنفسی در نظام مراقبت بیماری‌های واگیر، خواستار تشدید فعالیت‌های مرتبط با مراقبت و مدیریت این عفونت‌ها شد.\nمعاون بهداشت وزارت بهداشت همچنین بر استفاده از ماسک در فضاهای بسته و پرتجمع و آمادگی مراکز تجمعی و پایانه‌های مرزی برای مقابله با موج پیش‌روی عفونت‌های حاد تنفسی تاکید کرد.\nhttps://iranintl.com/202609044556",
-        "date": "2026-09-04T09:40:22+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202609044556",
-            "type": "external",
-            "display_text": "https://iranintl.com/202609044556"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/355698"
-      },
-      {
-        "id": 355697,
-        "text": "سرخط خبرهای جمعه ۱۳ شهریور\n@iranintltv",
-        "date": "2026-09-04T09:37:56+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/355697"
-      },
-      {
-        "id": 355696,
-        "text": "در پی حمله آمریکا، به مناطقی در شهرستان سیریک، و کشته‌شدن چهار غیرنظامی از جمله یک کودک، سنتکام در حال بررسی علت اصابت‌هایی است که به تلفات غیرنظامی منجر شده‌اند.\nحسین آقایی، عضو تحریریه ایران‌اینترنشنال، می‌گوید ارتش آمریکا در این تحقیقات تصاویر آرشیوی پهپادها و هواپیماهای شناسایی و همچنین روند انتخاب و هدف‌گیری اهداف را بازبینی خواهد کرد.\nاو همچنین تاکید می‌کند که تحقیقات سنتکام می‌تواند احتمال خطای تشخیص، استفاده از اطلاعات ناقص یا قدیمی، خطای مکان‌یابی و همچنین خطای انسانی در این حادثه را بررسی کند.\n@iranintltv",
-        "date": "2026-09-04T09:28:34+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/355696"
-      },
-      {
-        "id": 355695,
-        "text": "خواهر جاویدنام مجتبی روستایی با پیوستن به پویش «یک شمع، یک نام، یک یاد»، به یاد برادرش و جاویدنامان ملایر شمع روشن کرد. مجتبی روستایی، ۱۹ دی‌ ۱۴۰۴ با شلیک ماموران کشته شد.",
-        "date": "2026-09-04T09:23:53+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/355695"
-      },
-      {
-        "id": 355694,
-        "text": "بر اساس اطلاعات رسیده از منابع آگاه به ایران‌اینترنشنال، برای شماری از پرستاران معترض بیمارستان فیاض‌بخش تهران پرونده قضایی تشکیل شده و دادگاه شش نفر از آنان هفته گذشته برگزار شده است.\nپنج پرستار با اتهام‌هایی از جمله «نشر اکاذیب» و «تشویش اذهان عمومی» روبه‌رو شده‌اند. پرستاران فیاض‌بخش مردادماه در اعتراض به پرداخت نشدن معوقات و پایین بودن دستمزدها دست به اعتصاب زده بودند.\nجزییات بیشتر با لیلا سعادتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-09-04T09:14:39+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/355694"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 50840,
+        "text": "Server:\n194.59.221.90\nPort:\n8443\nSecret:\neef4b79908a669cfe8f293941da4e388916465636174686c6f6e2e636f6d\n@ProxyMTProto",
+        "date": "2026-09-05T06:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50840_0_b5a84d44.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50840"
+      },
+      {
+        "id": 50839,
+        "text": "Server:\nUnknown\nPort:\n4455\nSecret:\ndd104462821249bd7ac519130220c25d09\n@ProxyMTProto",
+        "date": "2026-09-05T06:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50839_0_b5a84d44.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50839"
+      },
+      {
+        "id": 50838,
+        "text": "Server:\nproxtstar.live\nPort:\n443\nSecret:\need21e15e0d7df3d811a11e2accff34eec617669746f2e7275\n@ProxyMTProto",
+        "date": "2026-09-05T05:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50838_0_b5a84d44.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50838"
+      },
       {
         "id": 50837,
         "text": "Server:\nUnknown\nPort:\n4455\nSecret:\ndd104462821249bd7ac519130220c25d09\n@ProxyMTProto",
@@ -12545,36 +12581,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50741"
-      },
-      {
-        "id": 50740,
-        "text": "Server:\nssh.meow0.co.uk\nPort:\n22\nSecret:\ndd79e344818749bd7ac519130220c25d09\n@ProxyMTProto",
-        "date": "2026-09-02T06:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50740"
-      },
-      {
-        "id": 50739,
-        "text": "Server:\nproxtstar.live\nPort:\n443\nSecret:\need21e15e0d7df3d811a11e2accff34eec617669746f2e7275\n@ProxyMTProto",
-        "date": "2026-09-02T05:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50739"
-      },
-      {
-        "id": 50738,
-        "text": "Server:\n91.107.140.144\nPort:\n443\nSecret:\n3XnnAQIAAQAH8AMDhuJMOt0\n@ProxyMTProto",
-        "date": "2026-09-02T05:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50738"
       }
     ],
     "XpnTeam": [
@@ -18308,6 +18314,93 @@
     ],
     "yehirani": [
       {
+        "id": 20269,
+        "text": "بر اساس گزارش منابع محلی به خبرگزاری دانشجو، یک نفتکش ایرانی در جزیره خارگ هدف موشک‌های نیروهای آمریکایی قرار گرفته است.\n🇮🇷\n@YehIrani\n| هیچ",
+        "date": "2026-09-05T06:43:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_20269_0_e70b8394.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/20269"
+      },
+      {
+        "id": 20268,
+        "text": "فوری / فارس: دقایقی پیش، صدای چند انفجار از خلیج فارس در محدوده جزیره خارک شنیده شد.\n🇮🇷\n@YehIrani\n| هیچ",
+        "date": "2026-09-05T06:40:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_20268_0_e70b8394.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/20268"
+      },
+      {
+        "id": 20267,
+        "text": "طبق تحقیقات ، نسل Z یا همون نسل جوون و نوجوون ( متولدین دهه 70 و 80 ) تنها ترین ، افسرده ترین و غمگین ترین نسل تاریخ ایرانن.\n🇮🇷\n@YehIrani\n| هیچ",
+        "date": "2026-09-05T06:33:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_20267_0_e70b8394.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_20267_1_4faa9dea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/20267"
+      },
+      {
+        "id": 20266,
+        "text": "این بیناموسی که میبینید اسمش لیندزی کلنسیه که سه تا بچه کوچیکش که دوتاشون سه و پنج ساله بودن و دیگری هم ۸ ماهه بوده رو با کش ورزشی خفه کرده و کشته .\nهمچنین توی دادگاه گفته که من دچار روانپریشی بعد از زایمان شدم و من بی گناهم\n🇮🇷\n@YehIrani\n| هیچ",
+        "date": "2026-09-05T06:27:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_20266_0_e70b8394.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_20266_1_c09f67b8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/20266"
+      },
+      {
+        "id": 20265,
+        "text": "اوضاع یه طوری بگاییه که طرف رو کارت دعوت عروسیش نوشته حداقل پول شامی که قراره بخورید رو بیارید...\n🇮🇷\n@YehIrani\n| هیچ",
+        "date": "2026-09-05T06:23:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_20265_0_e70b8394.jpg"
+          },
+          {
+            "type": "image",
+            "file": "yehirani_20265_1_bfb02f08.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/20265"
+      },
+      {
         "id": 20263,
         "text": "❗️\nگمشده یه کودک همراه مادر تو تهران\nشرح بیانه افراد نزدیک ایشون از واقعه:\nاین بچه به همراه مادرش گمشده، اگه میشه اینو بزار و رسانه ای کنید، هنوز کسی نمیدونه چی شده.\nتنها چیزی که اتفاق افتاده این بوده که یه مقداری طلا توی دستای این خانم بوده و احتمال میدن به خاطر اون شاید ادم ربایی شده باشه.\nحال خانوادشون اصلا خوب نیست\nاخرین ویدیو هم که تا الان تونستن با دوربین پیدا کنن همین بوده که بعد از این ساعت دیگ خبری ازشون نشده و به خونه برنگشتن و فردا صبح میشه ۴ روز که این بچه همراه مادرش گمشده!\nسایر رسانه هم پوشش بدن تا شایدم کمکی برای خانواده ایشون بشه\n@YehIrani\n| عمو عزی",
         "date": "2026-09-05T03:56:16+00:00",
@@ -19977,88 +20070,28 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/yehirani/20143"
-      },
-      {
-        "id": 20142,
-        "text": "🔴\nسپاه چند ساعت قبل از چند استان ایران، به مقصد یکی از پایگاه های آمریکا در اردن، موشک شلیک کرده\n@yehirani\n| 𝐏𝐎𝐔𝐑𝐢",
-        "date": "2026-08-31T03:34:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_20142_0_5484ce46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/20142"
-      },
-      {
-        "id": 20140,
-        "text": "بچه در قنداق او\nآخوند در وطن\nهردو میریند ولی\nاین کجا آن کجا\nهیچیز ارزش وقت،عصاب،احساساتتون رو نداره عسلیا\nبرید مسواکتون بزنید راحت بخوابید\nخواب شبتون مثل هنجره هایده طلایی\n❤️\n@YehIrani\n| عمو عزی",
-        "date": "2026-08-30T20:00:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_20140_0_5484ce46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/20140"
-      },
-      {
-        "id": 20139,
-        "text": "🔴\nسپاه: بر اثر اصابت موشک به مقر نیروی دریایی سپاه در جزیره لارک هرمزگان دو نفر کشته و دو تن زخمی شدند.\n@YehIrani\n| عمو عزی",
-        "date": "2026-08-30T19:53:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_20139_0_5484ce46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/20139"
-      },
-      {
-        "id": 20138,
-        "text": "🔴\nمقام آمریکایی به الجزیره:\nنیروهای ما امروز 2 راکت انداز سپاه پاسداران ایران تو جزیره لارک رو هدف قرار دادن!\nاین دو راکت انداز ایرانی داشتن خودشون رو واسه شلیک موشک‌های حامل مین دریایی به سمت تنگه هرمز آماده میکردن.\nنیروهای آمریکا منطقه رو به شدت زیر نظر دارن و همچنان آماده‌ان تا از عبور آزاد و بدون اختلال تجارت از تنگه هرمز محافظت کنن.\n🔴\nهنوز از منابع داخلی چیزی منتشر نشده\n🔴\nهمچین تا الان سنتکام حمله رو تایید کرده\n@YehIrani\n| عمو عزی",
-        "date": "2026-08-30T19:40:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_20138_0_5484ce46.jpg"
-          },
-          {
-            "type": "image",
-            "file": "yehirani_20138_1_85a2edc8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/20138"
-      },
-      {
-        "id": 20137,
-        "text": "🔴\n🔴\n🔴\n🔴\n🔴\nفورییی ولی غیر رسمی نه تایید میشه نه تکذیب  گزارش ها از جمله به جزیره لارک",
-        "date": "2026-08-30T19:29:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_20137_0_5484ce46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/20137"
       }
     ],
     "crgaming7": [
+      {
+        "id": 5822,
+        "text": "مشتری مون\n👈\nامفور آبپاش رو گرفت\n😇\n📱\nوایرگاد شانس سی آر گیمینگ\n🔹\nفقد 70 اشتراک موجود شد\n✅\nبرای تهیه به ادمین پیام بدید\n⬇️\n⬇️\n🔹\n@crgaming5",
+        "date": "2026-09-05T06:15:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "crgaming7_5822_0_1bedc2fa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "crgaming7_5822_1_fd6c94e2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/crgaming7/5822"
+      },
       {
         "id": 5821,
         "text": "مشتری مون برای بار سوم متیک گرفت\n😇\n📱\nوایرگاد شانس سی آر گیمینگ\n🔹\nفقد 70 اشتراک موجود شد\n✅\nبرای تهیه به ادمین پیام بدید\n⬇️\n⬇️\n🔹\n@crgaming5",
@@ -21184,16 +21217,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/crgaming7/5713"
-      },
-      {
-        "id": 5712,
-        "text": "شانس سوپر وایرگاد\n😍\n🎁\nبا تهیه سوپر وایرگاد اینارو بدست میاری\n✅\n✅\n| پینگ 20 الی 86\n✅\n| لگ بازی تو صفر می کنه\n✅\n| ریجسترت عالی میشه\n✅\n| شانس اکانتت بالا میره\n🔥\nبرای تهیه به ادمین پیام بدید\n⬇️\n⬇️\n@crgaming5",
-        "date": "2026-07-25T19:22:07+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/crgaming7/5712"
       }
     ],
     "iranstop": [
@@ -22350,12 +22373,7 @@
         "id": 13082,
         "text": "🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\nhttps://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ\nhttps://t.me/proxy?server=wolverhampton.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=FAST.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🎖\n@BestProxyTel1",
         "date": "2026-09-05T04:43:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_13082_0_c7cb2582.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
@@ -22388,7 +22406,7 @@
             "display_text": "https://t.me/proxy?server=FAST.goooalir.co.uk&port=8443&secr..."
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/BestProxyTel1/13082"
       },
@@ -22396,14 +22414,9 @@
         "id": 13081,
         "text": "بیدارید ؟",
         "date": "2026-09-05T00:06:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_13081_0_634be8ca.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/13081"
       },
@@ -23669,22 +23682,22 @@
       }
     ]
   },
-  "last_update": "2026-09-05T05:00:33.783226+00:00",
+  "last_update": "2026-09-05T06:55:50.821001+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1639,
-    "total_media": 1220,
-    "total_files": 1220,
-    "total_links": 288,
+    "total_media": 1221,
+    "total_files": 1221,
+    "total_links": 289,
     "files_by_type": {
-      "image": 1041,
+      "image": 1048,
       "video": 160,
       "document": 2,
-      "audio": 17
+      "audio": 11
     },
-    "referenced_files": 1220,
-    "existing_media_files": 1220,
-    "total_size_mb": 498.56,
-    "last_calculation": "2026-09-05T05:00:33.792078+00:00"
+    "referenced_files": 1221,
+    "existing_media_files": 1221,
+    "total_size_mb": 498.69,
+    "last_calculation": "2026-09-05T06:55:50.835389+00:00"
   }
 }
