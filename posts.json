@@ -5225,6 +5225,21 @@
     ],
     "withyashar": [
       {
+        "id": 23484,
+        "text": "ترامپ برای گذراندن آخر هفته راهی کمپ دیوید شده است؛ طبق برنامه رسمی، او شنبه و یکشنبه در این اقامتگاه خواهد بود و برنامه‌های این دو روز با عنوان «زمان اجرایی» و بدون حضور رسانه‌ها ثبت شده است.  هم‌زمانی این سفر با تحولات جنگ ایران مورد توجه قرار گرفته\n@WarRoom",
+        "date": "2026-09-18T20:50:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_23484_0_8a1b94a7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/23484"
+      },
+      {
         "id": 23483,
         "text": "گزارش ها از\nهدف قرار گرفتن نزدیکی اقامتگاه بن سلمان\n@WarRoom\n🚨",
         "date": "2026-09-18T20:30:35+00:00",
@@ -6888,29 +6903,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/23373"
-      },
-      {
-        "id": 23371,
-        "text": "دیدبان اتاق جنگ : ستون دود عظیم و قارچی شکل ، مشهد شهرک شهید رجائی ، صدای انفجار هم  اومد ، محدوده جایگاه سوخت جت مصطفی خمینی\n@WarRoom\n🚨\n🚨\n🚨\n🚨\n🚨",
-        "date": "2026-09-17T13:27:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_23371_0_e5b20d10.jpg"
-          },
-          {
-            "type": "video",
-            "file": "withyashar_23371_1_33728716.mp4"
-          },
-          {
-            "type": "video",
-            "file": "withyashar_23371_2_ce34eda3.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/23371"
       }
     ],
     "vahidonline": [
@@ -10091,6 +10083,46 @@
     ],
     "IranintlTV": [
       {
+        "id": 358042,
+        "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال درباره گرانی‌ها در ایران می‌گوید یک عدد ماسک، یک بسته ویتامین دی‌۳ و دو ورق مُسکن را به قیمت ۴۲۴ هزار و ۳۰۰ تومان خریده است.",
+        "date": "2026-09-18T21:04:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_358042_0_2579ee3c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/358042"
+      },
+      {
+        "id": 358041,
+        "text": "طبق اعلام دفاع مدنی عربستان سعودی، جمعه در شهرهای مختلف این کشور، از جمله جده، طائف، ینبع، خمیس مشیط، جازان و العلا، هشدار خطر صادر شد.\nدفاع مدنی عربستان سعودی اعلام کرد خطر در جده، طائف، ینبع، ابها، خمیس مشیط و جازان رفع شده است.\nhttps://iranintl.com/202609183721",
+        "date": "2026-09-18T20:55:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_358041_0_2579ee3c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_358041_1_67e21a97.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202609183721",
+            "type": "external",
+            "display_text": "https://iranintl.com/202609183721"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/358041"
+      },
+      {
         "id": 358040,
         "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد مراسم زادروز جاویدنام علی رحمانی بر سر مزارش برگزار شده است.\n﻿علی رحمانی معروف به شاهرخ، ۲۵ ساله‌، در شامگاه ۱۹ دی ۱۴۰۴ در کرج کشته شد.",
         "date": "2026-09-18T20:32:51+00:00",
@@ -11342,26 +11374,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/357929"
-      },
-      {
-        "id": 357928,
-        "text": "فرزین ندیمی، پژوهشگر ارشد امور دفاعی و امنیتی در موسسه واشینگتن، با اشاره به تجهیز پایگاه نظامی چین در جیبوتی به تجهیزات ارتباطی جدید گفت این تجهیزات می‌تواند امکان مکان‌یابی کشتی‌ها و رصد تحرکات دریایی، به‌ویژه نیروهای آمریکایی، را برای چین فراهم کند.\nاو افزود بررسی سیگنال‌ها و تغییرات ترافیک رادیویی می‌تواند به چین در شناسایی تغییر آرایش نیروها و شناخت نحوه عملیات ناوگروه‌های آمریکا کمک کند.\n@iranintltv",
-        "date": "2026-09-18T06:35:29+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/357928"
-      },
-      {
-        "id": 357927,
-        "text": "همسر جاویدنام پارسا لوینیان همراه با پویش دیگر خانواده‌های جاویدنام به یاد او شمعی روشن کرد. پارسا لوینیان، مکانیک ۳۱ ساله خودرو و اهل اصفهان بود که در انقلاب ملی دی‌ماه با گلوله ماموران کشته شد.",
-        "date": "2026-09-18T06:35:09+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/357927"
       }
     ],
     "ProxyMTProto": [
@@ -22243,6 +22255,55 @@
     ],
     "BestProxyTel1": [
       {
+        "id": 13284,
+        "text": "پراممممممم برا ۲تا اکانتام ۲۰تا استارز گرفتم واقعی بود\n😐\n😂",
+        "date": "2026-09-18T21:06:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "BestProxyTel1_13284_0_9012ef0e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/BestProxyTel1/13284"
+      },
+      {
+        "id": 13283,
+        "text": "🧸\nیه بات استارز و پرمیوم رایگان پیدا کردم واقعیه خودم ازش استارز گرفتم الان براتون میزارم",
+        "date": "2026-09-18T20:54:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "BestProxyTel1_13283_0_9012ef0e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "BestProxyTel1_13283_1_6ff7459c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/BestProxyTel1/13283"
+      },
+      {
+        "id": 13282,
+        "text": "🧸\nیه بات استارز و پرمیوم رایگان پیدا کردم واقعیه خودم ازش استارز گرفتم الان براتون میزارم",
+        "date": "2026-09-18T20:46:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "BestProxyTel1_13282_0_9012ef0e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/BestProxyTel1/13282"
+      },
+      {
         "id": 13281,
         "text": "https://t.me/proxy?server=dvkdvj.360r.ir&port=447&secret=ee00000000000000000000000000000000046c2e777f6f6766652e636f6d\nhttps://t.me/proxy?server=212.108.98.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==\nhttps://t.me/proxy?server=94.184.39.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==\nhttps://t.me/proxy?server=46.224.141.30&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ\n🎖\n@BestProxyTel1",
         "date": "2026-09-18T15:47:00+00:00",
@@ -23754,106 +23815,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/13113"
-      },
-      {
-        "id": 13112,
-        "text": "🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\nhttps://t.me/proxy?server=212.108.98.103.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=212.108.98.104.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=212.108.98.105.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=sundoki.shadoww345.ir&port=8880&secret=efccd8bfe53d2a38e3a471fee7d09be3\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🌟\n🎖\n@BestProxyTel1",
-        "date": "2026-09-06T14:12:10+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://t.me/proxy?server=212.108.98.103.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=212.108.98.103.best-domain.ir&port..."
-          },
-          {
-            "url": "https://t.me/proxy?server=212.108.98.104.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=212.108.98.104.best-domain.ir&port..."
-          },
-          {
-            "url": "https://t.me/proxy?server=212.108.98.105.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=212.108.98.105.best-domain.ir&port..."
-          },
-          {
-            "url": "https://t.me/proxy?server=sundoki.shadoww345.ir&port=8880&secret=efccd8bfe53d2a38e3a471fee7d09be3",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=sundoki.shadoww345.ir&port=8880&se..."
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/BestProxyTel1/13112"
-      },
-      {
-        "id": 13111,
-        "text": "طبق قانون استیکر خنده داری که از رفیقت میسازی جرمه و میتونه ازتون شکایت کنه و تا 1 سال حبس و 5 تا 33 میلیون جریمه نقدی داره.\nاگه ام بگید شوخی فرقی نداره و از جرمت کم نمیشه.\n🎖\n@BestProxyTel1",
-        "date": "2026-09-06T10:56:11+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/BestProxyTel1/13111"
-      },
-      {
-        "id": 13110,
-        "text": "✔️\nپروکسی های جدید\n✔️\nhttps://t.me/proxy?server=194.117.64.44.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=194.117.64.78.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=194.117.64.59.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=194.117.64.55.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=194.117.64.74.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=194.117.64.51.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\n🎖\n@BestProxyTel1",
-        "date": "2026-09-06T09:01:53+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://t.me/proxy?server=194.117.64.44.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.117.64.44.best-domain.ir.best-..."
-          },
-          {
-            "url": "https://t.me/proxy?server=194.117.64.78.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.117.64.78.best-domain.ir.best-..."
-          },
-          {
-            "url": "https://t.me/proxy?server=194.117.64.59.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.117.64.59.best-domain.ir.best-..."
-          },
-          {
-            "url": "https://t.me/proxy?server=194.117.64.55.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.117.64.55.best-domain.ir.best-..."
-          },
-          {
-            "url": "https://t.me/proxy?server=194.117.64.74.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.117.64.74.best-domain.ir.best-..."
-          },
-          {
-            "url": "https://t.me/proxy?server=194.117.64.51.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.117.64.51.best-domain.ir.best-..."
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/BestProxyTel1/13110"
       }
     ]
   },
-  "last_update": "2026-09-18T20:42:58.061662+00:00",
+  "last_update": "2026-09-18T21:15:05.950448+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1643,
-    "total_media": 1258,
-    "total_files": 1258,
-    "total_links": 298,
+    "total_media": 1263,
+    "total_files": 1263,
+    "total_links": 289,
     "files_by_type": {
-      "image": 1082,
-      "video": 129,
+      "image": 1089,
+      "video": 127,
       "audio": 47
     },
-    "referenced_files": 1258,
-    "existing_media_files": 1258,
-    "total_size_mb": 499.99,
-    "last_calculation": "2026-09-18T20:42:58.077130+00:00"
+    "referenced_files": 1263,
+    "existing_media_files": 1263,
+    "total_size_mb": 498.7,
+    "last_calculation": "2026-09-18T21:15:05.965932+00:00"
   }
 }
