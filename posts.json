@@ -4774,6 +4774,36 @@
     ],
     "withyashar": [
       {
+        "id": 23568,
+        "text": "فیزیک\n@WarRoom",
+        "date": "2026-09-20T05:03:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_23568_0_191ec116.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/23568"
+      },
+      {
+        "id": 23567,
+        "text": "ویدیو اختصاصی زیبا از دیشب\n@WarRoom",
+        "date": "2026-09-20T04:19:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_23567_0_191ec116.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/23567"
+      },
+      {
         "id": 23566,
         "text": "دیدبان اتاق جنگ : ديشب چندتا موشك خورده ب قايق هاي سپاه داخل قشم  جزايره ناز سوزا ، شايدم قايق صياد های بسیجی بوده که میرن شهپاد های آمریکارو بدزدن بوده معلوم نيست ، ولي برخورد انجام شده\n@WarRoom\n🚨\n🚨\n🚨",
         "date": "2026-09-20T03:52:55+00:00",
@@ -6446,36 +6476,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/23466"
-      },
-      {
-        "id": 23465,
-        "text": "تنگه صدای زوزه ابومهدی المهندس میاد\n@WarRoom\n😂",
-        "date": "2026-09-18T14:18:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_23465_0_8a1b94a7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/23465"
-      },
-      {
-        "id": 23464,
-        "text": "ادعای رسانه های رژیم :  شلیک ۴ فروند موشک کروز «ابومهدی المهندس» از جزایر ایران به سوی اهداف متخاصم در دریای عمان\n@WarRoom",
-        "date": "2026-09-18T14:17:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_23464_0_8a1b94a7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/23464"
       }
     ],
     "vahidonline": [
@@ -9668,6 +9668,132 @@
     ],
     "IranintlTV": [
       {
+        "id": 358199,
+        "text": "روزنامه کیهان که زیر نظر نماینده رهبر جمهوری اسلامی منتشر می‌شود، در یادداشتی نوشت: «برخلاف آنچه دشمنان ادعا می‌کنند و بعضی هم در داخل کشور، همان‌ها را نشخوار می‌نمایند و البته بعضی مسئولین هم با اهداف خاص که در این سال‌ها سکه‌ای رایج شده، به بیان درمی‌آورند، ایران از نظر اقتصادی وضعیت بحرانی ندارد و به آن نزدیک هم نیست.»\nکیهان در بخشی از این یادداشت اضافه کرد: «دشمن خبیث برخلاف بخش نظامی، در بخش اقتصادی، هنوز سودای از بین بردن ایران را در سر دارد و از آن‌جا که این سودای خبیثانه می‌تواند منشا حوادثی شود، باید به راهبرد محوریت بخشیدن به فشارهای اقتصادی در کارزار با ایران توجه نمود و در صدد مقابله هم برآمد.»\nاین روزنامه افزود: «ما هرگز از مسئولان ارشد توقع پوشیده داشتن حقایق نداریم، اما توقع ناتوان‌نمایی ایران که حتما دروغی شاخدار است را هم از آنان نداریم.»\nhttps://iranintl.com/202609204325",
+        "date": "2026-09-20T05:06:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_358199_0_978d0318.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_358199_1_396df4d2.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202609204325",
+            "type": "external",
+            "display_text": "https://iranintl.com/202609204325"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/358199"
+      },
+      {
+        "id": 358198,
+        "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «نسل سیاسی جدید ایران، نسل خیزش‌های چهارگانه و انقلاب ملی شیر و خورشید، بهای سنگینی پرداخته است؛ از جان‌باختن و زندان تا اخراج از دانشگاه، زخمی‌شدن و حکم‌های اعدامی که همچنان ادامه دارد. با وجود همه این هزینه‌ها، این نسل نه به عقب بازگشته و نه سر خم کرده است؛ شعارش در برابر جمهوری اسلامی «سر خم قدغن» است و برای ایستادگی بر آن، از جان خود نیز می‌گذرد.»\n@iranintltv",
+        "date": "2026-09-20T04:57:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_358198_0_978d0318.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_358198_1_3f8a879a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/358198"
+      },
+      {
+        "id": 358197,
+        "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «کوروش لنگرگاه هویت ملی و یکی از ارکان گفتمان انقلاب ملی شیر و خورشید است؛ انقلابی که جرقه‌های آن از آبان ۱۳۹۵ و روز کوروش آغاز شد، در خیزش‌های چهارگانه ۹۶، آبان ۹۸، مهسا و دی‌ماه ۱۴۰۴ ادامه یافت و هنوز ادامه دارد. حالا نسلی که برای سرنگونی جمهوری اسلامی و ساختن ایرانی آزاد، سکولار، دموکراتیک، پیشرفته و متعلق به همه ایرانیان تلاش می‌کند، به ریشه‌های هویتی خود بازگشته است. برای این نسل، کوروش لنگرگاه هویتی و تکیه‌گاهی برای حرکت به‌سوی آینده است؛ از همین رو شاهزاده رضا پهلوی را «کوروش» خطاب می‌کند.»\n@iranintltv",
+        "date": "2026-09-20T04:51:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_358197_0_978d0318.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_358197_1_f14deff8.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/358197"
+      },
+      {
+        "id": 358196,
+        "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال گفت: «امروز دو تصویر از ایران روبه‌روی یکدیگر قرار گرفته‌اند: جمهوری اسلامی جنایتکار و فاسد و در طرف مقابل آن، نسلی که برای سرنگونی جمهوری اسلامی و ساختن ایرانی آزاد، سکولار، دموکراتیک، پیشرفته و متعلق به همه ایرانیان، به ریشه‌های هویتی خود بازگشته است. برای این نسل، کوروش لنگرگاه هویتی و تکیه‌گاهی برای حرکت به‌سوی آینده است؛ از همین رو شاهزاده رضا پهلوی را «کوروش» خطاب می‌کند.»\n@iranintltv",
+        "date": "2026-09-20T04:48:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_358196_0_978d0318.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_358196_1_0a415298.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/358196"
+      },
+      {
+        "id": 358195,
+        "text": "در پی برگزاری ماراتن در بوستان ولایت تهران که در آن برخی زنان بدون حجاب اجباری شرکت کردند، مدیریت حوزه علمیه تهران در بیانیه‌ای از قوه قضاییه خواست تا «با قاطعیت، دقت، سرعت و بدون ملاحظه» با هر فرد یا مجموعه‌ای که در برگزاری این برنامه نقش داشته است، «برخورد بازدارنده» داشته باشد.\nمدیریت حوزه علمیه تهران در بخش دیگری از این بیانیه اعلام کرد که مطالبه‌گری در این زمینه را نه امری جناحی و سیاسی، بلکه وظیفه‌ای دینی، انقلابی، اجتماعی و وحدت‌آفرین می‌داند و اجازه نخواهد داد «عادی‌سازی هنجارشکنی، به‌تدریج قبح قانون‌شکنی و بی‌حرمتی به ارزش‌های اسلامی را در جامعه از میان ببرد.»\nhttps://iranintl.com/202609200364",
+        "date": "2026-09-20T04:38:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_358195_0_978d0318.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_358195_1_f3b0827a.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202609200364",
+            "type": "external",
+            "display_text": "https://iranintl.com/202609200364"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/358195"
+      },
+      {
+        "id": 358194,
+        "text": "سرخط خبرهای یک‌شنبه ۲۹ شهریور\n@iranintltv",
+        "date": "2026-09-20T04:32:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_358194_0_978d0318.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_358194_1_b776189b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/358194"
+      },
+      {
         "id": 358193,
         "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، شامگاه شنبه ۲۹ شهریور پس از ترک زودتر از موعد کمپ دیوید در ایالت مریلند، به کاخ سفید بازگشت.\nترامپ قرار بود شب را در کمپ دیوید بماند، اما برنامه خود را تغییر داد و زودتر به واشینگتن بازگشت.\nبنا به همین گزارشها بازگشت ترامپ در شرایطی صورت گرفته که دولت او در حال بررسی گام‌های بعدی در جنگ با حکومت ایران است.\nاین تغییر برنامه همچنین در آستانه سفر ترامپ به نیویورک برای شرکت در نشست مجمع عمومی سازمان ملل متحد انجام شده است.\nدلیل بازگشت زودهنگام ترامپ از کمپ دیوید اعلام نشده است.\nhttps://iranintl.com/202609201274",
         "date": "2026-09-20T03:52:00+00:00",
@@ -9784,14 +9910,9 @@
         "id": 358188,
         "text": "شاهزاده رضا پهلوی در دومین دوره رویداد «کوروش کبیر» در تورنتو گفت شبکه ارتباطی و سازمان‌دهی مخالفان در لایه‌های مختلف جامعه فعال است و جمهوری اسلامی به‌دلیل ناتوانی در متوقف کردن آن، وجود این شبکه‌ها را انکار می‌کند. او افزود بخشی از نیروهای کشوری و لشکری جمهوری اسلامی از طریق راه‌های ارتباطی امن از حکومت اعلام جدایی کرده‌اند و مرحله «ریزش غیرفعال» در ساختار جمهوری اسلامی در جریان است؛ مرحله‌ای که به گفته او، در آن نیروها در ظاهر در ساختار باقی می‌مانند، اما دیگر کارکرد گذشته را برای حکومت ندارند.\n@iranintltv",
         "date": "2026-09-19T22:52:23+00:00",
-        "media": [
-          {
-            "type": "video",
-            "file": "IranintlTV_358188_1_a617f581.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/358188"
       },
@@ -9799,12 +9920,7 @@
         "id": 358187,
         "text": "شاهزاده رضا پهلوی شنبه در سخنرانی در رویداد کوروش کبیر در تورنتو گفت تیم او با توجه به سطح بالای کشتار به دست جمهوری اسلامی و شرایط جدید، در تاکتیک‌ها و روشهای اجرایی استراتژی خود تغییراتی را در نظر گرفته است.\nاو گفت: «تغییر تاکتیکی تغییر هدف نیست، بلکه تطبیق روش‌ها با شرایط تازه است.»\nشاهزاده رضا پهلوی با هشدار درباره اینکه «ماشین دروغ‌پردازی» جمهوری اسلامی شبانه‌روز تلاش می‌کند بذر ناامیدی بپاشد، گفت: «دروغ اول این است که می‌گویند مردم و اپوزیسیون متحد نیستند و برنامه ندارند. پاسخ روشن است. اتحاد به معنای شبیه هم نبودن در همه جزییات نیست. اتحاد یعنی داشتن هدف و اصول مشترک و همکاری بر پایه آن اصول و اهداف در چارچوب برنامه و استراتژی کلان.»\nاو تاکید کرد: «هدف ما مشخص است: سرنگون کردن جمهوری اسلامی و رسیدن به یک ایران آزاد و آباد.»\nhttps://iranintl.com/202609198919",
         "date": "2026-09-19T22:44:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_358187_1_0546d9e2.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202609198919",
@@ -9812,7 +9928,7 @@
             "display_text": "https://iranintl.com/202609198919"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/358187"
       },
@@ -10811,75 +10927,39 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/358093"
-      },
-      {
-        "id": 358092,
-        "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، با اشاره به اظهارات دونالد ترامپ درباره پایان زودهنگام جنگ گفت از مواضع مقام‌های آمریکایی می‌توان برداشت کرد که پایان جنگ را به از میان رفتن تهدیدهای جمهوری اسلامی، به‌ویژه تهدید هسته‌ای، گره می‌زنند؛ هدفی که می‌تواند از طریق توافق مورد قبول آمریکا یا ادامه فشار اقتصادی و نظامی دنبال شود.\nاو افزود اگر هدف نهایی آمریکا به تغییر رژیم در ایران منتهی شود، موضع کشورهای منطقه نیز اهمیت پیدا می‌کند، زیرا، سقوط جمهوری اسلامی و بازگشت شاهزاده رضا پهلوی می‌تواند به شکل‌گیری «محور پارسی-یهودی» میان ایران و اسرائیل منجر شود.\n@iranintltv",
-        "date": "2026-09-19T08:30:52+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/358092"
-      },
-      {
-        "id": 358091,
-        "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال گفت که شنبه در تهران صدای انفجار شنید.\nصدای فرستنده با هوش مصنوعی بازخوانی شده است.",
-        "date": "2026-09-19T08:23:24+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/358091"
-      },
-      {
-        "id": 358089,
-        "text": "یک ویدیوی منتشرشده در شبکه‌های اجتماعی، دود سیاهی را بر فراز آسمان مناطقی از شمال تهران در روز شنبه ۲۸ شهریور نشان می‌دهد.\nجلال ملکی، سخنگوی سازمان آتش‌نشانی تهران، گفت این دود ناشی از آتش‌سوزی گسترده در انباری ۴۰۰ متری در خیابان دولت بوده است. به گفته او، مقادیر زیادی روغن، مواد غذایی و کپسول گاز در محل نگهداری می‌شد.\nاو افزود تاکنون مصدوم یا فوتی گزارش نشده است.\n@iranintltv",
-        "date": "2026-09-19T08:17:23+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/358089"
-      },
-      {
-        "id": 358088,
-        "text": "ویدیوی رسیده به ایران اینترنشنال برخاستن ستون دود بزرگ در منطقه‌ای در شمال تهران در روز شنبه ۲۸ شهریور را نشان می‌دهد.",
-        "date": "2026-09-19T08:16:18+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/358088"
-      },
-      {
-        "id": 358081,
-        "text": "علی زینی‌وند، سخنگوی وزارت کشور، در نشست خبری شنبه، ۲۸ شهریور خود گفت: «اگر یک گروهی بیایند رییس‌جمهور، رییس مجلس، وزیر خارجه و دیپلمات‌های ورزیده ما را که بر اساس ساختار رسمی کشور و قواعد تعریف‌شده در حال تدبیر و تدوین بسته دیپلماسی هستند، سازشکار و خیانت‌کار بدانند، این خیانت بزرگی است.»\nزینی‌وند اضافه کرد: «اگر یک گروهی بیایند رزمندگان، ارتشی‌ها و سپاهیان دلاور ما را به‌عنوان جنگ‌طلب معرفی کنند و خودمان این را تبلیغ کنیم، این هم خیانت است.»\nسخنگوی وزارت کشور ادامه داد: «اکثریت مردم خواهان دفاع عزتمندانه و مقاومت مقابل دشمن هستند. هم تعداد زیادی از جامعه ما اکنون خواهان خاتمه عزتمندانه جنگ و تقویت دیپلماسی هستند، هم تعداد قابل توجهی از جامعه، که اکثریت مردم هم هستند، خواهان دفاع عزتمندانه و مقاومت در مقابل دشمن هستند.»\nhttps://iranintl.com/202609199734",
-        "date": "2026-09-19T07:15:51+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202609199734",
-            "type": "external",
-            "display_text": "https://iranintl.com/202609199734"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/358081"
-      },
-      {
-        "id": 358080,
-        "text": "پیت هگست، وزیر جنگ آمریکا گزارش واشینگتن‌پست درباره بالاتر بودن شمار نظامیان آمریکایی کشته‌شده در جنگ با جمهوری اسلامی را تکذیب کرد. او در پیامی در شبکه ایکس، این گزارش را «جعلی» و «دروغی کامل» خواند و گفت عملکرد این روزنامه حتی از رسانه‌های حکومتی جمهوری اسلامی نیز بدتر است.\n@iranintltv",
-        "date": "2026-09-19T07:08:49+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/358080"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 51329,
+        "text": "Server:\nUnknown\nPort:\n7443\nSecret:\neeNEgYdJvXrFGRMCIMJdCQ\n@ProxyMTProto",
+        "date": "2026-09-20T05:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_51329_0_e7bbc5f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/51329"
+      },
+      {
+        "id": 51328,
+        "text": "Server:\nx.shmelproxy.top\nPort:\n443\nSecret:\neefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275\n@ProxyMTProto",
+        "date": "2026-09-20T04:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_51328_0_e7bbc5f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/51328"
+      },
       {
         "id": 51327,
         "text": "Server:\nUnknown\nPort:\n8443\nSecret:\neef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d\n@ProxyMTProto",
@@ -11954,26 +12034,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/51229"
-      },
-      {
-        "id": 51228,
-        "text": "Server:\nx.shmelproxy.top\nPort:\n443\nSecret:\neefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275\n@ProxyMTProto",
-        "date": "2026-09-17T04:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/51228"
-      },
-      {
-        "id": 51227,
-        "text": "Server:\nt.meow-network.com\nPort:\n443\nSecret:\nee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d\n@ProxyMTProto",
-        "date": "2026-09-16T20:28:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/51227"
       }
     ],
     "XpnTeam": [
@@ -17796,6 +17856,21 @@
     ],
     "yehirani": [
       {
+        "id": 20555,
+        "text": "🔴\nسفارت آمریکا به اکثر کشورهای غرب‌آسیا هشدار امنیتی صادر کرده، هم چنین از تمامی شهروندان آمریکا خواسته سفرهاشون رو به خاورمیانه فورا لغو کنن و اکیدا به خاورمیانه سفر نکنن.\n@Yehirani\n| Me",
+        "date": "2026-09-20T04:49:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "yehirani_20555_0_966298b9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/yehirani/20555"
+      },
+      {
         "id": 20554,
         "text": "🤖\nبا ربات زیر خیلی راحت میتونی از سایت زیرنافی پورن هاب فیلم دانلود کنی\n😈\nحتی خودش سرچم داره لازم نیس از تلگرام بری بیرون\n🌐\nپشتیبانی از ۱۳ سایت مختلف\n🍷\n🔥\n🤖\n@DL_PH_bot",
         "date": "2026-09-19T23:16:02+00:00",
@@ -19499,21 +19574,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/yehirani/20440"
-      },
-      {
-        "id": 20439,
-        "text": "🔴\nتسنیم : جانفداها باید فوراً آماده بشن برای آموزش و اعزام به مناطق عملیاتی...!\n@yehirani\n| 𝐏𝐎𝐔𝐑𝐢",
-        "date": "2026-09-13T18:10:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "yehirani_20439_0_8ca900b3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/yehirani/20439"
       }
     ],
     "crgaming7": [
@@ -21749,15 +21809,25 @@
     ],
     "BestProxyTel1": [
       {
-        "id": 13316,
-        "text": "https://t.me/proxy?server=hayabusa.proxy.rlwy.net&port=59585&secret=fcfaf1e664b989da421ee8dd90c8e9b4\nhttps://t.me/proxy?server=reseau.proxy.rlwy.net&port=58374&secret=8d241830d086236e521e5d71c97c352f\nhttps://t.me/proxy?server=wwwwodh.ahanghedel.ir&port=449&secret=dd79e7010200010007f0030386e24c3add\nhttps://t.me/proxy?server=flux.lavazemi5.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ\n🎖\n@BestProxyTel1",
-        "date": "2026-09-20T01:39:50+00:00",
+        "id": 13317,
+        "text": "آموزش و پرورش :\nاز این به بعد آخرین جایی که تعطیل میشه مدرسه‌است.\n🎖\n@BestProxyTel1",
+        "date": "2026-09-20T04:57:29+00:00",
         "media": [
           {
             "type": "image",
-            "file": "BestProxyTel1_13316_0_44322904.jpg"
+            "file": "BestProxyTel1_13317_0_44322904.jpg"
           }
         ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/BestProxyTel1/13317"
+      },
+      {
+        "id": 13316,
+        "text": "https://t.me/proxy?server=hayabusa.proxy.rlwy.net&port=59585&secret=fcfaf1e664b989da421ee8dd90c8e9b4\nhttps://t.me/proxy?server=reseau.proxy.rlwy.net&port=58374&secret=8d241830d086236e521e5d71c97c352f\nhttps://t.me/proxy?server=wwwwodh.ahanghedel.ir&port=449&secret=dd79e7010200010007f0030386e24c3add\nhttps://t.me/proxy?server=flux.lavazemi5.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ\n🎖\n@BestProxyTel1",
+        "date": "2026-09-20T01:39:50+00:00",
+        "media": [],
         "links": [
           {
             "url": "https://t.me/proxy?server=hayabusa.proxy.rlwy.net&port=59585&secret=fcfaf1e664b989da421ee8dd90c8e9b4",
@@ -21780,7 +21850,7 @@
             "display_text": "https://t.me/proxy?server=flux.lavazemi5.co.uk&port=2096&sec..."
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/BestProxyTel1/13316"
       },
@@ -23295,65 +23365,24 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/13130"
-      },
-      {
-        "id": 13129,
-        "text": "👑\nپروکسی های جدید\n👑\nhttps://t.me/proxy?server=194.117.64.44.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=194.117.64.78.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=194.117.64.59.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=194.117.64.55.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=194.117.64.74.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nhttps://t.me/proxy?server=194.117.64.51.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d\n🎖\n@BestProxyTel1",
-        "date": "2026-09-08T02:17:53+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://t.me/proxy?server=194.117.64.44.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.117.64.44.best-domain.ir.best-..."
-          },
-          {
-            "url": "https://t.me/proxy?server=194.117.64.78.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.117.64.78.best-domain.ir.best-..."
-          },
-          {
-            "url": "https://t.me/proxy?server=194.117.64.59.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.117.64.59.best-domain.ir.best-..."
-          },
-          {
-            "url": "https://t.me/proxy?server=194.117.64.55.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.117.64.55.best-domain.ir.best-..."
-          },
-          {
-            "url": "https://t.me/proxy?server=194.117.64.74.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.117.64.74.best-domain.ir.best-..."
-          },
-          {
-            "url": "https://t.me/proxy?server=194.117.64.51.best-domain.ir.best-domain.ir&port=4443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.117.64.51.best-domain.ir.best-..."
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/BestProxyTel1/13129"
       }
     ]
   },
-  "last_update": "2026-09-20T04:02:43.051891+00:00",
+  "last_update": "2026-09-20T05:18:55.994675+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1643,
-    "total_media": 1172,
-    "total_files": 1172,
-    "total_links": 275,
+    "total_media": 1184,
+    "total_files": 1184,
+    "total_links": 270,
     "files_by_type": {
-      "image": 996,
-      "video": 132,
+      "image": 1005,
+      "video": 135,
       "audio": 44
     },
-    "referenced_files": 1172,
-    "existing_media_files": 1172,
-    "total_size_mb": 497.86,
-    "last_calculation": "2026-09-20T04:02:43.065728+00:00"
+    "referenced_files": 1184,
+    "existing_media_files": 1184,
+    "total_size_mb": 498.43,
+    "last_calculation": "2026-09-20T05:18:56.005203+00:00"
   }
 }
