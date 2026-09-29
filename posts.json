@@ -2677,6 +2677,21 @@
     ],
     "whitedns": [
       {
+        "id": 1879,
+        "text": "",
+        "date": "2026-09-29T07:46:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1879_0_17918c52.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1879"
+      },
+      {
         "id": 1878,
         "text": "🚀\n۵۰ سرور اختصاصی اضافه شد!\nدوستان عزیز، لطفاً تست کنید و نتیجه رو به من بگید. موقع فرستادن نتیجه، اسم اپراتورتون رو هم بنویسید تا بهتر بتونیم وضعیت اتصال رو بررسی کنیم\n🙏",
         "date": "2026-09-29T04:10:01+00:00",
@@ -4593,95 +4608,24 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1720"
-      },
-      {
-        "id": 1718,
-        "text": "📦\nWhiteDNS Tools — Downloads\n━━━━━━━━━━━━━━━━━━\n📱\nWhiteAesther\n• Mobile:\nhttps://github.com/WhiteDNS/WhiteAestherMobile/releases\n• Desktop:\nhttps://github.com/WhiteDNS/WhiteAesther/releases\n━━━━━━━━━━━━━━━━━━\n🛡\nWhiteVPN\n• Mobile:\nhttps://github.com/WhiteDNS/WhiteVPN/releases\n• Desktop:\nhttps://github.com/WhiteDNS/WhiteVPN-Desktop/releases\n━━━━━━━━━━━━━━━━━━\n🌐\nWhiteDNS — مناسب دوران قطعی\n• Android:\nhttps://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/1.6.0\n• Desktop:\nhttps://github.com/WhiteDNS/WhiteDNS-Desktop/releases\n━━━━━━━━━━━━━━━━━━\n🔎\nWhiteDNS Clean IP + Resolver Finder\n• Desktop & Mobile:\nhttps://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases\n━━━━━━━━━━━━━━━━━━\n🍎\nCoreForge VPN + DNS — iOS\n• TestFlight:\nhttps://testflight.apple.com/join/DRkT6zny\n━━━━━━━━━━━━━━━━━━\n🎓\nآموزش‌ها\n🔗\nآموزش Exit Chain برای WhiteAesther و WhiteVPN\nhttps://youtu.be/yx-jFqv9pYM\n🛡\nآموزش کامل WhiteVPN\nhttps://www.youtube.com/watch?v=tm0ls3r4ppw\n📱\nآموزش کامل WhiteAesther\nhttps://www.youtube.com/watch?v=cRfqxbDY1Dg&t=1s\n🌐\nآموزش کامل WhiteDNS\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\n🍎\nآموزش کامل CoreForge\nhttps://www.youtube.com/watch?v=filwdiPKN90\n🔎\nآموزش کامل اسکنر WhiteDNS\nhttps://www.youtube.com/watch?v=N5hKuWXp37w\n━━━━━━━━━━━━━━━━━━\n@whitedns\n·:¨༺\n@BlueKnight_Net\n༻¨:·",
-        "date": "2026-09-04T17:25:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1718_0_199d49d9.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://github.com/WhiteDNS/WhiteAestherMobile/releases",
-            "type": "github",
-            "display_text": "https://github.com/WhiteDNS/WhiteAestherMobile/releases"
-          },
-          {
-            "url": "https://github.com/WhiteDNS/WhiteAesther/releases",
-            "type": "github",
-            "display_text": "https://github.com/WhiteDNS/WhiteAesther/releases"
-          },
-          {
-            "url": "https://github.com/WhiteDNS/WhiteVPN/releases",
-            "type": "github",
-            "display_text": "https://github.com/WhiteDNS/WhiteVPN/releases"
-          },
-          {
-            "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop/releases",
-            "type": "github",
-            "display_text": "https://github.com/WhiteDNS/WhiteVPN-Desktop/releases"
-          },
-          {
-            "url": "https://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/1.6.0",
-            "type": "github",
-            "display_text": "https://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/1...."
-          },
-          {
-            "url": "https://github.com/WhiteDNS/WhiteDNS-Desktop/releases",
-            "type": "github",
-            "display_text": "https://github.com/WhiteDNS/WhiteDNS-Desktop/releases"
-          },
-          {
-            "url": "https://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases",
-            "type": "github",
-            "display_text": "https://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases"
-          },
-          {
-            "url": "https://testflight.apple.com/join/DRkT6zny",
-            "type": "external",
-            "display_text": "https://testflight.apple.com/join/DRkT6zny"
-          },
-          {
-            "url": "https://youtu.be/yx-jFqv9pYM",
-            "type": "youtube",
-            "display_text": "https://youtu.be/yx-jFqv9pYM"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=tm0ls3r4ppw",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=tm0ls3r4ppw"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=cRfqxbDY1Dg&t=1s",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=cRfqxbDY1Dg&t=1s"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=tz8cj7HzHVI",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=tz8cj7HzHVI"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=filwdiPKN90",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=filwdiPKN90"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=N5hKuWXp37w",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=N5hKuWXp37w"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1718"
       }
     ],
     "withyashar": [
+      {
+        "id": 24478,
+        "text": "نرخ دلار ۲۵۰،۱۰۰ تومان (رکورد تاریخی)\nتتر  ۲۴۹،۶۰۰ تومان(رکورد تاریخی)\nبیتکوین ۸۴،۰۵۶ $\nانس جهانی طلا ۴،۱۴۰ $\nنفت برنت ۹۸،۶۹$\n@WarRoom\n۱۱:۳۰ ظهر تهران",
+        "date": "2026-09-29T07:57:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_24478_0_e407118a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/24478"
+      },
       {
         "id": 24477,
         "text": "عراق: پرواز نجف به ایران برای یک ماه برقرار می‌شود\nاما تنها شرکت هواپیمایی العراقیه، مجاز به انجام پرواز میان دو کشور است\n@WarRoom",
@@ -6322,21 +6266,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/24355"
-      },
-      {
-        "id": 24354,
-        "text": "لحظه هلاکت و متلاشی شده تروریستی که نوآ ارگامان را در ۷ اکتبر ربوده بود\n@WarRoom",
-        "date": "2026-09-27T17:50:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_24354_0_1247659a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/24354"
       }
     ],
     "vahidonline": [
@@ -9412,6 +9341,216 @@
     ],
     "IranintlTV": [
       {
+        "id": 359764,
+        "text": "محمدباقر قالیباف، رییس مجلس، گفت تلاش آمریکا برای محاصره دریایی، بستن کریدورهای هوایی و فشار بر تجارت جمهوری اسلامی با «پاسخ‌های نظامی» شکست خواهد خورد. او افزود: «در منطقه‌ای که ما نفت نفروشیم، کسی نفت نخواهد فروخت و اگر امنیت ما تامین نشود، هیچ زیرساختی ایمن نخواهد بود.»\n@iranintltv",
+        "date": "2026-09-29T08:14:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_359764_0_7e53c7bd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_359764_1_9ebf5049.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/359764"
+      },
+      {
+        "id": 359763,
+        "text": "محمدباقر قالیباف، رییس مجلس، گفت تلاش آمریکا برای محاصره دریایی، بستن کریدورهای هوایی و فشار بر تجارت جمهوری اسلامی با «پاسخ‌های نظامی» شکست خواهد خورد. او افزود: «در منطقه‌ای که ما نفت نفروشیم، کسی نفت نخواهد فروخت و اگر امنیت ما تامین نشود، هیچ زیرساختی ایمن نخواهد بود.»\n@iranintltv",
+        "date": "2026-09-29T08:14:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_359763_0_7e53c7bd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_359763_1_69280ece.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/359763"
+      },
+      {
+        "id": 359762,
+        "text": "حسین محبی، سخنگوی سپاه پاسداران، در نشستی خبری با خبرنگاران خارجی گفت در صورت تغییر شکل درگیری‌ها، جمهوری اسلامی از سلاح‌های جدید استفاده خواهد کرد.\nمحبی گفت: «ما برای دفاع از خودمان دائما در حال طراحی سلاح‌های جدید، ارتقای سلاح‌های فعلی و تولید انبوه سلاح‌هایی هستیم که بتوانیم از خودمان دفاع کنیم و از همه فناوری‌های دنیا برای ساخت سلاح‌ها استفاده می‌کنیم.»\nاو افزود: «حتما اگر درگیری‌ها شکل دیگری پیدا کند، ما هم سلاح‌های جدیدی را به میدان خواهیم آورد.»\nhttps://iranintl.com/202609298565",
+        "date": "2026-09-29T08:02:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_359762_0_7e53c7bd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_359762_1_f6bf343d.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202609298565",
+            "type": "external",
+            "display_text": "https://iranintl.com/202609298565"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/359762"
+      },
+      {
+        "id": 359761,
+        "text": "🔻\nزین‌الدین زیدان، سرمربی تیم ملی فرانسه پس از پیروزی بر بلژیک از بازیکنان تیمش تمجید کرد: «چیزی که در این تیم دوست دارم این است که همه خودشان را درگیر می‌دانند. نمی‌خواهم بازیکنانی را دعوت کنم که با خودشان بگویند بازی نخواهند کرد؛ چنین چیزی وجود ندارد.»\n🔹\nاو گفت: «همه باید با خودشان بگویند که در یک مقطع می‌توانند چیزی به تیم اضافه کنند. همه آنها آماده بودند.»\n🔹\nسرمربی فرانسه با ابراز رضایت از عملکرد شاگردانش گفت: «از کاری که تیم انجام داد بسیار راضی هستم و این فقط مربوط به زمانی نیست که توپ را در اختیار داشتیم. در ادامه عملکردمان در بازی ترکیه که یک بر صفر پیروز شدیم و این بار در زمینی بسیار بهتر، در همه زمینه‌ها خیلی خوب بودیم؛ از جمله در پرسینگ.»\n🔹\nاو گفت: «بلژیک نیز ما را تحت فشار قرار دادند، اما مقاومت کردیم، شجاع بودیم و از رفتن به زمین حریف نترسیدیم. این چیزی است که من دوست دارم و چیزی است که می‌خواهیم.»\n🔹\nزیدان درباره واکنشش به گل مایکل اولیسه گفت: «همراهش شدم، می‌خواستم همراهش باشم. دیدم که شروع به دریبل زدن کرد و با خودم گفتم: گل می‌زند! در هر صورت کاملا با او همراه بودم.»\n@iranintltvsport",
+        "date": "2026-09-29T08:00:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_359761_0_7e53c7bd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_359761_1_dfb9a94c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/359761"
+      },
+      {
+        "id": 359760,
+        "text": "بر اساس اطلاعات رسیده به ایران‌اینترنشنال، آرزو منوچهری، شهروند ۳۰ ساله ساکن شیراز، در ارتباط با اعتراضات دی‌ماه به مجموع هشت سال حبس محکوم شده که پنج سال آن قابل اجراست.\nمنوچهری ۲۰ بهمن ۱۴۰۴ بازداشت شد و پس از حدود یک ماه با سپردن وثیقه پنج میلیارد تومانی از زندان آزاد شد. او با پایان مهلت تجدیدنظرخواهی، در انتظار اجرای حکم است.\nبر اساس رای دادگاه انقلاب، منوچهری به اتهام «اجتماع و تبانی به قصد اقدام علیه امنیت ملی» به پنج سال حبس، «توهین به رهبر جمهوری اسلامی» به دو سال حبس و «فعالیت تبلیغی علیه نظام» به یک سال حبس محکوم شده است.\n«ارسال پیام در فضای مجازی و تشویق دیگران به حضور در اعتراضات» نیز از موارد مطرح‌شده در پرونده اوست.\nدادگاه همچنین او را به دو سال ممنوعیت خروج از کشور، ابطال گذرنامه و دو سال ممنوعیت فعالیت در فضای مجازی محکوم کرده است.\nبا اعمال مقررات تعدد جرم و اجرای مجازات اشد، پنج سال از مجموع هشت سال حبس آرزو منوچهری قابل اجراست.\nhttps://iranintl.com/202609291067",
+        "date": "2026-09-29T07:54:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_359760_0_7e53c7bd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_359760_1_fb9af6e4.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202609291067",
+            "type": "external",
+            "display_text": "https://iranintl.com/202609291067"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/359760"
+      },
+      {
+        "id": 359759,
+        "text": "ویدیوی رسیده به ایران‌اینترنشنال صف طولانی خودروها را برای دریافت بنزین در یکی از شهرهای استان کردستان در دوشنبه ششم مهر نشان می‌دهد.",
+        "date": "2026-09-29T07:53:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_359759_0_7e53c7bd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_359759_1_2b4285ea.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/359759"
+      },
+      {
+        "id": 359758,
+        "text": "حسین محبی، سخنگوی سپاه پاسداران، در نشستی خبری با خبرنگاران خارجی درباره نامه سپاه پاسداران به مردم آمریکا گفت در این نامه درباره «میزان محبوبیت» سپاه پاسداران در ایران و خدماتی که به گفته او به مردم ایران و منطقه ارائه کرده، توضیح داده شده است.\nمحبی گفت: «در نامه خود حقایق ژئوپولیتیکی را برای مردم آمریکا روشن کردیم.» او افزود: «از مردم آمریکا خواسته‌ایم که نامه ما را حداقل یک بار مطالعه کنند.»\nسخنگوی سپاه پاسداران هیئت حاکمه آمریکا را به دروغ‌گویی به مردم این کشور متهم کرد و گفت: «هیات حاکمه آمریکا به مردم خودشان دروغ‌های بسیاری می‌گویند.»\nمحبی همچنین گفت: «وقت آن رسیده که هیات حاکمه آمریکا سیاست‌هایش را تغییر دهد.»\nاو در بخش دیگری از اظهاراتش گفت: «بخشی از مردم آمریکا از جنایات ارتش‌شان خبر ندارند.»\nhttps://iranintl.com/202609292267",
+        "date": "2026-09-29T07:49:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_359758_0_7e53c7bd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_359758_1_54edcf86.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202609292267",
+            "type": "external",
+            "display_text": "https://iranintl.com/202609292267"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/359758"
+      },
+      {
+        "id": 359757,
+        "text": "در ادامه افزایش قیمت‌ها و التهاب در بازار ارز ایران، نرخ دلار آمریکا در بازار آزاد، سه‌شنبه هفتم مهر، از ۲۵۰ هزار تومان عبور کرد.\nهم‌زمان، قیمت دیگر ارزها نیز افزایش یافت. یورو در بازار آزاد به ۲۷۷ هزار تومان و پوند بریتانیا به ۳۲۳ هزار تومان رسید.\nافزایش قیمت‌ها به بازار طلا نیز کشیده شد و بهای سکه طرح جدید، موسوم به «امامی»، تا زمان نگارش این گزارش از ۲۴۹ میلیون تومان عبور کرد.\nhttps://iranintl.com/202609292614",
+        "date": "2026-09-29T07:38:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_359757_0_7e53c7bd.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_359757_1_6f261a37.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202609292614",
+            "type": "external",
+            "display_text": "https://iranintl.com/202609292614"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/359757"
+      },
+      {
+        "id": 359756,
+        "text": "🗣\nروایت شما از شرایط زندگی و بحران اقتصادی- سه‌شنبه هفت شهریور:\n🔹\nمن ۳۹ سالمه از مسجدسلیمان. مشکل معده دارم؛ تنها قرصی که می‌تونه دردم رو کنترل کنه، نکسیوم ۴۰ است که قبلا می‌خریدمش ۷۰۰ هزار تومن، الان شده دو میلیون و ۲۰۰ هزار تومان.\n🔹\nبا این تورم و گرانی وحشتناک که تغییر قیمت‌هایش روزانه شده، هنوز معوقات حقوق اردیبهشت‌ماه بازنشستگان تامین اجتماعی رو بعد از گذشت شش ماه پرداخت نکردن.\n🔹\nدکتر جراح قلب علاوه بر هزینه عادی بیمارستان، از ما برای یک عمل جراحی ضروری، صد میلیون تومن زیرمیزی (رشوه) خواسته. در حالی‌که ما یک وعده غذایی روزانه رو هم به سختی تامین می‌کنیم.\n🔹\nاز کرج: دخترم رو بردم دکتر برای عمل جراحی، دکتر درخواست دستمزد ۱۵۰ میلیون کرده. من بازنشسته با این حقوق کم، از کجا بیارم؟ بر باعث و بانی‌اش لعنت.\n🔹\nملوان یکی از شرکت‌های کشتیرانی دریای کاسپین (شمال) بودم، پنج ماهه که بیکار شدم و دیگه یه ریال پول توی جیبم ندارم.\n🔹\nما کارگران و بازنشستگان کارخانه قند کرج که منتظر حقوق و سنوات هستیم حتی نتونستیم یک خودکار برای بچه محصل‌هامون بخریم چون ۶ ماهه حقوقی و پولی دریافت نکردیم و حتی بیمه‌ها هم ۶ ماهه قطعه. جرات اعتراض هم نداریم.\n🔹\nدر شرکت ایمن تک پیشرو تو جاجرود کار می‌کنم. حقوق رو قسطی می‌دن. هر وقت اعتراض می‌کنیم تهدید به اخراج می‌کنن. کلی از همکارا استعفا دادن.\n🔹\nاز رشت: مشما فریزر ۶۹۰ هزار تومان. قیمت رو دیدم باورم نشد. پول تقریبا سه روز کار کردن منه.",
+        "date": "2026-09-29T07:35:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_359756_0_7e53c7bd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/359756"
+      },
+      {
+        "id": 359755,
+        "text": "ویدیوی رسیده نشان می‌دهد گروهی از مادران دادخواه در چهارمین سالگرد کشته شدن پویا احمدپور کنار هم جمع شده و در حالی که سرود «ای ایران» در حال پخش است، تصاویر فرزندان جان‌باخته خود را به دست گرفته‌اند.\nپویا احمدپور، نوجوان ۱۶ ساله، ششم مهر ۱۴۰۱ در رشت کشته شد.",
+        "date": "2026-09-29T07:31:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_359755_0_7e53c7bd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_359755_1_61464bdf.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/359755"
+      },
+      {
         "id": 359754,
         "text": "🔻\nکمیتهٔ انضباطی فدراسیون فوتبال شکایت باشگاه پیکان تهران از استقلال بابت استفاده از جلال‌الدین ماشاریپوف، بازیکن ازبکستانی این تیم را رد کرد.\n🔹\nپیکانی‌ها مدعی بودند که ثبت و فعال‌سازی مجدد ماشاریپوف در زمان محرومیت نقل‌وانتقالاتی استقلال و بدون رعایت مقررات مربوط به سهمیهٔ بازیکنان خارجی صورت گرفته است.\n🔹\nبااین‌حال، کمیتهٔ انضباطی با استناد به استعلام سازمان لیگ اعلام کرد قرارداد و کارت بازی این بازیکن پیش از آغاز تاریخ محرومیت استقلال صادر شده است.\n🔹\nاین رأی ظرف مدت ۷ روز پس از ابلاغ، قابل تجدیدنظرخواهی در کمیتهٔ استیناف است.\n@iranintltvsport\n1",
         "date": "2026-09-29T07:21:20+00:00",
@@ -11079,109 +11218,39 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/359639"
-      },
-      {
-        "id": 359638,
-        "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، مزاحمت صوتی تجمع شبانه حکومتی را برای اهالی بومهن نشان می‌دهد.",
-        "date": "2026-09-28T12:02:54+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/359638"
-      },
-      {
-        "id": 359637,
-        "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از دانشجویان علامه در تهران دوشنبه ششم مهر تجمع اعتراضی برگزار کردند و شعارهایی چون «بیکاری بیگاری، حجاب زن اجباری» سردادند.",
-        "date": "2026-09-28T12:01:19+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/359637"
-      },
-      {
-        "id": 359636,
-        "text": "در خیزش «زن، زندگی، آزادی»، کشتار معترضان فقط محدود به خیابان‌ها نبود. نیروهای سرکوب حتی در خانه‌های شخصی و بازداشتگاه‌ها نیز معترضان را به قتل رساندند.\nیکی از این معترضان رامین فاتحی بود که پس از بازداشت به دست نیروهای اداره اطلاعات سپاه پاسداران، زیر شکنجه کشته شد.\nایران‌اینترنشنال با رادا فاتحی، خواهر دادخواه رامین فاتحی، گفت‌وگو کرده است.",
-        "date": "2026-09-28T12:00:17+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/359636"
-      },
-      {
-        "id": 359635,
-        "text": "🗣\nروایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه شش شهریور:\n🔹\nمن دانشجو‌ام برای کارآموزی می‌ریم مراکز درمانی. کارشناسا می‌گن چندماهه حقوقمون رو ندادن و مجبورمون می‌کنن کارآموز بگیریم. برای همین بهمون می‌گن بیکار بشینین یا برگردین خونه، بابت دانشگاه و آموزش پول می‌پردازیم، اما حقوق کارمندا رو نمی‌دن، ما هم هیچی یاد نمی‌گیریم.\n🔹\nعلت اخراج و حقوق نگرفتن کارگران شیشه قزوین، فساد و بدهکاری بزرگ مالیاتی و زد و بند و غارتگری ۳ پسر مالک و سهامدار اصلی و هم‌دستانش (دومین ابر بدهکار بانک ملی و حامی جمهوری اسلامی) است. مشابه فسادشان در سیمان کارون.\n🔹\nاز ماهشهر خوزستان پیام می‌دم. شش روز از برج گذشته شرکت عملیات غیر صنعتی هنوز حقوق‌ها رو نداده.\n🔹\nاز تهران: اوضاع کاسبی خرابه. تقریباً کل چک‌های مشتری‌هامون به دلیل نبود فروش، برگشت می‌خوره. ما به عنوان تولید کننده که مجموعه بزرگی هم داریم، و نزدیک ۶۰ نفر برامون کار می‌کنن، هر روز بیشتر تحت فشار قرار می‌گیریم.\n🔹\nاز کرمانشاه: یه بطری روغن خریدم ۸۰۰ هزار تومان. اونم تازه گفتن قیمت قدیمه.\n🔹\nامروز رفتم ۵ قلم لوازم تحریر بخرم، شد ۶ میلیون. رسما مملکت رو هواست انقدر همه چی روز به روز گرون می‌شه. با این وضعیت، جز خورد خوراک، باید قید خیلی چیزا رو زد.\n🔹\nاز تهران پیام می‌دم. ۵ مهر تو هنرستان ما از بسیج آدم آورده بودن پرچم داده بودن دست بچه‌ها آهنگ‌های دوران جنگ رو پخش می‌کردن.",
-        "date": "2026-09-28T11:56:25+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/359635"
-      },
-      {
-        "id": 359634,
-        "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از دانشجویان علامه در تهران دوشنبه ششم مهر تجمع اعتراضی برگزار کردند.",
-        "date": "2026-09-28T11:55:51+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/359634"
-      },
-      {
-        "id": 359633,
-        "text": "در پی انتشار اخباری مبنی بر بازگشت بیژن مرتصوی به ایران، این خواننده و نوازنده موسیقی پاپ با انتشار ویدیویی از خود در اینستاگرام، اعلام کرد خبر ورود من به ایران کذب است. او ضمن انتقاد از خبرنگاری که این خبر را منتشر کرده، گفت که امیدوارم روزی به ایران بروم.\nپیش‌تر برخی رسانه‌های ایران از جمله خبرگزاری ایسنا، اعلام کرده بودند که بیژن مرتضوی، اوایل هفته وارد ایران شده است.\niranintl.com/202609283653",
-        "date": "2026-09-28T11:45:03+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/359633"
-      },
-      {
-        "id": 359632,
-        "text": "خبرگزاری میزان، رسانه قوه قضاییه، اعلام کرد حمید رسایی با حکم قطعی دادگاه تجدیدنظر ویژه روحانیت به اتهام «نشر اکاذیب به قصد اضرار به غیر» به ۱۰ ماه حبس تعزیری محکوم شده و پنج مهر برای اجرای حکم به بند ویژه روحانیت زندان اوین منتقل شده است.\nقوه قضاییه همچنین اعلام کرد در صورتی که حمید رسایی اقدام موفقی به جلب رضایت شاکی خصوصی خود می‌شد پرونده در دادسرای ویژه روحانیت حوزه قضایی تهران موقوفی تعقیب خورده و بسته می‌شد اما این مهم حاصل نشد و پس از فرآیند رسیدگی طولانی و قانونی حکم او قطعی و اجرا شده است.\nحمید رسایی در پی شکایت محمدباقر قالیباف، رییس مجلس، به ۱۰ ماه حبس تعزیری محکوم شده است.\niranintl.com/202609282260",
-        "date": "2026-09-28T11:32:25+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/359632"
-      },
-      {
-        "id": 359603,
-        "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد خودروهای نظامی یکشنبه پنجم مهر در یکی از هنرستان‌های تهران مستقر شده‌اند و یکی از آنها در سخنرانی خود برای دانش‌آموزان، آنها را تهدید می‌کند که «در مسیر دشمن قرار نگیرید.»",
-        "date": "2026-09-28T08:30:48+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/359603"
-      },
-      {
-        "id": 359602,
-        "text": "براساس گزارش رسانه‌های اسرائیلی، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در سفری مخفیانه با هواپیمای خصوصی به ابوظبی رفت و با محمد بن زاید، رییس امارات متحده عربی، دیدار کرد.\nبنا بر این گزارش، دیدار نتانیاهو و محمد بن زاید چهار ساعت طول کشید. نتانیاهو پیش‌تر نیز در جریان عملیات «غرش شیران» مخفیانه به ابوظبی سفر کرده بود.\nگزارش اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-09-28T08:29:32+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/359602"
-      },
-      {
-        "id": 359601,
-        "text": "در روز نهم بازی‌های آسیایی ناگویا، رامین احمدزاده، نماینده کوراش ایران، در وزن منهای ۸۱ کیلوگرم به مدال نقره رسید.\nدر تنیس روی میز نیز نوشاد عالمیان با صعود به نیمه‌نهایی، مدال برنز این رقابت‌ها را به دست آورد.\nعلیرضا مدیری، خبرنگار ایران‌اینترنشنال گزارش می‌دهد\n@iranintltv",
-        "date": "2026-09-28T08:26:51+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/359601"
       }
     ],
     "ProxyMTProto": [
+      {
+        "id": 51623,
+        "text": "Server:\nUnknown\nPort:\n8443\nSecret:\nEERighJJvXrFGRMCIMjdCQ\n@ProxyMTProto",
+        "date": "2026-09-29T08:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_51623_0_6274e878.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/51623"
+      },
+      {
+        "id": 51622,
+        "text": "Server:\nmax.mishutkin.click\nPort:\n443\nSecret:\nee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d\n@ProxyMTProto",
+        "date": "2026-09-29T07:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_51622_0_6274e878.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/51622"
+      },
       {
         "id": 51621,
         "text": "Server:\nserver.syscloudio.co.uk\nPort:\n8443\nSecret:\nEERighJJvXrFGRMCIMJdCQ\n@ProxyMTProto",
@@ -12241,26 +12310,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/51523"
-      },
-      {
-        "id": 51522,
-        "text": "Server:\nUnknown\nPort:\n4455\nSecret:\ndd104462821249bd7ac519130220c25d09\n@ProxyMTProto",
-        "date": "2026-09-26T05:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/51522"
-      },
-      {
-        "id": 51521,
-        "text": "Server:\nUnknown\nPort:\n443\nSecret:\ndd1924acaec2bb63dac896a6d02a382f38\n@ProxyMTProto",
-        "date": "2026-09-26T04:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/51521"
       }
     ],
     "XpnTeam": [
@@ -22841,21 +22890,21 @@
       }
     ]
   },
-  "last_update": "2026-09-29T07:26:17.710814+00:00",
+  "last_update": "2026-09-29T08:15:14.954398+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1644,
-    "total_media": 1047,
-    "total_files": 1047,
-    "total_links": 279,
+    "total_media": 1068,
+    "total_files": 1068,
+    "total_links": 269,
     "files_by_type": {
-      "image": 905,
-      "video": 121,
+      "image": 922,
+      "video": 125,
       "audio": 21
     },
-    "referenced_files": 1047,
-    "existing_media_files": 1047,
-    "total_size_mb": 473.35,
-    "last_calculation": "2026-09-29T07:26:17.724181+00:00"
+    "referenced_files": 1068,
+    "existing_media_files": 1068,
+    "total_size_mb": 489.16,
+    "last_calculation": "2026-09-29T08:15:14.967636+00:00"
   }
 }
