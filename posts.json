@@ -15352,6 +15352,25 @@
     ],
     "persian_asasins": [
       {
+        "id": 19658,
+        "text": "ترامپ : من بعضی همجنس‌گرا‌هایی را میبینم که فلسطین فلان شعار میدن  ! بیایید آنها را بفرستیم فلسطین ، کاری فلسطینیان با آنها میکنند که دیگر وجود نخواهند داشت\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
+        "date": "2026-10-03T04:12:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "persian_asasins_19658_0_a63ff1a8.jpg"
+          },
+          {
+            "type": "video",
+            "file": "persian_asasins_19658_1_224468fe.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/persian_asasins/19658"
+      },
+      {
         "id": 19657,
         "text": "حالا شیعه عزیز و مادرجنده باز بیا عن و گوه بخور که شیر و خورشید واسه شیعه هست واسه علی بی غیرت هست\nقبول داری بچه شیعه تخمت حرومه؟\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
         "date": "2026-10-02T16:22:03+00:00",
@@ -16406,16 +16425,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/persian_asasins/19527"
-      },
-      {
-        "id": 19526,
-        "text": "دوستان برای بار هزارم\nکسایی که تو خطر اعدام ، مجازات، یا هر چیزی از طرف جمهوری اسلامی هستن حمایت چنلایی مثل من فقط مهر تأیید رو اتهام هایی هست که بهش زدن اینقدر پیوی منو نَگا دوست عزیز چرا پست نمیزاری ازشون\nᴊᴏɪɴ ᴜs\n@persian_asasins\n| پرشین اساسین",
-        "date": "2026-09-20T17:21:06+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/persian_asasins/19526"
       }
     ],
     "yehirani": [
@@ -21921,21 +21930,21 @@
       }
     ]
   },
-  "last_update": "2026-10-03T03:52:22.492638+00:00",
+  "last_update": "2026-10-03T04:25:35.808551+00:00",
   "last_cleanup": null,
   "statistics": {
     "total_posts": 1645,
-    "total_media": 850,
-    "total_files": 850,
+    "total_media": 852,
+    "total_files": 852,
     "total_links": 276,
     "files_by_type": {
-      "image": 718,
-      "video": 113,
+      "image": 719,
+      "video": 114,
       "audio": 19
     },
-    "referenced_files": 850,
-    "existing_media_files": 850,
-    "total_size_mb": 498.14,
-    "last_calculation": "2026-10-03T03:52:22.503595+00:00"
+    "referenced_files": 852,
+    "existing_media_files": 852,
+    "total_size_mb": 499.27,
+    "last_calculation": "2026-10-03T04:25:35.819117+00:00"
   }
 }
